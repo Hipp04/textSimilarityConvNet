@@ -1,3 +1,14 @@
+# Usage Summary
+
+0. Prior to usage, download glove embeddings by running fetch_and preprocess.sh (takes a while)
+
+To prepare a new dataset:
+1. `python scripts/requirements/process_requirements.py` (or other script)
+2. Build the vocabulary `python scripts/build_vocab.py user` (outputs to data/user/vocab-cased.txt)
+
+And finally, run the model
+3. `th runModel.lua` (reads from user/test directory)
+
 # Multi-Perspective Convolutional Neural Networks for Modeling Textual Similarity
 
 This repo contains the Torch implementation of multi-perspective convolutional neural networks for modeling textual similarity, described in the following paper:

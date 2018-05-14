@@ -1,3 +1,8 @@
+##############################################
+# Generates a.toks, b.toks, and id.txt files #
+#   using the requirements.csv dataset.      #
+# ############################################
+
 import csv
 import os
 import re
