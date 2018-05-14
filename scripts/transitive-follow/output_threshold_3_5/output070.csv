@@ -1,0 +1,6 @@
+ID,Similarity,Requirement
+705069,4.6577841172,"Highlight discrepancies between encumbrance, invoice and authorizing documents for non-commodity purchases: Hourly rate for  services (i.e., consulting, contracted personnel services, etc.)."
+705070,4.5611334175,"Highlight discrepancies between encumbrance, invoice and authorizing documents for non-commodity purchases: Deliverables."
+705071,4.8237948368,"Highlight discrepancies between encumbrance, invoice and authorizing documents for non-commodity purchases: Terms of  contract."
+705094,3.5099635842,"Provide automatic inclusion of credits and penalties within invoices for late delivery, untimely warranty service, and other  predefined violations of contract terms and conditions."
+705060,3.537137058,Automatically calculate invoice due date based on invoice date or a user-specified date (such as 30 days from the date of  receipt) and payment terms and schedules optimum payment date based on that calculation.

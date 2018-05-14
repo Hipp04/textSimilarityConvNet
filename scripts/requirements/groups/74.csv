@@ -1,0 +1,9 @@
+"Section:FIN-General Ledger, Interfund / Interagency Journal Vouchers (8 Reqs)"
+707540,Medium,,Provide all the functionality specified for the journal entry requirements for inter/intra-fund and inter/intra-agency vouchers.
+707541,Medium,,"Provide the ability to enter journal entries for multiple agencies and funds under one journal header, with appropriate security."
+707542,Medium,,Provide the ability to create an encumbrance for estimated costs for interagency/interfund work to be provided.
+707543,Medium,,Provide ability to route created interagency/interfund vouchers to a user-specified approval structure for review and either  approval or rejection. Transaction will not commit until it is approved.
+707544,Medium,,"Provide ability to send a user-specified notification (e.g., email), if the interagency/interfund vouchers are rejected or a specified  period of time lapses."
+707545,Medium,,"Provide ability for an interagency/interfund voucher (IV) to reference a previously established encumbrance. After the IV  transaction is posted, the referenced encumbrance document should automatically liquidate."
+707546,Medium,,Restricts inter-fund postings based upon security.
+707547,Medium,,"Flag an inter-agency voucher ""in dispute"" and allow user-defined workflow rules to resolve dispute."

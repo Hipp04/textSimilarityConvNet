@@ -1,0 +1,55 @@
+"Section:HRP-Payroll, Pay Calculations (54 Reqs)"
+710878,Medium,,"Generate base rate calculations using salary schedules, hourly rates, per unit, per diem, etc."
+710879,Medium,,"Calculate additional pay such as flat rate (shift premium, weekend premium), flat amount (maintenance), % of base salary, % of  the midpoint of the salary grade, % of hourly rate (overtime), skills and certifications, etc."
+710880,Medium,,"Track and maintain Hourly, Salaried, or Per Diem pay types. Hourly Rates should be maintained with 4 decimal positions."
+710881,High,,Process West Virginia National Guard members while on State Active Duty (SAD) status.
+710882,Medium,,"Compensate National Guard members based on a daily state rates for pay and per diem, which are the equivalent of the what  they would earn while on federal active duty."
+710883,Medium,,Process SAD entitlements based on: base pay.
+710884,Medium,,Process SAD entitlements based on: travel reimbursement.
+710885,Medium,,Process SAD entitlements based on: per diem.
+710886,Medium,,Process SAD entitlements based on: special duty pay (air guard only).
+710887,Medium,,"Relate tax types to pay types for SAD entitlements, for example: non-emergency base pay (FIT, SIT, FICA, State, no local tax)."
+710888,Medium,,"Relate tax types to pay types for SAD entitlements, for example: emergency base pay (FIT, SIT only, no local tax)."
+710889,Medium,,"Relate tax types to pay types for SAD entitlements, for example: per diem allowance (not taxable)."
+710890,Medium,,"Relate tax types to pay types for SAD entitlements, for example: non-emergency hazard pay (FIT, SIT, FICA, State, no local tax)."
+710891,Medium,,"Relate tax types to pay types for SAD entitlements, for example: travel Reimbursement."
+710892,Medium,,"Relate tax types to pay types for SAD entitlements, for example: emergency hazard pay (FIT, SIT only, no local tax)."
+710893,Medium,,Configurable rounding routines such that rounding down on when salary divided by number of pay cycles and pay surplus  accounted for in final payroll cycle of the year.
+710894,High,,"Assign up to 1,000 additional pay types to an individual employee (for current pay period only or on an ongoing basis consistent  with type of pay rules)."
+710895,Medium,,"Automatically calculate step, grade, increment, percentage increase amounts for employees based on user-defined caps and  other criteria, with prior agency approval."
+710896,Medium,,Generate step or grade increases at varying time intervals based on user-defined parameters/range adjustments.
+710897,Medium,,"Automatically calculate salary when personnel actions change compensation (promotions, demotions, etc.)."
+710898,High,,"Allow one employee to have multiple pay types during any pay period (hours worked, vacation, sick leave, etc.)."
+710899,Medium,,Allow one employee to be paid in more than one position during a pay period.
+710900,Medium,,Calculate pay for employees that transfer during a pay period to include: pay based on hours in pay status within each  appointment.
+710901,Medium,,Calculate pay for employees that transfer during a pay period to include: benefit costs determined by user-defined selection.
+710902,Medium,,Calculate pay for employees that transfer during a pay period to include: leave accruals and eligibility determined by user-defined  selection.
+710903,Medium,,Calculate pay for employees that transfer during a pay period to include: other labor related costs to account distribution codes  and/or agencies based on user-defined parameters for charging.
+710904,Medium,,Calculate pay for employees that transfer during a pay period to include: the ability to pay employee based on unique pay  policies within the pay cycle (number of days in pay cycle - whole days vs. 1/2 days).
+710905,Medium,,"Calculate leave payments in accordance with rules and methods specified (separate checks, tax method)."
+710906,Medium,,"Calculate/verify overtime consistent with FLSA rules and contracts, with override capabilities for: overtime calculations over more  than one position."
+710907,Medium,,"Calculate/verify overtime consistent with FLSA rules and contracts, with override capabilities for: overtime across multiple  organizational units."
+710908,Medium,,"Calculate/verify overtime consistent with FLSA rules and contracts, with override capabilities for: overtime that is recorded on  multiple timesheets."
+710909,Medium,,"Calculate/verify overtime consistent with FLSA rules and contracts, with override capabilities for: overtime calculations for various  user-defined thresholds (40 hour week or 80 hour period)."
+710910,Medium,,"Calculate/verify overtime consistent with FLSA rules and contracts, with override capabilities for: overtime determination by job  class."
+710911,Medium,,"Calculate/verify overtime consistent with FLSA rules and contracts, with override capabilities for: overtime that may be  accumulated as comp time earned straight hour for hour, earned at a time and a half status (1.50 earned for each hour worked)  or paid at a 1.50 status (hour for hour paid at 1.50 the regular pay rate)."
+710912,Medium,,"Calculate/verify overtime consistent with FLSA rules and contracts, with override capabilities for: user-specified rate."
+710913,Medium,,"Calculate/verify overtime consistent with FLSA rules and contracts, with override capabilities for: recognize differences between  FLSA time periods and pay periods / work schedules."
+710914,Medium,,"Track ""straight rate equivalent"" overtime totals per employee by fiscal or calendar year."
+710915,Medium,,"Automatically change overtime types for certain class codes or individuals based on payroll defined ""straight rate equivalent""  amounts or total overtime amounts (time and a half to double time)."
+710916,Medium,,Track overtime comp earned by different work activity codes. Comp earned activities can be cashed out based on user-defined  comp rules.
+710917,Medium,,"Payroll capability to set and change payroll rules on an ongoing basis for user-defined periods that are implemented at the  organization unit, job class, or individual employee appointment to include: change in overtime type to one or more types,  different than default, that employee may then choose from (comp time vs. payment)."
+710918,Medium,,"Payroll capability to set and change payroll rules on an ongoing basis for user-defined periods that are implemented at the  organization unit, job class, or individual employee appointment to include: an override of automatic calculations for employees  for weekend/shift differential and holiday pay."
+710919,Medium,,"Payroll capability to set and change payroll rules on an ongoing basis for user-defined periods that are implemented at the  organization unit, job class, or individual employee appointment to include: an override of automatic calculations for employees  with overtime."
+710920,Medium,,"Payroll capability to set and change payroll rules on an ongoing basis for user-defined periods that are implemented at the  organization unit, job class, or individual employee appointment to include: a change in holiday compensation type (comp time  vs. payment)."
+710921,Medium,,Determine how overtime has been earned by account distribution codes to allow for proper cost accounting.
+710922,Medium,,"Use the IRS allocation method for ""directly tipped employees"" reporting tips less than 8 percent of net monthly receipts."
+710923,Medium,,Calculate shortfall wages if their combined hourly wages plus tips are less than the federal minimum hourly wage for the payroll  period.
+710924,Medium,,Generate orders for employers of West Virginia National Guard members while on State Active Duty (SAD) status.
+710925,Medium,,Track the federal active duty military rank rate. This computation for the daily rate is also used for each of the pay types listed  above.
+710926,Medium,,"Track executive orders designated as emergency (natural disasters) or non-emergency (funerals, parades, games) and missions  linked to those orders. Missions data includes name, id number, point of contact, location (county), disaster survey report  (FEMA), and one or more unit codes. National Guard members are assigned to the units."
+710927,Medium,,Process scheduled and other pay actions (pay at a different level in the salary schedules based on eligibility).
+710928,Medium,,"Allow a position to be designated as primary, or by % of each position assignment, for determining benefit, leave, OT, and other  calculation or allocations, when more than one position is used for a pay period."
+710929,Low,,Allow an employee to designate cash out of accumulated comp time when comp time maximums are reached based on a user- specified formula.
+710930,Medium,,Allow an employee to designate cash out of accumulated sick time based on a user-specified formula.
+710931,Medium,,Pay expense allowances on a user defined basis and based on the actual number of days worked for partial months which are  added to the taxable wage base.

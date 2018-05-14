@@ -1,0 +1,22 @@
+"Section:FIN-FHWA Billing, Participation Agreements (21 Reqs)"
+707275,Medium,,"Support the recording of receivables from external entities. Note: External entities other than FHWA (other Federal or State  agencies, property owners, and other 3rd parties) often participate in paying for a project. These external entities are often billed  in order for reimbursement. ."
+707276,High,,Supports unbilled costs in a pool for potential future billing .
+707277,High,,Capture and maintain participation agreement financial data such as: Agreement number.
+707278,High,,"Capture and maintain participation agreement financial data such as: Receivable offset account (revenue, expenditure reduction)."
+707279,High,,Capture and maintain participation agreement financial data such as: Agreement start date.
+707280,High,,Capture and maintain participation agreement financial data such as: Agreement end date.
+707281,High,,Capture and maintain participation agreement financial data such as: Agreement budget.
+707282,High,,Capture and maintain participation agreement financial data such as: Agreement billing cycle.
+707283,High,,Capture and maintain participation agreement financial data such as: Billing detail.
+707284,High,,Capture and maintain participation agreement financial data such as: Overhead rates- set rate.
+707285,High,,Capture and maintain participation agreement financial data such as: Overhead rate - negotiated rate.
+707286,High,,Capture and maintain participation agreement financial data such as: Overhead rate- standard rate.
+707287,High,,Capture and maintain participation agreement financial data such as: Sales tax indicator.
+707288,High,,Capture and maintain participation agreement financial data such as: CFDA number.
+707289,High,,Capture and maintain participation agreement financial data such as: All chart of accounts elements.
+707290,High,,Capture and maintain participation agreement financial data such as: Payment terms for invoices paid against agreement.
+707291,High,,Capture and maintain participation agreement financial data such as: User defined fields.
+707292,High,,"Provide the ability to collect the cost to be billed to the external entity to a project, work order, cost center, or any chart of account  element."
+707293,High,,Transfer related cost collected on a project/activity(work order or cost center) to an accounts receivable for billing and collection  purposes.
+707294,High,,Capture and present total project cost as supporting detail for customer invoice (for example state and federal funds expended  on project).
+707295,Medium,,"Permit billing on established rates or fees rather than cost recorded in the related cost centers (e.g., work orders) by establishing  fee/rate schedules and calculating bills using those fees or rates."

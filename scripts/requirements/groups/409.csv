@@ -1,0 +1,7 @@
+"Section:PL-Transportation Asset Inventory, Salvage Yards (6 Reqs)"
+717317,Medium,,Maintain an inventory of salvage yards.
+717318,Medium,,Store owner/licensee.
+717319,Medium,,Store permit number.
+717320,Medium,,Store permit issued date.
+717321,Medium,,Store permit expiration date.
+717322,Medium,,Integrate with ERP accounts receivable to manage billing and collection of required salvage yard licensing fees.

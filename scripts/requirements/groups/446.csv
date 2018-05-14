@@ -1,0 +1,19 @@
+"Section:PL-Transportation Operations Management, Contract Resources (18 Reqs)"
+717830,Medium,,Integrate with the ERP procurement function to obtain information about contractors performing maintenance work.
+717831,Medium,,Maintain a database of contractor information as it pertains to transportation operations management.
+717832,Medium,,Store and display vendor number.
+717833,Medium,,Store and display company name.
+717834,Medium,,Store and display address.
+717835,Medium,,Store and display contact person and phone number.
+717836,Medium,,Store and display contractor's license number.
+717837,Medium,,Store and display contractor's usual and customary type of work.
+717838,Medium,,Store and display any company certifications and/or certificates held by key employees.
+717839,Medium,,Store and display contract history by contract number and description.
+717840,Medium,,Store and display purchase order history by purchase order number and description.
+717841,Medium,,Store and display cost and quantity of all bid items on each purchase order.
+717842,Medium,,Store and display insurance information.
+717843,Medium,,"Store and display work order history including work order, start/stop dates, district, maintenance unit and maintenance activities  performed."
+717844,Medium,,Enter and track contractor performance evaluation for work performed where it can be tied to a specific work order.
+717845,Medium,,"Allow authorized users to track and display active maintenance contracts (yearly and as needed contracts), such as mowing,  litter removal, sweeping, janitorial, etc."
+717846,Medium,,Allow authorized users to track and display contractors by skills or available equipment etc. This must include lists of emergency  equipment sources not on contract who may or may not have previously been a vendor to the State.
+717847,Medium,,Allow the authorized users for the contract and non contract source list to be defined by specific activity/commodity level.

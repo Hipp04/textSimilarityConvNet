@@ -1,0 +1,16 @@
+"Section:PL-Transportation Asset Inventory, Rail (15 Reqs)"
+717387,Medium,,Capture and track rail assets owned and/or operated by the State Rail Authority and the Division of Natural Resources.
+717388,Medium,,Store tracks.
+717389,Medium,,Store railbed.
+717390,Medium,,Store rail switches.
+717391,Medium,,Store rail signals.
+717392,Medium,,Store rail crossings/crossovers.
+717393,Medium,,Store rail bridges.
+717394,Medium,,Store rail tunnels.
+717395,Medium,,Store stations.
+717396,Medium,,Store rail banks.
+717397,Medium,,"Identify and store Class 1 operational routes including operator, service characteristics, freight volumes and types of freight  carried."
+717398,Medium,,"Identify and store Class 2 operational routes including operator, service characteristics, freight volumes and types of freight  carried."
+717399,Medium,,"Identify and store Class 3 operational routes including operator, service characteristics, freight volumes and types of freight  carried."
+717400,Medium,,Identify and store MARC passenger service route including service frequencies and ridership data.
+717401,Medium,,"Identify and store excursion routes owned and/or operated on track owned by the State Rail Authority (Durbin and Greenbrier  Valley Scenic Railroad, Potomac Eagle Scenic Railroad) and the Division of Natural Resources (Cass Scenic Railroad) including  service frequencies and ridership data."

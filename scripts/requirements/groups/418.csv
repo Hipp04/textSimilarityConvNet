@@ -1,0 +1,34 @@
+"Section:PL-Transportation Asset Inventory, Crash History (33 Reqs)"
+717409,High,,Integrate with and link to the ERP safety management function and the Crash Reporting System to obtain crash history  information.
+717410,High,,"Allow an authorized user to inquire on, display and view crash history information related to an asset."
+717411,High,,Store crash report number. Needed for integration with other data but must not be displayed to users.
+717412,High,,Display crash date.
+717413,High,,Display crash time.
+717414,High,,"Display county; however, statewide or systemwide selection must not be allowed on this variable."
+717415,High,,Display route.
+717416,High,,Display milepost.
+717417,High,,"Display highway class; however, statewide or systemwide selection must not be allowed on this variable."
+717418,High,,Display manner of collision.
+717419,High,,Display whether or not there was a fatality.
+717420,High,,Display weather conditions.
+717421,High,,Display light conditions.
+717422,High,,Display roadway conditions.
+717423,High,,Display whether or not the crash was in a construction or work zone.
+717424,High,,Display whether animals were involved and what animal.
+717425,High,,Display direction of travel prior to the crash.
+717426,High,,Display number of vehicles involved.
+717427,High,,"Display vehicle types involved (non specific, just plate class and body style)."
+717428,High,,Display number of occupants in each vehicle.
+717429,High,,Display whether any of the vehicles was a commercial motor vehicle.
+717430,High,,Driver and occupant injury severity.
+717431,High,,Display number and type of non motorists involved and injury severity.
+717432,High,,"Display a summary of first harmful event, sequence of events and most harmful event in one field."
+717433,High,,Display motor vehicle maneuver/action. (for each motor vehicle involved).
+717434,High,,Display areas of impact (for each motor vehicle involved).
+717435,High,,Display contributing roadway and environmental circumstances only (multiple).
+717436,High,,Display traffic control device type if any.
+717437,High,,Display any roadside features involved in the crash.
+717438,High,,Display whether or not there was damage to an asset.
+717439,High,,Display assets damaged in the crash (multiple).
+717440,High,,Provide ability for an authorized user to link to and drill down to additional information about a crash available within the ERP  safety management function and the Crash Reporting System.
+717441,Medium,,Support tracking of DOT or public crashes in work zones linking DOT accidents to accident history in fleet management.

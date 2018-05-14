@@ -1,0 +1,4 @@
+"Section:SW-General and Technical, Audit Trails (3 Reqs)"
+718270,High,,Provide audit trails that log user actions and can be viewed online or printed by the system administrator or other authorized  users.
+718271,High,,"Audit all additions, changes or deletions to system records including recording the user or interface program making the  modification and the date and time the record was modified."
+718272,High,,"Provide an audit trail for each interface program which shows: user, agency user or program initiating an interface, the date and  time of interface execution and the interface completion status (Completed, Completed with Errors, Cancelled, Ended with Error)."

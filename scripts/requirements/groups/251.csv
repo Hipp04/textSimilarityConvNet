@@ -1,0 +1,6 @@
+"Section:PL-Fleet Management, Repair History (5 Reqs)"
+714186,Medium,,Maintain repair histories for both internal agency and vendor repairs.
+714187,Medium,,"Track and report costs (work and parts) for scheduled, unscheduled, road calls and accident maintenance."
+714188,Medium,,Provide ability to quickly reference complete equipment repair history without generating a report.
+714189,Medium,,"Provide ability to search and query repair history by a number of user-defined parameters including fleet class, fleet type,  manufacturer, fleet unit number, maintenance shop, repair date range, etc."
+714190,Medium,,"Allow for transfer of fleet/equipment unit between agencies, while retaining repair, fuel and preventive maintenance histories for a  user definable time period at the enterprise or agency level."

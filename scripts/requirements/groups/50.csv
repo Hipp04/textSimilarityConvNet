@@ -1,0 +1,28 @@
+"Section:FIN-Cost Accounting, Labor Distribution (27 Reqs)"
+706931,Medium,,Allows for allocations to: Fund.
+706932,Medium,,Allows for allocations to: Appropriation.
+706933,Medium,,Allows for allocations to: Organization Number.
+706934,Medium,,Allows for allocations to: Program.
+706935,Medium,,Allows for allocations to: General Ledger Account.
+706936,Medium,,Allows for allocations to: Object.
+706937,Medium,,Allows for allocations to: Revenue Source.
+706938,Medium,,Allows for allocations to: Project.
+706939,Medium,,Allows for allocations to: Grant.
+706940,Medium,,Allows for allocations to: Date Worked.
+706941,Medium,,"Allows for allocations to: Function Code (i.e., administration, supportive services, etc.)."
+706942,Medium,,"Allows for allocations to: Budget Code (i.e., Fiscal Operations)."
+706943,Medium,,Allows for allocations to: User-defined level.
+706944,Medium,,"Integrates with Time and Attendance function in the Human Resources module to identify combinations of budget accounts,  projects, grants, programs, funds, and other State-designated structures to which time was charged and the number of hours  charged to each per automated employee timesheets."
+706945,Medium,,"Integrate with the Personnel/Payroll module to extract actual payroll costs and codes (including Earnings and Bonus Codes) by  employee, cost center or position number."
+706946,Medium,,Allows for the use of year-to-date information by employee for use in projection of remaining fiscal year costs.
+706947,Medium,,Allows users to define specific payroll-related costs to be considered in distribution process.
+706948,Medium,,Retrieve labor cost distribution transactions for audit and reconciliation purposes.
+706949,Medium,,Maintain transaction level detail on line for a minimum of three years.
+706950,Medium,,Provide a mechanism to make mass correction/updates to groups of transactions selected by key fields while maintaining an  audit trail.
+706951,Medium,,Support a labor distribution process based on random moment time study results or prior history data.
+706952,Medium,,Allow distribution of employer-paid benefits and costs of paid leave taken (release time) and the hours associated with each cost.  This distribution should be consistent with the accounting distribution of the employee earnings.
+706953,Medium,,"Account for and distribute agency-defined non-labor costs based on hours worked (i.e., inmate labor, volunteers) and should  process appropriate transactions (i.e., job costing, general ledger, journal, etc)."
+706954,Medium,,Support distributing costs based upon time reported in quarter hour increments.
+706955,Medium,,"Allows timekeeper to include non work hours in the bases to allocate, or not include the non work hours in the base to allocate.  (e.g., holiday pay could be allocated to home base or the holiday hours could be allocated based on time worked the remainder  of pay period)."
+706956,Medium,,Provide multiple standard labor distribution reports.
+706957,Medium,,"Provide multiple standard labor distribution reports for user defined time periods (i.e., state fiscal year, federal fiscal year, grant  period)."

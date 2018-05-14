@@ -1,0 +1,76 @@
+"Section:FIN-Asset Management, Query and Reporting (75 Reqs)"
+706011,Medium,,Report on assets for all fields required for financial reporting purposes.
+706012,Medium,,Generate standard governmental fixed asset reports and user-defined fixed asset reports in compliance with GASB 34.
+706013,Medium,,Provide ability to generate a fixed assets report sorted and filtered by one or more user-defined criteria.
+706014,Medium,,Allow online inquiry for each asset of a group of assets.
+706015,Medium,,"Allow users to print a listing of all table structures that are established for asset management (e.g., location table, asset  categories, etc.)."
+706016,Medium,,Display or print subsidiary ledgers of fixed asset balances.
+706017,Medium,,"Display or print a report of surplus property, including each item's history."
+706018,Medium,,"Produce a transaction register audit trail of all acquisitions, transfers, change and retirements during a user-defined time period  by asset type, department, transaction date or purchase amount."
+706019,Medium,,Provide ability to report asset transfers from the perspective of lessor to lessee or lessee to lessor.
+706020,Medium,,Report a total amount of fixed asset purchases by their funding source and department/organization.
+706021,Medium,,"Report assets due for disposition, based on the scheduled disposal date and type."
+706022,Medium,,Generate a vendor/PO listing of assets by vendor or in purchase order number sequence.
+706023,Medium,,Produce a disposition report showing items by asset type that have physically been disposed of but still remain on file for  information purposes.
+706024,Medium,,Produce a listing of all inactive/idle or retired assets by location and asset category.
+706025,Medium,,Produce a listing of all disposed assets showing any gains or losses and the associated account coding by type.
+706026,Medium,,Provide ability to report and inquire on replacement costs by department or organization unit and by asset type.
+706027,Medium,,"Provide ability to produce a forecast of assets scheduled for replacement, based on user-specified criteria, such as useful life,  scheduled disposition date, or odometer readings."
+706028,Medium,,"Provide ability to produce depreciation reports by multiple levels (e.g., All Chart of Account Elements, product line, responsibility  area, etc.)."
+706029,Medium,,"Produce a depreciation report by balance sheet category, such as buildings and equipment."
+706030,Medium,,"Produce an asset report on fields, including but not limited to the following: Financial statement category (major asset type code)."
+706031,Medium,,"Produce an asset report on fields, including but not limited to the following: Major and Minor Use Code."
+706032,Medium,,"Produce an asset report on fields, including but not limited to the following: Minor asset type code."
+706033,Medium,,"Produce an asset report on fields, including but not limited to the following: Fund."
+706034,Medium,,"Produce an asset report on fields, including but not limited to the following: Agency/Department."
+706035,Medium,,"Produce an asset report on fields, including but not limited to the following: Organization (Allotment, Division, Cost Center)."
+706036,Medium,,"Produce an asset report on fields, including but not limited to the following: Program."
+706037,Medium,,"Produce an asset report on fields, including but not limited to the following: Appropriation."
+706038,Medium,,"Produce an asset report on fields, including but not limited to the following: Location."
+706039,Medium,,"Produce an asset report on fields, including but not limited to the following: Project."
+706040,Medium,,"Produce an asset report on fields, including but not limited to the following: Expenditure object (based on original purchase)."
+706041,Medium,,"Produce an asset report on fields, including but not limited to the following: Source of Revenue."
+706042,Medium,,"Produce an asset report on fields, including but not limited to the following: General Ledger Account."
+706043,Medium,,"Produce an asset report on fields, including but not limited to the following: Grant."
+706044,Medium,,"Produce an asset report on fields, including but not limited to the following: Manufacturer."
+706045,Medium,,"Produce an asset report on fields, including but not limited to the following: User ID."
+706046,Medium,,"Produce an asset report on fields, including but not limited to the following: Tag Number."
+706047,Medium,,"Produce an asset report on fields, including but not limited to the following: Serial Number."
+706048,Medium,,"Produce an asset report on fields, including but not limited to the following: Custodian."
+706049,Medium,,"Produce an asset report on fields, including but not limited to the following: GAAP Fund."
+706050,Medium,,"Produce an asset report on fields, including but not limited to the following: Fiscal Year."
+706051,Medium,,"Produce an asset report on fields, including but not limited to the following: Fiscal Month."
+706052,Medium,,"Produce a physical inventory worksheet to be sorted, grouped and aggregated based on user defined criteria to assist in  conducting physical inventory."
+706053,Medium,,Report of all property changes as of a user specified date.
+706054,Medium,,Generate a property insurance schedule that displays the property value and associated insurance amount.
+706055,Medium,,Generate a square footage by occupancy report.
+706056,Medium,,Report the disposition of property by user defined period.
+706057,Medium,,Report the transfer of property by user defined period.
+706058,Medium,,"Print reports at various remote locations, based on user security and with appropriate clearances)."
+706059,Medium,,Report all fixed asset balances in the standard CAFR format. With all notes and supporting schedules. (Such as by GAAP Fund).
+706060,Medium,,Generate a report for assets purchased with grant funding by year.
+706061,Medium,,"Generate a report that forecasts depreciation by individual asset, groups of assets, or total assets for a user-specified period of  time."
+706062,Medium,,Identify and sort assets ordered and received by organizational unit.
+706063,Medium,,"Generate reports for all items assigned to a specific location by asset classification and by individual. (e.g., portable equipment  and fixed assets)."
+706064,Medium,,"Report acquired, disposed and active assets purchased based on funds by user defined period."
+706065,Medium,,Capture/report the parent/child relationships of an asset and their location.
+706066,Medium,,Generate exception reports as defined by users.
+706067,Medium,,Report on individual assets.
+706068,Medium,,Maintain an audit record of any and all changes to assets by User ID and date-time stamp.
+706069,Medium,,"Report on building contents and values, including, but not limited to the following: Appropriation Structure (currently combination  of Agency, Division, Agency Fund, Budget Fiscal Year, and Budget Unit)."
+706070,Medium,,"Report on building contents and values, including, but not limited to the following: Location."
+706071,Medium,,"Report on building contents and values, including, but not limited to the following: Project Structure."
+706072,Medium,,"Report on building contents and values, including, but not limited to the following: Expenditure / Revenue sub-object."
+706073,Medium,,"Report on building contents and values, including, but not limited to the following: General Ledger Account."
+706074,Medium,,"Report on building contents and values, including, but not limited to the following: Grant Structure."
+706075,Medium,,"Report on building contents and values, including, but not limited to the following: Manufacturer."
+706076,Medium,,Produce a summary report that displays current and previous building and content values combined totals.
+706077,Medium,,Report Statement of Fixed Assets in standard CAFR format.
+706078,Medium,,Generate a report for assets purchased with grant funding.
+706079,Medium,,Generate a report/form by employee detailing property assigned to each employee to be used for validation and verification of  property assignment.
+706080,Medium,,Track assets using agency-specified codes with the ability to roll up to the state level.
+706081,Medium,,Generate reports based on user-defined criteria related to building leases.
+706082,Medium,,Create reports based on the age of assets.
+706083,Medium,,Provide a schedule of assets grouped by function and/or departments.
+706084,Medium,,"Support all queries and reports as flat file portable (e.g., tab delimited, fixed width and signed fields) with fully documented query  or report definition and criteria."
+706085,Medium,,Ability to produce Federal Asset Reports (e.g. 3040 report).

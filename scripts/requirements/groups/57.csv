@@ -1,0 +1,30 @@
+"Section:FIN-Debt Management, Special Obligation Notes (29 Reqs)"
+707212,Medium,,Record Special Obligation Notes (e.g. Certificate of Participation) by date issued and original amount.
+707213,Medium,,Track Special Obligation Note activity including: Proceeds invested.
+707214,Medium,,Track Special Obligation Note activity including: Expenditures.
+707215,Medium,,Track Special Obligation Note activity including: Repayments.
+707216,Medium,,Track Special Obligation Notes by issuing authority.
+707217,High,,Track individual note maturities using the 9 character CUSIP number.
+707218,Medium,,Allocate interest income to participating funds.
+707219,Medium,,Allocate unrealized gain to participating funds based on average daily cash balance.
+707220,Medium,,Split investments into short and long term -- this will more appropriately distribute investment income.
+707221,Medium,,"Apply expenditures and proceeds on the same basis that the rebate calculation rules are applied 6 months, 12 months, and 18  months would be more beneficial to the State."
+707222,Medium,,Establish special obligation spending business rules (e.g. 75% of proceeds must be spent on construction projects).
+707223,Medium,,Provide ability to record special obligation note purpose and description.
+707224,Medium,,Provide ability to record Arbitrage Investment Account for each special obligation fund.
+707225,High,,Provide ability to make retro-active adjustments to distributions for up to 18 months.
+707226,Medium,,Sale of Fixed Assets proceeds need to be tracked to the original special obligation note.
+707227,Medium,,Track special obligation note issuance costs.
+707228,Medium,,Capture and record trustee fees by special obligation note.
+707229,Medium,,Amortize discounts and premiums over the life of the note.
+707230,Medium,,Record note premiums as an offset to interest expense.
+707231,Medium,,Identify projects funded by special obligation notes.
+707232,Medium,,For each special obligation note track Continuing Disclosure Agreements to include: Responsible Party.
+707233,Medium,,For each special obligation note track Continuing Disclosure Agreements to include: Continuing Disclosure Agreements  completed (yes or no).
+707234,Medium,,For each special obligation note track Continuing Disclosure Agreements to include: Material Event Notice.
+707235,Medium,,Identify notes that have been defeased along with the Trustee's: Name.
+707236,Medium,,Identify notes that have been defeased along with the Trustee's: Address.
+707237,Medium,,Identify notes that have been defeased along with the Trustee's: Contact Name.
+707238,Medium,,Identify notes that have been defeased along with the Trustee's: Contact Phone Number.
+707239,Medium,,Identify notes that have been defeased along with the Trustee's: Contact email address.
+707240,Medium,,Identify notes that have been defeased along with the Trustee's: Date Defeased.

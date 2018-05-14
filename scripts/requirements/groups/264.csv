@@ -1,0 +1,21 @@
+"Section:PL-Inventory Management, Reordering (20 Reqs)"
+714572,Medium,,"Provide an option for an automatic reorder process for stock items, including electronic request and approval."
+714573,High,,Provide reorder-point calculation.
+714574,Medium,,Track item usage and has the option to generate reorders automatically based on item usage and/or defined ordering schedules  with an approval.
+714575,High,,Supports a different reorder point by location or by agency.
+714576,High,,Reorder point calculation includes consideration of reservation amounts and pending orders.
+714577,High,,Route reorder list by workflow for review and approval by user defined business rules.
+714578,Medium,,Provide the ability to have automatic notification of re-order points.
+714579,Medium,,"Provide the ability to define, by item, the variables used in determining reorder points and reorder quantities."
+714580,Medium,,Provide the ability for an option to generate requisitions for specific commodities or items by user-defined re-order levels.
+714581,High,,Support reordering process taking into account on-hand and on-order amounts along with receipts.
+714582,High,,Support reordering process taking into account shelf-life.
+714583,High,,Provide the ability to generate an online list of commodities to reorder and be able to select items from this list to process into  one of the following documents: Requisition.
+714584,High,,Provide the ability to generate an online list of commodities to reorder and be able to select items from this list to process into  one of the following documents: Blanket Purchase Order Release.
+714585,High,,Provide the ability to generate an online list of commodities to reorder and be able to select items from this list to process into  one of the following documents: Direct Purchase Order.
+714586,High,,Provide the ability to generate an online list of commodities to reorder and be able to select items from this list to process into  one of the following documents: Transfer from internal central warehouse.
+714587,High,,Allow for manual overrides of reorder points and reorder quantities.
+714588,High,,Provide the ability to automatically update inventory on-order information at the time that a requisition is created.
+714589,Medium,,Provide the ability to automatically notify the appropriate person at user-defined number of days prior to an upcoming expiration.
+714590,High,,Allow each warehouse location to automatically generate a reorder either to procurement or the central warehouse on item-byitem  basis.
+714591,High,,"Provide the ability if an asset status (disposed, added, etc.) is changed, the associated inventory is flagged and notification is  given that associated inventory re-order quantity should be reviewed."

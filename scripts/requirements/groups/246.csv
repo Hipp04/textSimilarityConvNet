@@ -1,0 +1,17 @@
+"Section:PL-Fleet Management, Preventive Maintenance (16 Reqs)"
+714075,High,,Track and identify fleet/equipment units and major components due for preventative maintenance (PM).
+714076,High,,Generate a listing of fleet and equipment units and components that are due for maintenance based on user defined parameters.
+714077,High,,"Notify electronically designated agency contacts, including the fleet/equipment unit operator and operator's supervisor, when the  fleet unit or major components are due or past due for preventative maintenance."
+714078,High,,"Notify electronically designated agency contacts, including the fleet/equipment unit operator and operator's supervisor, when the  fleet unit or major components is under a factory recall."
+714079,Medium,,"Display trend analysis (agency, employee, fleet/ equipment type) in regards to timeliness in response to scheduled PM's."
+714080,High,,Schedule automatically preventative maintenance procedures for fleet and equipment units and components.
+714081,High,,"Provide an option for hierarchical scheduling of PMs. For instance, if an A, B, C methodology is used, when a C is done it is  assumed an A and B have been done and automatically reschedules all three."
+714082,Low,,"Provide the capability to adjust for early, late hierarchically scheduled preventative maintenance services."
+714083,Medium,,"Generate a maintenance due list (State inspection, emissions, and technical service bulletin) by agency, unit with agency and  date."
+714084,Medium,,Track inspections and emissions testing that is due and generate a report of test due within a user defined period of time.
+714085,Low,,Notify via e-mail or SMS appropriate individuals responsible for State inspections and emission inspections.
+714086,Medium,,Update automatically the next maintenance due date without any manual intervention based upon user-specified maintenance  frequency.
+714087,Medium,,"Notify fleet/equipment unit operator, and operator's supervisor of next maintenance due date."
+714088,Medium,,Schedule and track maintenance on multiple vehicle components.
+714089,Medium,,"Provide individual maintenance scheduling for each equipment component so that differences due to age, usage and  manufacturer are accounted for."
+714090,Medium,,Provide the capability to schedule unlimited maintenance activities per fleet or equipment unit.

@@ -1,0 +1,13 @@
+"Section:PL-Facilities Management, Facility Reservations (12 Reqs)"
+713835,Medium,,"Provide the ability for an agency to record, track and manage reservations for a facility or one or more sub-facilities."
+713836,Medium,,"Capture multiple rental rates for each facility based on day of week and/or time of day (weekday, evening, weekend, etc.)."
+713837,Medium,,Provide a facilities booking request form which captures the individual(s) or organization requesting to book the facility; the  date/time requested; an alternate date/time; the intended use; contact information for the requesting organization including  primary and secondary contact; address; phone number and email; insurance information and several other user definable fields.
+713838,Medium,,Provide an Internet based capability for individuals or organizations outside of State government to utilize to submit the facilities  reservation request.
+713839,Medium,,Allow this facility request capability to be linked to and integrated with various agency web sites to promote agency branding and  facilitate public and employee access to the reporting facility.
+713840,Medium,,Send an email confirmation to the person submitting a facilities booking request.
+713841,Medium,,Allow for online capture of facilities booking requests for any requests which are called in by telephone or brought to an agency in  person.
+713842,Medium,,Route facilities booking requests in an automated work flow to designated individuals for review by agency defined business  rules.
+713843,Medium,,"Send an email with the disposition of the booking request (reservation confirmed for date requested or alternate date, facility not  available, etc.)."
+713844,Medium,,Create a work order at agency option for tracking work performed in conjunction with an event if the booking request is approved.
+713845,Medium,,Populate the event history from completed booking requests.
+713846,Medium,,Integrate with ERP accounts receivable to bill individuals or organizations for use of a facility or sub-facility; this should include  facility rental costs and any other costs captured within the work order associated with the event.

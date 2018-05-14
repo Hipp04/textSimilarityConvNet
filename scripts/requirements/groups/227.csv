@@ -1,0 +1,14 @@
+"Section:PL-Facilities Management, Preventive Maintenance (13 Reqs)"
+713588,High,,Track and identify systems or components due for preventative maintenance (PM).
+713589,High,,Generate a listing of systems and components that are due for maintenance based on user defined parameters.
+713590,Medium,,"Notify electronically designated agency contacts, including the facility manager/maintenance supervisor when systems or  components are due or past due for preventative maintenance."
+713591,Medium,,Schedule automatically preventative maintenance procedures for systems and components and auto generate associated work  orders.
+713592,Low,,"Provide an option for hierarchical scheduling of PMs. For instance, if an A, B, C methodology is used, when a C is done it is  assumed an A and B have been done and automatically reschedules all three."
+713593,Low,,"Provide the capability to adjust for early, late hierarchically scheduled preventative maintenance services."
+713594,Medium,,"Generate a maintenance due list (required State inspections, manufacturer's technical service bulletins, etc) by agency, unit with  agency, facility and date."
+713595,Medium,,Track inspections that are due and generate a report of inspections due within a user defined period of time.
+713596,Low,,Notify via e-mail appropriate individuals responsible for State and other inspections.
+713597,Medium,,Update automatically the next maintenance due date without any manual intervention based upon user-specified maintenance  frequency.
+713598,Medium,,Notify facility manager/maintenance supervisor of next maintenance due date.
+713599,Medium,,"Provide individual maintenance scheduling for each equipment component so that differences due to age, usage and  manufacturer are accounted for."
+713600,Medium,,Provide the capability to schedule unlimited maintenance activities per system or component.

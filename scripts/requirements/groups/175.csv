@@ -1,0 +1,29 @@
+"Section:HRP-Personnel Administration, Self-Service (28 Reqs)"
+711597,Medium,,Accessibility of system to conform with ADA (see additional detailed requirements in the General System Requirements section).
+711598,Medium,,Track employee receipt and acknowledgement of State or agency policies and procedures which carry a mandatory requirement  for employee review.
+711599,Low,,"Support multiple languages based on employee preference (e.g., Spanish)."
+711600,Medium,,"Produce verification reports for ESS transactions, including change notices with confirmation numbers for each type of change  showing old and new information."
+711601,Medium,,"Maintain history, track, and report against all ESS transactions by employee."
+711602,Medium,,Integrate ESS transactions with workflow such that transactions requiring further attention will be routed to the appropriate  individual(s).
+711603,Medium,,"Allows the ability to apply consistent edits of all ESS transactions as if they were entered through normal system functions, as  well as additional edits as defined by the user."
+711604,Medium,,"Allows employee self-service changes to selected parts of employee records (e.g., name and address, marital status change,  change in dependents, withholdings, benefits enrollment or benefit changes). The data the employee can change online may  vary by functionality or by organizational unit, employee group, etc., and other flexible, user defined criteria."
+711605,Medium,,"Notifies employee of required supporting documentation and the process for submitting required documents (varies by  organizational unit, employee group, etc.)."
+711606,Medium,,"Employees may request verification of employment, including the production of letters to send to third parties."
+711607,Medium,,Employees can inquire into their own personnel records for: current job class code and title.
+711608,Medium,,Employees can inquire into their own personnel records for: current grade.
+711609,Medium,,Employees can inquire into their own personnel records for: current salary and hourly rate.
+711610,Medium,,Employees can inquire into their own personnel records for: demographics.
+711611,Medium,,Employees can inquire into their own personnel records for: personnel action history.
+711612,Medium,,Employees can inquire into their own personnel records for: past performance appraisals.
+711613,Medium,,Employees can inquire into their own personnel records for: past training classes.
+711614,Medium,,Employees can inquire into their own personnel records for: last salary adjustment.
+711615,Medium,,"Employees can inquire into their own personnel records for: skills, certificates, licenses, education/degrees."
+711616,Medium,,"Employees have access to user defined timeframes prior to license / certification expiration. Timeframe is definable by license  and certification type / code. Employees are able to query the system for this information, as well as define how far in advance of  the license / certification expiration they want to be notified."
+711617,Low,,Exit interviews by organization unit can be done online.
+711618,Medium,,Employees and/or their immediate supervisor can view online and print employee performance evaluation reports for current and  previous years.
+711619,Medium,,Employees can maintain more than one email address for notifications (work and personal).
+711620,Medium,,Allow former employees to update their information online within a user defined timeframe. Organization units specify which  former employees and what data can be updated.
+711621,Medium,,Ability to track and report self service activity by employee.
+711622,Medium,,Create option of employees submitting their portion of performance evaluations using online documents.
+711623,Medium,,Capability to create employer surveys to be completed through self service.
+711624,Medium,,Respond to employee surveys for designated groups (e.g. performance evaluation participants).

@@ -1,0 +1,4 @@
+"Section:PL-Transportation Asset Inventory, Construction History (3 Reqs)"
+717447,Medium,,Capture construction or installation date for each asset in the asset inventory.
+717448,Medium,,Provide the capability to view construction history information in the asset inventory or provide the capability to view this data for  a selected asset from the ERP Project Management function or SiteManager. This function must provide the following  information: construction date; WVDOT project number; WVDOT contract number; WVDOT resident engineer; contractor; date  work completed; type of work and description of work (initial construction or description of enhancement or modification).
+717449,Medium,,Provide ability to integrate with the WVDOT CAD environment and/or EMC Application Xtender to link to electronic as-built plans.

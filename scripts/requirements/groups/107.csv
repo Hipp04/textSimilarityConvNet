@@ -1,0 +1,5 @@
+"Section:FIN-Travel, Reporting (4 Reqs)"
+708701,Medium,,Produce elapsed time reports including: Time elapsed between travel and employee submission of travel claim.
+708702,Medium,,Produce elapsed time reports including: Time lapsed between employee submission of claim and completion of all approvals.
+708703,Medium,,Produce elapsed time reports including: Time lapsed between employee submission of claim and payment of claim.
+708704,Medium,,Require justification of elapsed time between travel and submission of claim that exceeds user specified number of days.

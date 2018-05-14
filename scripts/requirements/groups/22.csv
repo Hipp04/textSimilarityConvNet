@@ -1,0 +1,96 @@
+"Section:FIN-Budget Development, Agency Budget Submission (95 Reqs)"
+706232,Medium,,Designate core or supplemental budget requests within each version.
+706233,Medium,,Ability for agencies to invoke the budget caps on a version by version basis.
+706234,Medium,,Capture the grant revenue for grant related budget requests and revenue projections.
+706235,Medium,,Display variances between grant related agency budget requests and federal fund revenue estimates.
+706236,Medium,,Identify collection of revenue by source.
+706237,Medium,,Identify distribution of revenue by source.
+706238,Medium,,Calculate personnel attrition rates for agencies and programs.
+706239,Medium,,Calculate early retirement incentives and payoff costs.
+706240,Medium,,Calculate comp time payout for anticipated retirements.
+706241,Medium,,Calculate vacancy rates for positions by any level of the organization structure.
+706242,Medium,,"Generate a report on a six year basis, for example, prior year actuals, current year actuals, current year budget, and the future  year(s) budget."
+706243,Medium,,"Ability to control ceilings on planned, budgeted or authorized positions for each agency."
+706244,Medium,,"Provide a roster and a view of filled positions, vacant positions, and planned/budgeted positions."
+706245,Medium,,Allow the user to flag positions for inclusion in the salary projections.
+706246,Medium,,"Project position salaries based on filled positions, flagged vacant positions, and planned positions based on planned filled dates,  full-time equivalence, salary or hourly rate for any level of the Chart of Accounts structure."
+706247,Medium,,Ability to filter personnel roster and provide view of budgeted and unbudgeted positions.
+706248,Medium,,Provide budget position control at multiple organizational levels.
+706249,Medium,,Provide budget position control at the agency level.
+706250,Medium,,Ability to project position salaries for multiple years.
+706251,Medium,,Flag budgeted positions that have exceeded appropriations.
+706252,Medium,,"Ability to manage positions that are planned, authorized and vacant."
+706253,Medium,,Ability to limit aggregated budgeted positions to the attributed funding source appropriated and allotted to those positions.
+706254,Medium,,Record and track justification for position changes.
+706255,Medium,,Ability to reclassify and carry these reclassifications into the salary estimates.
+706256,Medium,,Ability to build salary projections for vacant positions using different assumptions about pay increases.
+706257,Medium,,"Ability to project position budget changes at varying levels, including globally."
+706258,Medium,,"Ability to project position budget changes at varying levels, including at the individual position level."
+706259,Medium,,"Budget for overtime in user-defined increments, shift differentials, and compensatory relief time."
+706260,Medium,,Designate call-back pay as a separate object code.
+706261,Medium,,Effective date changes to positions and provide cost projections and savings at different time periods to maintain position control.
+706262,Medium,,Calculate payroll projections based on an increase or decrease in positions.
+706263,Medium,,Calculate payroll projections based on transfers by different time periods.
+706264,Medium,,"Ability to do ""what if"" modeling for payroll projections."
+706265,Medium,,Cost out new positions at multiple grades and pay increases by division and department.
+706266,Medium,,Project fringe benefits within a payroll estimate based on position funding assignments.
+706267,Medium,,Ability to project a future fringe factor.
+706268,Medium,,Ability to calculate early retirement projections specific to each agency.
+706269,Medium,,Ability to update healthcare costs to project future payroll costs.
+706270,Medium,,Provide cash forecasting tools for Special Revenue funds.
+706271,Medium,,Provide agency flexibility to build a budget from top-down or bottom-up.
+706272,Medium,,Flag agency entries that do not match core levels or that exceed the cap but not restrict them from being saved.
+706273,Medium,,Allow agencies to set absolute caps on the number of new proposals or expansions submitted by lower level organizational units.
+706274,Medium,,Allow agencies to define their budget build-up by any element of the Chart of Accounts and aggregate the results to the  appropriation level.
+706275,Medium,,Ability to set targets for divisions or lower level organization units at absolute numbers for a new proposal or expansion by  division or deputy.
+706276,Medium,,Ability to set limits at any level of the Chart of Accounts structure.
+706277,Medium,,Ability to make budget adjustments at any level of the Chart of Accounts structure.
+706278,Medium,,Ability to establish limits on positions and/or FTEs at the lower levels of the organization structure.
+706279,Medium,,Ability to set dollar limits at any level of Chart of Accounts structure.
+706280,Medium,,Allow users to establish effective start and end dates for submissions by different elements of the Chart of Accounts structure.
+706281,Medium,,Capture agency defined controls in a table-based structure.
+706282,Medium,,Ability to over-ride the agency budget controls.
+706283,Medium,,"Ability to ""freeze"" the budget from changes."
+706284,Medium,,Ability to default coding for any budget line.
+706285,Medium,,Maintain and track versions for reporting purposes.
+706286,Medium,,Maintain at least 15 versions available to each agency for budget preparation.
+706287,Medium,,Ability to budget and report by organizational unit.
+706288,Medium,,Ability to make budget adjustments at any level of the Chart of Accounts elements from submitted budget requests.
+706289,Medium,,Flag funds that have a projected negative cash fund balance at the end of the year.
+706290,Medium,,"Capture agency suggested budget language at either the budget object, task, activity, grant, program, and operating transactions."
+706291,Medium,,Ability to structure the budget presentation for each agency by user-defined combinations of the Chart of Accounts elements.
+706292,Medium,,"Capture and report standardized data on agency mission, goals, and performance measures."
+706293,Medium,,Ability to add accounts/structure for elements not represented in the State's Financial system.
+706294,Medium,,"Ability to add additional descriptive information (e.g., long names, purpose) to Chart of Accounts elements imported from the  State's financial system to improve data available for reporting and decision-making purposes."
+706295,Medium,,"Ability to establish multiple roll-ups of budget data across agencies to present enterprise benchmarks, compare agency-toagency,  function-to-function, etc."
+706296,Medium,,"Ability to create multiple, user-definable attributes that can be associated with various expenditures (e.g., state-wide categories,  functional activities, ""priorities of government"", etc."
+706297,Medium,,"Ability to divide historical, current, and budgeted data (e.g., by percentage) for purposes of re-categorization and reporting."
+706298,Medium,,Ability to present historical and current budget data for analysis: Six year historical budget and actual data.
+706299,Medium,,Ability to present historical and current budget data for analysis: Monthly and Year-to-Date Actuals.
+706300,Medium,,Ability to present historical and current budget data for analysis: Current Year Budget.
+706301,Medium,,Ability to present historical and current budget data for analysis: Current Year Forecast Actuals.
+706302,Medium,,Ability to present historical and current budget data for analysis: Next Year Budgeted.
+706303,Medium,,Ability to present historical and current budget data for analysis: Minimum of Four Years Projected Budget.
+706304,Medium,,Copy current year appropriations into future budget years.
+706305,Medium,,"Forecast revenue detail by agency and revenue source, which can be copied into future budget years."
+706306,Medium,,Ability to create adjustments to the base budget at the appropriation account level.
+706307,Medium,,Ability to define adjustment types adjustment categories.
+706308,Medium,,"Capture, display, and report descriptive information for base adjustments, forecast updates, and other adjustment types  established by the State."
+706309,Medium,,"Ability to adjust the current year ""base"" for forecast programs."
+706310,Medium,,Calculate and apply across-the-board adjustments to the Chart of Accounts elements.
+706311,Medium,,Report current year appropriations +/- base adjustments as the forecast base.
+706312,Medium,,Associate descriptive text on the purpose of forecast updates.
+706313,Medium,,Identify historical and requested transfers between agencies and programs and capture descriptive text regarding the purpose of  the transfer.
+706314,Medium,,Report and reconcile anticipated transfers between agencies and programs to ensure that transfers are properly balanced at the  state-wide level.
+706315,Medium,,"Develop expenditure and revenue forecasts at the beginning of the fiscal year, based on prior year actuals."
+706316,Medium,,Apply percentage increase/decrease to any line item category in the budget and assess impact on budget as a whole.
+706317,Medium,,"Perform multiple calculation methodologies for statistical, real, nominal (revenue and expenditure) account budget monitoring  and ""forecasting""."
+706318,Medium,,"Compare current year trend analysis with actual data from ten (10) years prior, either as a report or inquiry."
+706319,Medium,,Ability to apply different forecasting calculations to the same line item in different organizational units.
+706320,Medium,,Ability to apply different forecasting calculations to different line items in the same organizational unit.
+706321,Medium,,Ability to display multiple forecasts for the same line item using different forecasting techniques and permit selection of the most  appropriate calculation.
+706322,Medium,,"Obtain and store data components for budget preparation ""forecasting"" (e.g., negotiated salaries, legislative mandates, economic  factors, administrative considerations, etc.)."
+706323,Medium,,"Ability to forecast ""what if"" impact of agency restructuring by identifying additional positions, functions, costs, etc."
+706324,Medium,,"Ability to project year-end revenues and expenditures using appropriate methodologies (e.g., straight-line, straight-line adjusted,  moving average, economic indicators, etc.)."
+706325,High,,Ability to allow non-state agencies to complete and upload budget information into the budget module.
+706326,Medium,,"Ability to combine budget information from different state agencies into a master agency budget request, i.e. Mental Health."

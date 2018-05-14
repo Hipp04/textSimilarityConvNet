@@ -1,0 +1,13 @@
+"Section:SW-General and Technical, Performance (12 Reqs)"
+718275,High,,Process fully a transaction within the application and the database environment within three seconds of receipt of the transaction  98% of the time.
+718276,Medium,,Support multi-node application server processing so that application processing load can be distributed and balanced across  multiple physical servers.
+718277,High,,Design the system architecture to ensure that normal system operations are restored within less than five minutes of a failover  event of a production system component 99% of the time.
+718278,High,,Ensure that batch processing does not interfere with on-line responsiveness or availability.
+718279,High,,Provide user session isolation such that a failure in one session has no impact on other user sessions.
+718280,High,,"Provide access to data for pre-defined reports, ad-hoc queries and business intelligence without impacting online transaction  performance."
+718281,High,,"Provide tools which support real-time monitoring by administrators of response time, system use and capacity, concurrent users,  and system errors."
+718282,High,,Provide the ability for the data base administrator or authorized user to tune system to improve performance.
+718283,Medium,,Provide ability to support scaling of the application to accommodate 10 years of future growth with minimal user impact.
+718284,High,,Allow limits to be defined on the time a report or query takes to execute and the number of records to be retrieved.
+718285,High,,"Allow limits to be defined for other types of query functions such as table joins, multiple sorts, etc."
+718286,High,,Allow for limits to be set on the amount of tables to be linked in an ad-hoc query.

@@ -1,0 +1,8 @@
+"Section:PL-Bridge Management, Agency Cost Estimation (7 Reqs)"
+713244,Medium,,Calculate lifecycle cost of proposed treatments including indirect costs such as maintenance of traffic and go-forward  maintenance and operating costs.
+713245,High,,"Utilize historical costs and user-defined engineering factors in the calculation of the cost of various alternatives which may vary  by district, highway system, structure type or some combination of these characteristics."
+713246,High,,"Allow adjustments factors for inflation for labor, equipment and materials."
+713247,Medium,,Maintain a history of cost estimates for candidate projects.
+713248,Medium,,"Log reasons for changes to cost estimates for candidate projects over time (inflation, scope change, introduction of new  technology, enhanced cost estimating models, etc.)."
+713249,Medium,,Support the ability to download information to an Excel-based or third party cost estimating model.
+713250,Medium,,Support the ability to upload and store cost estimate information from an Excel-based or third party cost estimating model.

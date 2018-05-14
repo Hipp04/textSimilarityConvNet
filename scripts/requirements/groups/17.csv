@@ -1,0 +1,33 @@
+"Section:FIN-Asset Management, Leases (32 Reqs)"
+705971,Medium,,"Provide ability to upload agency lease forms and populate data in system, including applicable workflow and approvals."
+705972,Medium,,"Track assets in accordance with the requirements of FASB Statement No. 13: Accounting for Leases, as amended, including but  not limited to: Recording of the capital lease or operating lease and the corresponding leasehold improvements."
+705973,Medium,,"Track assets in accordance with the requirements of FASB Statement No. 13: Accounting for Leases, as amended, including but  not limited to: Tracking lease payments."
+705974,Medium,,"Track assets in accordance with the requirements of FASB Statement No. 13: Accounting for Leases, as amended, including but  not limited to: Periodic cost recognition."
+705975,Medium,,"Track assets in accordance with the requirements of FASB Statement No. 13: Accounting for Leases, as amended, including but  not limited to: Tracking lessee and lessor."
+705976,Medium,,"Track assets in accordance with the requirements of FASB Statement No. 13: Accounting for Leases, as amended, including but  not limited to: Tracking facility accessibility and responsible party for making accessibility modifications (lessee or lessor)."
+705977,Medium,,"Track assets in accordance with the requirements of FASB Statement No. 13: Accounting for Leases, as amended, including but  not limited to: Tracking rental income."
+705978,Medium,,"Track assets in accordance with the requirements of FASB Statement No. 13: Accounting for Leases, as amended, including but  not limited to: Tracking purchase options."
+705979,Medium,,"Track assets in accordance with the requirements of FASB Statement No. 13: Accounting for Leases, as amended, including but  not limited to: Tracking lease terms."
+705980,Medium,,"Track assets in accordance with the requirements of FASB Statement No. 13: Accounting for Leases, as amended, including but  not limited to: Tracking lease type (e.g., capital, operating, user-defined, etc.)."
+705981,Medium,,"Track assets in accordance with the requirements of FASB Statement No. 13: Accounting for Leases, as amended, including but  not limited to: Tracking schedule of lease payments."
+705982,Medium,,Provide ability to differentiate between leased assets and purchased assets.
+705983,Medium,,"Provide ability to facilitate determination of FASB 13 lease type (i.e., capital, operating, etc.) based on terms and conditions of  lease agreement."
+705984,Medium,,Provide ability to perform lease/purchase comparative analyses.
+705985,Medium,,Provide ability to perform processing leases from a lessee's and a lessor's perspective.
+705986,Medium,,Amortize leases in compliance with FASB 13 and GASB 13.
+705987,Medium,,Support changes required due to lease amendments.
+705988,Medium,,Automatically generate a notification that a lease is going to expire within a certain number of days as specified by the user.
+705989,Medium,,Send an electronic notification if lease is terminated.
+705990,Medium,,Maintain lease payment schedules.
+705991,Medium,,"Track / capture information regarding facilities / properties (e.g., leased, storage, acreage, etc.) including, but not limited to 'the  amounts of' and 'payment by' for the following: Utilities (e.g., water, electricity, gas, telephone) Amounts."
+705992,Medium,,"Track / capture information regarding facilities / properties (e.g., leased, storage, acreage, etc.) including, but not limited to 'the  amounts of' and 'payment by' for the following: Grounds."
+705993,Medium,,"Track / capture information regarding facilities / properties (e.g., leased, storage, acreage, etc.) including, but not limited to 'the  amounts of' and 'payment by' for the following: Repairs."
+705994,Medium,,"Track / capture information regarding facilities / properties (e.g., leased, storage, acreage, etc.) including, but not limited to 'the  amounts of' and 'payment by' for the following: Parking."
+705995,Medium,,"Track / capture information regarding facilities / properties (e.g., leased, storage, acreage, etc.) including, but not limited to 'the  amounts of' and 'payment by' for the following: Security."
+705996,Medium,,"Track / capture information regarding facilities / properties (e.g., leased, storage, acreage, etc.) including, but not limited to 'the  amounts of' and 'payment by' for the following: Pest Control."
+705997,Medium,,"Track / capture information regarding facilities / properties (e.g., leased, storage, acreage, etc.) including, but not limited to 'the  amounts of' and 'payment by' for the following: Trash."
+705998,Medium,,"Track / capture information regarding facilities / properties (e.g., leased, storage, acreage, etc.) including, but not limited to 'the  amounts of' and 'payment by' for the following: Improvements."
+705999,Medium,,"Track / capture information regarding facilities / properties (e.g., leased, storage, acreage, etc.) including, but not limited to 'the  amounts of' and 'payment by' for the following: Taxes."
+706000,Medium,,"Track / capture information regarding facilities / properties (e.g., leased, storage, acreage, etc.) including, but not limited to 'the  amounts of' and 'payment by' for the following: Insurance."
+706001,Medium,,"Track / capture information regarding facilities / properties (e.g., leased, storage, acreage, etc.) including, but not limited to 'the  amounts of' and 'payment by' for the following: Additional User-Defined Costs."
+706002,Medium,,"Determine the interest rate which is implicit in the payment schedules and used to project the entire payment schedule, including  calculating the portion applied to interest and principal for capital leases."

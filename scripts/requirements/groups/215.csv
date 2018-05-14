@@ -1,0 +1,3 @@
+"Section:PL-Facilities Management, Construction History (2 Reqs)"
+713439,Medium,,"Integrate with the ERP project management function and Primavera to capture and provide tracking of current and planned  construction projects by facility, sub-facility, system and components."
+713440,Medium,,"Provide the capability to view construction history information for a facility, sub-facility, system or component from the ERP  project management function. This function must provide the following information: construction date; project number; contract  number; engineer; architect; contractor; date work completed; type of work and description of work (initial construction or  description of enhancement or modification)."

@@ -1,0 +1,75 @@
+"Section:HRP-Benefits Administration, Inquiry and Reporting (74 Reqs)"
+709764,Medium,,"Online access to all employee, plan, and vendor data with appropriate security."
+709765,Medium,,Provide flexible report writing capability that will allow reports to be formatted easily by user.
+709766,Medium,,"Provide ability to project and inquire on future premiums due by individual, group, etc."
+709767,Medium,,Utilize data from vendor for analysis of specific plans based on: costs by plan.
+709768,Medium,,Utilize data from vendor for analysis of specific plans based on: costs by benefit type.
+709769,Medium,,Utilize data from vendor for analysis of specific plans based on: costs by vendor.
+709770,Medium,,Utilize data from vendor for analysis of specific plans based on: utilization.
+709771,Medium,,Utilize data from vendor for analysis of specific plans based on: comparison reporting.
+709772,Medium,,Provide analysis of plans by: agency (organization at user specified level).
+709773,Medium,,Provide analysis of plans by: benefit type.
+709774,Medium,,Provide analysis of plans by: plan.
+709775,Medium,,Provide analysis of plans by: vendor.
+709776,Medium,,Provide analysis of plans by: participant.
+709777,Medium,,Provide analysis of plans by: other COA field.
+709778,Medium,,Provide analysis of plans by: utilization.
+709779,Medium,,Provide analysis of plans by: plan year.
+709780,Medium,,Provide analysis of plans by: comparison reporting.
+709781,Medium,,Provide online access to current and historical employee/participant information to include: employee/participant.
+709782,Medium,,Provide online access to current and historical employee/participant information to include: dependents.
+709783,Medium,,Provide online access to current and historical employee/participant information to include: benefit elections and dates.
+709784,Medium,,Provide online access to current and historical employee/participant information to include: hire date.
+709785,Medium,,"Provide online access to current and historical employee/participant information to include: various billing attributes (tobacco,  living will, wellness participation, etc.)."
+709786,Medium,,Provide online access to current and historical employee/participant information to include: funding source.
+709787,Medium,,Provide online access to current and historical employee/participant information to include: appointment start date.
+709788,Medium,,Provide online access to current and historical employee/participant information to include: agency start date.
+709789,Medium,,Provide online access to current and historical employee/participant information to include: coverage date.
+709790,Medium,,Provide online access to current and historical employee/participant information to include: adjusted continuous service date.
+709791,Medium,,Provide online access to current and historical employee/participant information to include: other user defined dates.
+709792,Medium,,Provide online access to current and historical employee/participant information to include: benefit history.
+709793,Medium,,Provide online access to current and historical employee/participant information to include: costs and contributions.
+709794,Medium,,Provide online access to current and historical employee/participant information to include: beneficiaries.
+709795,Medium,,Perform name search on for policy holder and dependents.
+709796,Medium,,Track and monitor utilization (eligible vs. participating) of benefit plans by user defined criteria.
+709797,Medium,,Produce vendor reports that provides information on detailed and summary levels for: plan participation.
+709798,Medium,,Produce vendor reports that provides information on detailed and summary levels for: plan revenues.
+709799,Medium,,Produce vendor reports that provides information on detailed and summary levels for: State costs by vendor.
+709800,Medium,,Provide reporting for Agencies and participating organizations that provides detailed and summary level for: employee  participation by plan.
+709801,Medium,,Provide reporting for Agencies and participating organizations that provides detailed and summary level for: costs by plan.
+709802,Medium,,Provide reporting for Agencies and participating organizations that provides detailed and summary level for: costs by  organizational unit.
+709803,Medium,,Provide reporting for Agencies and participating organizations that provides detailed and summary level for: costs by benefit type.
+709804,Medium,,Provide reporting for Agencies and participating organizations that provides detailed and summary level for: employees eligible  but not participating.
+709805,Medium,,Provide print mailing labels for: all employees/participants.
+709806,Medium,,Provide print mailing labels for: employees/participants within a given benefit plan.
+709807,Medium,,Provide print mailing labels for: employees/participants within a given benefit status.
+709808,Medium,,Provide print mailing labels for: employees/participants within a given bargaining unit.
+709809,Medium,,Provide print mailing labels for: employees/participants within a given job class.
+709810,Medium,,Provide print mailing labels for: employees/participants by residential and/or work locations.
+709811,Medium,,"Provide print mailing labels for: employees/participants within a given agency, by index, by location code."
+709812,Medium,,Provide reports reflecting eligible employees not enrolled in benefit plans.
+709813,Medium,,Report of employees that will have premium increases or decrease on the next cycle.
+709814,Medium,,Inquiry showing all excess payments amounts for a employee participating in a cap-based benefit plan.
+709815,Medium,,Produce report of purged data per individual upon user request.
+709816,Medium,,Produce rosters of employees in specific benefit plans in various sequences.
+709817,High,,Compare data from outside agencies to data within the system for discrepancy or identification reporting (data match).
+709818,Medium,,Integrate with sorting software for printed correspondence that is to be distributed through the U. S. Postal.
+709819,Medium,,Integrate with bar-coding on printed correspondence that is to be distributed through the U. S. Postal.
+709820,Medium,,Produce premiums due report.
+709821,Medium,,Produce collections applied report.
+709822,Medium,,Produce overpayment report.
+709823,Medium,,Produce retroactive transaction report.
+709824,Medium,,Produce monthly enrollment report.
+709825,Medium,,Produce refunds report.
+709826,Medium,,Cross-reference eligibility transaction report (multiple participants per family).
+709827,Medium,,Dual transaction report (multiple appointments per participant).
+709828,Medium,,Produce cancellation report.
+709829,Medium,,Produce direct pay employee report.
+709830,Medium,,Produce employee turning 65 report.
+709831,Medium,,Produce Leave of Absence Participant report for a user defined time period.
+709832,Medium,,Produce mismatched payment report.
+709833,Medium,,Produce report listing participants and projected premiums for user defined period(s).
+709834,Medium,,Produce certificates for participants in specific benefit plans based on user defined criteria.
+709835,Medium,,Produce activity report by user defined time period.
+709836,Medium,,Produce grandfathered eligibility report.
+709837,Medium,,Produce annual premiums report with what if analysis capabilities.

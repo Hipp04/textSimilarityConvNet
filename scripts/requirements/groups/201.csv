@@ -1,0 +1,10 @@
+"Section:PL-Bridge Management, Reports and Queries (22 Reqs)"
+713293,Medium,,Produce a variety of output reports for evaluating and supporting a range of decisions concerning bridges on the roadway  network.
+713294,Medium,,Produce reports both in tabular and graphic form in order to make presentations of results as effective as possible for their  intended audiences.
+713295,Medium,,"Produce reports concerning the input data, intermediate results deemed important such as the results of formula or cost  calculations, and the final results of computer runs for various model scenarios."
+713296,High,,"Provide a report of the current inventory, inspection , and appraisal data by highway system, statewide, district, county or a  specific route."
+713297,High,,"Generate a network-level summary of the current condition of bridges by statewide, structure type, key elements, highway  system, district, county or a specific route."
+713298,High,,"Generate a network-level summary of current deficiencies and user costs associated with load capacity and horizontal and  vertical clearances for statewide, structure type, highway system, district, county or specific route."
+713299,Medium,,Create a report with the results of each run of the optimization procedure which provides constrained or unconstrained current  and future needs for the network or a user defined subset of the network included in the optimization run.
+713300,Medium,,"Create a report with the results of each run of the optimization procedure which provides bridge-by-bridge maintenance  recommendations and priority listings of rehabilitation, replacement, and improvement projects."
+713301,Medium,,Create a report with the results of each run of the optimization procedure which shows future period-by-period network-level  condition of bridges and their elements.

@@ -1,0 +1,5 @@
+"Section:PL-Transportation Asset Inventory, Toll Plazas (4 Reqs)"
+717338,Medium,,Capture and track information about toll plazas/barriers.
+717339,Medium,,Store number of total gates.
+717340,Medium,,Store types of toll equipment.
+717341,Medium,,Integrate with ERP facilities management function to link to additional facility specific attributes and condition assessments.

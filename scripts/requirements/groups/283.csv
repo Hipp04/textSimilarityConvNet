@@ -1,0 +1,23 @@
+"Section:PL-Pavement Management, Analytics (22 Reqs)"
+714847,High,,"Support analytical functionality at the statewide, highway system, pavement type, ADT/EASL, mix design, district, county and  project level."
+714848,High,,"Maintain user-defined key performance indicators (KPI's) by statewide, highway system, pavement type, mix design, ADT/EASL,  district, county."
+714849,High,,Allow users to view performance indicators based on their role and responsibilities in a dashboard/graphical format look and feel.
+714850,High,,Calculate user definable performance indices based on pavement condition.
+714851,High,,"Calculate user definable pavement performance using deterministic, probabilistic or hybrid models."
+714852,High,,"Calculate pavement performance based on ""families of performance curves"" of pavement with similar characteristics as well as  performance curves for individual pavement segments."
+714853,High,,"Calculate predicted pavement performance (deterioration) for different treatment strategies such as preventive maintenance,  rehabilitation and reconstruction."
+714854,Medium,,Calculate predicted pavement performance (deterioration) for different mix designs.
+714855,High,,"Identify candidate sections for categories of treatments based on business rules such as pre-defined condition thresholds and  ""triggers""."
+714856,High,,"Recommend one or more treatment strategies to a candidate section based on business rules including predefined condition  thresholds and ""triggers""."
+714857,High,,"Analyze pavement preventive maintenance or repair strategies by one or a combination of factors including statewide, highway  system, pavement type, ADT/EASL, mix design, district, county, and route."
+714858,Medium,,Allow dividing of congruent candidate sections into a grouping of a minimum user defined length for candidate projects.
+714859,High,,Calculate annual changes in measured distresses over time.
+714860,High,,Calculate the service life and the associated treatment costs of projects using alternative pavement strategies.
+714861,High,,Calculate the remaining service life of the pavement.
+714862,High,,Support life-cycle cost analysis of candidate pavement projects based on user defined criteria.
+714863,High,,"Support querying, sorting, and filtering of candidate sections, treatments, and costs for specific classes of treatments and  pavement types."
+714864,High,,Calculate current asset value based on replacement costs and depreciated value due to deterioration.
+714865,High,,Calculate user definable performance indices based on pavement deflection data.
+714866,Medium,,Support projection of the future condition of paved shoulders.
+714867,Medium,,Recommend a treatment strategy for paved shoulders based on inventory and condition attribute values.
+714868,High,,Assign a priority value to each potential project based on user defined parameters.

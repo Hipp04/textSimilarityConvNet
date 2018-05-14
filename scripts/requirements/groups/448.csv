@@ -1,0 +1,9 @@
+"Section:PL-Transportation Operations Management, Time and Leave Integration (8 Reqs)  StmtID"
+717860,Rating,,High    Requirement  Integrate with the ERP time and labor function to automatically generate the employees time sheet based on data from the DARs  on a regularly scheduled basis.  Support Source
+717861,High,,"Provide time charge details for employees for specific time periods including hours worked (by all types of hours -- regular, leave,  holiday time, comp time, on-call time, overtime, etc.)."
+717862,High,,Allow an authorized user to designate whether an individual employee will enter their own time or whether an employee's time  will be entered by an administrative support staff member for the employee.
+717863,High,,"Allow a time clerk to be temporarily delegated responsibility for entering an employee's time (employee on vacation, extended  medical leave, etc.)."
+717864,High,,"Provide the ability to print out a formatted time sheet showing the employee's time for a pay period for the employee to review,  mark corrections, sign and return to the employee's designated time clerk."
+717865,High,,"Allow employees to add non maintenance management time to their time sheet (leave, training, other administrative time, etc.) to  account for all hours in a pay period before submitting their time sheet."
+717866,High,,Route any changes made by the employee on the timesheet to activities pre-populated by the DAR back to the crew leader for  approval.
+717867,High,,Adjust the appropriate DAR to reflect employee adjustments to the information on the DAR on their time sheets if approved by  the crew leader and reflect these changes within the ERP time and labor function for payroll purposes.

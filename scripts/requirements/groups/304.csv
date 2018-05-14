@@ -1,0 +1,15 @@
+"Section:PL-Procurement, Award and Notification (15 Reqs)  StmtID"
+715445,Rating,,High    Requirement  Provide the ability to facilitate award of purchase orders/contracts: Multiple listings to multiple vendors (e.g. one item to many  vendors or multiple items to many vendors) with capability to modify.  Support Source
+715446,High,,"Provide the ability, at the time of award, to: Automatically create the appropriate encumbrance."
+715447,High,,"Provide the ability, at the time of award, to: Automatically liquidate any pre-encumbrance."
+715448,High,,"Provide the ability, at the time of award, to: Immediately print the purchase order at any printer available to the purchasing agents  (local printer or on the network)."
+715449,High,,"Provide the ability, at the time of award, to: Send the purchase order via fax, email, XML, PDF, or EDI (optional)."
+715450,High,,"Provide the ability, at the time of award, to: Automatically generate user-defined award notification."
+715451,High,,"Provide the ability to allow a purchasing agent to designate bid award vendor(s) in the bid tabulation file based on total bid, by  line item, or a combination thereof."
+715452,High,,"Provide the ability for an efficient method to award all line items to a vendor without having to click on each line item individually  (e.g., ""award all"" button on the screen and an undo button)."
+715453,High,,Provide the ability to generate an email notification to the party receiving an award and notification of rejection to all others.
+715454,High,,Provide the ability to specify a date on which to notify the awarded vendor.
+715455,Medium,,Provide the ability to specify a date on which to notify bidders that they were rejected or allows the purchasing agent to specify a  number of days after notifying the awarded vendor to automatically notify those that were not selected of their status.
+715456,High,,Provide the ability to cancel an award and/or re-award line items or entire award from the original solicitation.
+715457,High,,"Provide the ability to track vendor protests from inception to conclusion and to suspend the procurement until the protest is  resolved, with override capabilities based on security."
+715458,Medium,,"Provide the ability for vendors to view, via the Internet, posted information regarding awards (e.g., solicitation, tabulation, etc.)  made within a user-defined period of time (e.g., within the past six months). Vendor should have the ability to view/search a  listing of solicitation numbers and brief descriptions, then drill-down to view the entire award."

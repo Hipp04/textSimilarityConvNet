@@ -1,0 +1,148 @@
+"Section:PL-Fleet Management, Inventory (147 Reqs)"
+713928,High,,"Support entry, tracking, and management of all types of fleet and equipment units in a single enterprise inventory."
+713929,High,,Track passenger vehicles.
+713930,High,,Track light duty trucks.
+713931,High,,Track passenger vans.
+713932,High,,Track buses.
+713933,High,,Track train engines.
+713934,High,,Track train cars.
+713935,High,,Track boats.
+713936,High,,Track aircraft.
+713937,High,,Track all Terrain Vehicles (ATVs).
+713938,High,,Track construction equipment.
+713939,High,,Track maintenance equipment.
+713940,High,,Track trailers.
+713941,High,,Track agriculture equipment.
+713942,High,,Track other unique fleet classes/types defined by authorized users.
+713943,High,,"Allow authorized users to add, maintain and delete fleet/equipment classes where a fleet class is a group of related types of fleet  and equipment units such as passenger vehicles, light duty trucks, aircraft, rail equipment, construction equipment etc."
+713944,High,,Store the following for each fleet class: fleet class code.
+713945,High,,Store the following for each fleet class: fleet class description.
+713946,High,,"Allow authorized users to define attributes that must be captured for each fleet class. For each fleet class, this includes required  attributes and optional attributes."
+713947,High,,Allow system administrator or other authorized users to designate a fleet class owner; this fleet class owner must be able to be  defined at either the enterprise level or for an agency or group of agencies.
+713948,High,,"Allow authorized users (Fleet class owners) to add, maintain and delete fleet/equipment types where a fleet/equipment type is a  subcategory of related fleet units within a fleet class (for example tractors within the agricultural equipment fleet class, four door  passenger vehicles within the passenger vehicle class, etc.)."
+713949,High,,Store the following for each fleet type: fleet type code.
+713950,High,,Store the following for each fleet type: fleet type description.
+713951,High,,Store the following for each fleet type: fleet class it is a part of.
+713952,High,,"Allow authorized users to define attributes that must be captured for each fleet type. For each fleet type, this includes required  attributes and optional attributes. The required attributes must include all required attributes for the fleet class but can include  additional mandatory or optional attributes appropriate to the specific fleet type."
+713953,Medium,,Provide the ability for an authorized user to create templates for each specific fleet/equipment type to facilitate entry and  maintenance of fleet units into the system.
+713954,High,,"Allow system administrator or other authorized users to define user roles and responsibilities for each fleet type (add, maintain,  delete units from inventory, transfer, perform/record maintenance, etc.); these responsibilities shall be defined at either the  enterprise level or for an agency or group of agencies."
+713955,High,,Store and track a variety of attributes for each fleet/equipment unit (the specific attribute for each fleet unit will vary by fleet type).
+713956,High,,Store and track fleet type.
+713957,High,,"Store and track Vehicle identification number (VIN) or other unique identifier for a fleet type (serial number, etc.)."
+713958,High,,Store and track VIN or other identifier number replaced by and replacing.
+713959,High,,"Store and track acquisition method (purchase, lease, donation, other)."
+713960,High,,Store and track purchase order number.
+713961,High,,Store and track purchase date or lease effective date.
+713962,High,,Store and track unit received date.
+713963,High,,Store and track lease end date (if leased).
+713964,High,,Store and track owner (State agency holding title).
+713965,High,,Store and track user agency (State agency using fleet/equipment unit).
+713966,High,,Store and track user subunit (Program area or organizational unit within agency with control of fleet/equipment unit).
+713967,High,,Store and track location where fleet/equipment unit is housed.
+713968,High,,"Store and track location typically responsible for maintaining fleet/equipment unit - this could be a specific agency maintenance  shop, a designation for external maintenance, etc."
+713969,High,,Store and track employee flee/equipment unit is assigned to (if assigned to a specific employee).
+713970,High,,Store and track assigned fleet/equipment pool (if not assigned to a specific employee).
+713971,High,,Store and track security designation code (to restrict access to view sensitive equipment such as undercover vehicles).
+713972,High,,Store and track fuel/maintenance card # assigned to fleet unit.
+713973,High,,Store and track manufacturer.
+713974,High,,Store and track make.
+713975,High,,Store and track model.
+713976,High,,Store and track year manufactured.
+713977,Medium,,Store and track number of doors.
+713978,Medium,,Store and track seating.
+713979,Medium,,Store and track color 1.
+713980,Medium,,Store and track color 2.
+713981,Medium,,Store and track color 3.
+713982,Medium,,Store and track optional attachments (minimum of 10).
+713983,Medium,,Store and track license tag (minimum of 2).
+713984,Medium,,Store and track fuel type (minimum of 3).
+713985,Medium,,Store and track fuel capacity.
+713986,Medium,,Store and track bucket/cubic yards.
+713987,Medium,,Store and track Gross Vehicle Weight Rating (GVWR).
+713988,Medium,,Store and track width.
+713989,Medium,,Store and track height.
+713990,Medium,,Store and track length.
+713991,Medium,,Store and track wheelbase.
+713992,Medium,,Store and track oil capacity.
+713993,Medium,,Store and track number of axles.
+713994,Medium,,Store and track front or rear wheel drive axles.
+713995,Medium,,"Store and track tire size, front."
+713996,Medium,,"Store and track tire size, rear."
+713997,Medium,,"Store and track number of tires, front."
+713998,Medium,,"Store and track number of tires, rear."
+713999,Medium,,Store and track transmission type.
+714000,Medium,,"Store and track multiple engine types per fleet/equipment unit (gas, hybrid, electric, diesel)."
+714001,Medium,,Store and track engine size.
+714002,Medium,,Store and track engine cylinders.
+714003,Medium,,Store and track AVL/GIS transponder assigned to unit.
+714004,Medium,,Store and track toll transponder assigned to unit.
+714005,Medium,,Store and track optional equipment (multiple fields based on the fleet class and fleet equipment/type).
+714006,Medium,,Store and track other user defined fields by fleet class and fleet/equipment type (minimum of 20).
+714007,Medium,,Integrate with ERP purchasing function to automatically create initial fleet/equipment unit record upon receipt of vehicle  populating initially with appropriate information available within ERP purchasing function; authorized user must be able to then  add additional information within the fleet/equipment unit record.
+714008,Medium,,Integrate with the R.L. Polk and Company Vehicle Identification Number Analysis software to populate the fleet unit attributes to  the extent possible.
+714009,Medium,,Integrate automatically with the West Virginia Board of Risk and Insurance Management (BRIM) to add new fleet/equipment  record to BRIM SQL Server database or to update the BRIM database with changes recorded in ERP. .
+714010,High,,Provide the ability to assign add on components to a fleet/equipment unit.
+714011,High,,"Store a minimum of 5 major component makes, models and serial #s per fleet/ equipment unit (e.g., chassis, engine)."
+714012,High,,"Store at least 15 warranties applicable to each fleet/equipment unit or major subcomponent of the fleet/equipment unit;  warranties must be supported for time, miles or any combination of the two."
+714013,High,,Store and track warranty type by major unit component.
+714014,High,,Store and track warranty expiration date.
+714015,High,,Store and track warranty expiration in mileage.
+714016,High,,Store and track warranty expiration in time.
+714017,High,,Store and track other warranty terms definable by fleet class.
+714018,High,,Store text comments about a warranty.
+714019,High,,"Allow authorized users by agency to define and maintain preventive maintenance codes including code and type of service  required, miles between service and/or length of time between service."
+714020,High,,"Store at least 30 preventive maintenance schedules applicable to each fleet/equipment unit; preventive maintenance schedules  must be supported for time, miles/hours, fuel consumed, or any combination of all three."
+714021,Medium,,"Provide a minimum five (5) group assignments per fleet/equipment unit (e.g., agency, unit, location, etc.)."
+714022,Medium,,Provide a minimum of three (3 )user-defined meters per fleet or equipment unit.
+714023,Medium,,Store unlimited notes for each fleet/equipment unit record.
+714024,Medium,,Store a minimum 3 fuel types per fleet/equipment unit.
+714025,Medium,,Provide a minimum of 12 add-fluid types per fleet/equipment unit.
+714026,Medium,,Store lease/rental information for any fleet units which are leased.
+714027,Medium,,Store State agency for inter-agency leases.
+714028,Medium,,Store vendor identification number for lessor for external leases.
+714029,Medium,,Store lease term.
+714030,Medium,,Store lease start date.
+714031,Medium,,Store lease end date.
+714032,Medium,,"Store lease payment terms (lease amount, period)."
+714033,Medium,,Store lease payment due date.
+714034,Medium,,Store organization to whom payment is made (bank or other).
+714035,Medium,,Store lease payment location.
+714036,Medium,,Store payment address.
+714037,Medium,,Integrate with Accounts Payable function to automatically generate payment request for monthly or other recurring payments for  leased vehicles; this could be a payment to an external entity or an intergovernmental transfer to another State agency.
+714038,Medium,,Store financing information for any fleet units which are financed.
+714039,Medium,,Store vendor identification number for bank or finance company.
+714040,Medium,,Store loan date.
+714041,Medium,,Store loan start and end date.
+714042,Medium,,"Store loan terms (rate, period, payment)."
+714043,Medium,,Store loan payment due date.
+714044,Medium,,Store organization to whom loan payment is made (bank or other).
+714045,Medium,,Store loan payment location.
+714046,Medium,,Store loan payment address.
+714047,Medium,,Integrate with Accounts Payable function to automatically generate payment request for monthly or other recurring payments for  financed vehicles.
+714048,Medium,,"Store and track annual license/permit renewals for vehicles and other motorized equipment separate from preventive  maintenance services including license/permit type, date renewal is required and associated fees."
+714049,Medium,,Integrate with Accounts Payable function to automatically generate payment request for renewal of required licenses and permits.
+714050,Medium,,Maintain a history of any accidents associated with a fleet/equipment unit.
+714051,Medium,,Allow a fleet class owner for an agency to define mandatory and optional attributes which should be captured for an accident  associated with a fleet class or fleet/equipment type.
+714052,Low,,Allow a fleet class owner for an agency to create a template for entering accidents for a specific fleet class and/or fleet/equipment  type.
+714053,Medium,,Store accidents involving a fleet unit.
+714054,Medium,,Store date of accident.
+714055,Medium,,Store employee operating fleet/equipment unit.
+714056,Medium,,Store other employees in fleet unit or working with equipment.
+714057,Medium,,Store accident description.
+714058,Medium,,Store names/contact information of non State employees involved in incident/accident.
+714059,Medium,,Store work orders (multiple) associated with any repairs.
+714060,Medium,,Store other optional fields based on fleet class and/or fleet/equipment type.
+714061,Medium,,"Integrate with BRIM to automatically provide notification of accident and available information on the accident including  attachment and transfer to BRIM of electronic files (pictures, police reports, estimates, etc.)."
+714062,Medium,,"Integrate with WVDOT's web based Trimble TrimWEB and Telvistar Mobile Resource Management application and/or WVDOT's  TRIMDB SQL*Server database to allow for viewing vehicle activity history including activity, location and date and time of activity."
+714063,Medium,,"Integrate with WVDOT's web based Trimble TrimWEB and Telvistar Mobile Resource Management application and/or WVDOT's  TRIMDB SQL*Server database to allow for viewing available vehicle event history which are logged such as speeding, vehicle  operations during scheduled down-time, etc."
+714064,Medium,,Display vehicle activity history or event history in a tabular format or within a GIS viewer within the ERP fleet management  function.
+714065,High,,"Provide ability to restrict access to view units in fleet inventory by fleet class owner, fleet type owner and agency."
+714066,High,,"Provide capability to search the fleet/equipment inventory by multiple parameters including but not limited to VIN or other unique  identifier, fleet/equipment type, manufacturer, make, model, miles driven, hours used, etc."
+714067,High,,Restrict search capabilities by agency or agency unit based on the user's defined roles/responsibilities.
+714068,High,,"Provide ability to designate at agency level or group of agencies a list of individuals who are able to view any fleet units  designated as having special security (undercover cars, etc.)."
+714069,High,,Restrict only to authorized users information about fleet/equipment units defined as having special security.
+714070,Medium,,Store and track fuel card number.
+714071,Medium,,Track assignment of fuel card to employee or vehicle.
+714072,Medium,,Identify vehicles assigned to individuals for tax purposes.
+714073,Medium,,Integrate with ERP human resources and payroll functions to provide required tax information on vehicles assigned to specific  individuals.
+714074,High,,"Allow for re-numbering of fleet/equipment units and retain repair, fuel, accident and preventive maintenance histories."

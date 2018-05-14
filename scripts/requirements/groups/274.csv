@@ -1,0 +1,8 @@
+"Section:PL-Pavement Management, Structural Conditions (7 Reqs)"
+714804,Medium,,"Import, store, view, edit and utilize in analyses skid tests results."
+714805,High,,"Import, store and view smoothness test data on new pavement."
+714806,Medium,,"Capture, store and allow viewing/editing of core sample results."
+714807,Medium,,"Capture, store, view and utilize in analyses falling weight deflectometer (FWD) data. Data to include but not be limited to: resilient  modulus, date of test."
+714808,Medium,,"Capture, store, view and utilize in analyses surface friction/skid Data. Data to include but not be limited to: date tested, friction  number, test direction, test speed, air temperature, surface temperature, wind speed, cloud cover."
+714809,Medium,,"Capture, store, view and utilize in analysis rolling wheel deflectometer data."
+714810,Medium,,"Import, store, view, edit and utilize in analyses construction pavement layer type and thickness data from Ground Penetrating  Radar (GPR)."

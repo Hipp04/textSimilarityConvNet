@@ -1,0 +1,11 @@
+"Section:SW-Reporting and Business Intelligence, Data Warehouse Architecture (10 Reqs)"
+718552,Medium,,Provide an architecture that is portable and independent of any hardware platform.
+718553,Medium,,Provide an architecture that is independent of any operating system.
+718554,Medium,,"Incorporate an online searchable repository of data warehouse functionality, features and tools."
+718555,Medium,,Incorporate a metadata repository.
+718556,Medium,,Incorporate a run-time repository.
+718557,Medium,,"Support organizing the data in the data warehouse so as to optimize access to the data for query, reporting, and analysis  capabilities."
+718558,High,,"Provide functionality to seamlessly integrate with third party business intelligence and reporting tools such as Crystal Reports,  Cognos, or MS SQL Server BI, Microsoft Office Suite."
+718559,Low,,"Provide functionality to implement metadata management features such as semantic integration, metadata sharing, and  synchronization."
+718560,Low,,Include the ability to provide or integrate with data modeling tools to facilitate data warehouse design.
+718561,High,,"Provide functionality to deploy performance and capacity scaling strategies such as parallel processing, distributed processing,  partitioning, and caching."

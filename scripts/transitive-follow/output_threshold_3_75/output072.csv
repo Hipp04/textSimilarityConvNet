@@ -1,0 +1,2 @@
+ID,Similarity,Requirement
+705059,3.7967865219,"Provide the ability to control payments in excess of encumbered amounts by user-defined tolerance limits for each type of  encumbrance (e.g., 10% or $50 over encumbrance amount) provided sufficient spending authority exists."

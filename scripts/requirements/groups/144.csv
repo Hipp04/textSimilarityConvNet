@@ -1,0 +1,52 @@
+"Section:HRP-Learning Management, Training Administration (51 Reqs)"
+710472,Medium,,"Support identification of employees and contractors via 'swiping' of badges for appropriate situations such as recording  attendance at a training session, signing into the rifle range for ammunition allowance, etc."
+710473,High,,Track classes and courses needed for career / job progression planning and required prerequisites for employees.
+710474,Medium,,"Monitor enrollment in classes, including employees prevented from enrolling due to failure to meet prerequisite requirements,  with an override capability to relax restriction of enrollment prerequisites."
+710475,Medium,,View and search the course catalog and the schedule of training sessions.
+710476,Medium,,"Create a training session outline that lists all the lessons, classes, courses, and programs associated with the training session."
+710477,Medium,,Provide ability to have groups of employees associated with a staff development training coordinator for their functional  development needs.
+710478,Medium,,Designate instructors associated with specific training sessions.
+710479,Medium,,Track session wait lists and to sequence wait lists based on registration time and date.
+710480,Medium,,Track employee participation in non-formal training events such as conferences and web casts.
+710481,Medium,,Provide ability for open registration to a filled session if the facility or room configuration changes and notify those on an existing  wait list.
+710482,Medium,,Notify all appropriate training coordinators of a planned training session.
+710483,Medium,,Allow the training coordinator or employee supervisor to enroll their employees in a specific training session.
+710484,Medium,,Create a wait list when training session maximum enrollment is reached.
+710485,Medium,,Maintain a list of replacements for the training session roster based on the position of the employee in the wait list queue or other  user-specified criteria.
+710486,Medium,,Create the appropriate roster for the training session in a predefined modifiable format.
+710487,Medium,,"Notify enrollees via email or paper when enrolled in, or wait listed for, a training session."
+710488,Medium,,"Notify enrollees via email or paper when a training session is cancelled, postponed, changed or rescheduled."
+710489,Medium,,Provide ability for either the employee's regular training coordinator and/or the training session coordinator to notify employees of  confirmed registration or wait listings.
+710490,Medium,,Provide updates to training session roster based on actual attendance at the completion of the training.
+710491,Medium,,Automatically update skills / certifications / licenses of attendees who have met the course completion (time) and grade  requirements.
+710492,Medium,,Notify the employee's training coordinator and supervisor if actual attendance hours don't match the planned attendance hours (if  employee was a no show or missed part of the training session).
+710493,Medium,,Charge scheduled attendees for no show (without proper cancellation).
+710494,Medium,,Provide ability to setup and generate customized notification letters (paper or e-mail).
+710495,Medium,,Generate customizable notification forms by user-definable criteria (division for example) at a predefined period of time prior to  the start of the training session.
+710496,Medium,,"Track the following information on contract/outside instructors: instruction certification by which sessions, courses, or programs."
+710497,Medium,,"Track the following information on contract/outside instructors: which sessions, courses they instruct, even if the state does not  offer that training."
+710498,Medium,,Track the following information on contract/outside instructors: evaluations (material and delivery).
+710499,Medium,,Calculate the number of training sessions required to train various populations according to flexible criteria and provide results to  training coordinators to utilize for flexible scheduling and enrollment.
+710500,Medium,,Provide ability to reserve a block of seats in a training session by organization unit.
+710501,Medium,,Designate instructors to be associated with a set of lessons / classes / courses / programs.
+710502,Medium,,Provide ability for instructors to generate ad hoc notices to registered participants in a scheduled training session.
+710503,Medium,,Provide ability to record class and instructor evaluation metrics and scores collected at the session or received after the session  via email or web-enabled entry.
+710504,Medium,,Support non-agency and non-State attendees with functionality to include: enrollment.
+710505,Medium,,Support non-agency and non-State attendees with functionality to include: attendance tracking (by person).
+710506,Medium,,Support non-agency and non-State attendees with functionality to include: identification of the outside attendee's training  coordinator (name and contact information).
+710507,Medium,,Support non-agency and non-State attendees with functionality to include: e-mail notifications.
+710508,Medium,,"Support non-agency and non-State attendees with functionality to include: billing (flexible rules according to class, course,  offering agency, attending agency/organization, etc.)."
+710509,Medium,,Support non-agency and non-State attendees with functionality to include: limitation of number of training session slots available  to outside agencies / organizations.
+710510,Medium,,Support non-agency and non-State attendees with functionality to include: prioritization of training session slots by outside  agency / organization.
+710511,Medium,,Create web-based assessments for class participants.
+710512,Medium,,Generate the following notification letters (paper and/or email) for: wait list notification to employee with copy to manager/training  coordinator.
+710513,Medium,,Generate the following notification letters (paper and/or email) for: closed class notification to employee with copy to  manager/training coordinator.
+710514,Medium,,Generate the following notification letters (paper and/or email) for: confirmation of class notification to employee with copy to  manager/training coordinator.
+710515,Medium,,Generate the following notification letters (paper and/or email) for: no-show and cancellation notifications to employee with copy  to manager/training coordinator.
+710516,Medium,,Generate labels for mass notification mailings.
+710517,Medium,,"Record and report planned and actual information based on user defined criteria, for each training session."
+710518,Medium,,For each training session notify instructors and enrollees (email / paper / TTY) of: location.
+710519,Medium,,For each training session notify instructors and enrollees (email / paper / TTY) of: logistical requirements.
+710520,Medium,,For each training session notify instructors and enrollees (email / paper / TTY) of: supplies needed.
+710521,Medium,,For each training session notify instructors and enrollees (email / paper / TTY) of: pre work.
+710522,Medium,,For each training session notify instructors and enrollees (email / paper / TTY) of: time zone and date.

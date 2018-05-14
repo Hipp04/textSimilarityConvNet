@@ -1,0 +1,40 @@
+"Section:FIN-Budgetary Control, Inquiry and Reporting (38 Reqs)"
+706727,Medium,,Provide the ability to report on all detailed data for up to 10 years to meet legislative and management reporting needs both on a  standard and ad-hoc reporting basis.
+706728,Medium,,"Provide ability to summarize individual line-item accounts into meaningful groups of accounts for use in financial reporting, based  on user-defined criteria."
+706729,Medium,,"Provide ability to report budget, encumbrances, commitments, actual revenues, and actual expenditures by user-defined period  using any of the following Chart of Account elements: Fund Structure."
+706730,Medium,,"Provide ability to report budget, encumbrances, commitments, actual revenues, and actual expenditures by user-defined period  using any of the following Chart of Account elements: Agency/Department."
+706731,Medium,,"Provide ability to report budget, encumbrances, commitments, actual revenues, and actual expenditures by user-defined period  using any of the following Chart of Account elements: Organization Structure (e.g., Agency, Division,"
+Sectio,n).,,
+706732,Medium,,"Provide ability to report budget, encumbrances, commitments, actual revenues, and actual expenditures by user-defined period  using any of the following Chart of Account elements: Program Structure."
+706733,Medium,,"Provide ability to report budget, encumbrances, commitments, actual revenues, and actual expenditures by user-defined period  using any of the following Chart of Account elements: Appropriation Structure (currently Fund, Fiscal Year, Organization and  Activity)."
+706734,Medium,,"Provide ability to report budget, encumbrances, commitments, actual revenues, and actual expenditures by user-defined period  using any of the following Chart of Account elements: Location."
+706735,Medium,,"Provide ability to report budget, encumbrances, commitments, actual revenues, and actual expenditures by user-defined period  using any of the following Chart of Account elements: Project Structure."
+706736,Medium,,"Provide ability to report budget, encumbrances, commitments, actual revenues, and actual expenditures by user-defined period  using any of the following Chart of Account elements: Expenditure / Revenue Sub-Object Structure."
+706737,Medium,,"Provide ability to report budget, encumbrances, commitments, actual revenues, and actual expenditures by user-defined period  using any of the following Chart of Account elements: Balance Sheet Account."
+706738,Medium,,"Provide ability to report budget, encumbrances, commitments, actual revenues, and actual expenditures by user-defined period  using any of the following Chart of Account elements: Grant Structure."
+706739,Medium,,"Provide ability to report budget, encumbrances, commitments, actual revenues, and actual expenditures by user-defined period  using any of the following Chart of Account elements: Activity."
+706740,Medium,,"Provide ability to report budget, encumbrances, commitments, actual revenues, and actual expenditures by user-defined period  using any of the following Chart of Account elements: Function."
+706741,Medium,,"Provide ability to report budget, encumbrances, commitments, actual revenues, and actual expenditures by user-defined period  using any of the following Chart of Account elements: Budget Year."
+706742,Medium,,"Provide ability to report budget, encumbrances, commitments, actual revenues, and actual expenditures by user-defined period  using any of the following Chart of Account elements: Period (Fiscal Month/Fiscal Year or Fiscal Year)."
+706743,Medium,,"Provide ability to report budget, encumbrances, commitments, actual revenues, and actual expenditures by user-defined period  using any of the following Chart of Account elements: Other Reporting Period (e.g.. Calendar Month/Year, Federal Month/Year)."
+706744,Medium,,"Provide ability to report budget, encumbrances, commitments, actual revenues, and actual expenditures by user-defined period  using any of the following Chart of Account elements: GAAP Fund."
+706745,Medium,,"Provide ability to report budget, encumbrances, commitments, actual revenues, and actual expenditures by user-defined period  using any of the following Chart of Account elements: Funding Source."
+706746,Medium,,"Provide ability to report budget, encumbrances, commitments, actual revenues, and actual expenditures by user-defined period  using any of the following Chart of Account elements: Cost Center."
+706747,Medium,,System can produce ad-hoc reports using any field in the General Ledger.
+706748,Medium,,Maintain a history of all General Ledger transactions and produces detailed transaction reports to provide an appropriate audit  trail.
+706749,Medium,,"Provide ability to show different organizational structures on a single report displaying accurate prior and current year data.  Within the report, a unit existing under one division in the prior year may be reflected under a new division or may not exist in the  current year."
+706750,Medium,,"Provide ability to filter, search, and report month-to-date and year-to-date budget, estimated revenue, expenditures, revenue,  encumbrances, and commitments by any element in the Chart of Accounts."
+706751,Medium,,Display names for all Chart of Accounts data included when producing reports.
+706752,Medium,,Provide ability to view reports online and print them.
+706753,Medium,,"Provide ability to upload and download information from/to spreadsheet (Excel, Lotus) and database (Access) formats to the  system."
+706754,Medium,,Provide ability to have ad hoc and standard reports.
+706755,Medium,,Provide ability to have data accessible in a reporting server.
+706756,Medium,,Provide ability to create management reports every month.
+706757,Medium,,"Provide ability to search transactions online in real-time by various chart of accounts elements and transaction type number (e.g.,  voucher number, purchase requisition number, purchase order number, etc.)."
+706758,Medium,,Provide ability to produce report supporting budget preparation/creation.
+706759,Medium,,Provide ability to produce a report that provides the beginning and ending balance for the year.
+706760,Medium,,"Provide ability to report expenditures on user-defined time periods (e.g., YTD, fiscal year, calendar year, grant year, project year,  etc.)."
+706761,Medium,,Provide ability to view/report on detailed voucher information.
+706762,Medium,,Provide ability to provide on-line drill down of transaction.
+706763,Medium,,Provide ability to see obligations (encumbrances) by purchase order number or Chart of Accounts value or range of values.
+706764,Medium,,Provide ability to produce an appropriation status report that reflects encumbrances as well as expenditures.

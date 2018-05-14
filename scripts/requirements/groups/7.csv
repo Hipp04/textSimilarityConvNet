@@ -1,0 +1,73 @@
+"Section:FIN-Accounts Receivable, Cash Receipts (72 Reqs)"
+705556,High,,"Provide ability to process receipts, including identifying the payment source, payment source phone number, payee, and any  element in the Chart of Accounts such as fund, agency, appropriation, etc."
+705557,High,,Provide ability to process multiple and/or partial invoice payments on the same receipt.
+705558,High,,"Provide ability to record the receipt amount to the correct account upon entry of the receipt transaction. The data elements  include, but are not limited to, the following: Chart of Account code distributions to which each receipts was deposited."
+705559,High,,"Provide ability to record the receipt amount to the correct account upon entry of the receipt transaction. The data elements  include, but are not limited to, the following: Date received."
+705560,High,,"Provide ability to record the receipt amount to the correct account upon entry of the receipt transaction. The data elements  include, but are not limited to, the following: Name/ID of person collecting monies."
+705561,High,,"Provide ability to record the receipt amount to the correct account upon entry of the receipt transaction. The data elements  include, but are not limited to, the following: Date deposited to bank."
+705562,High,,"Provide ability to record the receipt amount to the correct account upon entry of the receipt transaction. The data elements  include, but are not limited to, the following: Name/ID of person depositing to bank."
+705563,High,,"Provide ability to record the receipt amount to the correct account upon entry of the receipt transaction. The data elements  include, but are not limited to, the following: Unique, sequential receipt document number."
+705564,High,,"Provide ability to record the receipt amount to the correct account upon entry of the receipt transaction. The data elements  include, but are not limited to, the following: Contact information for originating unit (e.g., name, phone number, fax, etc.)."
+705565,High,,"Provide ability to record the receipt amount to the correct account upon entry of the receipt transaction. The data elements  include, but are not limited to, the following: Reference fields."
+705566,High,,"Provide ability to record the receipt amount to the correct account upon entry of the receipt transaction. The data elements  include, but are not limited to, the following: At least 20 user-defined text fields that are minimally 60 characters (e.g., case ID,  case name, purpose)."
+705567,High,,"Provide ability to record the receipt amount to the correct account upon entry of the receipt transaction. The data elements  include, but are not limited to, the following: Payment Identification Number (e.g., check number)."
+705568,High,,"Provide ability to record the receipt amount to the correct account upon entry of the receipt transaction. The data elements  include, but are not limited to, the following: Payment Amount."
+705569,High,,"Provide ability to record the receipt amount to the correct account upon entry of the receipt transaction. The data elements  include, but are not limited to, the following: Place of deposit (i.e., Bank Number)."
+705570,High,,"Provide ability to record the receipt amount to the correct account upon entry of the receipt transaction. The data elements  include, but are not limited to, the following: Location of collection."
+705571,High,,"Provide ability to record the receipt amount to the correct account upon entry of the receipt transaction. The data elements  include, but are not limited to, the following: Payment Type/Method."
+705572,High,,"Provide ability to record the receipt amount to the correct account upon entry of the receipt transaction. The data elements  include, but are not limited to, the following: Who Paid."
+705573,High,,Provide ability to supply an outbound interface for receipts in order to update multiple specialized third-party billing systems  whose functionality cannot be implemented in the ERP.
+705574,High,,Provide ability to support bar code or scan line printing on envelopes and remittance advice to aid in remittance processing.
+705575,High,,Provide ability to utilize a predefined interface for bar code or scan line information which can capture any and all fields of the  coding block applied to financial transactions.
+705576,High,,Provide ability to utilize a predefined interface for OCR templates which can capture any and all fields of the coding block applied  to financial transactions.
+705577,High,,"Provide ability for remote users to collect funds, enter, and account for receipts."
+705578,High,,"Provide ability to record pre-payments for service and generate balancing amounts (due to/from) when reconciling revenue  collected with specific services provided. For example, the system is able to properly record deposits for reservation of  conference rooms for events."
+705579,High,,Provide ability for on-line review of all items in a receipt batch before the batch is posted.
+705580,High,,Provide ability to correct a receipt batch at any time before the batch is posted.
+705581,High,,"Provide ability for user-defined payment methods. (Cash, Credit Card, Check, EFT, etc.)."
+705582,Medium,,Provide ability to create hard-copy receipts: Provide ability for users to specify how many receipt copies to print.
+705583,Medium,,Provide ability to create hard-copy receipts: Provide ability to customize hard copy receipts into as many formats with specified  data fields as needed (including any of the 20 custom fields from the receipt transaction).
+705584,Medium,,Provide ability to minimally capture the following on each hard copy customer receipt: Transaction Date.
+705585,Medium,,Provide ability to minimally capture the following on each hard copy customer receipt: Cashier.
+705586,Medium,,Provide ability to minimally capture the following on each hard copy customer receipt: Location.
+705587,Medium,,Provide ability to minimally capture the following on each hard copy customer receipt: Payment Type/Method.
+705588,Medium,,Provide ability to minimally capture the following on each hard copy customer receipt: Purpose/Description (multiple lines for  purpose/description).
+705589,Medium,,Provide ability to minimally capture the following on each hard copy customer receipt: Payment Amount for each  purpose/description.
+705590,Medium,,Provide ability to minimally capture the following on each hard copy customer receipt: Total Payment Amount.
+705591,Medium,,Provide ability to process split or mixed tendering situations.
+705592,High,,"Provide ability to enter, track separately, and process simultaneously the following tendering situations (but not limited to): Cash,  including capture of Bank Code."
+705593,High,,"Provide ability to enter, track separately, and process simultaneously the following tendering situations (but not limited to):  Check, including capture of ABA number, Account number, and Check number."
+705594,High,,"Provide ability to enter, track separately, and process simultaneously the following tendering situations (but not limited to): by  Credit Card type (MC, VISA, AMEX, Discover)."
+705595,High,,"Provide ability to enter, track separately, and process simultaneously the following tendering situations (but not limited to): Money  Orders, including capture of Bank Code."
+705596,High,,"Provide ability to enter, track separately, and process simultaneously the following tendering situations (but not limited to):  EFT/ACH."
+705597,High,,"Provide ability to enter, track separately, and process simultaneously the following tendering situations (but not limited to): Wire  Transfer."
+705598,High,,"Provide ability to enter, track separately, and process simultaneously the following tendering situations (but not limited to): Debit  Cards."
+705599,High,,Provide ability to record and adjust receipts against the Chart of Accounts.
+705600,Medium,,Provide ability to enter detailed receipt transactions for cash collected (against all chart of account elements e.g. revenue source)  and apply receipts against appropriate accounts receivable balances or invoices.
+705601,High,,Provide ability to compile receipts into deposits more or less frequently than daily and provide the Provide ability to drill back and  forth between deposit and receipt.
+705602,Medium,,Provide ability for daily approval and clearance processes for previously unidentified receipts held in clearing accounts.
+705603,Medium,,"Provide ability to apply payments on receivables by referencing the invoice number, which infers all invoice information to the  receipt."
+705604,Medium,,"Provide ability to optionally post partial payments by invoice line item. The system also has a methodology for automatically  applying partial payments (for example, applying the payments in line order)."
+705605,High,,Provide ability for processing receipts not associated with a specific receivable.
+705606,High,,"Provide ability to code a receipt as a refund of expenditure, trust account deposit, revenue transaction, etc."
+705607,High,,"Provide ability to capture receipts via electronic funds transfers (EFT), ACH, lock box, credit card, and/or other electronic receipts  for payment."
+705608,High,,Provide ability to void receipts with proper controls and an audit trail.
+705609,High,,"Provide ability to code, batch, collect and deposit funds on the behalf of other agencies/external agencies within user-defined  security rules."
+705610,Medium,,"Provide ability to perform the following functions for receipts: Record dishonored revenue payments (i.e., NSF) by name, account  #, deposit #, date and amount and reverse original receipt's accounting events, including proper accounting for NSF fees."
+705611,Medium,,"Provide ability to perform the following functions for receipts: Match a pending file of receipts to future payments (e.g., child  support), for future coding."
+705612,High,,Provide ability for deposits not coded to a specific accounting entry to be posted to a clearing account by bank code.
+705613,High,,Provide ability to correct misapplied payments.
+705614,High,,"Provide ability for a user override of the default Chart of Accounts, with appropriate security."
+705615,Medium,,Provide ability to handle on-line interfund transfers of cash.
+705616,Medium,,Provide ability to automatically adjust A/R account and pass appropriate data to the financial system when accounts have been  written off.
+705617,Medium,,Provide ability to process miscellaneous cash receipts without creating a billing record.
+705618,High,,Provide ability to accept cash receipts applied against multiple invoices.
+705619,High,,Provide ability to generate an outstanding payable for overpayments and notify the collecting unit of the outstanding payable.
+705620,High,,Provide ability to post Federal Aid (FHWA) receivables in the G/L.
+705621,High,,Provide ability to update status of receipts when payments are received.
+705622,High,,"Provide ability to process, record, and track collections."
+705623,High,,Provide ability to record collections against outstanding receivables.
+705624,High,,Provide ability to identify the source year of receipts (a system should be able to identify the source year receipts that come in  during current processing for tracking purposes).
+705625,High,,Provide ability to match checks received for overpayments to the original check paid to an individual.
+705626,High,,Provide ability to restrict the bank account where money can be deposited.
+705627,Medium,,Provide ability to scan a check into the system.

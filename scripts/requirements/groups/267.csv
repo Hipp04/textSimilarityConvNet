@@ -1,0 +1,17 @@
+"Section:PL-Inventory Management, Reporting (16 Reqs)"
+714664,Medium,,Maintain an inventory and generate reports based on user-defined criteria.
+714665,Medium,,"Provide the ability to have reports based on transaction type (i.e., issuance, receipt, transfer, etc.)."
+714666,Medium,,Generate reports of required spare inventory parts and cross reference substitute parts and equipment.
+714667,Medium,,Generate a cycle count/physical inventory worksheet to be sorted by user defined criteria.
+714668,Medium,,"Display/report purchases and receipts by vendor for all parts, one or more types of parts or a specific part for the fiscal year or  other user-defined time period."
+714669,Medium,,Track activity on non-stocked parts to include frequency of issue and fiscal year-to-date information.
+714670,Medium,,"Generate a parts reorder list by vendor, part type, part number, or storeroom."
+714671,Medium,,Generate a surplus parts reports which can track lack of activity for user-defined periods of time.
+714672,Medium,,Generate reports on warranties.
+714673,Medium,,Generate hoc reports on active/inactive inventory records based on user-defined criteria.
+714674,Medium,,Generate a report on inventory value and/or chart of account fields for user-defined time periods.
+714675,Medium,,Track and report on inventory by federal aid type.
+714676,Medium,,Provide the ability for a report of inventory items affected by new or disposed assets for a user-defined time period.
+714677,Medium,,Provide excess or non-moving inventory and obsolete item analysis and reporting.
+714678,Medium,,Generate a report of inventory which have not been counted for a user-defined period of time.
+714679,Medium,,"Provide the ability for a report based on user-defined criteria to help detect fraud. For example, issuance of a printer cartridge to  a copier; issuance of tires to a weed-eater; issuance of multiple oil-filters in one week for the same vehicle."

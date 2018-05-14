@@ -1,0 +1,73 @@
+"Section:FIN-Budgetary Control, Fund Accounting (78 Reqs)"
+706568,Medium,,"Properly account for inter-fund transfers of cash in accordance with GAAP and maintain the associated audit trail. Such transfers  include loans, advances, intra/interfund transfers, intra/interfund services provided and used transactions, and reimbursement  transactions."
+706569,Medium,,"Balance interfund receivable, payable, and operating transfer accounts within funds and agencies, as well as across the entire  system."
+706570,Medium,,"Provide transaction edits at the fund, agency, or department level that permit, warn, or reject transactions across funds, based on  user-defined allowable Chart of Accounts code combinations."
+706571,Medium,,"Perform a cash available edit and commit the transaction if it passes the edit or produce an error message if the transaction fails  the edit. These edits will be performed for every transaction (including expenditure, revenue, or balance sheet accounts). Edit  option to be controlled by Fund or group of Funds."
+706572,Medium,,Allow for establishing funds that are exempt from cash available edits.
+706573,Medium,,"Perform an appropriated budget available edit and commits the transaction if it passes the edit or produces an error message if  the transaction fails the edit. These edits will be performed for every transaction (including expenditure, revenue, or balance  sheet accounts)."
+706574,Medium,,"Perform an allotment budget available edit and commits the transaction if it passes the edit or produces an error message if the  transaction fails the edit. These edits will be performed for every transaction (including expenditure, revenue, or balance sheet  accounts)."
+706575,Medium,,"Perform an operating budget available edit (which is user-defined) and commits the transaction if it passes the edit or produces  an error message if the transaction fails the edit. These edits will be performed for every transaction (including expenditure,  revenue, or balance sheet accounts)."
+706576,Medium,,"Provide ability to record a transaction that uses both an Expenditure Object and a Balance Sheet Asset account. The transaction  would be used for disbursing appropriated funds as an expenditure against the appropriation for budgetary purposes as well as  an asset receivable for financial reporting, e.g., Loan Disbursements. The transaction should be posted uniformly against all  subledgers including, but not limited to Grant Accounting and Project Accounting."
+706577,Medium,,"Provide ability to record a transaction that uses both Revenue sub-object account Code and Balance Sheet Asset account. The  transaction would be used for receipting revenues and posting to appropriations for budgetary reporting as well as offsetting  Asset Receivables for financial reporting, e.g., Receipt of Loan repayments. The transaction should be posted uniformly against  all subledgers including, but not limited to Grant Accounting and Project Accounting."
+706578,Medium,,"Provide ability to record a transaction type that uses an Expenditure Object but does not edit or update the Appropriation or  Operating Budget balance, i.e., the transaction posts an expenditure and related offsets to the general ledger, but does not affect  appropriation or operating budget authority or be reflected in the calculated balance. The transaction should be posted uniformly  against all subledgers including, but not limited to Grant Accounting and Project Accounting."
+706579,Medium,,Provide ability to process transfers between funds.
+706580,Medium,,"Allow users to perform intra-agency and inter-agency fund transfers: real (i.e., cash), nominal (i.e., expenses)."
+706581,Medium,,Provide ability for one agency to process a payment to another agency for goods or services rendered without issuing a check.
+706582,Medium,,Support a fund having multiple bank accounts. Including outside agency bank accounts.
+706583,Medium,,Identify funds that have outside bank accounts.
+706584,Medium,,Provide ability to record and maintain the following non-financial data for each unique fund: Date Established.
+706585,Medium,,Provide ability to record and maintain the following non-financial data for each unique fund: Purpose of Fund.
+706586,Medium,,Provide ability to record and maintain the following non-financial data for each unique fund: Source of Revenue.
+706587,Medium,,Provide ability to record and maintain the following non-financial data for each unique fund: Acceptable Uses.
+706588,Medium,,Provide ability to record and maintain the following non-financial data for each unique fund: Legal Authority (for creation of fund).
+706589,Medium,,Provide ability to record and maintain the following non-financial data for each unique fund: Date Closed.
+706590,Medium,,Provide ability to record and maintain the following non-financial data for each unique fund: Fund Type.
+706591,Medium,,Provide ability to record and maintain the following non-financial data for each unique fund: Fund Group.
+706592,Medium,,Provide ability to record and maintain the following non-financial data for each unique fund: GAAP Fund Type.
+706593,Medium,,Provide ability to record and maintain the following non-financial data for each unique fund: Investment - Trust Fund.
+706594,Medium,,Provide ability to record and maintain the following non-financial data for each unique fund: Investment - IMB.
+706595,Medium,,Provide ability to record and maintain the following non-financial data for each unique fund: Investment - BTI.
+706596,Medium,,Provide ability to record and maintain the following non-financial data for each unique fund: Negative Cash Balance Allowed.
+706597,Medium,,Provide ability to record and maintain the following non-financial data for each unique appropriation: Date Established.
+706598,Medium,,Provide ability to record and maintain the following non-financial data for each unique appropriation: Purpose of Appropriation.
+706599,Medium,,Provide ability to record and maintain the following non-financial data for each unique appropriation: Funding Source.
+706600,Medium,,Provide ability to record and maintain the following non-financial data for each unique appropriation: Acceptable Uses.
+706601,Medium,,Provide ability to record and maintain the following non-financial data for each unique appropriation: Legal Authority (for creation  of appropriation).
+706602,Medium,,Provide ability to record and maintain the following non-financial data for each unique appropriation: Date Closed.
+706603,Medium,,Provide ability to record and maintain the following non-financial data for each unique appropriation: Appropriation Type.
+706604,Medium,,Provide ability to record and maintain the following non-financial data for each unique appropriation: Multiple User-Defined Fields.
+706605,Medium,,Provide ability to record and maintain the following financial data for each unique fund: Adopted Annual Appropriation.
+706606,Medium,,Provide ability to record and maintain the following financial data for each unique fund: Adjusted Annual Appropriation.
+706607,Medium,,Provide ability to record and maintain the following financial data for each unique fund: Agency Annual Budget.
+706608,Medium,,Provide ability to record and maintain the following financial data for each unique fund: Original Allotment.
+706609,Medium,,Provide ability to record and maintain the following financial data for each unique fund: Adjusted Allotment.
+706610,Medium,,Provide ability to record and maintain the following financial data for each unique fund: Total Expenditures.
+706611,Medium,,Provide ability to record and maintain the following financial data for each unique fund: Total Revenue.
+706612,Medium,,Provide ability to record and maintain the following financial data for each unique fund: Commitments.
+706613,Medium,,Provide ability to record and maintain the following financial data for each unique fund: Encumbrances.
+706614,Medium,,Provide ability to record and maintain the following financial data for each unique fund: Interfund Transactions.
+706615,Medium,,Provide ability to record and maintain the following financial data for each unique fund: Fund Balance.
+706616,Medium,,"Provide ability to record and maintain the following financial data for each unique fund: Breakdown of fund balance into  nonspendable, restricted, committed, assigned, and unassigned (GASB 54)."
+706617,Medium,,Provide ability to record and maintain the following financial data for each unique appropriation: Adopted Annual Appropriation.
+706618,Medium,,Provide ability to record and maintain the following financial data for each unique appropriation: Adjusted Annual Appropriation.
+706619,Medium,,Provide ability to record and maintain the following financial data for each unique appropriation: Agency Annual Budget.
+706620,Medium,,Provide ability to record and maintain the following financial data for each unique appropriation: Original Allotment.
+706621,Medium,,Provide ability to record and maintain the following financial data for each unique appropriation: Adjusted Allotment.
+706622,Medium,,Provide ability to record and maintain the following financial data for each unique appropriation: Total Expenditures.
+706623,Medium,,Provide ability to record and maintain the following financial data for each unique appropriation: Total Revenue.
+706624,Medium,,Provide ability to record and maintain the following financial data for each unique appropriation: Commitments.
+706625,Medium,,Provide ability to record and maintain the following financial data for each unique appropriation: Encumbrances.
+706626,Medium,,Provide ability to record and maintain the following financial data for each unique appropriation: Interfund Transactions.
+706627,Medium,,Provide ability to record and maintain the following financial data for each unique appropriation: Fund Balance.
+706628,Medium,,"Provide ability to record and maintain the following financial data for each unique appropriation: Breakdown of fund balance into  nonspendable, restricted, committed, assigned, and unassigned (GASB 54)."
+706629,Medium,,Maintain expenditure and revenue details on a fund-by-fund basis.
+706630,Medium,,Provide an on-line interfund/interagency reconciliation.
+706631,Medium,,"Provide for the maintenance of funds on the GAAP fund structure, which differs significantly from the statutory fund structure  (currently defined by several elements of the Chart of Accounts including but not limited to Fund, Agency, Group, etc.)."
+706632,High,,Provide ability to enter appropriations on line or to upload from another system.
+706633,Medium,,Provide ability to have hard budget controls set up at different appropriation levels.
+706634,Medium,,"Provide ability to set up ""uncontrolled"" or tracked appropriations."
+706635,Medium,,"Provide ability to reduce appropriation balance by encumbrances, expenditures and adjustments."
+706636,Medium,,"Provide ability to reduce available allotment balance by encumbrances, expenditures and adjustments."
+706637,Medium,,Provide ability to limit certain appropriations (amount available) to lesser of the amount of revenue received or the amount  appropriated.
+706638,Medium,,Provide ability to modify budgets (transfer budget) within the system with proper authority.
+706639,Low,,Provide ability to set up and maintain multiple appropriations over multiple years with multiple levels of spending control.

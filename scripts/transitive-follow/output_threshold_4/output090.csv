@@ -1,0 +1,4 @@
+ID,Similarity,Requirement
+705089,4.7719570109,Allow for the release of payment vouchers to payment processing by the following: Batch.
+705090,4.7661350768,Allow for the release of payment vouchers to payment processing by the following: Document.
+705091,4.7276710614,Allow for the release of payment vouchers to payment processing by the following: Individual line item.

@@ -1,0 +1,63 @@
+"Section:PL-Inventory Management, Inventory Accounting (62 Reqs)"
+714471,High,,"Supports General Ledger accounting for inventory by ""purchase"" method."
+714472,High,,"Supports General Ledger accounting for inventory by ""consumption"" method."
+714473,High,,Supports the ability to define by organizational unit the accounting method used (purchase or consumption).
+714474,Medium,,Provide the ability to override the defined accounting method (purchase versus consumption) on a procurement transaction with  appropriate security. (In or out of inventory asset).
+714475,High,,System automatically reverses accounting and inventory transactions when an order is cancelled and goods have not been  received from a vendor.
+714476,High,,"Provide the ability to assign user-defined expenditure accounts, by default, to transactions based on commodity code, account  code, and transaction type (with override capability only with appropriate security)."
+714477,Medium,,Provide for inventory control accounts (or central stock accounts) as defined by users.
+714478,High,,"Provide a multi-level location structure, to include: Warehouse (for example - central supply)."
+714479,High,,"Provide a multi-level location structure, to include: Storage area (for example - 2nd floor NW quadrant)."
+714480,High,,"Provide a multi-level location structure, to include: Aisle."
+714481,High,,"Provide a multi-level location structure, to include: Bin."
+714482,High,,"Provide a multi-level location structure, to include: Shelf."
+714483,High,,"Provide a multi-level location structure, to include: Rack."
+714484,High,,"Provide a multi-level location structure, to include: Cart."
+714485,High,,"Provide a multi-level location structure, to include: Required environmental conditions for the specific location."
+714486,High,,"Provide a multi-level location structure, to include: Other fields as defined by users."
+714487,High,,"Allow transfers of stock items from project to project, between cost centers, among divisions, and among warehouses with  corresponding addition and depletion figures, with the proper authorization/approval."
+714488,High,,"Provide the ability to allocate purchases and stock to various divisions, warehouses, section of warehouse, cost center, multiple  ship-to addresses, etc. (i.e., drop shipping)."
+714489,High,,Provide capability to buy an item in one unit but receive and track the item in another unit with conversion factors between the  two units.
+714490,High,,Provide the ability to maintain an unlimited number of separate storerooms or warehouses for each individual organization.
+714491,High,,Provide the ability for primary and multiple secondary locations of stocked items.
+714492,High,,Provide the ability to indicate stock on hand by each location or multiple locations.
+714493,High,,Provide the ability to indicate stock on order by each location or multiple locations.
+714494,High,,Provide the ability to perform lot expiration tracking.
+714495,High,,"Provide the ability to flag inventory due to manufacture recall, defect, or discontinuation."
+714496,High,,"Provide the ability to define default warehouse views for users (i.e., users are restricted to using certain warehouses based on  region, etc.)."
+714497,High,,"Provide the ability which allows users to specify a mark-up or overhead cost for each individual commodity code, commodity  code grouping or item."
+714498,High,,"Provide the ability to allocate the cost of inventory, based on markup if applicable, back to the requesting entity and reverse the  accounting transactions if items are returned to the warehouse."
+714499,High,,Provide the ability to automatically calculate a mark-up cost for each individual commodity code or item.
+714500,High,,Provide the ability to automatically calculate an overhead cost for each individual commodity code or item.
+714501,High,,Provide the following inventory costing methods: Actual Cost.
+714502,High,,Provide the following inventory costing methods: LIFO.
+714503,High,,Provide the following inventory costing methods: FIFO.
+714504,High,,Provide the following inventory costing methods: Average cost.
+714505,High,,Provide the following inventory costing methods: Replacement cost.
+714506,High,,Provide the following inventory costing methods: User-defined costing methods.
+714507,High,,Provide the ability to automatically adjust item costs in the inventory system based upon adjustments made in accounts payable  system.
+714508,High,,Provide the ability to calculate and store the average cost of an item held in inventory.
+714509,High,,Provide the ability to submit purchase requisitions for inventory items electronically and update inventory on-order quantities  automatically.
+714510,High,,Provide the ability to record issues and receipts for inventory.
+714511,High,,Provide the ability to track inventory consumed for purpose of determining cost drivers for cost allocations.
+714512,High,,Provide the ability to receive purchases into inventory and expense as used.
+714513,High,,Provide the ability for store room personnel to receive inventory items electronically.
+714514,High,,Provide the ability to have an inventory labeling method that will withstand various environments.
+714515,High,,Provide the ability to bar code inventory and the ability to opt out of this functionality.
+714516,High,,Provide the ability for authorized users to make additions to the Master Inventory List.
+714517,High,,Provide the ability to summarize inventory transactions and transfer associated charge-back cost information to accounts.
+714518,High,,"Provide the ability to transfer material inventory and associated costs between locations, departments or agencies and within  agency."
+714519,High,,Provide the ability to check status of inventory transfers on line.
+714520,High,,Provide the ability to enter requisitioning document for an item at the lowest level (area) and flow up to higher level (district) and  automatically create a PO in the purchasing system if the item is not available.
+714521,High,,Provide the ability to acknowledge items or property donated or transferred to/from other agencies.
+714522,High,,Provide the ability to cross-reference Manufacturers' part numbers to the inventory commodity code structure with ability for  agency specific code.
+714523,High,,"Provide the ability to maintain warranty information (regular and/or extended) on the inventory record for the following: Cycle  (hours, days, years, miles)."
+714524,High,,Provide the ability to maintain warranty information (regular and/or extended) on the inventory record for the following: Length of  cycle in time and/or miles.
+714525,High,,Provide the ability to maintain warranty information (regular and/or extended) on the inventory record.
+714526,High,,Provide the ability to establish sales price for manufactured goods (including overhead and markup).
+714527,High,,"Provide the ability to establish sales price for manufactured goods based upon size. For example, a sign made for a certain size  has established sales price."
+714528,High,,Provide the ability to accommodate cyclical ordering.
+714529,High,,Provide the ability to create a requisitioning document to order inventory items off of State contract.
+714530,High,,Provide the ability to differentiate between raw materials inventory and consumable inventory.
+714531,High,,Provide for the transfer of assembled units to a finished goods inventory.
+714532,High,,"System provides for receipt, partial or complete, by line item as well as the entire purchase order."

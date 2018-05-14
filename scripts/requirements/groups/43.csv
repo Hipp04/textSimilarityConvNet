@@ -1,0 +1,25 @@
+"Section:FIN-Cash Management, Agency Trust Funds (24 Reqs)"
+706808,Medium,,Provide fields for recording receipts accompanying reimbursement requests.
+706809,Medium,,Provide for user-defined levels of approval on all agency trust fund transactions.
+706810,Medium,,Provide integration with Accounts Payable module to facilitate 1099 reporting for agency trust fund transactions.
+706811,Low,,Maintain the following data in respect to trust fund transactions: Chart of Account code or codes.
+706812,Low,,Maintain the following data in respect to trust fund transactions: Date requested and date issued.
+706813,Low,,Maintain the following data in respect to trust fund transactions: Unit/Name of person requesting.
+706814,Low,,Maintain the following data in respect to trust fund transactions: Payee if different than requestor.
+706815,Low,,Maintain the following data in respect to trust fund transactions: Amount.
+706816,Low,,Maintain the following data in respect to trust fund transactions: Description.
+706817,Low,,Maintain the following data in respect to trust fund transactions: Reimbursement or Advance.
+706818,Low,,Maintain the following data in respect to trust fund transactions: Receipts on file (Yes or No).
+706819,Low,,Maintain the following data in respect to trust fund transactions: Justification (at least 60 characters).
+706820,Low,,Maintain the following data in respect to trust fund transactions: Approvals.
+706821,Low,,Maintain the following data in respect to trust fund transactions: Approval Date.
+706822,Low,,Maintain the following data in respect to trust fund transactions: Warrant/Check # and/or Voucher # (system assigned).
+706823,Low,,Maintain the following data in respect to trust fund transactions: Reference Number.
+706824,Low,,Maintain the following data in respect to trust fund transactions: Address.
+706825,Low,,Maintain the following data in respect to trust fund transactions: Phone Number.
+706826,Low,,Maintain the following data in respect to trust fund transactions: Prepared By.
+706827,Low,,Maintain the following data in respect to trust fund transactions: Location.
+706828,Low,,Maintain the following data in respect to trust fund transactions: At least 2 user-defined fields.
+706829,Medium,,Allow user-input text field (message) on warrant stub.
+706830,Low,,Route requests for new trust accounts to Treasurer for approval through automated workflow.
+706831,Medium,,"Provide ability to setup, transact, and reconcile multiple agency trust funds."

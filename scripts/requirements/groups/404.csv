@@ -1,0 +1,15 @@
+"Section:PL-Transportation Asset Inventory, Traffic Control (14 Reqs)"
+717273,Medium,,Provide support for a range of traffic control devices.
+717274,Medium,,Store automatic traffic recorder (ATR) sites.
+717275,Medium,,Store bridge signals.
+717276,Medium,,Store delineators.
+717277,Medium,,Store intersection control and other warning beacons.
+717278,Medium,,Store intersection flashers.
+717279,Medium,,Store reversible lane signals.
+717280,Medium,,Store roundabouts.
+717281,Medium,,Store chevrons.
+717282,Medium,,Store hazard paddles.
+717283,High,,Store school warning beacons.
+717284,High,,Store signal system components.
+717285,High,,"Store traffic control signals including pre-emption for bus, fire, railroad, etc."
+717286,High,,Store video cameras (at signalized intersections).

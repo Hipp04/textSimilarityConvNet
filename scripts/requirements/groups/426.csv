@@ -1,0 +1,4 @@
+"Section:PL-Transportation Asset Inventory, Data Integration (3 Reqs)"
+717475,High,,"Store one or more cross references to a unique asset identified in existing management systems. For example, a Federal Bridge  number, etc."
+717476,Medium,,"Integrate with the ERP real estate and facilities management function to access more detailed information about facilities that are  on the transportation network; examples are travel centers, rest areas, train stations, bus stations, toll plazas, etc."
+717477,High,,"Allow for programmatic access by other ERP functions or other WVDOT applications to the asset inventory information for on- demand inquiry, validation and reporting."

@@ -1,0 +1,108 @@
+"Section:FIN-Grants Management, Transaction Processing (107 Reqs)"
+707814,High,,Maintain detailed transaction history online for life of grant and for a user-defined period beyond the grant life.
+707815,High,,Allow adjustments for any open accounting period in any grant or fiscal year.
+707816,High,,Allow multiple divisions to enter information on a single grant with security constraints established at the transaction level.
+707817,High,,Support compliance with the Federal Government's Single Audit Act.
+707818,High,,Support compliance with the cash management legislation.
+707819,High,,Support complete accounting in conformity with all U.S. Government and state requirements.
+707820,High,,Track by individual sub-categories within a single grant.
+707821,High,,Support annual or multi-year funding allocation process that allows for expenditures or carry-over of prior year budget.
+707822,High,,Allow for expenditures and billing to a grant for a user-defined period beyond the grant fiscal year.
+707823,High,,Allow the definition of the program or budget year of the grant/project to be different from the system established fiscal year.
+707824,High,,Set up and report budget items based on multiple fiscal years and grant years.
+707825,High,,Calculate indirect costs on a user defined basis associated with any grant.
+707826,High,,Provide system generated entries for indirect cost calculations on a user defined basis associated with any grant.
+707827,High,,Provide the ability to support grant closing independent of state fiscal year.
+707828,High,,"Support financial report preparation for grants (i.e., monthly, quarterly, and annual federal reporting requirements)."
+707829,High,,Track grantor match rates by grant.
+707830,High,,Track grantor match rates by grant phase.
+707831,Medium,,Track grantor match rates by object.
+707832,Medium,,Track grantee match rates by cost category.
+707833,High,,Calculate matching fund requirements associated with any grant on a user defined basis.
+707834,Medium,,Allow a mechanism to specify how many times a match can be used.
+707835,Medium,,Allow an option on each grant for an agency to specify grant match.
+707836,High,,Support the tracking of % of match by match source with maximum amounts.
+707837,Medium,,Support grant tier matching requirements with various rules.
+707838,High,,Track the original source of funding as federal as they flow through pass through accounts and are transferred internally within  the State.
+707839,High,,Allow an expenditure to be allocated to various chart of account elements by a % when the invoice is added for payment.
+707840,Medium,,Provide an edit for draw downs matching to expenses with a tolerance % if amounts do not agree.
+707841,High,,Provide a mechanism to track expenditure recognition based upon payroll processed in advance versus in arrears.
+707842,High,,Provide a mechanism to allocate expenditures for payroll processed in advance versus arrears to the correct accounting period.
+707843,High,,Support the ability to estimate revenue for federal draws with the ability to settle to the actual expenditures after the fact.
+707844,High,,Provide ability to link deposit refunds (check received from vendor) to all types of encumbrances from a prior fiscal year and post  to the current year.
+707845,High,,Support the ability to record two addresses for sub recipient information.
+707846,High,,Support the ability to track DUNS number for sub recipients.
+707847,High,,"Provide the ability to store imaged Word, WordPerfect and PDF files for sub recipient transactions."
+707848,High,,Provide the ability to store imaged spreadsheets for sub recipient transactions.
+707849,Medium,,"Support unique match rates for each grant award by grant, grant phase and object, including individual objects or groups of  objects (e.g., personnel at 100% and supplies at 25% for grant 1, personnel at 90% and supplies at 40% for grant 2)."
+707850,High,,Accommodate grant year accounting and comply with both federal fiscal year and state fiscal year budgeting requirements.
+707851,High,,"Provide the ability to roll over appropriations, revenue sources, and expenditures from one grant year to the next, until the grant  expires."
+707852,High,,"Provide the ability to uniquely identify each sub grantee for grants and all grant financial activity related to sub grantees, including  the following: Record awards made to sub grantees."
+707853,High,,"Provide the ability to uniquely identify each sub grantee for grants and all grant financial activity related to sub grantees, including  the following: Record funds received from federal government (or other sources) for pass-through purposes as either revenue or  as non-revenue liabilities."
+707854,High,,"Provide the ability to uniquely identify each sub grantee for grants and all grant financial activity related to sub grantees, including  the following: Record funds disbursed from the agency as transfers or as reductions of liabilities."
+707855,Medium,,"Provide the ability to uniquely identify each sub grantee for grants and all grant financial activity related to sub grantees, including  the following: Record sub grantee budget by categories as defined by the grant and/or sub grant contract."
+707856,High,,"Provide the ability to uniquely identify each sub grantee for grants and all grant financial activity related to sub grantees, including  the following: Enter as memo entries sub grantee actual expenditures by categories as defined by the grant and/or sub grant  contract."
+707857,High,,"Provide the ability to uniquely identify each sub grantee for grants and all grant financial activity related to sub grantees, including  the following: Capture the effective beginning and end date of the sub grant."
+707858,High,,"Provide the ability to uniquely identify each sub grantee for grants and all grant financial activity related to sub grantees, including  the following: Warn user if draw-down or reimbursement request exceeds grant award."
+707859,High,,"Provide the ability to uniquely identify each sub grantee for grants and all grant financial activity related to sub grantees, including  the following: Link a grant to multiple projects."
+707860,High,,Link multiple grants to a single project.
+707861,High,,"Allow for establishing grant activity at lower levels of detail than grant number (e.g., grant phase or activity within phase) and  track financial activity associated with each phase."
+707862,High,,"Differentiate between federal, state, and other agency grants for audit purposes."
+707863,High,,Provide an edit that ensures the CFDA number is valid for the grantor assigned to the grant.
+707864,High,,Provide an override mechanism for authorized users to allow exceptions to valid CFDA edits to allow a unique number to identify  the funding instead of CFDA.
+707865,High,,Capture all grant financial activity through the general ledger.
+707866,High,,"Provide the ability to record direct and indirect costs associated with a grant as memo or actual entries, both for fixed dollars and  for applied rates to labor or allowable expenses."
+707867,High,,Allow for tracking revenue and expenditure actuals and budget (including encumbrances) by current fiscal year and grant  inception date to current date.
+707868,High,,Prohibit processing of grant-related expenditure transactions where the service date is not within the grant period.
+707869,Medium,,Provide override capability for processing rejected transactions for grant-related expenditure transactions not within grant service  dates with proper authority and audit trail.
+707870,High,,Provide the ability to suspend a grant prior to completion.
+707871,High,,"Provide the ability to store the indirect cost rate along with an effective time period for each grant, grant phase, and object."
+707872,High,,"Provide the ability to apply the indirect cost rate to direct costs and store the result as an actual entry associated with the grant,  grant phase, and object."
+707873,High,,"Provide the ability to apply the indirect cost rate to direct costs and store the result as a memo entry associated with the grant,  grant phase and object."
+707874,High,,Provide for accumulating total costs without regard to the funding source and then automatically bill each funding source  according to the user defined percentage.
+707875,High,,Support grant percentages with at least 6 decimal places.
+707876,High,,Insure that percentages of funding for grant expenditures total 100%.
+707877,Medium,,"Provide automated front-end splitting of transactions across multiple account coding distribution. If the grant on a transaction is a  parent transaction, the system should automatically split the transactions (e.g. Grant A is parent of grants B and C with a split of  60% and 40% respectively. When an encumbrance transaction is processed for grant A, it is automatically split along predefined  percentages to create encumbrances for grants B and C)."
+707878,High,,Provide automated front-end splitting of transactions across multiple account coding distributions at least 9999 lines of  distributions.
+707879,Medium,,Provide encumbrance liquidation functionality such that when a voucher is processed against an encumbrance that references a  parent grant it will automatically split and appropriately liquidate the secondary encumbrances.
+707880,Medium,,Do not post any of the secondary transactions unless all of the secondary transactions pass data and funding edits.
+707881,Medium,,Maintain a link between the secondary transactions and the parent transaction.
+707882,High,,"Support budgeting grants at varying user-defined levels and combinations of classification structure elements (i.e., grant, phase,  fund, and expenditure object)."
+707883,High,,Carry forward fiscal year grant balances for multi-year grants.
+707884,High,,"Record as a memo entry the 'in-kind' value (e.g., non-cash match) as part of grant activity."
+707885,Medium,,Track maintenance of effort requirements for a grant.
+707886,Medium,,Record certified public expenditures as grant local revenue and expenditures.
+707887,Medium,,Record the federal receivable based on certified public expenditures.
+707888,Medium,,Allow recording of memo and statistical transactions.
+707889,High,,Utilize workflow to notify grant administrators and other users (at user defined time periods) of grant milestones (expiration dates  etc.).
+707890,High,,"Track actual expenditures against budgeted/allowable expenditures by user-defined period (i.e., monthly, quarterly, daily, etc.)."
+707891,High,,"Report summary expenditure activities based upon the grantor reporting requirements, without requiring changes to the State's  object codes."
+707892,Medium,,"Access actual expenditure information from other modules (fixed assets, salaries, supplies, etc.) at a detail and summary level  for each grant."
+707893,High,,Report actual employee and contractor hours worked by grant and grant phase.
+707894,High,,Check actual expenditures against allowable expenditure type.
+707895,Medium,,Generate revenue/receivable transactions from grants expenditure data.
+707896,Medium,,Generate revenue/receivable transactions from grants expenditure data for multiple funding sources.
+707897,High,,Allow the prioritization by funding source of expenditures funded by multiple funding sources/grant.
+707898,High,,Allow the prioritization of funding of expenditures by percentage.
+707899,Medium,,Allow the option to recognize revenue only after expenditures have been incurred. Unrecognized revenues to be carried forward  at year end.
+707900,Medium,,Prompt or alert users to recognize (realize) grant revenues after grant expenditures have been recorded for a user-specified  period of time.
+707901,High,,Provide the ability to link receipt of revenue to grant.
+707902,High,,"Provide the ability to link refunds to a grant transaction e.g. expenditure, encumbrance etc."
+707903,High,,Allow distributed users (org unit) to enter grant expenditures on line.
+707904,High,,Provide workflow capability to notify grant administrators when a review and/or approval of information is required.
+707905,High,,Monitor progress of grant expenditures/revenues against original grant contract information.
+707906,High,,Track milestones and expiration and extension dates.
+707907,High,,"Categorize and report on grant revenue/expenditures, start/end dates and other information within user-defined time periods,  such as fiscal year, federal reporting year, grant term, etc."
+707908,High,,Provide the ability to estimate expenses through the duration of the grant and compare these estimates against the budget.
+707909,Medium,,Track and monitor cash flow at the following levels: At the letter of credit level.
+707910,High,,Track and monitor cash flow at the following levels: At the State grant level.
+707911,Medium,,Track and account for reimbursements and advance payments in accordance with Federal and State requirements.
+707912,High,,"Add, modify or delete grant information online with audit trail of all changes."
+707913,High,,Provide for grant summary history online.
+707914,High,,Provide for grant detail history.
+707915,High,,Support multiple programs per grant (sub-grants).
+707916,High,,Archive or purge expired grants or non-awarded grants after user-specified period of time.
+707917,High,,Archive closed grants with no activity beyond a user defined time interval.
+707918,Medium,,Provide the ability to calculate percentage and amount of change for a period of time.
+707919,High,,"Suspend grant transactions based on user defined criteria (i.e., expiration date or grant status)."
+707920,High,,Provide a flag/indicator that prevents transactions from posting against the grant.

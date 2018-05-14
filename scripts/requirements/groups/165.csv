@@ -1,0 +1,12 @@
+"Section:HRP-Payroll, Employee Self Service (11 Reqs)"
+711171,Low,,Create a self-service wizard for assisting employees in determining their proper W-4 and other tax withholding amounts.
+711172,High,,Allow employees to request duplicate W-2's.
+711173,Low,,"Allow employees to model ""what-if"" net pay scenarios (457, benefit changes, withholding changes, FTE change, etc.)."
+711174,Medium,,"Allow employees to view the details (calculated amounts, balances, etc.) of all deductions (garnishments, flexible spending  accounts, etc.)."
+711175,Medium,,"Allow employees to view and/or print a duplicate check stub, including gross pay, all deductions taken and the deposit amounts  for each bank account."
+711176,Medium,,Allow employees to view and/or change bank account information for direct deposits (at least 5 different accounts).
+711177,Medium,,Allow employee option to send remittance advice to employee home or work email instead of a paper copy being mailed.
+711178,Medium,,Allow ability for each organizational unit to specify whether employee information that is normally inserted with check stub will be  posted online or routed via email (to reduce requirement for sending additional paper with the pay stub).
+711179,Medium,,Allow employees to request printing of their W2's on blank stock paper from the stored image.
+711180,Medium,,Allow a change of address before reissue duplicate W-2.
+711181,High,,Retain W2 output for access by the employee online.

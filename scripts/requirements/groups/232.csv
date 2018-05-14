@@ -1,0 +1,13 @@
+"Section:PL-Facilities Management, Labor (12 Reqs)"
+713690,Medium,,Integrate with ERP personnel administration and learning management functions as required to obtain information on employees  required to support resource scheduling and costing within the facilities management function.
+713691,Medium,,Store and display name.
+713692,Medium,,Store and display employee ID number.
+713693,Medium,,Store and display job title.
+713694,Medium,,Store and display labor class.
+713695,Medium,,Store and display current assignment location.
+713696,Medium,,Store and display pay grade and rate.
+713697,Medium,,"Store and display qualifications and special skills (CDL, equipment certifications, etc.)."
+713698,Medium,,Store and display certifications and training courses completed.
+713699,Medium,,"Utilize available employee information to compare labor needs with availability, scheduling, and costing of work orders and daily  work accomplishments."
+713700,Medium,,"Produce labor averages by repair type and individual maintenance technician for a facility grouping, facility, maintenance shop,  set of maintenance shops or for the entire agency."
+713701,Medium,,"Prepare efficiency reports which measure how a maintenance technician's performance compares with one or more user-defined  standards. Reports must be able to be generated for the entire agency, a facility group/campus, facility, a set of maintenance  shops, a maintenance shop or for one or more maintenance technicians for a user defined set of maintenance activities/repair  types and date range."

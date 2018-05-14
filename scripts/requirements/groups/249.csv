@@ -1,0 +1,4 @@
+"Section:PL-Fleet Management, Facilities and Operations Management Integration (3 Reqs)"
+714146,Medium,,Integrate with the ERP operations management function to obtain vehicle and equipment usage information entered by  maintenance forces on the Daily Activity Report or on a specific work order and update the vehicle inventory information with the  mileage or hours utilized as appropriate.
+714147,Medium,,Integrate with the ERP facilities management function to obtain vehicle and equipment usage information entered by facilities  staff on work orders and update the vehicle inventory information with the mileage or hours utilized as appropriate.
+714148,Medium,,Provide capability to view history of work orders on which a fleet/equipment unit has been utilized and to drill down to see the  details associated with this work order.

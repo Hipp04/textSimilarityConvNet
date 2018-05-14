@@ -1,0 +1,9 @@
+"Section:PL-Safety Management, Conviction Data (8 Reqs)"
+716969,Medium,,Provide information about and support analysis using conviction data for drivers involved in a crash event.
+716970,Medium,,Provide an open interface to allow for electronic transfer of conviction data from the DMV driver license system or court  management systems.
+716971,Medium,,Allow an authorized user to enter and update conviction data online in the SMS function.
+716972,Medium,,"Store, display and utilize crash report number."
+716973,Medium,,"Store, display and utilize citation number."
+716974,Medium,,"Store, display and utilize conviction date."
+716975,Medium,,"Store, display and utilize county/jurisdiction."
+716976,Medium,,"Store, display and utilize convictions (multiple)."

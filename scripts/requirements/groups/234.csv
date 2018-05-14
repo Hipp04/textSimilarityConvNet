@@ -1,0 +1,42 @@
+"Section:PL-Facilities Management, Inventory (41 Reqs)"
+713715,High,,"Integrate with ERP inventory function to maintain an inventory of an unlimited number of materials, parts and other inventory  items."
+713716,High,,"Allow for an agency specific materials inventory that supports both a standard commodity/item identifier at the enterprise level to  track enterprise level usage of a material, as well as material codes unique to each individual agency."
+713717,High,,Support set-up of multiple stock rooms or warehouse locations per agency.
+713718,Medium,,"Provide the capability to integrate with bar code scanners to receive, transfer, adjust and charge out parts inventory."
+713719,High,,"Store and display statewide material, part or item code."
+713720,High,,"Store and display agency material, part or item code."
+713721,High,,Store and display material unit number.
+713722,High,,Store and display manufacturer.
+713723,High,,"Store and display manufacturer part, material or item number."
+713724,High,,Store and display serial number.
+713725,High,,Store and display alternate identifier.
+713726,High,,Store and display description.
+713727,High,,Store and display usage codes (multiple).
+713728,High,,Store and display reference fields (multiple).
+713729,High,,Store and display cross reference fields (multiple).
+713730,Medium,,"Utilize inventory information to compare materials needed for scheduling materials on-hand, cost work orders and daily work  accomplishments, and reorder materials when stock levels reach reorder points."
+713731,Medium,,"Track information on annual inventory usage, the type of usage, and the work activities the material or other item is normally  issued for."
+713732,Medium,,"Support warranty tracking for inventory items including agency specific warranty types, cycle (hours, days, years, miles) and  length of cycle in time and/or miles."
+713733,Medium,,Track the issuance of all stocked and non-stocked inventory items to a specific asset or set of assets.
+713734,Medium,,"Allow for issuance of inventory items without having to charge it to a work order; instead inventory items must be charged to an  active chart of account code, grant or project."
+713735,Medium,,Maintain inventory history including transfers and adjustments.
+713736,Medium,,Track and record transfers between shops or locations.
+713737,Medium,,Maintain year to date and life to date history.
+713738,Medium,,"Provide a full range of audit tracking capabilities including any adjustment to unit cost, count, return to inventory, return to  vendor, transfers, from one storeroom to another, by operator, and date/time."
+713739,Medium,,Provide for an agency specific mark-up percent by item type and/or item number.
+713740,Medium,,"Provide on-line search capabilities of all inventory by inventory item type, Statewide item code, agency item number,  manufacturer's part/item number, alternate item number, and a user-defined alpha/numeric reference field. The search screen  must also display minimum and maximum stocking levels and quantity on hand."
+713741,Medium,,"Integrate with ERP purchasing and accounts payable functions to track part inventory purchases by vendor, vendor location,  purchase order number, vendor invoice or procurement card transaction number."
+713742,Medium,,"Display/report purchases and receipts by vendor for all items, one or more types of items or a specific item for the fiscal year or  other user-defined time period."
+713743,Medium,,Provide ability to change an item number and have that change be reflected for all historical data.
+713744,Medium,,Allow merging of up to 20 item numbers into one item number while retaining historical data.
+713745,Medium,,Track activity on non-stocked items to include frequency of issue and fiscal year-to-date information.
+713746,Medium,,Price items issued to work orders at a moving average.
+713747,Medium,,Generate a surplus item report which can track lack of activity for user-defined periods of time.
+713748,Medium,,"Generate an items reorder list by vendor, item type, item number, or storeroom."
+713749,Medium,,Route reorder list by workflow for review and approval by user defined business rules.
+713750,Medium,,Integrate with the ERP procurement function to generate purchase orders based on review by authorized user for selected items  on the reorder list.
+713751,Medium,,Provide for ABC classification of inventory items where A represents the 10% of inventory items with the highest dollar value; B  represents the next 20% of the highest dollar value; C represents the 70% of inventory comprised of lower cost items.
+713752,Medium,,Support a work in process inventory at each inventory store (for assembly of a system from one or more components).
+713753,Medium,,Provide for the transfer of assembled units to a finished goods inventory.
+713754,Medium,,Provide for user-defined inventory cycles.
+713755,Medium,,Generate work lists to assist in inventory counts and automatically generate a variance report when the physical count is entered.

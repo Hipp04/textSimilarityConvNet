@@ -1,0 +1,7 @@
+"Section:PL-Fleet Management, Tires (6 Reqs)"
+714220,Low,,Support comparison of tire makes and models.
+714221,Low,,"Allow classification of tires by type (i.e., recap, airless, solid, etc.)."
+714222,Low,,Track tread wear by type.
+714223,Low,,Track tire performance by type.
+714224,Low,,Track tire costs by type.
+714225,Low,,"Track tire location by type including unit, position, scrap and staging."

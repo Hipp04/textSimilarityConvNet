@@ -1,0 +1,47 @@
+"Section:PL-Procurement, Create Purchase Order (46 Reqs)"
+715714,High,,Provide the ability to have multiple line items per purchase order with capability for one / multiple delivery schedules per line  printed on purchase order.
+715715,High,,"Provide the ability to create purchase orders from requisitions, solicitations, and contracts. Information from documents carries  forward to the PO."
+715716,High,,"Provide the ability to support user creation of PO by copying an existing requisition, editing and saving with a new PO ID."
+715717,High,,Provide the ability for a point and click interface to select the requisition lines to carry forward to the PO being generated.
+715718,High,,Provide the ability to: Create a single purchase order with line items from a single purchase requisition/solicitation.
+715719,Medium,,Provide the ability to: Create a single purchase order with line items from multiple purchase requisitions/solicitation.
+715720,High,,Provide the ability to: Create multiple purchase orders with line items from a single purchase requisition/solicitation.
+715721,Medium,,Provide the ability to: Create multiple purchase orders with line items from multiple purchase requisitions/solicitation.
+715722,High,,Provide the ability to add supplemental lines to an existing PO.
+715723,Medium,,"Provide the ability, based on supplemental line information, to trigger required workflow of approvals, if necessary."
+715724,Medium,,Provide the ability to generate a purchase order (on an exception basis) without first processing a purchase requisition based on  agency business rules for authorized users.
+715725,High,,"Provide the ability to carry forward any data maintained in the purchase requisition and solicitation to the purchase order in order  to reduce data entry. Data to carry forward at a minimum (accessible, but whether to print is optional): The commodity code item  number with system generated description and additional description."
+715726,High,,"Provide the ability to carry forward any data maintained in the purchase requisition and solicitation to the purchase order in order  to reduce data entry. Data to carry forward at a minimum (accessible, but whether to print is optional): Requisition number."
+715727,High,,"Provide the ability to carry forward any data maintained in the purchase requisition and solicitation to the purchase order in order  to reduce data entry. Data to carry forward at a minimum (accessible, but whether to print is optional): Solicitation number."
+715728,High,,"Provide the ability to carry forward any data maintained in the purchase requisition and solicitation to the purchase order in order  to reduce data entry. Data to carry forward at a minimum (accessible, but whether to print is optional): Unit price quoted by the  vendor."
+715729,High,,"Provide the ability to carry forward any data maintained in the purchase requisition and solicitation to the purchase order in order  to reduce data entry. Data to carry forward at a minimum (accessible, but whether to print is optional): Unit of measure."
+715730,High,,"Provide the ability to carry forward any data maintained in the purchase requisition and solicitation to the purchase order in order  to reduce data entry. Data to carry forward at a minimum (accessible, but whether to print is optional): Quantity."
+715731,High,,"Provide the ability to carry forward any data maintained in the purchase requisition and solicitation to the purchase order in order  to reduce data entry. Data to carry forward at a minimum (accessible, but whether to print is optional): Accounting information  from the requisition or solicitation."
+715732,High,,"Provide the ability to carry forward any data maintained in the purchase requisition and solicitation to the purchase order in order  to reduce data entry. Data to carry forward at a minimum (accessible, but whether to print is optional): Delivery location(s)."
+715733,High,,"Provide the ability to carry forward any data maintained in the purchase requisition and solicitation to the purchase order in order  to reduce data entry. Data to carry forward at a minimum (accessible, but whether to print is optional): Delivery instructions."
+715734,High,,"Provide the ability to carry forward any data maintained in the purchase requisition and solicitation to the purchase order in order  to reduce data entry. Data to carry forward at a minimum (accessible, but whether to print is optional): Bill to information."
+715735,High,,"Provide the ability to carry forward any data maintained in the purchase requisition and solicitation to the purchase order in order  to reduce data entry. Data to carry forward at a minimum (accessible, but whether to print is optional): Purchasing Agent point of  contact information and number (assigned by each agency)."
+715736,Medium,,"Provide the ability to carry forward any data maintained in the purchase requisition and solicitation to the purchase order in order  to reduce data entry. Data to carry forward at a minimum (accessible, but whether to print is optional): Receiving Agent point of  contact information and number."
+715737,Medium,,"Provide the ability to carry forward any data maintained in the purchase requisition and solicitation to the purchase order in order  to reduce data entry. Data to carry forward at a minimum (accessible, but whether to print is optional): Vendor point of contact  information pulled from the vendor master."
+715738,Medium,,"Provide the ability to carry forward any data maintained in the purchase requisition and solicitation to the purchase order in order  to reduce data entry. Data to carry forward at a minimum (accessible, but whether to print is optional): Manufacturer and part  number input by vendor."
+715739,High,,"Provide the ability to carry forward any data maintained in the purchase requisition and solicitation to the purchase order in order  to reduce data entry. Data to carry forward at a minimum (accessible, but whether to print is optional): Agency specific reference  number."
+715740,Medium,,"Provide the ability, when the user secures bids, to enter the percent and type (from a standard drop-down list) of recycled content  for each PO line item for the commodities for which recycled content information is required."
+715741,High,,"Provide the ability for agency defined and maintained edit checks and validations at the order level including, but not limited to,  the following: Valid account coding distribution."
+715742,High,,"Provide the ability for agency defined and maintained edit checks and validations at the order level including, but not limited to,  the following: Valid commodity code."
+715743,High,,"Provide the ability for agency defined and maintained edit checks and validations at the order level including, but not limited to,  the following: Proper levels of approval."
+715744,High,,"Provide the ability for agency defined and maintained edit checks and validations at the order level including, but not limited to,  the following: Invalid or incomplete required fields."
+715745,High,,"Provide the ability for agency defined and maintained edit checks and validations at the order level including, but not limited to,  the following: Budget availability check."
+715746,High,,Provide the ability to allow entry of payment terms other than the vendor standard on the purchase order.
+715747,High,,Provide the ability to determine volume discounts from a contract or agreement (at line item and/or total level).
+715748,High,,"Provide the ability to change purchase order commodity ordered -- description, part, class, quantity, unit of measure, dollars,  vendor, account, with proper authority."
+715749,High,,Provide the ability to post the purchase order award (full and partial) to the State's Website if over a specified dollar amount.  Posting to be linked to the solicitation number (if applicable).
+715750,High,,Provide the ability for purchasing agents to: Insert vendors quoted delivery date or service start and end dates.
+715751,High,,Provide the ability for purchasing agents to: Insert best and final price if different from offered price.
+715752,Medium,,Provide the ability for purchasing agents to: Refine text from solicitation that does not affect propriety of award.
+715753,High,,Provide the ability for purchasing agents to: Add/Select PO clauses and carry forward clauses from the requisition or solicitation.
+715754,High,,Provide the ability for purchasing agents to: Attach files.
+715755,High,,Provide the ability for purchasing agents to: Designate attached files as internal (agency use only) or external (distributed to the  vendor upon PO issuance).
+715756,High,,"Provide the ability for purchasing agents to: Look-up PO by searchable fields (e.g., Purchasing agent, contract number, chart of  accounts, voucher number, requisitioner, requisition number, solicitation number, PO number, agency, department, user, vendor  name vendor ID, commodity code, stock number, etc.)."
+715757,High,,Provide the ability for purchasing agents to: Cancel PO for re-source (resource from original solicitation).
+715758,High,,Provide the ability for purchasing agents to: Designate as being a payment/credit card payment.
+715759,High,,Provide the ability to cancel a PO and liquidate the commitment.

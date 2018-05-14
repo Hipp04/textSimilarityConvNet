@@ -1,0 +1,11 @@
+"Section:SW-Reporting and Business Intelligence, Report Portal (10 Reqs)"
+718366,Medium,,Provide users with a personalized report portal that allows access to only those reports that the user is authorized to see  consistent with ERP role based security definitions.
+718367,High,,Allow viewing of rows and / or columns within the report to be restricted based on user's role e.g. the user can only view data for  their agency .
+718368,High,,Lists reports that have been distributed to the user via the portal i.e. the user has been granted authorization to view a report by  designated report publishers (owners) e.g. central state or agency report administrators.
+718369,High,,Lists saved personalized reports and ad-hoc queries that the user has authority to either create or modify in the user's personal  reports list.
+718370,Medium,,List or provide links only to reports that the user is authorized to see in detail.
+718371,Medium,,Allow users to search existing reports inventory and subscribe after requesting and receiving permission from the report  publisher (if access is denied).
+718372,High,,Provide the ability for designated report publishers to un-publish reports to individual users or groups of users.
+718373,Low,,"Allow users to share saved personalized reports and ad-hoc queries e.g. include any personal reports authorized by one user for  use by a second user, on the second user's personal reports list."
+718374,Medium,,Allow users to delete shared reports from their personal reports list without deleting the shared report from other user's personal  report lists.
+718375,Medium,,Allow users to refresh (run) saved personal reports or ad-hoc queries from the portal with an option to run in the background and  send a notification to the user upon completion.

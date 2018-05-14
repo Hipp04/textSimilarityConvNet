@@ -1,0 +1,15 @@
+"Section:FIN-Budget Development, Produce Budget Bill (14 Reqs)"
+706487,Medium,,Create varying page templates for presentation of budget information.
+706488,Medium,,"Create page templates that incorporate both financial information and supporting information, such as text."
+706489,Medium,,Organize the budget bill using a hierarchical structure to place the various components of the bill in production order.
+706490,Medium,,"Ability to either display (printed), suppress, or optionally delete from the structure."
+706491,Medium,,"Support ""drag-and-drop"" functionality to organize the budget bill."
+706492,Medium,,Ability to produce multiple budget formats/presentation structures.
+706493,Medium,,Produce ADA compliant budget bill.
+706494,Medium,,Produce camera-ready output.
+706495,Medium,,Produce the table of contents and index for the budget bill.
+706496,Medium,,Provide the user a function to create or enter footnotes and comments for budget bill.
+706497,Medium,,Perform spell and grammar check.
+706498,Medium,,Support concurrent user access to budget bill for preparation and editing purposes.
+706499,Medium,,Ability to electronically review and approve budget bill during pre-publication review.
+706500,Medium,,"Manage online publication processes to create bookmarks, maintain web links embedded in the bill, and provide for proper  pagination."

@@ -1,0 +1,41 @@
+"Section:FIN-Budgetary Control, General (48 Reqs)"
+706514,High,,"General Ledger budgetary control is fully integrated with the receivables, payables, purchasing, inventory, payroll, cost allocation  and human resources modules to ensure that all transactions using or affecting budget (appropriation, grant, project, operating  budget) authority are validated online, real-time against up-to-date budget totals based on established budgetary controls."
+706515,Low,,"Provide ability to control by expenditure group, giving the user the Provide ability to designate a ""no spending"" control."
+706516,Medium,,Tracks transaction detail at the level of entry.
+706517,High,,Provides multiple levels of controls for operating budgets.
+706518,Medium,,"Provide ability to override appropriation, operating budget, grant, project, and contract budget edits with the appropriate security  authority for each type of budget, without opening the budget to other users."
+706519,Medium,,"Provides an indicator that determines whether payroll transactions are edited against the appropriation, operating budget, grant,  and project budgets."
+706520,Medium,,Provides separate data entry and document types for appropriation and operating budget transactions.
+706521,Medium,,"Separately tracks original budget, budget adjustment, and budget transfer line items for each appropriation."
+706522,Medium,,"Separately tracks original budget, budget adjustment, and budget transfer line items for each operating budget."
+706523,Medium,,Perform a fund control edit to ensure that allotments do not exceed the available appropriation balance.
+706524,Medium,,Perform a fund control edit to ensure that pre-encumbrances and encumbrances do not exceed the available appropriation  balance.
+706525,Medium,,Perform a fund control edit to ensure that expenditures do not exceed the available allotment balance.
+706526,Medium,,Provide appropriation budgetary controls by user-defined combinations of the elements/element hierarchies shown below: Fund  Structure.
+706527,Medium,,Provide appropriation budgetary controls by user-defined combinations of the elements/element hierarchies shown below:  Agency/Department.
+706528,Medium,,"Provide appropriation budgetary controls by user-defined combinations of the elements/element hierarchies shown below:  Organization Structure (e.g., Agency, Division,"
+Sectio,n).,,
+706529,Medium,,Provide appropriation budgetary controls by user-defined combinations of the elements/element hierarchies shown below:  Program Structure.
+706530,Medium,,"Provide appropriation budgetary controls by user-defined combinations of the elements/element hierarchies shown below:  Appropriation Structure (currently Fund, Fiscal Year, Process Fiscal Year, Organization and Activity)."
+706531,Medium,,Provide appropriation budgetary controls by user-defined combinations of the elements/element hierarchies shown below:  Location.
+706532,Medium,,Provide appropriation budgetary controls by user-defined combinations of the elements/element hierarchies shown below:  Project Structure.
+706533,Medium,,Provide appropriation budgetary controls by user-defined combinations of the elements/element hierarchies shown below:  Expenditure / Revenue Sub-Object Structure.
+706534,Medium,,Provide appropriation budgetary controls by user-defined combinations of the elements/element hierarchies shown below:  General Ledger Account.
+706535,Medium,,Provide appropriation budgetary controls by user-defined combinations of the elements/element hierarchies shown below: Grant  Structure.
+706536,Medium,,Provide appropriation budgetary controls by user-defined combinations of the elements/element hierarchies shown below:  Function.
+706537,Medium,,Provide appropriation budgetary controls by user-defined combinations of the elements/element hierarchies shown below:  Activity.
+706538,Medium,,"Provide appropriation budgetary controls by user-defined combinations of the elements/element hierarchies shown below:  Expenditure Group (i.e., Major Line of Expenditure) See budget development requirements."
+706539,Medium,,Provide appropriation budgetary controls by user-defined combinations of the elements/element hierarchies shown below:  Budget Year.
+706540,Medium,,Agencies record expenditures at the time the invoice is processed but cash is not posted until payment is made. Provide ability to  identify expenditures and cash expenditures.
+706541,Low,,Provides multi-year appropriation budgetary control.
+706542,Medium,,"Provides appropriation budgetary control at varying levels and combinations of the Chart of Accounts to be specified by  authorized users. (i.e., 3rd level of fund; 2nd level of agency, 3rd level of expenditure group)."
+706543,Medium,,"Provides an indicator, for each appropriation, that determines if commitments are included in the available appropriation budget  edit."
+706544,Medium,,"Provides an indicator, for each appropriation, that determines if encumbrances are included in the available appropriation budget  edit."
+706545,Medium,,"Edit commitments, encumbrances, and expenditures against the appropriation distributed budget (e.g., by fund, appropriation  and major line of expenditure)."
+706546,Medium,,"Provide ability to carry forward appropriation balances to the next period, based on user-defined criteria."
+706547,Medium,,Roll up budget details to a user-defined summary level.
+706548,Medium,,Distribute the adopted budget (summary level) and budget adjustments to detail Account and Organization levels based on user- defined criteria.
+706549,Medium,,Edits all transactions to ensure that appropriation budget is available before posting the transaction.
+706550,Medium,,Prevent transactions not meeting available appropriation budget by user-defined criteria for those appropriations with absolute  control from being transmitted to the next approval stage.
+706551,Medium,,"Prevent transactions not meeting available expenditure group (i.e., major line of expenditure, see budget development  requirements ""-----"") budget for those appropriations with absolute control from being transmitted to the next approval stage."
+706552,Medium,,"Individual agency, fund, and appropriation budgetary control options in the system include: Absolute Control - prevents  transaction from processing, may not be overridden."

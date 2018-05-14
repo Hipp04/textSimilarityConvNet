@@ -1,0 +1,143 @@
+"Section:FIN-Project Management, General (142 Reqs)"
+708004,High,,Perform flexible budgeting for capital and operating projects while adhering to level of budgetary controls established in the  General Ledger.
+708005,High,,Integrated with other relevant modules including: Purchasing.
+708006,High,,Integrated with other relevant modules including: Budgetary control.
+708007,High,,Integrated with other relevant modules including: Asset Management.
+708008,High,,Integrated with other relevant modules including: Cost Accounting.
+708009,High,,Integrated with other relevant modules including: Inventory.
+708010,High,,Integrated with other relevant modules including: Grants.
+708011,High,,Integrated with other relevant modules including: Real Estate.
+708012,High,,Integrated with other relevant modules including: Human Resources.
+708013,High,,Integrated with other relevant modules including: Time and Labor.
+708014,High,,Integrated with other relevant modules including: Payroll.
+708015,High,,Integrated with other relevant modules including: Accounts Payable.
+708016,High,,Integrated with other relevant modules including: Accounts Receivable.
+708017,High,,Integrated with other relevant modules including: General ledger.
+708018,High,,Differentiates transactions between operating and capital budget items.
+708019,High,,Creates project budgets with multiple funding sources including: Grants.
+708020,High,,Creates project budgets with multiple funding sources including: Bonds.
+708021,High,,Creates project budgets with multiple funding sources including: General Fund.
+708022,High,,Creates project budgets with multiple funding sources including: Enterprise and Internal Service Funds.
+708023,High,,Creates project budgets with multiple funding sources including: Federal Funds.
+708024,High,,Creates project budgets with multiple funding sources including: State Funds.
+708025,Medium,,Creates project budgets with multiple funding sources including: Trust Funds/Donations.
+708026,High,,Creates project budgets with multiple funding sources including: Fee-supported Projects.
+708027,High,,Creates project budgets with multiple funding sources including: Earned Interest Income.
+708028,High,,Creates project budgets with multiple funding sources including: Other User-Specified Operating Funds.
+708029,High,,Provide the ability to classify sub-categories for each funding source (e.g. breakdown of different Federal sources).
+708030,Medium,,Maintain demographic information for the following: Agency (Department).
+708031,Medium,,Maintain demographic information for the following: Designer.
+708032,Medium,,Maintain demographic information for the following: Contractor.
+708033,High,,Create debt service budgets for bond funded projects.
+708034,High,,Allocate direct and indirect financing costs to projects.
+708035,Medium,,Allocate interest income as a funding source.
+708036,High,,"Provide budget forecasting for multi-year periods, which can support development of a Capital Improvement Plan and an  Operating Project Improvement Plan."
+708037,High,,System allows for multiple fiscal year budgets for projects.
+708038,High,,System provides the ability to link a project to a grant.
+708039,High,,System provides the ability to link a project to multiple grants.
+708040,High,,"Uniquely identify each project through the assignment of a project number and maintain project-related descriptive, phase and  category information in a project table."
+708041,High,,"Establish project accounts to record project budgets, pre-encumbrance/ encumbrance, expenditures, anticipated revenues, and  receivables."
+708042,High,,Provide summary and detailed capital and operating project budgets by: Project.
+708043,High,,Provide summary and detailed capital and operating project budgets by: Project phase.
+708044,High,,Provide summary and detailed capital and operating project budgets by: Agency (Department).
+708045,High,,Provide summary and detailed capital and operating project budgets by: All Chart of Accounts Elements.
+708046,High,,Provide summary and detailed capital and operating project budgets by: Fund.
+708047,High,,"Provide summary and detailed capital and operating project budgets by: Organization (Allotment, Division, Cost Center)."
+708048,High,,Provide summary and detailed capital and operating project budgets by: Supervisory District or other geographical breakdown.
+708049,High,,Provide summary and detailed capital and operating project budgets by: Program.
+708050,High,,Provide summary and detailed capital and operating project budgets by: Expenditure Object.
+708051,High,,Provide summary and detailed capital and operating project budgets by: Job Level.
+708052,High,,Provide summary and detailed capital and operating project budgets by: Location.
+708053,High,,Provide summary and detailed capital and operating project budgets by: Source of Revenue.
+708054,High,,Provide multiple revisions and amendments to the budget in the above detail.
+708055,High,,"Provide project budget control at varying levels and combinations of the Chart of Accounts (i.e. 4th level of fund; 4th level of  organization, 2nd level of object of expenditure)."
+708056,High,,System provides an indicator that determines if encumbrances are included in the available project budget edit.
+708057,High,,"System edits pre-encumbrances, encumbrances and expenditures against the agency project budget."
+708058,High,,System provides the ability to distribute and control the project budget by the following periods: State fiscal year.
+708059,High,,System provides the ability to distribute and control the project budget by the following periods: Federal fiscal year.
+708060,High,,System provides the ability to distribute and control the project budget by the following periods: Calendar year (annual).
+708061,High,,System provides the ability to distribute and control the project budget by the following periods: Semi-Annual.
+708062,High,,System provides the ability to distribute and control the project budget by the following periods: Quarter.
+708063,High,,System provides the ability to distribute and control the project budget by the following periods: Month.
+708064,High,,System provides the ability to distribute and control the project budget by the following periods: Allocation based on seasonal  trend.
+708065,High,,System provides the ability to distribute and control the project budget by the following periods: User defined period (manually  input budget for each month).
+708066,High,,System rolls up project budget details to a user-defined summary level.
+708067,High,,Edits all transactions to ensure that project budget is available before posting the transaction.
+708068,High,,Prevents transactions not meeting available project budget that are absolutely controlled from being transmitted to the next  approval stage.
+708069,High,,Project budget control options in the System include: Absolute control - prevents transaction from processing without override  approval.
+708070,High,,Project budget control options in the System include: Warning -- provides warning message but allows transaction to process.
+708071,High,,Project budget control options in the System include: No control -- allows transaction to process without warning.
+708072,High,,"Provide a flag that sets the default project budget control option (absolute, warning, none)."
+708073,High,,"Provide multiple levels of project budget control (none, absolute, warning) within one agency."
+708074,High,,Provide multiple levels of project budget (level one and level 3 of the organization) within the same organizational branch.
+708075,High,,System provides the ability to carry forward project budget allotments to the next allotment period based on the funding source.
+708076,High,,Provide the ability to drill down from the project budget error message to the budget inquiry screen and automatically retrieves  budget data.
+708077,High,,"Provide an on-line inquiry screen that displays project budget, adjustments, pre-encumbrances, encumbrances, expenditures,  revenue, and available budget. The numbers displayed should be the same balances used by the budget edit program."
+708078,High,,Record and maintains data at the following levels of detail: State fiscal year.
+708079,High,,Record and maintains data at the following levels of detail: Federal fiscal year.
+708080,High,,Record and maintains data at the following levels of detail: Calendar year (annual).
+708081,High,,Record and maintains data at the following levels of detail: Funding Fiscal Year.
+708082,High,,Record and maintains data at the following levels of detail: Fund.
+708083,High,,"Record and maintains data at the following levels of detail: Organization (Allotment, Division, Cost Center)."
+708084,High,,Record and maintains data at the following levels of detail: Project.
+708085,High,,Record and maintains data at the following levels of detail: Program.
+708086,High,,Record and maintains data at the following levels of detail: Activity.
+708087,High,,Record and maintains data at the following levels of detail: Task.
+708088,High,,Record and maintains data at the following levels of detail: Phase.
+708089,High,,Record and maintains data at the following levels of detail: Contract.
+708090,High,,Record and maintains data at the following levels of detail: Project Description.
+708091,High,,Record and maintains data at the following levels of detail: Object of Expenditure.
+708092,High,,Record and maintains data at the following levels of detail: Source of Revenue.
+708093,High,,Record and maintains data at the following levels of detail: Retainage.
+708094,High,,Record and maintains data at the following levels of detail: Date of Adjustment.
+708095,High,,"Allow for the ability to upload and download various data from spreadsheets, word processors and databases."
+708096,High,,Provide the ability to override the budget limited to authorized users.
+708097,High,,Allow project phases to overlap.
+708098,High,,Provide for the project initiation request including the following capabilities: Custom electronic form that can be submitted via the  web.
+708099,High,,Provide for the project initiation request including the following capabilities: Form can be transmitted via workflow.
+708100,High,,Provide for the project initiation request including the following capabilities: Validate request thresholds and reject if validation  fails.
+708101,High,,"Provide for the project initiation request including the following capabilities: Ability to add pull down menus and add project type  (i.e., construction) and reasons for decisions."
+708102,High,,Provide for the project initiation request including the following capabilities: Prerequisite Listing.
+708103,High,,Provide for the project initiation request including the following capabilities: Flag to verify prerequisites.
+708104,High,,Provide for the project initiation request including the following capabilities: Including a comments field.
+708105,High,,Provide the ability to override prerequisite edits by authorized users.
+708106,High,,The ability to record and route electronic signatures.
+708107,High,,Supports at least eight levels of approval in workflow.
+708108,High,,"Establish project activity at a lower level of detail (e.g., phase) than project number and track financial activity associated with  each location, phase, or activity within phase."
+708109,High,,"Provide the ability to move funding from one project to another, with appropriate security control."
+708110,High,,"Increase or decrease project funding after project is in place, with the appropriate security control."
+708111,High,,"Provide the ability to suspend, prevent transactions from posting against, a project."
+708112,High,,Carry forward fiscal year appropriation and cash balances for multi-year projects.
+708113,High,,"Allow entry of a variety of descriptive information about a project, such as a narrative."
+708114,High,,Track projects over multiple years.
+708115,High,,Track projects by budget revisions.
+708116,High,,Provide users with the option of manually creating the project schedule.
+708117,High,,Monitor project progress and milestone accomplishments against a project-specific schedule.
+708118,High,,Provide the following issue related fields: Creator.
+708119,High,,Provide the following issue related fields: Responsible Person.
+708120,High,,Provide the following issue related fields: Create Date.
+708121,High,,Provide the following issue related fields: Issue Description.
+708122,High,,Provide the following issue related fields: Priority.
+708123,High,,Provide the following issue related fields: Status.
+708124,High,,Provide the following issue related fields: Prerequisite.
+708125,High,,Provide the following issue related fields: Dependency.
+708126,High,,Provide the following issue related fields: Resolution Description.
+708127,High,,Provide the following issue related fields: Tie to activity.
+708128,High,,Provide the following issue related fields: Resolution Date.
+708129,High,,Provide for entering and monitoring issues.
+708130,High,,Establish project budgets and track/control revenues and expenditures against the budget.
+708131,High,,Provide an automated cross reference to all internal and external project numbers.
+708132,High,,Allow billing to other agencies or internal organizational units for services or commodities rendered.
+708133,High,,System can require electronic approvals in order to process a transfer of funds in accordance with GAAP.
+708134,High,,Provide a method for the State to recognize intragovernmental transactions.
+708135,High,,Provide the ability to link to stored documents for the following document management systems: FileNet.
+708136,High,,Provide the ability to link to stored documents for the following document management systems: OnBase.
+708137,High,,Provide the ability to link to stored documents for the following document management systems: Application Xtender.
+708138,High,,Provide the ability to link to stored documents for the following document management systems: Info Image (Unisys).
+708139,High,,Provide click-through content access for imaged documents. The ERP record must display hyperlinks to all associated content  items and will provide the capability to click-through on the hyperlinks and display the selected content.
+708140,High,,Support a hierarchy for projects i.e. subprojects linked to a primary project.
+708141,High,,Support workflow routing by task assignments.
+708142,High,,Support workflow routing by threshold amounts.
+708143,High,,Support workflow routing by organization unit.
+708144,High,,Support workflow routing by funding source.
+708145,High,,Support workflow routing by project.

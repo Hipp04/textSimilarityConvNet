@@ -1,0 +1,6 @@
+"Section:PL-Procurement, Workflow (53 Reqs)  StmtID"
+715094,Rating,,High    Requirement  Provide the ability to allow for the creation of workflow for all types of purchasing transactions: Purchase Requisitions.  Support Source
+715095,High,,Provide the ability to allow for the creation of workflow for all types of purchasing transactions: Solicitations and addendums.
+715096,High,,Provide the ability to allow for the creation of workflow for all types of purchasing transactions: Purchase Orders/PO change  notices.
+715097,High,,Provide the ability to allow for the creation of workflow for all types of purchasing transactions: Contracts/Work Orders and  Contract Amendments.
+715098,High,,Provide the ability to allow for the creation of workflow for all types of purchasing transactions: Receiving Documents.

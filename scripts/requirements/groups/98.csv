@@ -1,0 +1,161 @@
+"Section:FIN-Project Management, STIP (174 Reqs)"
+708349,Medium,,Provide an interface to FMIS for pending and approved changes to the STIP.
+708350,Medium,,Update STIP based on FHWA input and approval.
+708351,Medium,,"Ability to provide capability in a real time environment to calculate, track and display multiple budget actions in various statuses  while providing individual action details for each specific request and summary details by phase, funding type, STIP reference,  request status and project total. ."
+708352,Medium,,"Provide the ability to forecast for ""what if"" scenarios to assist in STIP preparation."
+708353,Medium,,Provide the ability to report on the percentage of STIP that has been advanced.
+708354,Medium,,Ability to have system notify requester via email of change in action status.
+708355,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Federal project number."
+708356,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: State project number."
+708357,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Organizational relationships."
+708358,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: STIP references."
+708359,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Project name."
+708360,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Phase."
+708361,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Type of Work."
+708362,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Funding Obligation date (original)."
+708363,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Funding Obligation date (new)."
+708364,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Route."
+708365,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: County."
+708366,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: District."
+708367,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Group."
+708368,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Street."
+708369,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Road."
+708370,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Bridge."
+708371,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Person responsible for project."
+708372,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: State code."
+708373,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Status."
+708374,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Reason for revision."
+708375,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Project begin date."
+708376,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Project end date."
+708377,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Federal Aid system."
+708378,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Functional Classification system."
+708379,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Beginning Mile point."
+708380,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Miles."
+708381,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Average daily traffic (year)."
+708382,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: School Bus Route."
+708383,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Mail Route."
+708384,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Commercial Route."
+708385,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Lane."
+708386,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Division."
+708387,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Width (feet)."
+708388,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Surface type."
+708389,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Length."
+708390,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Type."
+708391,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Posted Weight."
+708392,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Detour Mileage."
+708393,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Condition Surface rating."
+708394,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Jointly owned - show co-owner."
+708395,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Jointly owned - show percentage."
+708396,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Name of Railroad."
+708397,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Number of tracks."
+708398,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: DOT crossing number."
+708399,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Existing protection."
+708400,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Other."
+708401,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Acquisition/Easement."
+708402,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Encroachment."
+708403,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Business affected."
+708404,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Residences affected."
+708405,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Description."
+708406,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: 404 permit needed."
+708407,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: City agreement needed."
+708408,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Other State agreement needed."
+708409,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Other Permits/agreement needed."
+708410,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Type of environmental action needed."
+708411,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Programmatic Categorical Exclusion."
+708412,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Environment assessment."
+708413,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Environmental Impact Statement."
+708414,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Known historical properties."
+708415,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Description of work."
+708416,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Phases requested."
+708417,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Estimated cost."
+708418,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: allocation number or other source of funding."
+708419,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Recommended to be performed by."
+708420,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Desirable phase start date."
+708421,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Desirable phase end date."
+708422,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Prepared by."
+708423,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Reviewed by."
+708424,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Recommended by."
+708425,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Division responsible."
+708426,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Prepared by date."
+708427,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Division Director approval."
+708428,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Description of project revision."
+708429,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Revised project - new or existing."
+708430,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Fund type."
+708431,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Total Phase cost."
+708432,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Federal dollar cost."
+708433,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Federal dollar change."
+708434,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: State dollar cost."
+708435,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: State dollar change."
+708436,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Development responsible."
+708437,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Funding options."
+708438,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: New Federal dollar amount."
+708439,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: New total amount."
+708440,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: New obligation date (current)."
+708441,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Request date."
+708442,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Percentage increase."
+708443,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: MPO TIP."
+708444,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: New total amount."
+708445,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Original STIP obligation reported by quarter."
+708446,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Current STIP obligation reported by quarter."
+708447,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Original STIP federal dollars reported by quarter."
+708448,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Current STIP federal dollars reported by quarter."
+708449,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: User defined project coding."
+708450,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Federal Appropriation number."
+708451,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Request status."
+708452,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Project total."
+708453,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: STIP category specification."
+708454,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Initial request date."
+708455,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Preliminary request date."
+708456,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Final approval request date."
+708457,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Federal Improvement code."
+708458,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: State Improvement code."
+708459,Medium,,"Ability to allow authorized users, based on security authorizations and restrictions, to store or extract project identification data  such as: Project category."
+708460,Medium,,Provide the ability to report the difference in date and amount changes from the original to the current by each quarter.
+708461,Medium,,Supports the reporting of the following for the STIP: West Virginia Department of Highways (WVDOH) Federal Project listing.
+708462,Medium,,Supports the reporting of the following for the STIP: WVDOH Federal Project maps integrated with GIS.
+708463,Medium,,Supports the reporting of the following for the STIP: Non-Federal Aid project listings (State Funded Projects).
+708464,Medium,,"Supports the reporting of the following for the STIP: Core programs of the Federal STIP subdivided by at least ten categories  (Bridge Program, Community Development and Connectivity Program, Localized Mobility Improvement program, planning and  Workforce Development Program, Regional Mobility Program, Resurfacing Program, and Traffic Program)."
+708465,Medium,,Supports the reporting of the following for the STIP: Current federal fiscal year Program Charts (including pie charts).
+708466,Medium,,Supports the reporting of the following for the STIP: Division of Public Transit Project Listing.
+708467,Medium,,Supports the reporting of the following for the STIP: Federal Lands project Listing.
+708468,Medium,,Supports the reporting of the following for the STIP: WVDOH Unfunded Projects.
+708469,Medium,,Supports the reporting of the following for the STIP: Performance Measures.
+708470,Medium,,Supports the reporting of the following for the STIP: Link to Pavement Management module to develop priorities.
+708471,Medium,,Supports the reporting of the following for the STIP: Link to Bridge Management module to develop priorities.
+708472,Medium,,Supports the reporting of the following for the STIP: Link to Safety module to develop priorities.
+708473,Medium,,Supports the reporting of the following for the STIP: Link to Real Estate module to develop priorities.
+708474,Medium,,Provide the ability to initiate a project using an electronic form.
+708475,Medium,,Provide the ability to workflow the steps for the project initiation process.
+708476,Medium,,Support the ability to use workflow to route steps based upon funding source.
+708477,Medium,,Support the ability to hold workflow routings until certain required indicators are completed such as allow 10 day period for review  for an amendment on a federal project.
+708478,Medium,,Provide the ability to have an electronic form for STIP amendments.
+708479,Medium,,Provide the ability to route the electronic form for STIP amendments to a list of individuals.
+708480,Medium,,Provide the ability for one phase to apply to multiple construction projects.
+708481,Medium,,Provide the ability for multiple phases to apply to one construction project.
+708482,Medium,,Provide an email notification when certain fields are modified such as status or costs.
+708483,Medium,,Interface to FMIS for federal agreement development and modifications.
+708484,High,,Provide user friendly ability to query on all STIP data elements.
+708485,Medium,,Support advanced construction process.
+708486,Medium,,Provide reporting on advanced construction activity and status.
+708487,Medium,,Provide the ability to establish a phase as a project.
+708488,Medium,,Provide the ability to link multiple projects for reporting purposes.
+708489,Medium,,Provide the ability to have multiple project numbers for each project phase.
+708490,Medium,,Support projects with multiple funding sources.
+708491,Medium,,Supports the ability to identify by program the following: Amounts.
+708492,Medium,,Supports the ability to identify by program the following: Number of projects.
+708493,Medium,,Supports the ability to identify by program the following: Breakdown by program type.
+708494,Medium,,Provide the ability to link available earmarks to funding needs to support analysis of gaps.
+708495,Medium,,Provide the ability to report projects utilizing earmarks.
+708496,Medium,,Provide the ability to report the following by program: Additional obligation authority/ carryover.
+708497,Medium,,Provide the ability to report the following by program: Apportionment each year for the current year and any known future year.
+708498,Medium,,Provide the ability to report the following by program: Projected available each year for the next six years.
+708499,Medium,,Provide the ability to report the following by program: Cumulative supplemental spending in the current year .
+708500,Medium,,Provide the ability to report the following by program: Each year scheduled for six years.
+708501,Medium,,Provide the ability to report the following by program: Cumulative STIP planning dollars for four years.
+708502,Medium,,Provide the ability to report the following by program: Cumulative STIP planning dollars for six years.
+708503,Medium,,Provide the ability to report the following by program: AC/Garvee payback each year for the next six years.
+708504,Medium,,Provide the ability to report the following by program: Potential AC projects.
+708505,Medium,,Provide the ability to report the following by program: First Year supplemental plus scheduled plus payback.
+708506,Medium,,Provide the ability to report the following by program: Projected Total Apportionment (for the first four years).
+708507,Medium,,Provide the ability to report the following by program: Projected Total Funding Available (for the first four years).
+708508,Medium,,Provide the ability to report the following by program: Totaled Scheduled plus Paybacks (for the first four years).

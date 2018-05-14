@@ -1,0 +1,17 @@
+"Section:FIN-FHWA Billing, Federal Aid Reports (16 Reqs)"
+707381,High,,Produce reports that can be defined based on any data element available in the system.
+707382,High,,Produce queries (both recurring and ad hoc)defined based on any data element available in the system.
+707383,High,,"Report detailed amount billed by project, phase, stage and program category."
+707384,High,,"Report unbilled cost by project, phase, stage, program category."
+707385,Medium,,"Report suspended cost by program, phase, stage, program category."
+707386,High,,Support the recording of cash received by revenue source.
+707387,High,,Report obligations vs actual by: Project.
+707388,High,,Report obligations vs actual by: Phase.
+707389,High,,Report obligations vs actual by: Work Status.
+707390,High,,Report obligations vs actual by: Stage.
+707391,High,,Report obligations vs actual by: Program category.
+707392,Medium,,"Report obligations vs actual by: Geographic delineations such as state region, county, municipality, congressional district, state  legislative district, etc."
+707393,Medium,,"Report obligations vs actual by: Geographic delineations such as state region, county, municipality, congressional district, state  legislative district, etc need to be effective dated to allow for changes."
+707394,High,,Report unobligated balances by federal program category and obligation ceiling .
+707395,High,,"Report on all special matching arrangements by project, phase, stage, and program category."
+707396,High,,Provide alerts to users when project costs are approaching agreements levels by project/phase/stage/program category based  on user defined limits.

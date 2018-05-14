@@ -1,0 +1,15 @@
+"Section:PL-Safety Management, EMS Data (14 Reqs)"
+716900,Medium,,Provide information about and support analysis using EMS run reports for crash events.
+716901,Medium,,Provide an open interface to allow for capture and storing of EMS run reports provided in electronically in a standardized format.
+716902,Medium,,Allow an authorized user to enter/modify EMS run reports or correct data in an interfaced EMS run report online in the safety  management function.
+716903,Medium,,"Store, display and utilize crash report number."
+716904,Medium,,"Store, display and utilize EMS agency identification number."
+716905,Medium,,"Store, display and utilize EMS run number."
+716906,Medium,,"Store, display and utilize time dispatched."
+716907,Medium,,"Store, display and utilize time arrived at scene."
+716908,Medium,,"Store, display and utilize distance traveled to scene."
+716909,Medium,,"Store, display and utilize number of individuals transported."
+716910,Medium,,"Store, display and utilize driver license number or other identifier for individuals transported."
+716911,Medium,,"Store, display and utilize location transported to."
+716912,Medium,,"Store, display and utilize duration of trip (miles)."
+716913,Medium,,"Store, display and utilize duration of trip (minutes)."

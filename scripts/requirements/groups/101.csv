@@ -1,0 +1,11 @@
+"Section:FIN-Transparency, User Registration (10 Reqs)"
+708568,High,,Provide a user registration function that requires potential users to provide basic identification information to include: Name.
+708569,High,,Provide a user registration function that requires potential users to provide basic identification information to include: Address.
+708570,High,,Provide a user registration function that requires potential users to provide basic identification information to include: Phone  Number.
+708571,High,,Provide a user registration function that requires potential users to provide basic identification information to include: email  address.
+708572,High,,"Validate the user registration information to determine that it is a valid name, address, and phone number."
+708573,High,,"Validate that the submitted name, address, and phone number are a legitimate combination."
+708574,High,,Validate that the submitted address is a valid US address.
+708575,High,,If address is not a valid US address route through automated workflow for approval.
+708576,High,,Assign User Id and Password to valid user registration requests.
+708577,High,,Send login user id and password to email address submitted in registration.

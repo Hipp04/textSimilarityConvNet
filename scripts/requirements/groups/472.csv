@@ -1,0 +1,11 @@
+"Section:SW-General and Technical, Custom Development (10 Reqs)"
+718299,High,,Allow authorized technical staff to create new tables.
+718300,High,,Allow authorized technical staff to create new fields.
+718301,Medium,,Allow authorized technical staff to create new objects.
+718302,Medium,,Allow authorized technical staff to change field structure.
+718303,Medium,,Allow for identification/reporting of new user-defined tables.
+718304,Medium,,Allow for identification/reporting of new user-defined fields.
+718305,Medium,,Allow for identification/reporting of new user-defined objects.
+718306,High,,Include new user-defined tables in upgrade path.
+718307,High,,Include new user-defined fields in upgrade path.
+718308,Medium,,Include new user-defined objects in upgrade path.

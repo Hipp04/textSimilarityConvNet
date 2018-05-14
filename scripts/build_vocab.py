@@ -1,5 +1,6 @@
 import os
 import glob
+import sys
 
 def build_vocab(filepaths, dst_path, lowercase=True):
     vocab = set()
@@ -13,7 +14,7 @@ def build_vocab(filepaths, dst_path, lowercase=True):
         for w in sorted(vocab):
             f.write(w + '\n')
 
-data_dir = 'data/sick/'
+data_dir = 'data/' + ('sick' if len(sys.argv) == 1 else sys.argv[1]) + '/'
 build_vocab(
         glob.glob(os.path.join(data_dir, '*/*.toks')),
         os.path.join(data_dir, 'vocab-cased.txt'), False)

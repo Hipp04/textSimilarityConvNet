@@ -1,0 +1,13 @@
+"Section:PL-Facilities Management, Problem Report (12 Reqs)"
+713626,Medium,,Provide an Internet based capability for an employee to report a problem/issue with any State facility or a citizen/visitor to report  an issue with a public facing facility.
+713627,Medium,,Allow this problem reporting capability to be linked to and integrated with various agency web sites to promote agency branding  and facilitate public and employee access to the reporting facility.
+713628,Medium,,Capture the date and time the problem is reported.
+713629,Medium,,"Capture the person reporting the problem including name, address, phone number and email (if provided)."
+713630,Medium,,"Store the location of the problem (facility, sub facility or other location)."
+713631,Medium,,Store the nature of the problem.
+713632,Medium,,Send an email confirmation to the person reporting a problem (if email address provided) acknowledging receipt of the problem  report and indicating that the problem will be investigated in a user defined period of time.
+713633,Medium,,Allow for online capture of problem reports for any reports which are called in by telephone or reported in person.
+713634,Medium,,Route problem reports in an automated work flow to designated individuals for review by agency defined business rules.
+713635,Medium,,Provide capability for authorized users to review problem reports and document a proposed resolution to the issue.
+713636,Medium,,Allow for creation of work requests for further internal review of a reported problem or a work order for problem resolution.
+713637,Medium,,Send an email to the person submitting a problem report upon closure of any work request and/or work order generated based  on a citizen problem report indicating that the problem has been investigated and/or resolved.

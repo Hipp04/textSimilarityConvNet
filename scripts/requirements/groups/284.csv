@@ -1,0 +1,27 @@
+"Section:PL-Pavement Management, Optimization (26 Reqs)"
+714869,High,,"Provide an optimization process that manages the analysis at various levels including statewide, highway system, Federal Aid,  APB, functional classification, pavement type, ADT/EASL, district, county, route and project."
+714870,High,,Recommend a treatment strategy (or treatment cost category) to the candidate section based on a selected optimization method.
+714871,High,,"Perform ""what if"" analysis of different funding scenarios and project priorities to optimize projects for various groupings including  statewide, a specific highway system, a specific funding source (Federal Aid, APB, State only, etc.) or specific district."
+714872,High,,Predict future pavement performance given a specific budget.
+714873,High,,"Establish project priority lists that optimize funding scenarios for one-year, five-year and ten-year plans based on user defined  objective functions for statewide, a highway system, a specific funding source or a specific district."
+714874,High,,Allow an authorized user to override the system's treatment recommendation and assign a different treatment.
+714875,High,,"Store results of multiple scenarios and compare recommended treatments, budgets, funding sources and performance results  across scenarios."
+714876,High,,"Prioritize candidate projects based upon user defined criteria which can vary by highway system, districts, ADT/ESL, mix design  or other factors. User defined criteria should include at a minimum: remaining service life (RSL) of the pavement; existing  pavement condition; cost; life cycle cost; truck annual average daily traffic (TADDT); equivalent single axle load (ESAL); and user  override."
+714877,High,,Provide the capability to prioritize /optimize candidate projects based on funding levels.
+714878,High,,Calculate historical project costs for definable segments of highway.
+714879,High,,Calculate future project costs for definable segments of highway.
+714880,Low,,Allow for incorporation of user costs into the optimization process.
+714881,Low,,"Support calculation of user cost including consideration of incremental cost of crashes which may occur, excess travel time, and  motor vehicle operating costs among other factors."
+714882,Medium,,"Incorporate user-specified inflation rates that can vary by year in treatment cost estimates for labor, equipment and materials."
+714883,Medium,,Support utilizing multiple sets of cost data to be stored by treatment type and district and applied in a given scenario run.
+714884,Medium,,Utilize historical costs and user-defined engineering factors in calculation of the cost of various alternatives.
+714885,Medium,,Maintain a history of cost estimates for candidate projects.
+714886,Medium,,"Log reasons for changes to cost estimates for candidate projects over time (inflation, scope change, introduction of new  technology, enhanced estimating models, etc.)."
+714887,Medium,,Support the ability to download information to an Excel-based or third party cost estimating model.
+714888,Medium,,Support the ability to upload and store cost estimate information from an Excel-based or third party cost estimating model.
+714889,High,,Allow the system administrator or other authorized user to revise parameters and formulas for running the analytical models  through a table-driven online function.
+714890,High,,Allow input and update of budget constraints for each budget period over the planning horizon.
+714891,Low,,Integrate with Primavera and the ERP projects and budget functions to obtain budget information.
+714892,Medium,,"Support the use of other constraints in modeling such as federal funding limitations, matching ratios, level-of-service criteria, or  minimum allocations of funds to each district."
+714893,High,,Incorporate updated project level treatment strategy and cost information into the proposed network level list of  planned/programmed projects under the scenario being modeled.
+714894,Medium,,Integrate with Primavera and the ERP projects module to provide information about potential candidate projects based on user  initiated request in Primavera.

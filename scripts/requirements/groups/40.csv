@@ -1,0 +1,16 @@
+"Section:FIN-Cash Management, General (15 Reqs)"
+706765,Low,,Produce electronic deposit slips through online data entry of revenue transaction.
+706766,High,,Provide for manual online entry of revenue transaction from deposit forms.
+706767,High,,Record statewide investment activity of funds held with the Treasury.
+706768,High,,Provide ability to restrict bank accounts by department.
+706769,High,,Provide ability to restrict warrant/check data by department.
+706770,Medium,,"Allocate interest earned on funds held with the Treasury across selected cash fund balances (user can include or omit fund from  allocation) based upon the average daily balance method to any chart of account segment and automatically create a  corresponding journal entry, with proper authority."
+706771,Medium,,Provide ability to view portfolio data electronically (Link to portfolio management systems).
+706772,High,,Incorporate investment data in the G/L.
+706773,Medium,,"Allows users to import journal entries from desktop applications (e.g., Microsoft Excel) and validate the entry against the Chart of  Accounts and allowed Chart of Accounts code combinations."
+706774,Medium,,"Provide ability to attach electronic documents to an deposit record, including, but not limited to, the following: Image Files."
+706775,Medium,,"Provide ability to attach electronic documents to an deposit record, including, but not limited to, the following: TIF File."
+706776,Medium,,"Provide ability to attach electronic documents to an deposit record, including, but not limited to, the following: PDF files."
+706777,Medium,,"Provide ability to attach electronic documents to an deposit record, including, but not limited to, the following: Word processing  documents."
+706778,Medium,,"Provide ability to attach electronic documents to an deposit record, including, but not limited to, the following: Spreadsheets."
+706779,Medium,,Allow for the sweeping of deposits from multiple deposit accounts into consolidation accounts.

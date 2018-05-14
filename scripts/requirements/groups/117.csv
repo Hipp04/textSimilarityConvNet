@@ -1,0 +1,66 @@
+"Section:HRP-Benefits Administration, General (65 Reqs)"
+709353,Medium,,"For each plan year (July 1 - June 30), maintain employee and employer insurance premium cost for various type of insurance  plans offered to: State employees."
+709354,Medium,,"For each plan year (July 1 - June 30), maintain employee and employer insurance premium cost for various type of insurance  plans offered to: State employees on leave without pay."
+709355,High,,"For each plan year (July 1 - June 30), maintain employee and employer insurance premium cost for various type of insurance  plans offered to: State retirees."
+709356,Medium,,"For each plan year (July 1 - June 30), maintain employee and employer insurance premium cost for various type of insurance  plans offered to: elected officials."
+709357,High,,"For each plan year (July 1 - June 30), maintain employee and employer insurance premium cost for various type of insurance  plans offered to: non-state participants."
+709358,High,,"HR records for State employees and former State employees (retirees) will utilize the ERP Benefits Module, with integration of  Accounts Receivable/Billing Module for non- employee insurance participants."
+709359,Medium,,"HR records for State employees, higher education employees and former State employees (retirees) will utilize the ERP Payroll  Module, for payroll and retirement annuity pay processing."
+709360,High,,"K-12 school district participants, local government participants, certain former agencies previously associated with the State and  certain other former participants records may not be maintained in the ERP Payroll/Personnel (including Benefits Administration)  modules. This group of participants insurance only related records will be maintain within the Accounts Receivable/Billing Module  for non-employee insurance participants."
+709361,High,,Benefits administration must integrate with: Personnel Administration.
+709362,Medium,,Benefits administration must integrate with: Position Control.
+709363,Medium,,Benefits administration must integrate with: Budget Development.
+709364,High,,Benefits administration must integrate with: Payroll.
+709365,High,,Benefits administration must integrate with: General Ledger / Financial Management.
+709366,High,,Benefits administration must integrate with: Accounts Payable.
+709367,High,,Benefits administration must integrate with: Accounts Receivable / Billing.
+709368,High,,Benefits administration must integrate with: Cash Management.
+709369,Medium,,Benefits administration must integrate with: Leave Management.
+709370,Medium,,Benefits administration must integrate with: Classification and Compensation.
+709371,Medium,,Benefits administration must integrate with: Time and Labor.
+709372,Medium,,Integrate Benefits Administration with: Retirement system.
+709373,Medium,,Integrate Benefits Administration with: Revenue.
+709374,Medium,,Integrate Benefits Administration with: Worker's Comp Benefits Administrator.
+709375,Medium,,Integrate Benefits Administration with: Center for Medicare and Medicaid services.
+709376,High,,Integrate Benefits Administration with: Other external employers.
+709377,Medium,,Integrate Benefits Administration with: Insurance carriers and third party administrators.
+709378,Medium,,Integrate Benefits Administration with: Unemployment compensation.
+709379,High,,Provide authorized information to third party administrators for: utilization and contributions.
+709380,High,,Provide authorized information to third party administrators for: demographic data.
+709381,Medium,,Provide authorized information to third party administrators for: deferred compensation (457).
+709382,High,,Provide authorized information to third party administrators for: enrollment and maintenance.
+709383,Medium,,Update interface files by third party administrators as authorized for: resource planning.
+709384,High,,Update interface files by third party administrators as authorized for: update programs.
+709385,High,,Update interface files by third party administrators as authorized for: establish dependent eligibility and enrollment.
+709386,Medium,,Update interface files by third party administrators as authorized for: update of deduction amounts.
+709387,Medium,,Update interface files by third party administrators as authorized for: other user defined parameters.
+709388,Medium,,Update interface files by third party administrators as authorized for: third party insurance.
+709389,Medium,,Update interface files by third party administrators as authorized for: enrollment for administrative billing.
+709390,Medium,,Update interface files by third party administrators as authorized for: select demographics.
+709391,Medium,,Track employee data to disallow duplicate coverage within the same plan and/or program. (Employee can be member in State  plan and Local Government or Local Education plan but cannot be a member / participant or a dependent in the same plan).
+709392,Medium,,Track dependent data to disallow duplicate coverage within the same plan and/or program (Dependents can be covered in  different plans but not twice under the same plan).
+709393,High,,Track current and historical beneficiary information (including multiple beneficiaries per insurance product) visible to the insured  and plan administrator (PEIA administrator).
+709394,High,,Ability to enter and track relationship between spouses (and their dependents) working for different employers to ensure  coverage rules are applied.
+709395,High,,Maintain complete insurance transaction history by participant (including premium payment history and history with multiple  employers) including dates of coverage.
+709396,Medium,,"Provide user defined multi-step workflow for all benefits administration events (e.g. enrollment, qualifying event, stop coverage,  etc.)."
+709397,Medium,,System must meet requirements of COBRA.
+709398,Medium,,System must meet requirements of HIPAA.
+709399,Medium,,"Allow Benefit transactions to be retroactive, subject to user defined edits by transaction type."
+709400,Medium,,Provide the ability to cancel transactions (rather than reverse and reenter) subject to pre-defined edit criteria and security.
+709401,Medium,,"Provide a flexible notification capability that allows the user to define content, rules for production, and distribution method (email  or US mail)."
+709402,Medium,,Record in the employees history when notifications are sent.
+709403,Medium,,Allow copies of notifications to be sent to benefits administrator / benefits coordinator based on user option.
+709404,Medium,,Allow copies of notifications to be retrievable by benefits administration based on user option.
+709405,Medium,,"Provide for entry of comments for employees, participants, dependents, vendors, etc."
+709406,High,,Provide user defined controls for batch processing to include: validation of current eligibility information.
+709407,Medium,,Provide user defined controls for batch processing to include: checking duplicate ssn's.
+709408,High,,Provide user defined controls for batch processing to include: applying premium updates.
+709409,Medium,,Provide user defined controls for batch processing to include: automatically changing enrollment coverage from family to single  when no dependents are enrolled.
+709410,Medium,,Provide user defined controls for batch processing to include: overlapping coverage.
+709411,Medium,,Provide user defined controls for batch processing to include: checking for employee spouse hire indicator.
+709412,Medium,,Compatible with Interactive Voice Response and TTY systems to allow employees to establish and modify specified enrollment  information.
+709413,Medium,,"Provide for scanning abilities for submitting required documentation and link to employee records (e.g., enrollment forms,  qualifying events forms)."
+709414,Medium,,Ability to inquire on the status of a pending benefits transaction online.
+709415,Medium,,Automatically notify the agency's benefits staff when an employee has been on leave without pay.
+709416,High,,"Ability to track the employee and/or dependent benefit status, including premiums, coverage dates and payments."
+709417,Medium,,"Provide the ability, with proper security, to nullify transactions so that they do not appear in history (they will still be on the  database for audit purposes)."

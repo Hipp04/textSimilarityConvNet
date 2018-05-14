@@ -1,0 +1,3 @@
+"Section:SW-General and Technical, Error handling (2 Reqs)"
+718316,High,,Provide a suspense file for rejected batch transactions.
+718317,High,,Allow an authorized user to delete rejected records from the suspense file.

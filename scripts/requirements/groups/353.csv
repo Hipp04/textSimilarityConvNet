@@ -1,0 +1,29 @@
+"Section:PL-Right-of-Way and Utilities, Utility Relocation (28 Reqs)"
+716587,High,,Document each utility or railroad asset requiring relocation for a project.
+716588,Medium,,Integrate with the ERP transportation asset inventory function to pre-populate any available information about the utility or  railroad assets which must be relocated.
+716589,Medium,,Integrate with the WVDOT CAD environment when a utility or railroad relocation is initially set-up to import information from the  design plan sheets.
+716590,Medium,,Integrate with the WVDOT CAD environment to support automatic update of utility and railroad relocation data based on any  changes to the design plans.
+716591,Medium,,Integrate with the WVDOT CAD environment to allow linking to and displaying source data files associated with a utility or  railroad relocation within the WVDOT CAD environment.
+716592,High,,Store name of utility or railroad.
+716593,High,,"Store location of utility or railroad by multiple location references including physical street address, geospatial reference,  construction station, etc."
+716594,High,,Store type of utility or railroad asset to be relocated.
+716595,High,,Store description of utility or railroad asset to be relocated.
+716596,High,,Store contact information for utility or railroad representative.
+716597,High,,Store WVDOT staff member responsible for managing relocation activity for the project.
+716598,High,,"Document party responsible for completing relocation (State, utility, railroad or other)."
+716599,High,,"Document party responsible for cost associated with relocation (State, utility, railroad or other)."
+716600,High,,Document estimated cost of relocation for each individual utility or railroad asset.
+716601,High,,Document estimated cost of relocation for the entire project either as a summary cost or as a roll-up from the individual cost  estimates for each identified relocation activity.
+716602,Medium,,Store a history of cost estimates for each relocation with the date of the estimate and a description of changes since the last cost  estimate.
+716603,High,,"Document each discussion with the utility or railroad concerning the relocation including date, time, location of discussion,  individuals from WVDOT and the utility/railroad participating and a summary of the discussion."
+716604,Medium,,Document in narrative format agreed to approach for completing the relocation.
+716605,High,,Document detailed utility or railroad relocation agreement.
+716606,Medium,,Integrate with WVDOT CAD environment or EMC Application Xtender to store design files if provided by utility or railroad.
+716607,Medium,,Provide an automated workflow to review/approve relocation agreement with review steps based on user defined business rules.
+716608,High,,Document a target date for completion of relocation.
+716609,High,,Document date relocation is completed.
+716610,Medium,,Integrate with the ERP transportation asset inventory function to update the transportation asset inventory with the new location  of the utilities within the right-of-way or the railroad asset.
+716611,Medium,,Integrate with WVDOT CAD environment or EMC Application Xtender to store as built plan files if provided by utility or railroad.
+716612,High,,Provide a notification to the project manager and WVDOT staff member responsible for managing the specific relocation when  the relocation is within a user defined number of days of the target completion date and has not yet been completed.
+716613,Medium,,"Export information from the ERP right-of-way and utilities function to the ERP project management function and Primavera  Program and Project Management application to update milestone dates based on any changes to dates for individual relocation  activities, etc. which are impacting the overall dates for the right-of-way and utilities phase."
+716614,Medium,,Integrate with ERP accounts payable function to initiate payment request for any utility or railroad relocation cost to be  reimbursed by the State. This should include pre-encumbrance for relocation amount against project and project phase.

@@ -1,0 +1,30 @@
+"Section:FIN-General Ledger, General (29 Reqs)"
+707397,Medium,,Control by updating the general ledger and all subsidiary ledgers from the same transaction source.
+707398,Medium,,"Reflect credits as negative numbers and debits as positive numbers within the database. Data on screens and reports must  reflect positive numbers for nominal balances (i.e., credit side entries for revenue show positive, but negative for debit)."
+707399,Medium,,"Provide current year reorganization functionality by moving and merging all actual, budget, and historical data when the  organization is changed."
+707400,Medium,,Report on restated and non-restated history after a reorganization.
+707401,Medium,,Group or ungroup Chart of Accounts fields for reporting purposes.
+707402,Medium,,Comply with GAAP and GASB Statements including GASB 34 and GASB 54.
+707403,Medium,,Provide ability to define multiple subledgers.
+707404,High,,"Provide ability to handle accrual, cash and modified accrual accounting."
+707405,Medium,,Provide ability to record transactions against State and federal fiscal years and calendar year simultaneously.
+707406,Medium,,Record accounting transactions using self-balancing double entry bookkeeping.
+707407,Medium,,Provide ability to track programmatic statistical data.
+707408,Medium,,Provide Secured Internet Enablement - particularly data entry and reporting.
+707409,Medium,,Provide ability to calculate Average Daily Balance by fund.
+707410,Medium,,Provide ability to allocate based on Average Daily Balance.
+707411,Medium,,Provide ability to allow agencies to invest.
+707412,Medium,,Provide ability to assign role based security to allow/prevent processing of transactions against appropriations or certain chart of  accounts values.
+707413,Medium,,Provide ability to support coding reduction technique (user can input a line of coding that will explode into numerous lines of  code).
+707414,Medium,,Track history of modifications to code tables and base the explosions on transaction effective dates (for situations when a  payment is cancelled or needs to be reissued).
+707415,Medium,,"Provide integrated Financial and HR / Payroll systems for salary, wage and payroll related information."
+707416,Medium,,Provide a secured journal voucher type that will bypass edits in the system and can be used to make corrections to values that  are no longer active or valid.
+707417,Medium,,Support the following interfaces: State Treasury - Inbound.
+707418,Medium,,Support the following interfaces: State Treasury - Outbound.
+707419,Medium,,Support the following interfaces: Other agency systems - Inbound.
+707420,Medium,,Support the following interfaces: Other agency systems - Outbound.
+707421,Medium,,Support the following interfaces: Payroll - Inbound.
+707422,Medium,,Support the following interfaces: Payroll - Outbound.
+707423,Medium,,Support the following interfaces: DOT - Inbound.
+707424,Medium,,Support the following interfaces: DOT - Outbound.
+707425,Medium,,"Provide temporary interface between the ERP and EPICS regarding salary, wage and payroll related information."

@@ -1,0 +1,48 @@
+"Section:PL-Facilities Management, Budget Development (49 Reqs)"
+713507,Medium,,"Provide a budget tool which allows for development of the proposed facilities operating budget at different agency defined levels  (a facility grouping/campus, district, region) with a roll-up capability to higher organizational levels (agency unit, agency, etc.)."
+713508,Medium,,Provide capability to roll-down total budget to a division or unit and allow the division or unit to develop or adjust their proposed  budget within the context of their total overall budget (for example each district or facility grouping/campus is given a total budget  number based on management direction and then allowed to develop their budget within these overall parameters).
+713509,Medium,,Provide capability to adjust recommended budget based on a roll-down from the agency level based on actual appropriation from  the West Virginia Legislature.
+713510,Low,,"Provide a budget tool which allows for modeling of unlimited ""what if"" scenarios before selecting your proposed budget scenario  for submission to the next level of review."
+713511,Medium,,Allow for an agency specific routing through workflow of the preferred budget to each manager who needs to review it.
+713512,Low,,"Provide capability to develop proposed budget by modeling the impact of achieving different target levels of service for systems,  components and maintenance features based on the user defined letter grade scale for that system, component or maintenance  feature and the associated level of effort (LOE) factors; for example if the current condition assessment for an asset is a ""B"" and  the statewide target level of service is an ""A"", the user must be able to model the budget impact of moving from a ""B"" level of  service to a ""B+"" or ""A-"" or ""A"" level of service."
+713513,Low,,"Provide capability to specify a target LOS and allow system to calculate the required level of effort (LOE) (e.g. labor-hours of  repair, materials, equipment usage etc.) This is accomplished by converting the difference between actual and target LOS into a  incremental additional work effort per unit of inventory. By multiplying the LOE by the feature inventory, an additional annual work  quantity is obtained for that feature, which is added to the previous annual work quantity to obtain the annual work quantity for  the new budget year."
+713514,Medium,,"Retain ""what if"" scenarios for a user defined period of time."
+713515,Medium,,"Restrict access to ""what if"" scenarios based on user defined business rules."
+713516,Medium,,"Calculate level of effort factors (LOE) to support budget modeling for each system, component or maintenance feature based on  the condition assessment history and the historical actual cost data for internal labor, external labor, equipment, materials and  utilities."
+713517,Medium,,Store historical actual cost data indefinitely and perform real-time calculations on that data to provide refined LOE planning value  information for current-year planning.
+713518,Medium,,Store historical labor costs.
+713519,Medium,,Store historical equipment costs.
+713520,Medium,,Store history of material complement and usage.
+713521,Medium,,Store historical quantity guidelines.
+713522,Medium,,Store historical productivity rates.
+713523,Medium,,Store historical work calendars.
+713524,Low,,"Provide capability to override the calculated LOE with manual input of an LOE to accommodate special situations, (e.g., storm  damage since last field LOS assessment survey, etc.)."
+713525,Medium,,"Integrate with the ERP cost accounting, fleet, inventory, personnel administration and time and labor functions to obtain required  labor, equipment and materials cost factors for budgeting purposes."
+713526,Medium,,"Maintain standard resource cost factors for labor, equipment and materials."
+713527,Medium,,Store code number for resource.
+713528,Medium,,Store description of resource.
+713529,Medium,,Store unit cost of resource.
+713530,Medium,,Store cost measurement unit for resource.
+713531,Medium,,"Store overtime rates for multiple categories of overtime or comp time such as normal, holiday, on-call, etc. for resource."
+713532,Medium,,Store overhead factors for resource.
+713533,Medium,,Store a valid date range for all associated cost/rate data for a resource.
+713534,Medium,,Allow for adjustment of standard resource cost factors at facility groupings or other agency defined organizational  levels/groupings.
+713535,Medium,,Allow for the application of a user defined overtime factor (multiplier).
+713536,Medium,,"Maintain the standard resource cost factors for all previous, current, and next budget years."
+713537,Medium,,Support the ability to derive next year's standard resource cost factors for budgeting purposes by copying the current year unit  cost data to the next budget year.
+713538,Medium,,"Support the ability to derive next year's standard resource cost factors for budgeting purposes by copying the current year unit  cost data to the next budget year, with a user-defined multiplier applied for each type of resource."
+713539,Medium,,Support the ability to derive next year's standard resource cost factors for budgeting purposes by allowing for manual override of  unit cost data for the next budget year.
+713540,Medium,,"Calculate an activity-based annual work plan, (i.e., the annual number of crew-days required to accomplish the annual work  quantity in the budget) This calculation divides the annual work quantity by the appropriate average daily work accomplishment  from the activity performance guidelines to determine the required annual number of crew-days of work for each system.  component or maintenance feature."
+713541,Medium,,Support budgeting by using contracts as a resource in addition to in-house resources using a contract unit cost for the activity.
+713542,Medium,,Allow for the tracking of historical contract data for planning purposes.
+713543,Medium,,Roll over uncompleted maintenance contracts from current/prior year.
+713544,Medium,,Support budgeting for utilities and other operating costs.
+713545,Medium,,Allow for tracking of historical utilities and other operating costs for planning purposes.
+713546,Medium,,Provide capability to apply an adjustment factor (+/-) on the preferred budget submitted by organizational unit when it is being resubmitted  by a parent organizational unit to a lower level for adjustments .
+713547,Medium,,Allow a parent organization to directly make changes to a budget scenario submitted by a lower level organizational unit.
+713548,Medium,,"Allow for the use of current and projected data including costs, labor, equipment class and hours/usage, quantities, productivity  rates, and unit costs."
+713549,Medium,,"Allow user to override unit costs, productivity rates, material quantities, and hours for what-if scenario forecasting."
+713550,Medium,,"Allow for calculating costs and utilization by any period of time, maintenance unit, work type (contracted or in-house),  aggregation, and by category (labor, equipment, and materials)."
+713551,Medium,,"Provide what-if scenario capabilities during the budgeting process and throughout the budget year for the impact of hiring new  employees, reducing workforce, or internal promotions."
+713552,Medium,,"Provide what-if scenario capabilities during the budgeting process and throughout the budget year for the impact of purchasing  new equipment, leasing new equipment, trading in non-utilized equipment, etc."
+713553,Medium,,Provide what-if scenario capabilities during the budgeting process and throughout the budget year for materials cost changes (+/ based on market trends.

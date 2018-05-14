@@ -1,0 +1,7 @@
+"Section:FIN-General Ledger, Interfund / Interagency Billings and Receivables (6 Reqs)"
+707548,Medium,,Provide all the functionality specified for the journal entry requirements for inter/intra-fund and inter/intra-agency billing and  receipts.
+707549,Medium,,"Provide the ability for an inter/intra-agency inter/intra-fund receipt to reference a previously established bill (invoice). After the  transaction is posted, the referenced bill (invoice) document should automatically reflect a payment application."
+707550,Medium,,Provide notification regarding transactions in suspense.
+707551,Medium,,Provide notification to billing and receipting department or agency.
+707552,Medium,,Provide ability to change account coding through mass change functionality with audit trail and proper security.
+707553,Medium,,Provide ability to delete Interfund and Interagency billing and receipts with audit trail and proper security.

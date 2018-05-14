@@ -1,0 +1,102 @@
+"Section:PL-Procurement, Vendor Maintenance (101 Reqs)"
+715939,High,,"Provide the ability for the vendor file to include the following information, including but not limited to (access to information is  based on security): Vendor number."
+715940,High,,"Provide the ability for the vendor file to include the following information, including but not limited to (access to information is  based on security): Prior vendor name(s) and number(s)."
+715941,High,,"Provide the ability for the vendor file to include the following information, including but not limited to (access to information is  based on security): Vendor name."
+715942,High,,"Provide the ability for the vendor file to include the following information, including but not limited to (access to information is  based on security): Vendor status (active, inactive, on hold, ineligible, etc.)."
+715943,High,,"Provide the ability for the vendor file to include the following information, including but not limited to (access to information is  based on security): DBA Name."
+715944,Medium,,"Provide the ability for the vendor file to include the following information, including but not limited to (access to information is  based on security): Prior DBA Name."
+715945,High,,"Provide the ability for the vendor file to include the following information, including but not limited to (access to information is  based on security): Date ineligible."
+715946,High,,"Provide the ability for the vendor file to include the following information, including but not limited to (access to information is  based on security): Date vendor eligible for reinstatement."
+715947,Medium,,"Provide the ability for the vendor file to include the following information, including but not limited to (access to information is  based on security): Agencies for which vendor is ineligible (multiple)."
+715948,Medium,,"Provide the ability for the vendor file to include the following information, including but not limited to (access to information is  based on security): Departments for which the vendor is ineligible (multiple)."
+715949,Medium,,"Provide the ability for the vendor file to include the following information, including but not limited to (access to information is  based on security): Geographies in which the vendor is ineligible (multiple)."
+715950,Medium,,"Provide the ability for the vendor file to include the following information, including but not limited to (access to information is  based on security): Commodities for which vendor is ineligible (multiple)."
+715951,High,,"Provide the ability for the vendor file to include the following information, including but not limited to (access to information is  based on security): Registration valid date on."
+715952,High,,"Provide the ability for the vendor file to include the following information, including but not limited to (access to information is  based on security): Registration valid date off."
+715953,High,,"Provide the ability for the vendor file to include the following information, including but not limited to (access to information is  based on security): Registration reinstatement date."
+715954,High,,"Provide the ability for the vendor file to include the following information, including but not limited to (access to information is  based on security): Federal tax ID number/Social Security Number/ITIN."
+715955,High,,"Provide the ability for the vendor file to include the following information, including but not limited to (access to information is  based on security): Type of Number indicator (EIN, SS#, ITIN)."
+715956,High,,"Provide the ability for the vendor file to include the following information, including but not limited to (access to information is  based on security): DUNS Number."
+715957,High,,Provide for the following vendor information: Contact name (multiple).
+715958,High,,Provide for the following vendor information: Contact title.
+715959,Medium,,"Provide for the following vendor information: Contact designation (accounting, sales, etc.)."
+715960,High,,Provide for the following vendor information: Contact email address.
+715961,High,,"Provide for the following vendor information: Multiple contact phone numbers (office, toll free, cell, fax)."
+715962,High,,Provide for the following vendor information: Comment.
+715963,Medium,,Provide for the following vendor information: Alternative contact person identifier (optional when vendor registers).
+715964,Medium,,"Provide for the following vendor information: Alternative contact phone number (office, cell, fax)."
+715965,High,,Provide for the following vendor information: Address indicated for remittance.
+715966,High,,Provide for the following vendor information: Address indicated for ordering.
+715967,High,,Provide for the following vendor information: Address indicated for tax/1099).
+715968,High,,Provide for the following vendor information: Address indicator for headquarters versus branch.
+715969,High,,Provide for the following vendor information: Multiple physical addresses.
+715970,High,,Provide for the following vendor information: Multiple mailing addresses (handles PO and foreign addresses).
+715971,High,,Support the following address specific fields: Address (2 lines).
+715972,High,,Support the following address specific fields: City.
+715973,High,,Support the following address specific fields: County.
+715974,High,,Support the following address specific fields: State.
+715975,High,,Support the following address specific fields: Country.
+715976,High,,Support the following address specific fields: ZIP + 4.
+715977,High,,Provide for the following vendor information: State where vendor's headquarter is located.
+715978,Medium,,Provide for the following vendor information: Permanent staffed office in State (yes/no).
+715979,High,,Provide for the following vendor information: E-mail address (multiple).
+715980,Medium,,Provide for the following vendor information: Website address.
+715981,High,,Provide for the following vendor information: Bank Transit Code (ABA/Routing number) (multiple).
+715982,High,,Provide for the following vendor information: Bank Account Number (multiple).
+715983,High,,Provide for the following vendor information: Bank Name (multiple).
+715984,High,,Provide for the following vendor information: Direct Deposit Status/EFT Status (multiple).
+715985,High,,Provide for the following vendor information: Credit card acceptance flag (yes/no).
+715986,High,,Provide for the following vendor information: Hold Reason and Hold Source (agency level).
+715987,High,,Provide for the following vendor information: Business Description (validated list).
+715988,High,,"Provide for the following vendor information: Ownership Type/Business Structure/Governmental Organization (e.g., S-corp, Ccorp,  federal agency)."
+715989,High,,Provide for the following vendor information: Small and Minority-owned/Other Targeted Businesses indicator status.
+715990,High,,Provide for the following vendor information: 1099 Reporting Vendor Name.
+715991,Medium,,Provide for the following vendor information: International Corporation Information and numbers.
+715992,High,,"Provide for the following vendor information: Small/Minority/Other Status and Certification Types (MBE, WBE, DBE, Veteran,  Work Center, etc.)."
+715993,Medium,,Provide for the following vendor information: Municipality Code.
+715994,Medium,,"Provide for the following vendor information: Geographic Designation (County, State Highway District, Zone, Region,  Legislative/Congressional District, other)."
+715995,Medium,,Provide for the following vendor information: Central user-defined vendor type fields - for future reporting needs.
+715996,High,,Provide for the following vendor information: Payment terms -- default to State standard with the ability to override with the proper  authority.
+715997,High,,Provide for the following vendor information: Vendor 1099 indicator (yes/no).
+715998,High,,Provide for the following vendor information: Vendor backup withholding status.
+715999,High,,Provide for the following vendor information: Source of record/file (if provided by other public entity).
+716000,High,,Provide for the following vendor information: W9 received (yes/no).
+716001,High,,Provide for the following vendor information: Date W9 received.
+716002,Medium,,Provide for the following vendor information: User-defined fields (multiple).
+716003,Medium,,Provide the following Insurance Information (multiple occurrences): Type.
+716004,Medium,,Provide the following Insurance Information (multiple occurrences): Amount.
+716005,Medium,,Provide the following Insurance Information (multiple occurrences): Coverage Start Date.
+716006,Medium,,Provide the following Insurance Information (multiple occurrences): Coverage End (Expiration) Date.
+716007,High,,Provide the ability to attach documents to vendor records.
+716008,High,,"Provide the ability to secure confidential vendor information (e.g., Social Security Number, banking information, etc.)."
+716009,High,,Provide the ability when a change to a vendor address or email have been made (either by vendor self service or centrally input)  for a notification to be sent to both old and new address to provide a method to validate the change.
+716010,High,,Provide the ability to lock certain fields from vendor self service maintenance.
+716011,High,,"Systems provides the ability for one Vendor database with two views of the data, with posting and inquiry capabilities controlled  by security: (1) the Purchasing view, and (2) the Accounts Payable view."
+716012,Medium,,"Provide the ability to search (dynamic search functionality, fuzzy logic, sound like, etc.) for a vendor using multiple search criteria  such as commodity code, commodity code number or description, Small/Minority/Other Targeted Business status, vendor name,  vendor number, and DBA name, etc."
+716013,High,,Provide the ability to identify a vendor as confidential so that no one can view or report on that vendor's information except  individuals with proper security.
+716014,High,,"Provide the ability to default vendor information from the vendor master file when choosing a vendor on a purchasing document  (e.g., requisitions, solicitations, purchase orders, payments, etc.)."
+716015,High,,Provide the ability to permit certain fields to be overwritten based on user-defined settings with appropriate security.
+716016,High,,"Provide the ability to automatically carry forward vendor information to the next transaction (i.e., requisition to contract to PO and  PO to payment). Carry forward should be optional on requisition. Vendor should be able to be changed on subsequent  documents, except payment with proper security."
+716017,High,,"Provide the ability to track vendor history, to include date added or inactivated and reason."
+716018,High,,Provide the ability for vendor numbers (numeric and alphanumeric) to be system generated or assigned manually based on  system administrator-defined parameters.
+716019,High,,"Provide the ability to search vendor files from within purchasing processes (e.g., requisition, purchase order, payment, etc.)."
+716020,High,,"Provide the ability for users with authorized security to have the ability to add, change or deactivate vendor master file records."
+716021,High,,"Provide the ability to maintain an on-line audit trail of changes to the vendor master file including date, time, and user."
+716022,Medium,,Provide the ability to track invalid registrations and vendor re-registrations.
+716023,High,,Provide the ability to track vendor name changes and cross-reference to history.
+716024,High,,Provide the ability to track changes in vendor numbers and retain cross-reference history.
+716025,High,,"Provide the ability to maintain an online history of individual vendor activities (successful and unsuccessful) by month, quarter,  fiscal and calendar year, inception to date, contract, bid number, agency, commodity code, etc."
+716026,Medium,,"Provide the ability for a new vendor to be added or maintenance to be performed without leaving a related process (e.g.,  accounts payable), with proper authority."
+716027,High,,"Provide the ability to block purchasing transactions to vendors based on user-defined parameters (e.g., ineligible, inactivity, etc.)  for: All commodities or specified commodities."
+716028,High,,"Provide the ability to block purchasing transactions to vendors based on user-defined parameters (e.g., ineligible, inactivity, etc.)  for: All agencies/departments or specified agencies/departments."
+716029,High,,"Provide the ability to block purchasing transactions to vendors based on user-defined parameters (e.g., ineligible, inactivity, etc.)  for: All geographies or specified geographies."
+716030,High,,"Provide the ability to block purchasing transactions to vendors based on user-defined parameters (e.g., ineligible, inactivity, etc.)  for: A specified period of time --an electronic notification can be sent when the period has ended."
+716031,High,,"Provide the ability to block purchasing transactions to vendors based on user-defined parameters (e.g., ineligible, inactivity, etc.)  for: By contract."
+716032,High,,Provide the ability to allow the selective archiving (purge) of vendors by central user-defined criteria.
+716033,High,,"Provide the ability to handle and report long term and ""one-time"" vendors."
+716034,High,,Provide the ability to access vendor data from a central vendor file.
+716035,High,,Provide the ability to support edit checking that reinforces the use of established statewide standards for entering vendor  information.
+716036,High,,"Provide the ability for each agency to have a unique subset of the vendor file for their own use, while retaining the ability to  access and use the central vendor file."
+716037,High,,Provide the ability to allow changes to a payment address at any time during the payment process with appropriate security and  audit trail.
+716038,High,,Provide the ability to verify that a vendor is eligible to receive federal and or state dollars and to indicate a vendor's status on  their file (Federal Debarment List).
+716039,High,,Provide the ability to attach a user's security/access only to vendors the user is authorized to access.

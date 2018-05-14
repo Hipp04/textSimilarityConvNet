@@ -1,0 +1,8 @@
+"Section:FIN-Accounts Receivable, Interagency Billings (7 Reqs)"
+705549,Medium,,Provide ability to simultaneously create an interagency accounts receivable and payment voucher that reference each other  through unique identifiers in the system.
+705550,Medium,,Provide ability to use invoice number to link interagency receivables/payables for purposes of clearing Central accounts  receivable when a payment is approved by an agency.
+705551,High,,Provide ability to pay interagency invoices without generating an actual payment.
+705552,Medium,,Provide ability to record partial payment of interagency receivable invoices.
+705553,Medium,,"Provide ability to flag an interagency receivable or payable as ""In Dispute""."
+705554,Medium,,Provide ability to reference an encumbrance document and liquidate that encumbrance upon payment.
+705555,Medium,,Ability to use billing agency detail and billed agency stored account distribution to create payment transaction.

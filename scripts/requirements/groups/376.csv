@@ -1,0 +1,11 @@
+"Section:PL-Safety Management, Injury Data (10 Reqs)"
+716914,High,,Provide information about and support analysis using injury data for crash events.
+716915,High,,Integrate with the State Trauma Registry to obtain injury data from health/hospital agencies.
+716916,High,,Allow an authorized user to enter/modify injury data or correct data in an interfaced injury report online in the ERP safety  management function.
+716917,High,,"Store, display and utilize crash report number."
+716918,High,,"Store, display and utilize hospital reporting."
+716919,High,,"Store, display and utilize report date."
+716920,High,,"Store, display and utilize driver/passenger identifier."
+716921,High,,"Store, display and utilize injury types (multiple)."
+716922,High,,"Store, display and utilize injury description."
+716923,High,,Allow for designation of a fatal accident when fatal injuries are reported within 30 days to the minute of crash of hospitalization for  a crash event.

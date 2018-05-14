@@ -1,0 +1,22 @@
+"Section:FIN-Asset Management, Disposal, Retirement, and Theft (21 Reqs)"
+705898,Medium,,"Provide ability to generate either financial or memo transactions to the General Ledger to reflect the financial impact of asset  dispositions, and should automatically compute the gain/loss associated with a disposal."
+705899,High,,"Provide ability to record the following information related to disposals, trade-ins, missing, lost, or stolen assets: Property tag /  inventory control number."
+705900,Medium,,"Provide ability to record the following information related to disposals, trade-ins, missing, lost, or stolen assets: Reporting  individual."
+705901,Medium,,"Provide ability to record the following information related to disposals, trade-ins, missing, lost, or stolen assets: Date of  occurrence or date first noticed missing."
+705902,Medium,,"Provide ability to record the following information related to disposals, trade-ins, missing, lost, or stolen assets: Description of  circumstances surrounding the disappearance/disposition."
+705903,Medium,,"Provide ability to record the following information related to disposals, trade-ins, missing, lost, or stolen assets: Steps taken to  locate item."
+705904,Medium,,"Provide ability to record the following information related to disposals, trade-ins, missing, lost, or stolen assets: Disposal date."
+705905,Medium,,"Provide ability to record the following information related to disposals, trade-ins, missing, lost, or stolen assets: Disposal amount."
+705906,High,,"Provide ability to record the following information related to disposals, trade-ins, missing, lost, or stolen assets: Disposal method."
+705907,Medium,,"Provide ability to record the following information related to disposals, trade-ins, missing, lost, or stolen assets: Disposal type."
+705908,Medium,,"Provide ability to record the following information related to disposals, trade-ins, missing, lost, or stolen assets: Police report  information (multiple jurisdictions)."
+705909,Medium,,"Provide ability to record the following information related to disposals, trade-ins, missing, lost, or stolen assets: Gains on sales of  disposed property by user defined criteria."
+705910,Medium,,"Provide ability to record the following information related to disposals, trade-ins, missing, lost, or stolen assets: User-Defined  fields."
+705911,Medium,,Track replacement needs for assets.
+705912,Medium,,Track estimated useful life.
+705913,Medium,,"Provide ability to notify users, electronically, when useful life threshold is nearing."
+705914,Medium,,Provide ability to allow the application of indices and/or factors to historical costs to assets) to update the replacement cost data.
+705915,Medium,,"Record asset dispositions (purchased with certain grants) and proceeds of sales, which is integrated with the Grants  Management module."
+705916,Medium,,Provide ability to attach grant expiration date to asset and notify users when expiration date is imminent.
+705917,Medium,,Allow updates to an asset after the associated grant has expired.
+705918,Medium,,"Flag assets with disposal restrictions and display the restriction message for user handling (e.g., federal grant items that must be  returned to the federal government)."

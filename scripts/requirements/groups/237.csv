@@ -1,0 +1,6 @@
+"Section:PL-Facilities Management, Time and Leave Integration (5 Reqs)"
+713830,Medium,,Integrate with the ERP time and labor function to automatically generate the employees time sheet with data from work orders  (partial or complete) on a regularly scheduled basis.
+713831,Medium,,"Provide time charge details for employees for specific time periods including hours worked (by all types of hours -- regular,  holiday time, comp time, on-call time, overtime, etc)."
+713832,Medium,,"Allow employees to add other charges to their time sheet (leave, training, non facilities management related work, other  administrative time, etc.) to account for all hours in a pay period before submitting their time sheet."
+713833,Medium,,Route any changes made by the employee on the timesheet to activities pre-populated from work orders back to the  maintenance supervisor for approval.
+713834,Medium,,Adjust the appropriate work order to reflect employee time sheet adjustments if the adjustments are approved by the  maintenance supervisor and reflect these changes within the ERP time and labor function for payroll purposes.

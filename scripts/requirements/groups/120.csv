@@ -1,0 +1,67 @@
+"Section:HRP-Benefits Administration, Plan Costs (66 Reqs)"
+709593,Medium,,Provide financial processes associated with benefits administration to include: State FICA savings on section 125 participation.
+709594,Medium,,Provide financial processes associated with benefits administration to include: billing of state agencies for insurance for the entire  group while maintaining individual eligibility.
+709595,Medium,,Provide financial processes associated with benefits administration to include: calculation and processing of payments to benefit  vendors.
+709596,Medium,,Provide financial processes associated with benefits administration to include: electronic transmission of eligibility information to  benefit vendors.
+709597,Medium,,Provide financial processes associated with benefits administration to include: refund of insurance premiums to employees.
+709598,Medium,,Provide financial processes associated with benefits administration to include: refund of insurance premiums to agencies.
+709599,Medium,,Provide financial processes associated with benefits administration to include: accounting entries must have the ability to track to  individual employees.
+709600,Medium,,Provide financial processes associated with benefits administration to include: integration of financial entries to the financial  system.
+709601,Medium,,Provide financial processes associated with benefits administration to include: ability to split premium cost between employee  and employer based on user defined criteria.
+709602,Medium,,Provide at least the following methods of calculating employee/agency premium costs or contribution amounts: percentage (base  salary).
+709603,Medium,,Provide at least the following methods of calculating employee/agency premium costs or contribution amounts: flat amount.
+709604,Medium,,Provide at least the following methods of calculating employee/agency premium costs or contribution amounts: wage type(s) to  include in calculation.
+709605,High,,Provide at least the following methods of calculating employee/agency premium costs or contribution amounts: wage as of date  for calculations.
+709606,Medium,,"Provide at least the following methods of calculating employee/agency premium costs or contribution amounts: at minimum,  individual, 2 party, family, cross-reference eligibility or individual and children."
+709607,Medium,,"Provide at least the following methods of calculating employee/agency premium costs or contribution amounts: individual,  individual or spouse, family, individual and child(ren)."
+709608,Medium,,Provide at least the following methods of calculating employee/agency premium costs or contribution amounts: pre or post  taxable income calculation.
+709609,Medium,,Provide at least the following methods of calculating employee/agency premium costs or contribution amounts: monthly limit.
+709610,Medium,,Provide at least the following methods of calculating employee/agency premium costs or contribution amounts: quarterly limits.
+709611,Medium,,Provide at least the following methods of calculating employee/agency premium costs or contribution amounts: annual limits.
+709612,Medium,,"Provide at least the following methods of calculating employee/agency premium costs or contribution amounts: Medicare, end  staged renal disease eligibility."
+709613,Medium,,Provide at least the following methods of calculating employee/agency premium costs or contribution amounts: age.
+709614,Medium,,Provide at least the following methods of calculating employee/agency premium costs or contribution amounts: date of birth.
+709615,Medium,,Provide at least the following methods of calculating employee/agency premium costs or contribution amounts: date of death.
+709616,Medium,,Provide at least the following methods of calculating employee/agency premium costs or contribution amounts: amount of  coverage.
+709617,Medium,,Provide at least the following methods of calculating employee/agency premium costs or contribution amounts: frequency.
+709618,Medium,,Provide at least the following methods of calculating employee/agency premium costs or contribution amounts: group.
+709619,Medium,,Provide at least the following methods of calculating employee/agency premium costs or contribution amounts: premium level.
+709620,Medium,,Provide at least the following methods of calculating employee/agency premium costs or contribution amounts: benefit/product.
+709621,Medium,,Provide at least the following methods of calculating employee/agency premium costs or contribution amounts: agency.
+709622,Medium,,Provide at least the following methods of calculating employee/agency premium costs or contribution amounts: administrative fee.
+709623,Medium,,"Provide at least the following methods of calculating employee/agency premium costs or contribution amounts: 9/12 calculation  (nine month appointment paid over twelve, etc.) 10/12 calculation, and 11/12 calculation including administration of escrow  balance."
+709624,Medium,,Provide at least the following methods of calculating employee/agency premium costs or contribution amounts: retiree's  retirement date (interfaced from the retirement system).
+709625,Medium,,Provide at least the following methods of calculating employee/agency premium costs or contribution amounts: income (to  receive premium assistance).
+709626,Medium,,Provide ability of calculating employee/agency premium costs or contribution amounts based on multiple attributes listed above.
+709627,Medium,,Calculate costs based on effective date with more than one cost effective during a particular period.
+709628,Medium,,Collect employer portion of delinquent premium when employee portion is paid.
+709629,Medium,,Provide the ability to input specific premium amounts for any coverage for any period (override system calculated amount).
+709630,Medium,,Provide for deferral of premium costs if pay or premium paid is insufficient based on user defined option and duration.
+709631,Medium,,Automatically cancel employees insurance after user defined period of unpaid premiums.
+709632,Medium,,Provide support for the refunding or applying overpayments.
+709633,Medium,,"Track, refund, and apply excess funds to all transactions subject to user defined rules."
+709634,Medium,,Apply retroactive changes to: adjust large groups of employees when rates change.
+709635,Medium,,Apply retroactive changes to: verify eligibility if eligibility rules change.
+709636,Medium,,Apply retroactive changes to: apply retroactive changes to a single employee or a combination of employee and employer.
+709637,Medium,,Accumulate benefit costs by one or a combination of: agency (organization at user specified level).
+709638,Medium,,Accumulate benefit costs by one or a combination of: accounting distribution.
+709639,Medium,,Accumulate benefit costs by one or a combination of: benefit type.
+709640,Medium,,Accumulate benefit costs by one or a combination of: transfers.
+709641,Medium,,Accumulate benefit costs by one or a combination of: plan year.
+709642,Medium,,Accumulate benefit costs by one or a combination of: plan.
+709643,Medium,,Accumulate benefit costs by one or a combination of: plan type.
+709644,Medium,,Accumulate benefit costs by one or a combination of: vendor.
+709645,Medium,,Accumulate benefit costs by one or a combination of: employee/participant.
+709646,Medium,,Accumulate benefit costs by one or a combination of: other charts of accounts.
+709647,Medium,,Maintain employee premium or contribution history and employer cost history on-line by: plan.
+709648,Medium,,Maintain employee premium or contribution history and employer cost history on-line by: plan type.
+709649,Medium,,Maintain employee premium or contribution history and employer cost history on-line by: employee/participant.
+709650,Medium,,Maintain employee premium or contribution history and employer cost history on-line by: vendor.
+709651,Medium,,Maintain employee premium or contribution history and employer cost history on-line by: accounting distribution.
+709652,Medium,,Maintain employee premium or contribution history and employer cost history on-line by: benefit type.
+709653,Medium,,Maintain employee premium or contribution history and employer cost history on-line by: transfers.
+709654,Medium,,Maintain employee premium or contribution history and employer cost history on-line by: plan year.
+709655,Medium,,Maintain employee premium or contribution history and employer cost history on-line by: employer.
+709656,Medium,,Maintain employee premium or contribution history and employer cost history on-line by: other chart of accounts field.
+709657,Medium,,Maintain employee premium or contribution history and employer cost history on-line by: notification to employees.
+709658,Medium,,Provide automation of refunds through payroll to maintain integrity of W2 information.

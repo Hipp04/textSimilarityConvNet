@@ -1,0 +1,52 @@
+"Section:HRP-Payroll, General (51 Reqs)"
+710827,High,,"Maintain data files for month-to-date, quarter-to-date and year-to-date totals (Taxable Wages and Tax Withheld for State,  Federal and Local fiscal and calendar year) by individual employee and source of funds."
+710828,High,,"Provide approval points for all payroll hours, leave hours."
+710829,High,,"Process payroll starting at various points in the process (gross up and gross to net and pay processing for state employees,  higher education institutions; check assignment, check/deposit printing, deposit electronic routing and check reconciliation."
+710830,Medium,,"Process check assignment, check/deposit printing, deposit electronic routing and check reconciliation for retiree annuity payroll  (both annuitants and third parties)."
+710831,High,,Control distribution of employee payroll check / warrants to State Departments / Universities / Agencies / CPRB (retirees).
+710832,High,,"Retain payment of Federal, State and Local (including States other than West Virginia) taxes withheld, to comply with Federal,  State, and Local payroll tax reporting requirements."
+710833,Medium,,Review employee pay and benefit detail online.
+710834,Medium,,Calculate and track multiple local taxes to account for each local jurisdiction based on: gross taxable wages.
+710835,Medium,,Calculate and track multiple local taxes to account for each local jurisdiction based on: user-defined taxable wage base.
+710836,Medium,,Calculate and track multiple local taxes to account for each local jurisdiction based on: FICA taxable wages.
+710837,Medium,,Calculate and track multiple local taxes to account for each local jurisdiction based on: tiered tax table based on taxable gross.
+710838,Medium,,Calculate and track multiple local taxes to account for each local jurisdiction based on: Federal Income Tax.
+710839,Medium,,Calculate and track multiple local taxes to account for each local jurisdiction based on: State Income Tax.
+710840,Medium,,Calculate and track multiple local taxes to account for each local jurisdiction based on: Local Income Tax (e.g. City and County).
+710841,High,,"Maintain salary, deduction, and pay history for each employee / payee for user-defined number of periods."
+710842,Medium,,Archive and retrieve employee payroll data based on user-defined criteria.
+710843,High,,Produce checks or deposit advices.
+710844,High,,"Enable workflow for approval and routing of all payroll events, including the updating of payroll calculation tables (deductions,  taxes, etc.)."
+710845,Medium,,"Interface Payroll information with: third party administrators and carriers (coverage information, deduction amounts, etc.)."
+710846,Medium,,Interface Payroll information with: CPRB pension administration system.
+710847,Medium,,Interface Payroll information with: Workers' compensation (for payment information).
+710848,Medium,,"Interface Payroll information with: Taxing authorities (federal, state, local)."
+710849,Medium,,"Interface Payroll information with: other governmental agencies (IRS, SSA, UI, etc.)."
+710850,Medium,,"Interface Payroll information with: federal defense (Army Reserves, Air Reserves)."
+710851,Medium,,Interface Payroll information with: other departmental timekeeping systems.
+710852,Medium,,Interface Payroll information with: unemployment compensation.
+710853,Medium,,Interface Payroll information with: new hire reporting (Policy Studies).
+710854,Medium,,Interface Payroll information with: Welfare and Medicaid systems.
+710855,Medium,,"Interface Payroll information with: health insurance enrollment, plan holder/member updates."
+710856,Medium,,"Interface Payroll information with: collecting agencies for tax levees, child support, court orders, student loans."
+710857,High,,System should have payroll integrated with: Personnel Administration.
+710858,High,,System should have payroll integrated with: Benefits Administration.
+710859,High,,System should have payroll integrated with: Classification and Compensation.
+710860,High,,System should have payroll integrated with: Position Control.
+710861,High,,System should have payroll integrated with: Cost Allocation.
+710862,High,,System should have payroll integrated with: Accounts Payable.
+710863,High,,System should have payroll integrated with: General Ledger.
+710864,High,,System should have payroll integrated with: Grant Management.
+710865,High,,System should have payroll integrated with: Labor Distribution.
+710866,High,,System should have payroll integrated with: Budget Development.
+710867,High,,System should have payroll integrated with: Budget Control.
+710868,High,,System should have payroll integrated with: Time and Labor.
+710869,High,,System should have payroll integrated with: Leave Management.
+710870,High,,System should have payroll integrated with: Travel.
+710871,High,,System should have payroll integrated with: Accounts Receivable.
+710872,High,,System should have payroll integrated with: Cash Management.
+710873,High,,System should have payroll integrated with: Asset Management.
+710874,Medium,,System should have payroll integrated with: Fleet Management.
+710875,Medium,,Generate notice to user that final wages are due within 72 hours of dismissal when proposed disciplinary/corrective action is  entered into an employee's file.
+710876,Medium,,"Allow new employees to input there initial direct deposit selections (e.g. primary accounts, secondary etc.) and edit against State  ABA edit table for all financial institutions used by the State."
+710877,Medium,,Provide ability for agencies to upload direct-deposit information for those employees that may not have access to the Internet.

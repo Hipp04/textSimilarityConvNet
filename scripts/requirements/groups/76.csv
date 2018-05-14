@@ -1,0 +1,30 @@
+"Section:FIN-General Ledger, Closing (29 Reqs)"
+707554,Medium,,"Provide automated year-end close processes (i.e., close nominal accounts to fund balance or fund equity, roll real accounts  forward) for all modules as needed. Close processing supported to the level of detail (Chart of Accounts Elements) determined  by the user."
+707555,Medium,,"Allow users to initiate year-end processing at any point in time after the end of the fiscal year (i.e., doesn't have to occur on last  day or on any particular day)."
+707556,Medium,,Roll forward or closes grant and project accounts based on the type of project or grant.
+707557,Medium,,"Allow users to run a process that closes all selected open purchase orders/encumbrances and requisitions/pre-encumbrances  with user-defined parameters at year-end. Such parameters include, but are not limited to, the encumbrance document number."
+707558,Medium,,Provide ability to close by fund or by fund group.
+707559,Medium,,"Provide ability to perform period-end closings (e.g., monthly)."
+707560,Medium,,"Maintain multiple fiscal years (at least 3) and periods concurrently, which allows users to post transactions for a new fiscal year  prior to closing the previous year."
+707561,Medium,,"Allow new year inputs to be entered before the old year's preliminary closing, with the transactions held in suspense until the new  year is opened."
+707562,Medium,,Allow users to set a default accounting period.
+707563,Medium,,Allow users to define closing periods and the period closing dates.
+707564,Medium,,Provide support for multiple open periods.
+707565,Medium,,Prevent transactions from posting into a closed period (month or year).
+707566,Medium,,"Allow reopening a closed period (either month or year) for transaction processing, with appropriate security. User is able to  reopen a prior period that is several periods back without opening all the prior periods sequentially."
+707567,Medium,,Permit prior period adjustments.
+707568,Medium,,Allow user-defined types of transactions to post into a future period as long as the period is open and the user has appropriate  security authority.
+707569,Medium,,"Support pre-close (i.e., trial closes) and generates pro forma financial statements without restriction."
+707570,Medium,,Allow posting of expenditure and revenue accruals required for end of fiscal year closings.
+707571,Medium,,Provide access to at least 3 years of complete financial information in detail format online.
+707572,Medium,,"Provide for at least 16 user-definable accounting periods per year that can either be used for transacting against financial  balances, adjusting periods against financial balances, or adjusting periods that are for memo entries only and do not update  financial balances, but will be reflected in annual reports."
+707573,Medium,,Provide the functionality to roll appropriations or any Chart of Account elements forward at year end according to user-defined  criteria.
+707574,Medium,,Provide the ability to close separate ledgers at different times.
+707575,Medium,,Provide the ability to post closing adjustments at any point during the closing period.
+707576,Medium,,Provide the ability to support use of a 13th month for adjusting entries.
+707577,Medium,,Provide the ability to support multiple preliminary closings before final closing.
+707578,Medium,,Provide the ability to hold a period open and reopen a closed period to make required adjustments.
+707579,Medium,,Provide the ability to automatically carry forward lapsing and non-lapsing items.
+707580,Medium,,Provide the ability to post to old year appropriations and have new year balances affected.
+707581,Medium,,Provide the ability to automatically generate all opening and year-end closing entries for all fund types.
+707582,Medium,,Provide the ability for automatic reversals of year-end accrual information.

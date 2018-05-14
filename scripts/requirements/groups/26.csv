@@ -1,0 +1,34 @@
+"Section:FIN-Budget Development, Internal Agency Budget (33 Reqs)"
+706392,Medium,,Monitor disbursement estimates by providing previous estimates and variances.
+706393,Medium,,Flag disbursement estimates with user-defined variances for review.
+706394,Medium,,Monitor spending at multiple levels of control including central and agency levels.
+706395,Medium,,Ability to establish limits on positions and/or FTEs at the lower levels of the organization structure.
+706396,Medium,,Ability to set budgetary control at any level of Chart of Accounts.
+706397,Medium,,Establish effective start and end dates for agency budgets by different elements of the Chart of Accounts.
+706398,Medium,,Capture agency defined controls in a table-based structure.
+706399,Medium,,Ability to override the agency budget controls.
+706400,Medium,,"Ability to perform and save ""what if"" scenarios (including parameters) at the Agency and Statewide levels."
+706401,Medium,,Ability to analyze fee-supported activities.
+706402,Medium,,Ability to generate a 5-year forecast for expenditures and revenues.
+706403,Medium,,"Ability to produce ""rolling"" forecasts based on user-defined forecasting methodology."
+706404,Medium,,Provide a spreadsheet presentation (format) for end-users to prepare or modify the budget request.
+706405,Medium,,Provide for application of percentage increase or decrease to a budgeted category.
+706406,Medium,,Ability to develop standard rates to be established and saved that can be applied during the budget development process.
+706407,Medium,,"""Push"" via workflow budget forms out to departments electronically for budget preparation."
+706408,Medium,,Return completed budget forms to the Agency Budget Office electronically via workflow.
+706409,Medium,,Ability to create an agency level/department budget using the following: Zero balances in all accounts.
+706410,Medium,,Ability to create an agency level/department budget using the following: Current year's original budget.
+706411,Medium,,Ability to create an agency level/department budget using the following: Last year's budgeted total.
+706412,Medium,,Ability to create an agency level/department budget using the following: Last year's actuals.
+706413,Medium,,Ability to create an agency level/department budget using the following: Last year's statistics.
+706414,Medium,,Ability to create an agency level/department budget using the following: Current year's budget or actual +/- a percentage.
+706415,Medium,,Ability to create an agency level/department budget using the following: Previous year's budget or actual +/- a percentage.
+706416,Medium,,Ability to create an agency level/department budget using the following: Straight line projection.
+706417,Medium,,Ability to create an agency level/department budget using the following: Projection based on percentage of last year's actual.
+706418,Medium,,Ability to create an agency level/department budget using the following: Projection based on user-defined formula - including  statistical information.
+706419,Medium,,Ability to create an agency level/department budget using the following: Projection based on estimated actuals from current year.
+706420,Medium,,Ability to create an agency level/department budget using the following: Last Year's Adjusted Budget.
+706421,Medium,,Ability to create an agency level/department budget using the following: escalations.
+706422,Medium,,Ability to create an agency level/department budget using the following: divided by funding source.
+706423,Medium,,Ability to create an agency level/department budget using the following: non-recurring items.
+706424,Medium,,Ability to create an agency level/department budget using the following: Current year's appropriation.

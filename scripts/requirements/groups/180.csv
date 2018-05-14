@@ -1,0 +1,47 @@
+"Section:HRP-Time and Labor, General (46 Reqs)"
+711772,High,,Allow employees and employee groups to be processed based on positive or exception time entry.
+711773,Medium,,Define maximum number of hours by day or pay period by: agency.
+711774,Medium,,Define maximum number of hours by day or pay period by: division.
+711775,Medium,,Define maximum number of hours by day or pay period by: job classification.
+711776,Medium,,"Define maximum number of hours by day or pay period by: status (permanent, part-time, temporary)."
+711777,Medium,,Define maximum number of hours by day or pay period by: workgroup.
+711778,Medium,,Define maximum number of hours by day or pay period by: user defined criteria.
+711779,Medium,,Define maximum hours by 12 month period based on status (temporary).
+711780,High,,Allow for the processing of time from two different years at the same time.
+711781,Medium,,User defined eligibility rules for entry of supplemental hour types.
+711782,High,,"Allow changes to prior periods to integrate with payroll to correct pay, hours worked, etc."
+711783,Medium,,"Automatically generate pay adjustment transactions when necessary based on retroactive data entered, i.e., hours entered  causes overtime in a prior pay period."
+711784,Medium,,Automatically adjust leave accruals for retroactive entry of hours.
+711785,Medium,,"Make mass changes for a single employee or group of employees within an interval of time and make any necessary  corresponding adjustments to employee records, leave or pay balances."
+711786,Medium,,"Make time worked changes to prior pay periods to correct pay, hours worked, etc. retroactively."
+711787,Medium,,Generate controls that specify expected minimum and maximum hours by: department.
+711788,Medium,,Generate controls that specify expected minimum and maximum hours by: division.
+711789,Medium,,Generate controls that specify expected minimum and maximum hours by: branch / office.
+711790,Medium,,Generate controls that specify expected minimum and maximum hours by: section / unit.
+711791,Medium,,Generate controls that specify expected minimum and maximum hours by: time sheet transmittal (positive and exception  reporting).
+711792,Medium,,Generate controls that specify expected minimum and maximum hours by: other user defined criteria.
+711793,Medium,,Capture the contract and vendor number for contractors.
+711794,Medium,,Time and labor will be integrated with the following ERP components: Personnel administration.
+711795,Medium,,Time and labor will be integrated with the following ERP components: Leave Management.
+711796,Medium,,Time and labor will be integrated with the following ERP components: Benefit administration.
+711797,Medium,,Time and labor will be integrated with the following ERP components: Insurance.
+711798,Medium,,Time and labor will be integrated with the following ERP components: Payroll.
+711799,Medium,,Time and labor will be integrated with the following ERP components: Financial Management.
+711800,Medium,,Time and labor will be integrated with the following ERP components: Accounts Receivable.
+711801,Medium,,Time and labor will be integrated with the following ERP components: Grant Management.
+711802,Medium,,Time and labor will be integrated with the following ERP components: Procurement.
+711803,Medium,,Time and labor will be integrated with the following ERP components: Travel.
+711804,Medium,,Time and labor will be integrated with the following ERP components: Fleet Management.
+711805,Medium,,Time and labor will be integrated with the following ERP components: Plant Maintenance.
+711806,Medium,,Time and labor will be integrated with the following ERP components: Agency specific labor systems.
+711807,Medium,,Time and labor will interface with the following external systems: Workers' compensation.
+711808,Medium,,Time and labor will interface with the following external systems: Unemployment.
+711809,Medium,,Time and labor will interface with the following external systems: Insurance carriers/third party administrators.
+711810,Medium,,Time and labor will interface with the following external systems: Social Security Disability.
+711811,Medium,,Time and labor will interface with the following external systems: Policy studies (Federal new-hire reporting).
+711812,Medium,,Time and labor will interface with the following external systems: Retirement.
+711813,High,,Time and labor will interface with the following external systems: P-CARD Citi Bank Database.
+711814,Medium,,Time and labor will interface with the following external systems: Agency specific time capture systems.
+711815,Medium,,Allow an integrated imaging capability for linking scanned data to time records.
+711816,Medium,,Provide for search of available time data input items using various methods for specific templates based on user defined  business rules.
+711817,Medium,,"All user defined time and labor business rules, schedules, and processes can only be performed by users based upon  appropriate authorization at the agency, organization unit, job class, or supervisory levels."

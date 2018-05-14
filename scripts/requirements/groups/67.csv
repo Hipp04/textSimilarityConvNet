@@ -1,0 +1,16 @@
+"Section:FIN-FHWA Billing, Prepare Bill for FHWA (15 Reqs)"
+707363,High,,Define billing cycle to generate computer billing (receipt) that complies with the provisions of the Federal Cash Management  Improvement Act.
+707364,High,,Allow user override to define billing cycle to initiate computer billing.
+707365,High,,Determine the total cost against the federally eligible project/phase/stage/program category since the last billing.
+707366,High,,Automatically bill eligible cost based on the total amount that is available at the federal project phase/stage/program category  minus any previous billed cost to the project/phase/program category. .
+707367,High,,Accrue unbilled cost by federal project/phase/stage/program category and provide reports of status .
+707368,High,,Maintain the original expenditure detail charged to a federal project.
+707369,High,,Update each project/phase/stage/program category to indicate the amount to bill.
+707370,High,,Support the ability to establish billing using user defined split percentages to federal program categories with effective dating.
+707371,Medium,,Support the ability to bill federal lands differently e.g. forest.
+707372,High,,Support the ability to establish billing using user defined prioritized federal program categories with effective dating.
+707373,High,,Edit to ensure that all cost billed are appropriate and in accordance with federal agreements.
+707374,Medium,,Apply federal indirect cost rate to billed amounts on selected projects/phases/stages/program categories.
+707375,High,,Generate and process the related Accounts Receivable and Revenue entries for the general ledger.
+707376,High,,Maintain the integrity of each billing making it possible to access all detail relating to each bill for a user defined period including  a direct tie to expenditures reimbursed in the billing.
+707377,High,,Generate the billing taking into account that retainage will be billed only at the end of the project. The balance of retainage will  be calculated and reported but not billed. Provide an indicator to include retainage on the billing with proper security.

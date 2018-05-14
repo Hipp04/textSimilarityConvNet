@@ -1,0 +1,64 @@
+"Section:HRP-Benefits Administration, Plan Administration (61 Reqs)"
+709418,Medium,,Support State sponsored benefit plans such as: Deferred Compensation (457).
+709419,Medium,,Support State sponsored benefit plans such as: 401(k) Loan Repayments.
+709420,Medium,,Support State sponsored benefit plans such as: Unemployment Insurance.
+709421,Medium,,Support State sponsored benefit plans such as: Medical/Health.
+709422,Medium,,Support State sponsored benefit plans such as: Life Insurance.
+709423,Medium,,Support State sponsored benefit plans such as: Accidental Death Insurance (ADD).
+709424,Medium,,Support State sponsored benefit plans such as: Dental.
+709425,Medium,,Support State sponsored benefit plans such as: Flexible spending accounts.
+709426,Medium,,Support State sponsored benefit plans such as: Optional life/accident insurance.
+709427,Medium,,Support State sponsored benefit plans such as: Long term disability.
+709428,Medium,,Support State sponsored benefit plans such as: Short term disability.
+709429,Medium,,Support State sponsored benefit plans such as: Day Care.
+709430,Medium,,Support State sponsored benefit plans such as: Retirement.
+709431,Medium,,Support State sponsored benefit plans such as: Long term care.
+709432,Medium,,Support State sponsored benefit plans such as: Medicare supplement.
+709433,Medium,,Support State sponsored benefit plans such as: Wellness.
+709434,Medium,,Support State sponsored benefit plans such as: Employee Assistance Program.
+709435,Medium,,Support State sponsored benefit plans such as: Variable Annuities.
+709436,Medium,,Support State sponsored benefit plans such as: Additional retirement.
+709437,Medium,,Support State sponsored benefit plans such as: Vision Care.
+709438,Medium,,Support State sponsored benefit plans such as: Charitable Deductions.
+709439,Medium,,Support State sponsored benefit plans such as: Qualified Transportation Benefits (s.132).
+709440,Medium,,Support State sponsored benefit plans such as: Various new benefit plans as may be approved in the future.
+709441,Medium,,Support various types of non-State sponsor benefit plans for supplemental insurance vendors.
+709442,Medium,,"Ability to define data defaults that comply with DOP Rules, Court Orders, State law, Federal requirements, and State Policies and  Procedures."
+709443,Medium,,Support multiple versions of benefit plans. Plan versions are processed based on effective date.
+709444,Medium,,Provide ability to approve and reimburse contribution overpayments for FSA accounts.
+709445,Medium,,Provide the ability to record on-line enrollment/changes by plan year in medical/child care reimbursements accounts.
+709446,Medium,,Provide enrollment/change notification to employees via email or letter.
+709447,Medium,,Provide the ability for employee or department benefit administrators to view benefits enrollment data based on security access.
+709448,Medium,,"Send benefits enrollment confirmation indicating choices and associated information (i.e., levels of coverage, deduction amounts  etc.) to the participant via hardcopy or electronic."
+709449,Medium,,Provide the ability to display potential tax savings on flex expenditure accounts.
+709450,Medium,,Provide a link to the third party administrator for submission of reimbursement requests of FSA claims for medical or dependent  care expenses.
+709451,High,,"Image and attach required documentation for enrollments, changes, or request for reimbursements."
+709452,Medium,,Ability for employee to view reimbursements based on user security.
+709453,Medium,,Interface with the payroll contribution process to derive changes to contributions (i.e. reductions/reimbursements) based on  reimbursement rules and availability.
+709454,Medium,,Ability to handle missed insurance premiums by creating an arrearage for missing premium based on user defined business  rules.
+709455,Medium,,Provide the ability to adjust the arrearage for insurance premiums based on payments made directly by the employee or  employer.
+709456,Medium,,Ability to handle FSA contribution by pro-rating the deduction of the remaining schedule of the plan year.
+709457,Medium,,Provide the ability to adjust the remaining contribution amounts based on payments made directly by the employee to the TPA.
+709458,Medium,,Handle missed premiums by a one-time catch-up method.
+709459,Medium,,View online year to date summary of reimbursement accounts with pending activity.
+709460,Medium,,"Notify employees on or returning from leave of absence concerning benefit restrictions or limitations, and re-enrollment."
+709461,Medium,,Track demographic and enrollment data for analysis of specific plans.
+709462,Medium,,Change groups of employees from one program to another.
+709463,Medium,,Terminate groups of employees and maintain history.
+709464,Medium,,Allow for employees to self enroll and update status in seminars and special events for wellness and employee assistance  programs.
+709465,Medium,,Add and accurately process premiums for short term enrollments. (COBRA enrollment for one or two month period).
+709466,Medium,,Identify and report all employees that were previously associated with a particular agency.
+709467,Medium,,Allow for option to elect or not elect pre-tax medical insurance premium deductions.
+709468,Medium,,Automatically notify employees of: program eligibility.
+709469,Medium,,Automatically notify employees of: program terminations or changes.
+709470,Medium,,Automatically notify employees of: dependents ineligibility.
+709471,Medium,,Automatically notify employees of: COBRA eligible for policy holder or dependent.
+709472,Medium,,Enter all elected benefits at one time or separate time if within the enrollment time frame.
+709473,Medium,,Ability to enter effective dates of enrollment across plan years or premium years.
+709474,Medium,,"Add, change, or terminate coverage with a future effective date."
+709475,Medium,,Coordinate transfer of individuals between agencies with a future effective date.
+709476,Medium,,"Add COBRA dental coverage and automatically calculate the correct begin date, end date, and amount due, for a  terminating/retiring individual."
+709477,Medium,,Maintain all notifications for a period as determined by the Benefits Administrator.
+709478,Medium,,Provides for
+Sectio,n 125 be,,nefit plans and the specification of whether a particular benefit type is part of a
+Sectio,n 125 pl,,an.

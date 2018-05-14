@@ -1,0 +1,22 @@
+"Section:HRP-Benefits Administration, Benefit Receivables (21 Reqs)"
+709705,Medium,,"Allow State and non-State organizations or PEIA to apply payments to the oldest balances first or to specific premiums due  based on the plan, with override capabilities via online using the web based billing/payment portal."
+709706,Medium,,Generate Accounting entries for future coverage periods for: recording monies received as unearned.
+709707,Medium,,Generate Accounting entries for future coverage periods for: reduce unearned monies and recognize revenue as coverage is  certified.
+709708,Medium,,Generate Accounting entries for future coverage periods for: reduce revenue and record unearned revenue for payments on  future periods.
+709709,High,,Post a collection to an individuals account per coverage type.
+709710,Medium,,Apply payments according to user defined priority.
+709711,High,,Integrate with Cash Management for processing insufficient checks or ACH collections.
+709712,Medium,,Additional remittance advice will be prepared immediately if a payment is received that is insufficient to balance due (except for  remaining ARC coverage type).
+709713,High,,"Ability to set specified collection method for payees, individual or groups of including: cash/check, direct draft, ACH, external  agency paid, or State agency paid."
+709714,Medium,,Online entry of cash receipts from direct premium payers.
+709715,Medium,,Scanned receipts from Revenue (lock-box) or direct online entry.
+709716,Medium,,"Maintain separate record of premiums and fees billed, collected or outstanding from either employee or employer."
+709717,Medium,,Provide the employer/agency daily notification if coverage has been certified once a past due premium is received based on: the  collection and certification of a month's premium.
+709718,Medium,,Provide the employer/agency daily notification if coverage has been certified once a past due premium is received based on: the  collection and certification of a previous month's premium.
+709719,Medium,,Process refunds or credits of insurance premiums to participants (pre-tax or post tax). For State employees refunds run through  payroll for current W2 year.
+709720,Medium,,Process refunds or credits of insurance premiums to agencies.
+709721,Medium,,"Process multiple payment types, including wire transfers, lockbox payment files, individual checks, electronic payment, and/or  journal entries for state agencies."
+709722,Medium,,"Attach scanned image, pdf, or file to the participating insured record at (or after) the time of data entry."
+709723,Medium,,Process write-offs based on user defined criteria.
+709724,High,,"Facilitate reconciliation processing by organization, by any period or range of periods."
+709725,Medium,,"Charge a % interest on balances due, based on user defined criteria."

@@ -1,0 +1,18 @@
+"Section:PL-Transportation Asset Inventory, Roadside Features (17 Reqs)"
+717230,Medium,,Capture and track a range of roadside features.
+717231,Medium,,Maintain an inventory of controlled access.
+717232,Medium,,Maintain an inventory of bike lanes.
+717233,Medium,,Maintain an inventory of bike/pedestrian paths.
+717234,Medium,,Store landscaping/plantings.
+717235,Medium,,Store mowable areas.
+717236,Medium,,Store right-of-way fencing.
+717237,Medium,,Store right-of-way (non-mowable) area.
+717238,Medium,,Store mandatory brake checkpoints.
+717239,Medium,,Store runaway truck ramps.
+717240,Medium,,Store truck pull-off areas.
+717241,Medium,,Maintain an inventory of sidewalks.
+717242,Medium,,Maintain an inventory of stabilized slopes.
+717243,Medium,,Maintain an inventory of historical markers.
+717244,Medium,,Maintain an inventory of mail boxes.
+717245,Medium,,"Maintain an inventory of known obstructions on the right of way such as fences, gates, cattle crossings, retaining walls, and  buildings."
+717246,Medium,,Support capture of all attributes defined in the NHTSA Model Minimum Inventory of Roadway Elements (MMIRE).

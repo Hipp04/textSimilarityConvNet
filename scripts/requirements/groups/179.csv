@@ -1,0 +1,27 @@
+"Section:HRP-Position Control, Reporting (26 Reqs)"
+711746,High,,Produce reports for a specific time period for all elements of position control.
+711747,High,,"Track hours and pay received by pay period, MTD, federal fiscal year, grant period, program fiscal year, state fiscal YTD,  accounting YTD, YTD pay received and calendar YTD hours by position."
+711748,Medium,,Provide for flexible routing and approval of memo of understanding.
+711749,Medium,,Report or inquire on total FTEs authorized as well as total authorized for full-time and part-time positions at user-specified points  in time.
+711750,Medium,,Provide for a reconciliation of position type totals from one point in time to another.
+711751,High,,"Capture, tally and report pay increases and general pay adjustments by position number and by reason."
+711752,Medium,,Provide a schematic code which allows sorting of positions into logical sequence.
+711753,Medium,,"Produce an organization chart for a selected portion of the agency, program or function with the option of displaying employees  and/or positions."
+711754,Medium,,Generate a report of actual headcount by position.
+711755,Medium,,Inquire and/or report on positions by type including overlap and detail positions.
+711756,High,,Generate projections of payroll liabilities from filled positions and savings from vacant positions.
+711757,High,,Track the length of time a position is vacant.
+711758,Medium,,Provide a report to support turnover analysis by position.
+711759,Medium,,Provide a report to support turnover analysis by position and location.
+711760,Medium,,Track and report all positions authorized to fill at user-defined levels in an agency.
+711761,Medium,,Track and report all budgeted positions and currently authorized positions.
+711762,Medium,,Track and report employees by position.
+711763,Medium,,"Track and report proposed, abolished and other position variances by user-defined fields."
+711764,Medium,,"Produce position reports (new, moved, vacant, changed, etc.)."
+711765,Medium,,Generate filled position and budgeted position list by salary and anniversary date.
+711766,Medium,,Generate filled/vacant position report.
+711767,Medium,,"Generate a change report that compares position data between versions. Once the agency makes its changes, provides a report  that displays those changes."
+711768,Medium,,Report overtime by position in dollars and hours.
+711769,High,,Link to a classification associated with each position.
+711770,Medium,,Locate a position by user-defined fields.
+711771,Medium,,"Report actual payroll costs and codes (including Earning Codes) by employee, position number, hours, Chart of Accounts, and/or  pay period."

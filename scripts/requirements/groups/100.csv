@@ -1,0 +1,25 @@
+"Section:FIN-Transparency, Public Access (24 Reqs)"
+708544,High,,"Provide the means to collect, store and establish public access to records with emphasis on executed contracts, purchase  orders, invoices, and total gross compensation for state employees."
+708545,High,,Display total vendor spend statewide and by agency.
+708546,High,,"Provide the ability to display contracts, purchase orders, and invoices in summary or full form."
+708547,High,,Display detailed vendor payment transactions statewide and by agency.
+708548,High,,Display vendor submitted bids after bid opening.
+708549,High,,"Contracts, purchase orders, and invoices made available to the public must not be protected by privilege or exempt under any  other Federal or State law (e.g. HIPPA)."
+708550,High,,Provide ability to receive documents in the following formats: Microsoft Word.
+708551,High,,Provide ability to receive documents in the following formats: Microsoft Excel.
+708552,High,,Provide ability to receive documents in the following formats: PDF.
+708553,High,,Provide ability to receive documents in the following formats: TIF.
+708554,High,,Provide ability to receive documents in the following formats: CAD Drawings.
+708555,High,,Provide ability to receive documents in the following formats: URL.
+708556,High,,Provide ability to receive documents in the following formats: Image.
+708557,High,,Provide ability to receive documents in the following formats: Sound Files.
+708558,High,,Provide ability to receive documents in the following formats: Video Files.
+708559,High,,"Documents must show date of execution, amount of the document, name of the agency executing the document, the names of  all other parties executing the document, the subject matter of the document, and the document number, expiration date,  commodity code."
+708560,High,,The system will change all submitted documents to a text searchable PDF format for standardization purposes.
+708561,Medium,,The website must display instructions for the public on how to review or request access to documents online.
+708562,High,,"The public will be able to search the documents and document summaries by date of execution, amount of the document, name  of the agency executing the document, the names of all other parties executing the document, the subject matter of the  document, and the document number, expiration date, commodity code."
+708563,Medium,,"Provide ability for the public to perform ""keyword"" searches."
+708564,Medium,,Documents made available for public access must remain in the system for a minimum of 10 years.
+708565,Medium,,Provide ability to scan each document for keywords that will be used to assign each document to an internal commodity type or  type(s) that will be used to enhance search capability for the public.
+708566,High,,Comply with the FFATA (Federal Funding Accountability and Transparency Act) requirements.
+708567,Medium,,Update the transparency system in real time as vendor and employee invoices are paid.

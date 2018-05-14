@@ -1,0 +1,20 @@
+"Section:HRP-Benefits Administration, Collections (19 Reqs)"
+709726,High,,Establish a user-defined sequence of collection events for: first delinquency notice.
+709727,High,,Establish a user-defined sequence of collection events for: second delinquency notice.
+709728,High,,Establish a user-defined sequence of collection events for: coverage suspension notice.
+709729,High,,Establish a user-defined sequence of collection events for: final collections warning notice.
+709730,High,,Establish a user-defined sequence of collection events for: coverage termination notice.
+709731,High,,Establish a user-defined sequence of collection events for: collections referral.
+709732,High,,Ability of system to bill an item from RHBT (Remaining ARC) which does not require collections and should not be part of the  collection process.
+709733,High,,Indicate specific accounts which are in a payment plan status that are not part of the default collection process. Notify supervisor  through automated email when account is flagged as in payment plan status and removed from collection process.
+709734,High,,Provide capability to allow authorized users to override the system collection defaults for specific accounts that should not be part  of the collection process. Include automated email notification to supervisory for such accounts.
+709735,High,,"Tailor multiple delinquency notices for active agencies, retirees, and policyholders."
+709736,High,,Designate policyholder and employer accounts in collections status.
+709737,High,,Automatically generate user-defined delinquency notices on accounts owing more than their unapplied credit balance exceeding  a user-defined past due period. .
+709738,High,,"Indicate distribution method for first and second delinquency notices via US mail, email or posting to a web-based contributions  portal."
+709739,High,,"Record all delinquency notice issuance dates against the policyholder, active agency or retiree record."
+709740,High,,Establish business rules for the automated issuance of coverage suspension notices to policyholders or retirees that includes the  preceding issuance of delinquency notices and a user-defined elapsed time from last premium payment received.
+709741,High,,Establish business rules for the automated issuance of coverage termination notices to policyholders or retirees that includes the  preceding issuance of delinquency notices and a user-defined elapsed time from last premium payment received.
+709742,High,,Establish business rules for the automated issuance of final collections warning notice to agencies or retirees.
+709743,High,,"Record the exclusion of system generated delinquency, coverage suspension and final collection warnings by the user, date and  time."
+709744,High,,Provide the ability to un-pend suspended coverage if payments are made on delinquent accounts.

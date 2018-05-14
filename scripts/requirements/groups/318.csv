@@ -1,0 +1,52 @@
+"Section:PL-Procurement, Goods and/or Services Receipt (51 Reqs)"
+715796,High,,"System allows for decentralized recording of the receipt of goods and services, and provides for the receipt of goods and  services to be recorded online in an electronic receiving report by authorized personnel, resulting in an immediate update of the  purchase order status to reflect the receipt of goods."
+715797,High,,"Provide the ability to accept, process, and report/inquire on over and under receipts."
+715798,High,,"Provide the ability to capture the following receipt information, including, but not limited to, the following: Receiving Report  Number (system-generated)."
+715799,High,,"Provide the ability to capture the following receipt information, including, but not limited to, the following: Receiving Report Date."
+715800,High,,"Provide the ability to capture the following receipt information, including, but not limited to, the following: Date Item was Received."
+715801,High,,"Provide the ability to capture the following receipt information, including, but not limited to, the following: Receiver User-ID."
+715802,High,,"Provide the ability to capture the following receipt information, including, but not limited to, the following: Receiver Name."
+715803,Medium,,"Provide the ability to capture the following receipt information, including, but not limited to, the following: Receiver phone number."
+715804,Medium,,"Provide the ability to capture the following receipt information, including, but not limited to, the following: Receiver email address."
+715805,High,,"Provide the ability to capture the following receipt information, including, but not limited to, the following: Purchase order number."
+715806,High,,"Provide the ability to capture the following receipt information, including, but not limited to, the following: Requisition number."
+715807,High,,"Provide the ability to capture the following receipt information, including, but not limited to, the following: Vendor ID."
+715808,High,,"Provide the ability to capture the following receipt information, including, but not limited to, the following: Vender name."
+715809,Medium,,"Provide the ability to capture the following receipt information, including, but not limited to, the following: Vendor address and  telephone."
+715810,Low,,"Provide the ability to capture the following receipt information, including, but not limited to, the following: Small/Minority-owned  Status (ethnicity and gender)/other targeted businesses."
+715811,High,,"Provide the ability to capture the following receipt information, including, but not limited to, the following: PO line number."
+715812,High,,"Provide the ability to capture the following receipt information, including, but not limited to, the following: PO line quantity."
+715813,High,,"Provide the ability to capture the following receipt information, including, but not limited to, the following: PO Unit of measure."
+715814,High,,"Provide the ability to capture the following receipt information, including, but not limited to, the following: Commodity code of item  or service."
+715815,High,,"Provide the ability to capture the following receipt information, including, but not limited to, the following: Line description."
+715816,Medium,,"Provide the ability to capture the following receipt information, including, but not limited to, the following: Accounting/funding  information (no update capabilities)."
+715817,High,,"Provide the ability to capture the following receipt information, including, but not limited to, the following: Quantity received /  Remaining Balance."
+715818,High,,"Provide the ability to capture the following receipt information, including, but not limited to, the following: Quantity rejected."
+715819,High,,"Provide the ability to capture the following receipt information, including, but not limited to, the following: Reason for rejection."
+715820,High,,"Provide the ability to capture the following receipt information, including, but not limited to, the following: Quantity accepted."
+715821,High,,"Provide the ability to capture the following receipt information, including, but not limited to, the following: Quantity backordered."
+715822,High,,"Provide the ability to capture the following receipt information, including, but not limited to, the following: Condition."
+715823,High,,"Provide the ability to capture the following receipt information, including, but not limited to, the following: Receiver comments."
+715824,High,,"Provide the ability to capture the following receipt information, including, but not limited to, the following: Partial Delivery."
+715825,High,,"Provide the ability to capture the following receipt information, including, but not limited to, the following: Location."
+715826,High,,"Provide the ability to capture the following receipt information, including, but not limited to, the following: Stock number."
+715827,Medium,,Provide the ability to receive advanced shipment notices from the vendors electronically and route to receiving agent.
+715828,Medium,,"Provide the ability to receive packing slip information electronically from vendor, and have the information fed into the receiving  document in the ERP."
+715829,High,,"Provide the ability to carry forward specified data captured on the purchase requisition and purchase order to the receiving report  to reduce data entry, but also provide the ability to require receivers to key certain data items (e.g., physical count) from the  receiving ticket."
+715830,High,,Provide the ability to record multiple receipts against one PO or PO line.
+715831,High,,Provide the ability to reverse a receipt transaction and reverse all other actions triggered by the original receipt with proper  authorization.
+715832,High,,"Provide the ability to capture items such as lot number, serial number, asset tag number, and expiration date at time of receipt."
+715833,Medium,,Provide the ability to trigger Accounts Payable process based upon receipt of receiving report information.
+715834,High,,Provide the ability to perform unit of measure conversion from purchased unit of measure to stocked / delivered unit of measure.
+715835,High,,"Provide the ability for receivers to select outstanding purchase orders, by vendor enabling the selection of the correct PO for  receipt."
+715836,High,,Provide the ability to flag purchases for fixed asset upon receipt of good.
+715837,Medium,,"Provide the ability for receivers to view receiving instructions on receipt (e.g., inspections required, quarantine, etc.)."
+715838,High,,"Provide the ability to audit receiving data by user ID, date, time, etc. including: Compliance with delivery requirements."
+715839,High,,"Provide the ability to audit receiving data by user ID, date, time, etc. including: Condition of goods."
+715840,High,,"Provide the ability to audit receiving data by user ID, date, time, etc. including: Rejection of goods."
+715841,High,,"Provide the ability to audit receiving data by user ID, date, time, etc. including: Over and under shipments."
+715842,High,,"Provide the ability to audit receiving data by user ID, date, time, etc. including: Commodity substitutions with approval."
+715843,High,,Provide the ability to support bar-code or RFID technology to be used to capture receipt information. System would need to  provide the ability to cross-reference the State's commodity-coding structure to UPC codes or user defined codes.
+715844,Medium,,Provide the ability to set price and quantity tolerances for automated matching of goods received.
+715845,High,,Provide the ability to process a return goods authorization (electronic or hard copy) for materials to be returned.
+715846,Low,,"Provide the ability for vendors (via self service) to generate an invoice based on the purchase order and the quantity/amount  received (e.g. ""PO Flips"")."

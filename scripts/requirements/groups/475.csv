@@ -1,0 +1,6 @@
+"Section:SW-General and Technical, Help (5 Reqs)"
+718318,Medium,,"Provide context sensitive, field level on-line help features for all screen elements, screen errors and error codes."
+718319,High,,Utilize an on-line help feature which directs the user either to a help screen specific to the field they are on if help is available for  that field or to a help screen which is specific to the screen they are on if no field level help is available.
+718320,Medium,,Provide the ability to identify processing or navigation path for a screen.
+718321,Medium,,Allow customization of vendor provided help files by the system administrator or other authorized users to incorporate State  specific information. Customized help files will carry forward automatically during upgrades.
+718322,Medium,,Allow customization of help files by the system administrator or other authorized user by agency or by roles and responsibilities  within the ERP system. Customized help files will carry forward automatically during upgrades.

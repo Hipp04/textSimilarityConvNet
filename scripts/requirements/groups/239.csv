@@ -1,0 +1,13 @@
+"Section:PL-Facilities Management, Keys and Security Cards (12 Reqs)"
+713847,Low,,Maintain an inventory of keys and security cards.
+713848,Low,,Track key grand masters and control codes.
+713849,Low,,Provide the ability to associate sub masters.
+713850,Low,,Assign an individual to a key number.
+713851,Low,,Support assignment of multiple keys by serial number.
+713852,Low,,Allow association of a key to multiple locks.
+713853,Low,,Provide the ability to easily establish for which locations/locks a key cut is used.
+713854,Low,,"Provide the ability to track checked-in, checked out, and lost keys."
+713855,Low,,"Provide the ability to view key transaction histories (issues, returns, transfers, lost keys, etc.)."
+713856,Low,,Provides the ability to assign a security id/security card to an employee and connect it to one or multiple facilities and sub- facilities.
+713857,Low,,Maintain a log of active security cards and access rights associated with the card.
+713858,Low,,Support linking of electronic keys to building control systems.

@@ -1,0 +1,63 @@
+"Section:HRP-Applicant Services, Testing and Examinations (62 Reqs)"
+709157,High,,Track continuous and scheduled testing.
+709158,Medium,,Manage the administration of tests to include: computer based.
+709159,Medium,,Manage the administration of tests to include: written.
+709160,Medium,,Manage the administration of tests to include: oral.
+709161,Medium,,Manage the administration of tests to include: training and work experience.
+709162,Medium,,Manage the administration of tests to include: skills based.
+709163,Medium,,Ability to schedule tests once the applications are received.
+709164,Medium,,"Ability to notify applicant of testing arrangements, including date, location, logistical information, etc. via mail or email as  specified by the applicant."
+709165,Medium,,Designate testing components as general and applicable to many positions.
+709166,Medium,,Record test results and transfer test scores for applicants who have applied for multiple positions.
+709167,Medium,,Bypass general test components for individual applicants that have passed this step for another application process.
+709168,Medium,,"Create multiple evaluation methods (e.g., Scoring / Pass / Fail)."
+709169,Medium,,Record test data linked to the applicant's information based on: exam center or location.
+709170,Medium,,Record test data linked to the applicant's information based on: exam results.
+709171,Medium,,Record test data linked to the applicant's information based on: unique test number (version of the test taken).
+709172,Medium,,Record test data linked to the applicant's information based on: test date and time.
+709173,Medium,,Record test data linked to the applicant's information based on: person or persons conducting the specific test.
+709174,Medium,,Record test data linked to the applicant's information based on: response by question.
+709175,Medium,,"Record test data linked to the applicant's information based on: preference points (e.g., veterans)."
+709176,Medium,,Record test data linked to the applicant's information based on: comments.
+709177,Medium,,Record test data linked to the applicant's information based on: user defined criteria.
+709178,Medium,,Capture the expiration of test scores: which expires after a user-defined amount of time.
+709179,Medium,,Capture the expiration of test scores: and remove (inactivate) the applicant from the appropriate registers.
+709180,Medium,,Capture the expiration of test scores: with electronic notification the applicant of the expiration and removal.
+709181,Medium,,"Analyze test data that computes and displays standard statistics, with statistics at the item and exam level to include: test score  means."
+709182,Medium,,"Analyze test data that computes and displays standard statistics, with statistics at the item and exam level to include: standard  error measurements."
+709183,Medium,,"Analyze test data that computes and displays standard statistics, with statistics at the item and exam level to include: standard  deviations."
+709184,Medium,,"Analyze test data that computes and displays standard statistics, with statistics at the item and exam level to include: frequency  distributions and item difficulties."
+709185,Medium,,"Analyze test data that computes and displays standard statistics, with statistics at the item and exam level to include: response  frequencies."
+709186,Medium,,"Analyze test data that computes and displays standard statistics, with statistics at the item and exam level to include: other  measures as needed and appropriate."
+709187,Medium,,Record multiple scores for the same applicant and the same test.
+709188,Medium,,Identify and use the highest test score in rankings. (e.g. Rule of 10).
+709189,Medium,,"Record and calculate ratings for experience, education, etc."
+709190,Medium,,"Calculate a final score once all testing components are completed to enable placement on the register for each classification  applied for, using user-defined variables within specified time parameters."
+709191,Medium,,Automatically recalculation of scores if tests are retaken.
+709192,Medium,,Create user-definable results notification templates which contains: a test description.
+709193,Medium,,Create user-definable results notification templates which contains: the score.
+709194,Low,,Create user-definable results notification templates which contains: the score range.
+709195,Low,,Create user-definable results notification templates which contains: a register rank.
+709196,Medium,,Create user-definable results notification templates which contains: the number of correct/incorrect answers.
+709197,Medium,,Create user-definable results notification templates which contains: the disqualification criteria.
+709198,Medium,,Create user-definable results notification templates which contains: the eligibility date.
+709199,Medium,,Create user-definable results notification templates which contains: commented text.
+709200,Medium,,Create user-definable results notification templates which contains: preference points (if applicable).
+709201,Medium,,Enable statewide online testing at several remote locations.
+709202,Medium,,"Enable online concurrent testing at multiple locations. For example, generate the same test 500 times in 10 different locations at  the same time."
+709203,Medium,,Create password/ID retrieval for applicants.
+709204,Medium,,"Link tests with specific job classes, and change the exam/job class relationship in real-time or at a future date."
+709205,Medium,,Print formatted tests and answer keys based on user security profiles.
+709206,Medium,,"Post test results, in real time (online and/or printable), with access for the proctor, Personnel Staff and applicant."
+709207,Medium,,Track of test start/end time.
+709208,Medium,,Track of a time/date stamp for test scores.
+709209,Medium,,"Track of applicant test taking statistics, such as number of times and how often a test is taken."
+709210,Medium,,Reasonable accommodation tools and resources for special testing needs (ADA compliant).
+709211,Medium,,Multilingual support option on all tests.
+709212,Medium,,User defined number of testing components.
+709213,Medium,,Record user defined versions of tests and related answer keys.
+709214,Medium,,Tracks multiple user-defined answer keys with unique identifiers and user definable fields.
+709215,Medium,,Exclude items that are deemed invalid from final scoring of tests and rescore.
+709216,Medium,,Identify the exams where an excluded item was used.
+709217,Medium,,Applicants can take tests while administrators post new tests for the same exam.
+709218,Medium,,Create online test that can be routed through approval levels and posted in real time.

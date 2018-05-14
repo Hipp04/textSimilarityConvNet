@@ -1,0 +1,15 @@
+"Section:FIN-Project Management, STIP (174 Reqs)  StmtID"
+708335,Rating,,Medium  Requirement  Support development of and updates to the State Transportation Improvement Program (STIP) for submission to FHWA.  Support Source
+708336,Medium,,Provide a snapshot of the final STIP.
+708337,Medium,,Provide a dynamic instance of the STIP which includes pending and approved changes from FHWA to the STIP.
+708338,Medium,,Provide the ability to perform 'what if' scenarios from the dynamic STIP instance or the final STIP applying various business rules.
+708339,Medium,,"Provide an interface from FMIS for balances of funding sources to use for ""what if"" analysis."
+708340,Medium,,Support the following what if scenarios: Changes to revenue amounts.
+708341,Medium,,Support the following what if scenarios: Changes to funding.
+708342,Medium,,Support the following what if scenarios: Changes to a mix of projects i.e. e. a certain amount for a paving project and a certain  amount for bridge project.
+708343,Medium,,Support the ability to prioritize by project.
+708344,Medium,,Provide the available funding sources applicable for each project.
+708345,Medium,,Provide the available earmarks applicable for each project.
+708346,Medium,,Track special earmarks.
+708347,Medium,,Provide the ability to export what if scenarios to a file.
+708348,Medium,,Support the tracking of project deliverables/performance measures.

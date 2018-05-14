@@ -1,0 +1,7 @@
+"Section:PL-Real Estate Management, Lease Management (6 Reqs)"
+716311,Medium,,Integrate with ERP accounts payable for external lessors to automatically generate payment request and create warrant for lease  payment based on specified lease terms.
+716312,Medium,,Allocate costs associated with lease payment based on cost allocation terms documented in the lease inventory.
+716313,Medium,,Allow authorized user to request a hold on lease payment.
+716314,Medium,,Submit any on-hold lease payments to an authorized user for approval through an automated work flow and generate payment  request and create warrant or intergovernmental billing following user approval.
+716315,Medium,,Generate notification to Real Estate Division and/or agencies based on user defined business rules where lease is expiring.
+716316,Medium,,Generate a report of facilities where lease is expiring with time period based on user defined business rules.

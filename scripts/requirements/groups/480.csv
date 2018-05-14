@@ -1,0 +1,7 @@
+"Section:SW-Reporting and Business Intelligence, Ad-hoc Query (6 Reqs)"
+718422,High,,Ensure a user cannot access information through an ad-hoc query if they are not authorized to view this information in the  operational ERP system.
+718423,Medium,,Allow users to build ad-hoc queries to report on any fields in the ERP system for which they are authorized using one or more  combinations of different criteria.
+718424,Medium,,Allow a user to save an ad-hoc query for later execution without impacting any base query that was used as a start point. The  user must be prompted to provide a descriptive name for the saved ad-hoc query.
+718425,Low,,Display a user's saved ad-hoc queries by descriptive name on the user's report portal.
+718426,Low,,Allow a user to authorize one or more additional users to have access to a saved ad-hoc query through the report portal.
+718427,Low,,Display any ad-hoc queries authorized by one user for use by a second user on the second user's report portal.

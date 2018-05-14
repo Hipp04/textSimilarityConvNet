@@ -1,0 +1,117 @@
+"Section:HRP-Benefits Administration, Plan Eligibility (114 Reqs)"
+709479,Medium,,Create ACH files in PPD consumer format.
+709480,Medium,,Maintain multiple eligibility dates for different benefit plans based on different rules for the plan and the employee.
+709481,Medium,,"Determine employee's eligibility/ineligibility, enrollment effective/end dates as well as premium amounts due from employee  and/or employer."
+709482,Medium,,Maintain eligibility rules by benefit plan with variables that include: plan type.
+709483,Medium,,Maintain eligibility rules by benefit plan with variables that include: group.
+709484,Medium,,Maintain eligibility rules by benefit plan with variables that include: required employee's status for coverage (permanent or  temporary).
+709485,Medium,,Maintain eligibility rules by benefit plan with variables that include: required participant status for coverage.
+709486,Medium,,Maintain eligibility rules by benefit plan with variables that include: geographic coverage.
+709487,Medium,,Maintain eligibility rules by benefit plan with variables that include: waiting period.
+709488,Medium,,Maintain eligibility rules by benefit plan with variables that include: minimum hours worked.
+709489,Medium,,Maintain eligibility rules by benefit plan with variables that include: dependent coverage.
+709490,Medium,,Maintain eligibility rules by benefit plan with variables that include: which dependents are eligible.
+709491,Medium,,Maintain eligibility rules by benefit plan with variables that include: split coverage (multiple participants per family).
+709492,Medium,,Maintain eligibility rules by benefit plan with variables that include: Medicare eligibility.
+709493,Medium,,Maintain eligibility rules by benefit plan with variables that include: COBRA requirements.
+709494,Medium,,Maintain eligibility rules by benefit plan with variables that include: HIPAA requirements.
+709495,Medium,,"Maintain eligibility rules by benefit plan with variables that include: ability to enroll during annual enrollment (yes, no, only if in  another plan)."
+709496,Medium,,Maintain eligibility rules by benefit plan with variables that include: prior plan requirement (which plans qualify).
+709497,Medium,,Maintain eligibility rules by benefit plan with variables that include: may continue on leave without pay (FMLA).
+709498,Medium,,Maintain eligibility rules by benefit plan with variables that include: how long eligible after leave begins.
+709499,Medium,,"Maintain eligibility rules by benefit plan with variables that include: type of leave (military, workers compensation, etc.)."
+709500,Medium,,Maintain eligibility rules by benefit plan with variables that include: may continue if disabled.
+709501,Medium,,Maintain eligibility rules by benefit plan with variables that include: dependents eligible after employee's death.
+709502,Medium,,Maintain eligibility rules by benefit plan with variables that include: how long eligible after employee's death.
+709503,Medium,,Maintain eligibility rules by benefit plan with variables that include: re-enrollment after return from leave without pay.
+709504,Medium,,Maintain eligibility rules by benefit plan with variables that include: re-enrollment period.
+709505,Medium,,Maintain eligibility rules by benefit plan with variables that include: re-enrollment rules after return from military leave.
+709506,Medium,,Maintain eligibility rules by benefit plan with variables that include: reinstatable after return from leave without pay.
+709507,Medium,,Maintain eligibility rules by benefit plan with variables that include: reinstatement period.
+709508,Medium,,Maintain eligibility rules by benefit plan with variables that include: reinstatement rules after return from military leave.
+709509,Medium,,Maintain eligibility rules by benefit plan with variables that include: continue after retirement.
+709510,Medium,,Maintain eligibility rules by benefit plan with variables that include: job classification code/title.
+709511,Medium,,Maintain eligibility rules by benefit plan with variables that include: effective date.
+709512,Medium,,Maintain eligibility rules by benefit plan with variables that include: hire date.
+709513,Medium,,Maintain eligibility rules by benefit plan with variables that include: age of employee.
+709514,Medium,,Maintain eligibility rules by benefit plan with variables that include: age of dependents.
+709515,Medium,,Maintain eligibility rules by benefit plan with variables that include: hours worked by period.
+709516,Medium,,Maintain eligibility rules by benefit plan with variables that include: yearly health screening.
+709517,Medium,,Maintain eligibility rules by benefit plan with variables that include: living will.
+709518,Medium,,"Maintain eligibility rules by benefit plan with variables that include: tobacco usage (policy holder, dependents)."
+709519,Medium,,"Maintain eligibility rules by benefit plan with variables that include: required documentation (birth certificates, marriage license,  etc.)."
+709520,Medium,,Maintain eligibility rules by benefit plan with variables that include: wage base.
+709521,Medium,,Maintain eligibility rules by benefit plan with variables that include: track leave without pay for limitations.
+709522,Medium,,Maintain eligibility rules by benefit plan with variables that include: over-ride of eligibility with proper security.
+709523,Medium,,Maintain eligibility rules by benefit plan with variables that include: flexible spending account eligibility as defined in Internal  Revenue Code
+Sectio,n 125 an,,d
+Sectio,n 129.,,
+709524,Medium,,Maintain eligibility rules by benefit plan with variables that include: monitor and prevent overages from employee contribution on  deferred compensation based on federal guideline.
+709525,Medium,,Maintain eligibility rules by benefit plan with variables that include: adjusted continuous service date.
+709526,Medium,,"Maintain eligibility rules by benefit plan with variables that include: meet all other state and federal laws, policies and guidelines  pertaining to flexible spending accounts and deferred compensation."
+709527,Medium,,Maintain eligibility rules by benefit plan with variables that include: base salary.
+709528,Medium,,Maintain eligibility rules by benefit plan with variables that include: annual earnings.
+709529,Medium,,Maintain eligibility rules by benefit plan with variables that include: coverage date.
+709530,Medium,,Maintain eligibility rules by benefit plan with variables that include: qualifying events.
+709531,Medium,,Maintain eligibility rules by benefit plan with variables that include: other user defined criteria.
+709532,Medium,,Provide for various types of enrollment consistent with eligibility rules to include: enrollment of new hires and rehires within a user  defined period of hire date.
+709533,Medium,,Provide for various types of enrollment consistent with eligibility rules to include: annual open enrollment period.
+709534,Medium,,Provide for various types of enrollment consistent with eligibility rules to include: enrollment of employee for qualifying event.
+709535,Medium,,Provide for various types of enrollment consistent with eligibility rules to include: late enrollment due to qualifying event.
+709536,Medium,,Provide for various types of enrollment consistent with eligibility rules to include: late enrollment with medical underwriting.
+709537,Medium,,Provide for various types of enrollment consistent with eligibility rules to include: special enrollment due to HIPAA qualifying  event.
+709538,Medium,,"Provide the ability to apply statuses to insurance programs: ""open"" - in this case, employees may be enrolled in this program as  of the effective date of the program. All normal processing may be done against open programs including retroactive transactions."
+709539,Medium,,"Provide the ability to apply statuses to insurance programs: ""closed but active"" - in this status, employees cannot be newly  enrolled in the program after the close effective date, however all normal processing, including retroactive transactions may be  carried out against the program. Interfaces for a user specified period after the program becomes inactive."
+709540,Medium,,"Provide the ability to apply statuses to insurance programs: ""pended"" - open but all information is not complete."
+709541,Medium,,"Provide the ability to apply statuses to insurance programs: ""inactive"" - inactive programs may not have any processing done  against them."
+709542,Medium,,Provide detailed notifications to employees of benefit eligibility when eligibility begins or changes and as part of the annual  enrollment /transfer process (email and letter).
+709543,Medium,,Provide notification (email or letter) to benefits administration that employee's eligibility is beginning or changing.
+709544,Medium,,"Ability to process ""cross-reference"" eligibility (both spouses work for the State) for certain types of benefits based on user defined  options."
+709545,Medium,,"Ability to process ""cross-reference"" eligibility for policy holder and dependents (State and non State participating entities) for  certain types of benefits based on user defined options."
+709546,Medium,,"Process split eligibility (both spouses both work for the State, one spouse works for state and other works for participating entity,  one spouse works for state and one is retired state) for certain types of benefits based on user defined options, to include:  notification to the 2nd party spouse and their agency designated benefits assistant of changes including but not limited to the  cancellation of the 1st party spouse's enrollment so appropriate changes can be completed."
+709547,Medium,,"Process split eligibility (both spouses both work for the State, one spouse works for state and other works for participating entity,  one spouse works for state and one is retired state) for certain types of benefits based on user defined options, to include:  notification to the 2nd party spouse showing the additional amounts owed and requesting dependent enrollment of the  terminating spouse."
+709548,Medium,,"Process split eligibility (both spouses both work for the State, one spouse works for state and other works for participating entity,  one spouse works for state and one is retired state) for certain types of benefits based on user defined options, to include:  provide both agencies designated benefits assistants with the capability of viewing details about both sides of split contracts via  on-line inquiry."
+709549,Medium,,"Process split eligibility (both spouses both work for the State, one spouse works for state and other works for participating entity,  one spouse works for state and one is retired state) for certain types of benefits based on user defined options, to include:  linkage between both parties."
+709550,Medium,,Support employee's and retiree's with dual eligibility (e.g. State agency and local school district).
+709551,Medium,,"Prevent employees from being enrolled in a plan for which they are not eligible, with secure override capability for exceptions."
+709552,Medium,,Process benefits eligibility events to include: establishment and maintenance of employee/participant information.
+709553,Medium,,"Process benefits eligibility events to include: activation of coverage for employee/participant, spouse, and non-spouse  dependents."
+709554,Medium,,Process benefits eligibility events to include: activation of coverage for survivors (former dependents of employees that are  allowed to continue their benefits coverage).
+709555,Medium,,Process benefits eligibility events to include: employee and non-employee transfers based on certain types of benefits based on  user defined options (i.e. local employee premium setting).
+709556,Medium,,Process benefits eligibility events to include: maintenance of beneficiary information for multiple products.
+709557,Medium,,Process benefits eligibility events to include: extended coverage of dependent.
+709558,Medium,,"Process benefits eligibility events to include: Medicare, end staged renal disease eligibility."
+709559,Medium,,Process benefits eligibility events to include: initiation of conversion process (life insurance specific).
+709560,Medium,,Process benefits eligibility events to include: initiation of COBRA processing when an individual's coverage is terminated due to a  cobra qualifying event.
+709561,Medium,,Process benefits eligibility events to include: evidence of insurability.
+709562,Medium,,Process benefits eligibility events to include: terminating/retiring employees.
+709563,Medium,,"Process benefits eligibility events to include: termination of coverage for employee/participant, spouse, and non-spouse  dependents."
+709564,Medium,,"Automatically generates notifications (email or letter) to participants based on certain events, with the ability to change ages and  notifications in the future as needed such as: prior to obtaining Medicare eligibility by virtue of age."
+709565,Medium,,"Automatically generates notifications (email or letter) to participants based on certain events, with the ability to change ages and  notifications in the future as needed such as: prior to 65th birthday."
+709566,Medium,,"Automatically generates notifications (email or letter) to participants based on certain events, with the ability to change ages and  notifications in the future as needed such as: prior to dependent's 19th birthday (health insurance specific)."
+709567,Medium,,"Automatically generates notifications (email or letter) to participants based on certain events, with the ability to change ages and  notifications in the future as needed such as: prior to dependent's 26th birthday."
+709568,Medium,,"Automatically generates notifications (email or letter) to participants based on certain events, with the ability to change ages and  notifications in the future as needed such as: prior to user defined health/ life insurance specific events."
+709569,Medium,,"Automatically generates notifications (email or letter) to participants based on certain events, with the ability to change ages and  notifications in the future as needed such as: prior to 60th birthday (life insurance specific)."
+709570,Medium,,"Automatically generates notifications (email or letter) to participants based on certain events, with the ability to change ages and  notifications in the future as needed such as: proof of continuing eligibility (receipt of proof, i.e. college transcript)."
+709571,Medium,,"Automatically generates notifications (email or letter) to participants based on certain events, with the ability to change ages and  notifications in the future as needed such as: by semester for ages 19-25."
+709572,Medium,,"Automatically generates notifications (email or letter) to participants based on certain events, with the ability to change ages and  notifications in the future as needed such as: beginning and end of COBRA eligibility or ineligibility."
+709573,Medium,,"Provide employee benefits enrollment election verification notification (email or letter) indicating choices and associated  information (i.e., levels of coverage, dependent enrollment and deduction amounts)."
+709574,Medium,,Provide a chronological history of benefits elections.
+709575,Medium,,Process COBRA eligible individuals based on: tracking of cobra eligibility based on user-defined criteria.
+709576,Medium,,"Process COBRA eligible individuals based on: establishing appropriate qualifying events that will initiate cobra processing, and  should generate standard letters notifying employee or dependent of cobra eligibility."
+709577,Medium,,Process COBRA eligible individuals based on: extending cobra eligibility and enrollment due to disability.
+709578,Medium,,Process COBRA eligible individuals based on: preparing cobra billings and issue accordingly.
+709579,Medium,,Process COBRA eligible individuals based on: tracking cobra payments based on pre-defined criteria.
+709580,Medium,,Record and monitor dependent demographic data.
+709581,Medium,,Allow for dependent to become policy holder and track appropriate history.
+709582,Medium,,"Provide the capability for automated detection of expiration of insurance eligibility (on Leave Without Pay, Layoff, etc) and  subsequent termination of enrollment based on pre-defined criteria. Automatically provide notifications advising of pending  cancellation."
+709583,Medium,,"Monitor name, work location, and residence address changes and trigger notification of those events affecting all insurance and  eligibility."
+709584,Medium,,Maintain an alternate address record for all participants.
+709585,Medium,,Allow for addresses outside of the United States.
+709586,Medium,,"Track, refund, and apply excess funds to all transactions subject to user defined rules."
+709587,Medium,,Maintain history of eligibility as well as a history of enrollments for employee.
+709588,Medium,,Maintain history of eligibility as well as a history of enrollments for the dependents.
+709589,Medium,,Extend COBRA enrollments for an additional specified period and bill the individual accordingly.
+709590,Medium,,Electronic transmission of eligibility information to/and from Department of Education.
+709591,Medium,,Electronic transmission of eligibility information to/and from Retirement systems.
+709592,Medium,,Electronic transmission of eligibility information to/and from benefit vendors.

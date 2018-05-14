@@ -1,0 +1,22 @@
+"Section:PL-Pavement Management, Pavement Condition (21 Reqs)"
+714748,High,,"Capture, store, view, retrieve and utilize in analyses various pavement condition information."
+714749,High,,"Capture, store, view, retrieve and utilize in analyses roughness index (RI)."
+714750,High,,"Capture, store, view, retrieve and utilize in analyses cracking index (CI)."
+714751,High,,"Capture, store, view, retrieve and utilize in analyses rutting depth."
+714752,High,,"Capture, store, view, retrieve and utilize in analyses environmental cracking."
+714753,High,,"Capture, store, view, retrieve and utilize in analyses joint condition."
+714754,High,,"Capture, store, view, retrieve and utilize in analyses distress type."
+714755,High,,"Capture, store, view, retrieve and utilize in analyses crack severity."
+714756,High,,"Capture, store, view, retrieve and utilize in analyses crack extent."
+714757,High,,Store and/or access a history of pavement condition data for each unique pavement section in the transportation asset inventory  for reporting and analysis.
+714758,High,,"Store and/or access pavement section as identified by county, route, milepost and lane of travel."
+714759,High,,Store and/or access date of inspection/survey.
+714760,High,,Store and/or access severity for multiple distress types.
+714761,High,,Store and/or access number of potholes.
+714762,High,,Store and/or access patching area.
+714763,High,,Store and/or access delaminations area.
+714764,High,,Store and/or access rut depth.
+714765,High,,Store and/or access roughness index (IRI).
+714766,High,,Store and/or access distress indices.
+714767,High,,Provide capacity to maintain a minimum of 40 years of pavement history.
+714768,High,,Allow for update of pavement condition online by authorized users based on visual observation and defined business rules and  adjust the pavement condition rating accordingly.

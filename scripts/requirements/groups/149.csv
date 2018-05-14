@@ -1,0 +1,16 @@
+"Section:HRP-Learning Management, Self-Service (15 Reqs)"
+710584,Medium,,"Provide link from enrollees' email to a web page for the enrollee to: cancel attendance - generates an email via workflow to the  employee's training coordinator, the training session coordinator, and the employee's supervisor."
+710585,Medium,,Provide link from enrollees' email to a web page for the enrollee to: ask a question about the training session - generates an  email to the training session coordinator.
+710586,Medium,,Provide link from enrollees' email to a web page for the enrollee to: ask a question of their training coordinator - generates an  email via workflow.
+710587,Medium,,Allow for employees to request training using a standard Web based browser.
+710588,Medium,,Provide ability for employees and non-employees to request training from their manager.
+710589,Medium,,"Provide ability for employees and non-employees to view and search the course catalog and schedule of training sessions, and  register for available courses."
+710590,Medium,,Provide ability for employees to inquire on the status of the Education Assistance Request they submit.
+710591,High,,"Allow employees and non-employees to query online all classes, courses, programs, and outside training: for those they have  completed, with test scores, hours/credits and dates."
+710592,High,,"Allow employees and non-employees to query online all classes, courses, programs, and outside training: in which they have  enrolled."
+710593,High,,"Allow employees and non-employees to query online all classes, courses, programs, and outside training: that teach / impart a  specific skill, competency or certification."
+710594,High,,"Allow employees and non-employees to query online all classes, courses, programs, and outside training: which are needed for  career / job / level of certification progression (classes and courses to address a skills / certification gap)."
+710595,Medium,,Allow for employees to request travel authorization linked to an approved or requested training request.
+710596,Medium,,Respond to web-based assessments for class participants.
+710597,Medium,,Allow employee to be able to request tuition reimbursement via Employee Self Service and track the status of the request and  payment.
+710598,Medium,,Provide ability to indicate if the person is current on their dues through ESS.

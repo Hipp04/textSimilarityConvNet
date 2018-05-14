@@ -1,0 +1,57 @@
+"Section:HRP-Applicant Services, Job Authorization Requests and Tracking (56 Reqs)"
+709066,High,,Support the following types of job openings: Classified.
+709067,High,,Support the following types of job openings: Classified Exempt.
+709068,Low,,Support the following types of job openings: Local government.
+709069,Medium,,Support the following types of job openings: Temporary.
+709070,High,,Support the following types of job openings: System wide.
+709071,High,,Support the following types of job openings: Employee transfer.
+709072,Medium,,Support the following types of job openings: Stipend/Scholarship Trainees/Co-op.
+709073,Medium,,Support the following types of job openings: Per Diem Board Members.
+709074,Medium,,Support the following types of job openings: Governor's Internship Program.
+709075,High,,Support the following types of job openings: Promotional.
+709076,Medium,,Support the following types of job openings: limited-time federally funded.
+709077,Medium,,Notify interested parties by email of the job opening.
+709078,Medium,,System provides job opening information on a web site.
+709079,High,,Post multiple customized job openings based on the same job specification.
+709080,High,,Provide requesting agencies with a valid eligibility list when a job request is approved.
+709081,Medium,,Initiate a request to fill a position vacancy within an agency and route through multiple hiring authorities at the agency  electronically.
+709082,Medium,,Provide hiring authorities the right to approve a request to fill.
+709083,Medium,,Based on type of position (classified or classified exempt) and organization unit the process to fill a position is triggered.
+709084,Medium,,Post job openings to a web site by organizational unit.
+709085,Medium,,Control access to job openings to existing employees.
+709086,Medium,,Job posting requirements must be regulated based on State policy and procedure manuals and State Administrative Regulations  and Statutes.
+709087,Medium,,Produce job announcement based on defined posting authorization and rules by agency guidelines.
+709088,High,,Produce external or internal job announcements to include: organization unit and name.
+709089,High,,"Produce external or internal job announcements to include: contact name, number and address."
+709090,High,,Produce external or internal job announcements to include: announcement type.
+709091,High,,"Produce external or internal job announcements to include: position status (full time, part time, interim, etc.)."
+709092,Medium,,Produce external or internal job announcements to include: FTE indicator.
+709093,High,,Produce external or internal job announcements to include: job class.
+709094,Medium,,Produce external or internal job announcements to include: job announcement code.
+709095,High,,Produce external or internal job announcements to include: working title.
+709096,High,,Produce external or internal job announcements to include: location.
+709097,High,,Produce external or internal job announcements to include: work shifts.
+709098,High,,Produce external or internal job announcements to include: special qualifications.
+709099,Medium,,Produce external or internal job announcements to include: online application indicator.
+709100,Medium,,Produce external or internal job announcements to include: resume required indicator.
+709101,Medium,,Produce external or internal job announcements to include: selection method indicator.
+709102,High,,Produce external or internal job announcements to include: minimum requirements.
+709103,Medium,,Produce external or internal job announcements to include: notes.
+709104,Medium,,"Produce external or internal job announcements to include: knowledge, skills and abilities."
+709105,Medium,,Produce external or internal job announcements to include: drug test and background check required.
+709106,Medium,,Produce external or internal job announcements to include: DMV check required.
+709107,Medium,,Produce external or internal job announcements to include: how to apply and hiring process associated with the job  announcement.
+709108,High,,"Produce external or internal job announcements to include: classification (classified, classified exempt)."
+709109,Medium,,Produce external or internal job announcements to include: position/job description.
+709110,Medium,,Produce external or internal job announcements to include: work schedule and hours.
+709111,High,,Produce external or internal job announcements to include: opening and closing date.
+709112,Medium,,Produce external or internal job announcements to include: preferred skills.
+709113,Medium,,Produce external or internal job announcements to include: salary range.
+709114,Medium,,Produce external or internal job announcements to include: pay grade.
+709115,Medium,,Produce external or internal job announcements with preloaded text from stored class specifications.
+709116,Medium,,Produce external or internal job announcements with preloaded salary range from stored pay grade or job class salary schedules  based on title.
+709117,Medium,,Link a job announcement to an exam.
+709118,Medium,,Automatically remove job postings from the website once the posting date has expired.
+709119,Medium,,Retain and track information for expired or filled job posting.
+709120,Low,,Job opening information available through an IVR based hotline.
+709121,Medium,,"Link job postings generated to agency internet or intranet sites, job bank sites, or other third party sites."

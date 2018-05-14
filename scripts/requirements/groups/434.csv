@@ -1,0 +1,12 @@
+"Section:PL-Transportation Operations Management, Performance Standards (11 Reqs)"
+717548,High,,Create and maintain performance guidelines based on user defined business rules for all maintenance activities.
+717549,High,,"Store each activity's name, number, and narrative description."
+717550,High,,Store crew size by labor class and quantity.
+717551,High,,Store equipment required by fleet/equipment type and daily quantity.
+717552,High,,Store material items/types and average daily quantities.
+717553,High,,Store average daily work accomplishment and units.
+717554,High,,Define preferable workload distribution in percent by months of the year.
+717555,High,,"Store associated inventory features, including measurement units."
+717556,Medium,,"Allow performance guidelines to be defined at the statewide level and then allow the guidelines to be copied to lower  organization levels, or by highway system/road class, and modified to local conditions as needed. The system must have the  capability to copy guidelines from one organizational unit (Statewide, district) to another organizational unit."
+717557,Medium,,Identify performance guidelines by the fiscal year or time period (effective dates) for which they are applicable and retain this  information indefinitely so that historical analysis may be performed.
+717558,Medium,,"Identify different work methods (for example, for mowing: hand mowing, machine mowing, slope mowing, etc.) for activities.  These work methods may not have differing guidelines but would facilitate tracking when reported on the daily activity report  (DAR)."

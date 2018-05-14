@@ -1,0 +1,13 @@
+"Section:HRP-Employee Relations, Appeals and Hearings (12 Reqs)"
+710311,Medium,,"Track appeals filed by employees (e.g., dismissal, discipline, performance evaluation, applicant rejection, register removal,  demotion, involuntary transfer, reallocation, records inspection, suitability determination, suspension, layoff, reclassification, or  discrimination, etc.)."
+710312,Medium,,"Generate automatically or manually appeal numbers to each appeal filed and produce an inventory of appeals by number,  agency and person filing."
+710313,Medium,,"Create user defined steps and periods (timeframes) for each step in the appeals process (e.g., filing, pre-hearing, motion,  evidentiary hearing, interim order, exceptions filing, mediation, final order, appeals outcome)."
+710314,Medium,,Maintain and track resolution information and authorized approver for each appeal.
+710315,Medium,,Track types of resolutions by employee and mediation / arbitration status by: active (awaiting arbitration date).
+710316,Medium,,Track types of resolutions by employee and mediation / arbitration status by: inactive and open.
+710317,Medium,,Track types of resolutions by employee and mediation / arbitration status by: mediation / arbitration scheduled.
+710318,Medium,,Track types of resolutions by employee and mediation / arbitration status by: mediation / arbitration awaiting award.
+710319,Medium,,Track types of resolutions by employee and mediation / arbitration status by: mediated / arbitrated and follow up required.
+710320,Medium,,Track types of resolutions by employee and mediation / arbitration status by: settled.
+710321,Medium,,Track types of resolutions by employee and mediation / arbitration status by: closed.
+710322,Medium,,Input and track how resolution information has been implemented.

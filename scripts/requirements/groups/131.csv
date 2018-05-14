@@ -1,0 +1,42 @@
+"Section:HRP-Classification and Compensation, Inquiry and Reporting (41 Reqs)"
+710067,Medium,,Create standard class and comp reports based on: cost projections.
+710068,Medium,,Create standard class and comp reports based on: cost center.
+710069,Medium,,Create standard class and comp reports based on: funding source.
+710070,Medium,,Create standard class and comp reports based on: grants.
+710071,Medium,,Create standard class and comp reports based on: classifications.
+710072,Medium,,Create standard class and comp reports based on: statutory changes.
+710073,Medium,,Create standard class and comp reports based on: salary change history.
+710074,Medium,,Provide data to prepare the Classification \ Compensation Plan based on: class codes.
+710075,Medium,,Provide data to prepare the Classification \ Compensation Plan based on: class titles.
+710076,Medium,,Provide data to prepare the Classification \ Compensation Plan based on: occupational groups.
+710077,Medium,,Provide data to prepare the Classification \ Compensation Plan based on: monthly salaries.
+710078,Medium,,Provide data to prepare the Classification \ Compensation Plan based on: annual salaries.
+710079,Medium,,Provide data to prepare the Classification \ Compensation Plan based on: market rates.
+710080,Medium,,Provide data to prepare the Classification \ Compensation Plan based on: pay grade and step.
+710081,Medium,,Provide data to prepare the Classification \ Compensation Plan based on: plan type.
+710082,Medium,,Provide data to prepare the Classification \ Compensation Plan based on: rank.
+710083,Medium,,Provide data to prepare the Classification \ Compensation Plan based on: hourly rate.
+710084,Medium,,Provide data to prepare the Classification \ Compensation Plan based on: min/mid/max salaries.
+710085,Medium,,Calculate aggregated classification statistics for a user-defined time period based on: number of positions by class.
+710086,Medium,,Calculate aggregated classification statistics for a user-defined time period based on: number of terminations by class.
+710087,Medium,,Calculate aggregated classification statistics for a user-defined time period based on: number of hires by class.
+710088,Medium,,Calculate aggregated classification statistics for a user-defined time period based on: number of reclassifications.
+710089,Medium,,Calculate aggregated classification statistics for a user-defined time period based on: number of reallocations.
+710090,Medium,,Calculate aggregated classification statistics for a user-defined time period based on: number of promotions by class.
+710091,Medium,,Calculate aggregated classification statistics for a user-defined time period based on: number of establishments.
+710092,Medium,,Calculate aggregated classification statistics for a user-defined time period based on: number of grade changes.
+710093,Medium,,Calculate aggregated classification statistics for a user-defined time period based on: number of step changes.
+710094,Medium,,Calculate aggregated classification statistics for a user-defined time period based on: number of positions by classification by  geographic location.
+710095,Medium,,Calculate aggregated classification statistics for a user-defined time period based on: number of positions by classification by  EEO category.
+710096,Medium,,Calculate aggregated classification statistics for a user-defined time period based on: number of transfers.
+710097,Medium,,Calculate aggregated classification statistics for a user-defined time period based on: number of in-range appointments.
+710098,Medium,,Calculate aggregated classification statistics for a user-defined time period based on: number of demotions.
+710099,Medium,,Calculate aggregated classification statistics for a user-defined time period based on: number of abolishment's.
+710100,Medium,,Calculate aggregated classification statistics for a user-defined time period based on: number of terminations by termination  reasons by class.
+710101,Medium,,"Generate a job classification alpha list, including class code, pay schedule, range, minimum, mid-point, maximum by grade, etc."
+710102,Medium,,Report the number of positions and job class types for hazardous occupation status.
+710103,Medium,,"Generate compensation reports (e.g., mean salary, standard deviations, pay schedule) by employee characteristics such as  ethnicity, gender, and persons with disabilities."
+710104,Medium,,Generate salary change reports for employee demographics.
+710105,Medium,,"Generate compression/inversion analysis based on user-defined triggers or thresholds for recruitment, retention, vacancy history  and other user-defined criteria."
+710106,Medium,,"Generate compensation reports (e.g., mean salary, standard deviations, pay schedule) by organizational characteristics  (department, division, section, unit, etc.)."
+710107,Medium,,"Generate compensation reports (e.g., mean salary, standard deviations, pay schedule) by classification by organizational unit  and funding source."

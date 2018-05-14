@@ -1,0 +1,9 @@
+"Section:SW-Reporting and Business Intelligence, Data Warehouse Security and Controls (8 Reqs)"
+718544,High,,"Provide the ability to restrict view/read only/update/refresh/delete capabilities to data by user-defined criteria (user id, user group,  agency, etc.)."
+718545,High,,"Provide comprehensive edit, validation, and balancing controls which prevent incomplete or incorrect data from being processed."
+718546,High,,Provide programmatic control of the process flow to prevent data from being processed in the wrong sequence.
+718547,High,,Ensure processing cycles are completed in a logical and prescribed order.
+718548,High,,"Ensure the Integrity of data entering the database, safeguarded through editing criteria."
+718549,High,,Update tables/files upon completion of a logical unit of work according to State/agency business rules.
+718550,High,,Provide capability for integrated data quality control based upon user-defined criteria.
+718551,High,,"Provide an audit trail of all refresh/updates to the data warehouse including but not limited to, user id, time/date stamp, number of  records, status, process step, source, delta change."

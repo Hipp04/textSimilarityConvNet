@@ -1,0 +1,12 @@
+"Section:PL-Right-of-Way and Utilities, Contractor Payments (11 Reqs)"
+716576,High,,Integrate with the ERP accounts payable function as required to support contractor payments for individuals and firms performing  contracted services in support of the right-of-way acquisition process and for utilities or railroads performing work under utility  relocation agreements.
+716577,High,,"Record consultant, contractor, utility company or railroad invoice in the ERP system."
+716578,High,,"Support electronic review and approval of a consultant, contractor, utility company or railroad invoice by authorized users based  on project number through a work flow driven approval process."
+716579,Medium,,Display the fund balances on a project/project phase when a payment request is generated in the system.
+716580,Medium,,Generate an alerts when the available funds on a project or project phase fall below a threshold value. This includes the ability to  specify the threshold value in the system.
+716581,High,,Initiate payment request based on approvals of invoice by authorized users.
+716582,High,,"Record expenditure against project, project phase and funding source and adjust encumbrance as appropriate."
+716583,High,,Allow authorized WVDOT staff to track the status of an invoice payment. Information available for review should exclude any  personally identifying information.
+716584,Medium,,Allow WVDOT staff to review payment history for a right-of-way services contract and the associated % of work complete on the  contract.
+716585,Medium,,"Allow authorized right-of-way consultant, contractor staff or utility company and railroad staff to track status of invoice payments  through vendor self service capabilities."
+716586,Medium,,"Generate payment to consulting firms, contractor, railroad or utility company by procurement card, electronic funds transfer  (EFT) or warrant based on a payment option established for each contract."

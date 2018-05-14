@@ -1,0 +1,102 @@
+"Section:PL-Bridge Management, Bridge Inventory (101 Reqs)"
+713007,High,,"Store and/or integrate with the WVDOT BridgeInspect TM database and the ERP transportation asset inventory function to  maintain an inventory of bridges and other structures which uniquely identifies each structure, its location, and its physical  characteristics including configuration, material, and geometric characteristics such as deck width and vertical under and over- clearance."
+713008,High,,Support the requirements of the National Bridge Inventory (NBI).
+713009,Medium,,Support the inventory requirements as defined in the West Virginia Division of Highways (DOH) Bridge Inspection Manual.
+713010,High,,Store/retrieve and display BARS number/structure number.
+713011,High,,Store/retrieve and display bridge design number.
+713012,High,,"Store/retrieve and display inventory route including route prefix, route number, route suffix, mainline type, direction."
+713013,High,,Store/retrieve and display county code.
+713014,High,,Store/retrieve and display beginning milepost.
+713015,High,,Store/retrieve and display direction of traffic.
+713016,High,,Store/retrieve and display beginning latitude.
+713017,High,,Store/retrieve and display ending latitude.
+713018,High,,Store/retrieve and display beginning longitude.
+713019,High,,Store/retrieve and display ending longitude.
+713020,High,,Store/retrieve and display location description.
+713021,High,,Store/retrieve and display local name of bridge.
+713022,High,,Store/retrieve and display bridge formally named by West Virginia Legislature (Y/N).
+713023,High,,Store/retrieve and display formal name of bridge.
+713024,High,,Store/retrieve and display feature intersected.
+713025,High,,Store/retrieve and display ground level bypass possible.
+713026,High,,Store/retrieve and display bypass detour length.
+713027,High,,Store/retrieve and display toll facility indicator.
+713028,High,,"Store/retrieve and display owner (District, Parkways Authority, another state, Division of Parks, etc.)."
+713029,High,,"Store/retrieve and display organization with maintenance responsibility (District, Parkways Authority, another state, Division of  Parks, etc.)."
+713030,High,,Store/retrieve and display responsible WVDOT or parkways maintenance unit.
+713031,High,,Store/retrieve and display bridge classification.
+713032,High,,Store/retrieve and display historical significance indicator.
+713033,High,,Store/retrieve and display legal road load.
+713034,High,,Store/retrieve and display sufficiency rating.
+713035,High,,Store/retrieve and display deficiency status.
+713036,High,,Store/retrieve and display date of last inventory update.
+713037,High,,Store/retrieve and display permit vertical/horizontal clearance (Northbound/Eastbound).
+713038,High,,Store/retrieve and display permit vertical/horizontal clearance (Southbound/Westbound).
+713039,High,,Store/retrieve and display State functional classification.
+713040,High,,Store/retrieve and display parallel structure designation.
+713041,High,,Store/retrieve and display temporary structure designation.
+713042,High,,Store/retrieve and display border bridge indicator.
+713043,High,,Store/retrieve and display border bridge structure number.
+713044,High,,Store/retrieve and display highway system of the inventory route.
+713045,High,,Store/retrieve and display designated national network.
+713046,High,,Store/retrieve and display municipal code.
+713047,High,,Store/retrieve and display functional classification of inventory route.
+713048,High,,Store/retrieve and display STRAHNET highway designation.
+713049,High,,Store/retrieve and display base highway network designation.
+713050,High,,"Store/retrieve and display linear referencing system route, sub-route number (WVDOT route key)."
+713051,High,,Store/retrieve and display Federal Lands Highway indicator.
+713052,High,,Store/retrieve and display horizontal clearance.
+713053,High,,Store/retrieve and display minimum vertical clearance for 10 ft width.
+713054,High,,Store/retrieve and display minimum vertical clearance over bridge roadway.
+713055,High,,Store/retrieve and display minimum vertical under clearance.
+713056,High,,Store/retrieve and display under clearance - lateral right.
+713057,High,,Store/retrieve and display under clearance - lateral left.
+713058,High,,Store/retrieve and display number of lanes.
+713059,High,,"Store/retrieve and display route under structure including route prefix, route number, route suffix, mainline type, direction."
+713060,High,,"Store/retrieve and display route over structure including route prefix, route number, route suffix, mainline type, direction."
+713061,High,,Store/retrieve and display facility carried by structure.
+713062,High,,Store/retrieve and display control number of structure under structure.
+713063,High,,Store/retrieve and display average daily traffic (ADT).
+713064,High,,Store/retrieve and display year of ADT.
+713065,High,,Store/retrieve and display average daily truck traffic (ADTT).
+713066,High,,Store/retrieve and display year built.
+713067,High,,Store/retrieve and display year reconstructed.
+713068,High,,Store/retrieve and display year widened.
+713069,High,,Store/retrieve and display lanes on and under structure.
+713070,High,,Store/retrieve and display design load.
+713071,High,,Store/retrieve and display approach roadway width.
+713072,High,,Store/retrieve and display bridge median.
+713073,High,,Store/retrieve and display skew.
+713074,High,,Store/retrieve and display structure flared indicator.
+713075,High,,Store/retrieve and display type of service.
+713076,High,,Store/retrieve and display navigation control.
+713077,High,,Store/retrieve and display navigation vertical clearance.
+713078,High,,Store/retrieve and display navigation horizontal clearance.
+713079,High,,Store/retrieve and display NBIS bridge length.
+713080,High,,Store/retrieve and display Structure length.
+713081,High,,Store/retrieve and display curb or sidewalk width.
+713082,High,,"Store/retrieve and display bridge roadway width, curb-to-curb."
+713083,High,,"Store/retrieve and display deck width, out-to-out."
+713084,High,,Store/retrieve and display deck structure type.
+713085,High,,Store/retrieve and display wearing surface/protective system.
+713086,High,,Store/retrieve and display type of field connection.
+713087,High,,Store/retrieve and display utilities on structure.
+713088,High,,Store/retrieve and display total number of spans - main unit.
+713089,High,,Store/retrieve and display total number of spans - approach spans.
+713090,High,,"Store/retrieve and display Information for each span including span number, type, length, type of construction."
+713091,High,,"Store/retrieve and display traffic safety features including traffic situation, bridge railing, transitions, approach guardrail and  approach guardrail terminal."
+713092,High,,Store/retrieve and display APD Corridor indicator.
+713093,High,,Store/retrieve and display emergency route designation.
+713094,High,,Store/retrieve and display school bus route indicator.
+713095,High,,Store/retrieve and display commercial route indicator.
+713096,High,,Store/retrieve and display coal RTS indicator.
+713097,High,,Store/retrieve and display mail route indicator.
+713098,Medium,,Store element level inventory information for decks for each structure.
+713099,Medium,,Store element level inventory information for joints for each structure.
+713100,Medium,,Store element level inventory information for railings for each structure.
+713101,Medium,,Store element level inventory information for girders for each structure.
+713102,Medium,,Store element level inventory information for bearings for each structure.
+713103,Medium,,Store element level inventory information for abutments for each structure.
+713104,Medium,,Store element level inventory information for piers for each structure.
+713105,Medium,,Integrate with WVDOT CAD environment to support linking to and viewing/accessing design files.
+713106,Medium,,"Integrate with EMC Application Xtender document management system to support linking to and viewing/accessing plan files,  design computations, shop drawings (TIF, PDF, etc.)."
+713107,Medium,,"Integrate with EMC Application Xtender document management application to support associating with, linking to and viewing  other documents associated with a bridge or a specific bridge element."

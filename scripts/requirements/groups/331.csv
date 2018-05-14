@@ -1,0 +1,65 @@
+"Section:PL-Real Estate Management, Property Acquisition (64 Reqs)"
+716121,Medium,,"Allow the system administrator or other authorized user to specify the required attributes which must be captured for various  types of property acquisition requests (lease, land purchase, building purchase, etc.)."
+716122,Medium,,Provide templates for authorized users to utilize to complete a property acquisition request based on the request type.
+716123,Medium,,Establish property acquisition request linking to original agency facilities/space need request.
+716124,Medium,,Define property acquisition requirements.
+716125,Medium,,"Store/track acquisition type (land, building, other)."
+716126,Medium,,"Store/track acceptable acquisition methods (purchase, lease or both)."
+716127,Medium,,Store/track target City/Town.
+716128,Medium,,Store/track target area within city/town.
+716129,Medium,,Store/track acquisition budget.
+716130,Medium,,Store/track lease budget.
+716131,Medium,,Store/track desired lease term.
+716132,Medium,,Store/track required closing or availability date.
+716133,Medium,,Assign an acquisition agent to the property acquisition request.
+716134,Medium,,Document estimated effort (hours) required to acquire property.
+716135,High,,Maintain an inventory of candidate properties for each acquisition request.
+716136,Medium,,"Allow the system administrator or other authorized user to specify the required attributes which must be captured for each  candidate property for the various types of property acquisitions (lease, land purchase, building purchase, etc.)."
+716137,Medium,,Provide templates by acquisition type for authorized users to document a candidate property.
+716138,High,,Document available candidate properties.
+716139,High,,Store/track multiple Listing # or other unique identifier.
+716140,Medium,,"Store/track property address including street, suite #, city, etc."
+716141,Medium,,Store/track acreage.
+716142,Medium,,Store/track square footage.
+716143,High,,Store/track asking price for a purchase.
+716144,High,,Store/track appraised value.
+716145,High,,Store/track date of appraisal.
+716146,Medium,,Store/track appraiser.
+716147,High,,Store/track rental rate per square foot.
+716148,Medium,,Store/track lease terms.
+716149,Medium,,Store/track anticipated owner improvements.
+716150,Medium,,Store/track estimated upfit costs.
+716151,High,,Store/track a summary of environmental studies.
+716152,Medium,,Document environmental issues.
+716153,High,,Document surveys conducted and dates (history).
+716154,Medium,,Store/track date of title search.
+716155,Medium,,Store/track results of title search.
+716156,Medium,,Store/track liens.
+716157,Medium,,Document whether there are utility easements and a description of the easement.
+716158,Medium,,Document disposition of mineral rights.
+716159,Medium,,Document fire service fees.
+716160,Medium,,Document any other miscellaneous fees.
+716161,Medium,,Store/track vendor code for owner if already on vendor file.
+716162,Medium,,Store/track owner name.
+716163,Medium,,Store/track owner address.
+716164,Medium,,Store/track broker name.
+716165,Medium,,Store/track broker contact information.
+716166,High,,Integrate with multiple document management systems utilized by various agencies to allow for storing and linking of specific  documents and diagrams for each candidate property.
+716167,Medium,,Allow for access/viewing of related stored documents associated with a candidate property from within the real estate module.
+716168,Medium,,Integrate with CAD tools to allow users to link to the CAD tool for editing and viewing space designs of candidate properties.
+716169,Medium,,Provide capability to integrate with multiple State agency GIS environments to allow for display of candidate properties.
+716170,Medium,,Provide capability to display candidate properties within the GIS viewer in the real estate function.
+716171,Medium,,Allow authorized user to designate recommended property and terms.
+716172,Medium,,Store/track proposed purchase price.
+716173,Medium,,Store/track proposed rental rate per square foot.
+716174,Medium,,Store/track recommended lease terms.
+716175,Medium,,Document estimated closing date for purchase.
+716176,Medium,,Document estimated move-in date.
+716177,Medium,,Provide work flow based review and approval of acquisition recommendation within Real Estate Division and user agencies  based on pre-defined business rules.
+716178,Medium,,Integrate with ERP procurement function to add lessor or property owner(s) of selected property to the vendor master file (if not  already on the vendor master file).
+716179,Medium,,Integrate with ERP accounts payable function to generate payment request and create warrant required for closing.
+716180,High,,Record property closing date.
+716181,High,,Trigger automatic update of property inventory based on closing date or lease start date.
+716182,Medium,,Trigger automatic interface with Board of Risk and Insurance Management (BRIM) based on closing date or lease start date.
+716183,Medium,,Integrate with ERP procurement function to establish blanket purchase order for lease populating lease terms as appropriate  from the real estate function.
+716184,Medium,,Integrate with ERP accounts payable function to generate payment request and create warrant required for initial lease payments.

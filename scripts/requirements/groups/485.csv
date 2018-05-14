@@ -1,0 +1,6 @@
+"Section:SW-Reporting and Business Intelligence, Projects and Grants Analytics (5 Reqs)"
+718475,High,,"Provide a range of analytical functions, capabilities, reports and queries for projects and grants information."
+718476,High,,"Display actual expenditures, pre-encumbrances and encumbrances to date versus budget for a project phase or the entire  project at the summary level and for various user-defined expenditure categories (for example State staff labor and benefits,  contracted services, materials, travel expenses, etc.)."
+718477,High,,Display estimated expenditures at project phase or project complete versus budget for a project phase or the entire project at the  summary level and for various user-defined expenditure categories.
+718478,High,,"Provide a project dashboard with ability to drill down to detailed project information showing project status and performance  against various user-defined business rules including budget performance, schedule performance, number of change orders,  total dollars of change order and change orders as a percentage of original contract value."
+718479,High,,"Display actual to date, pre-encumbrances and encumbrances for a grant versus budget at the summary level and by various  user-defined expenditure categories ( for example State staff labor costs, contracted services, materials, travel expenses, etc.)."

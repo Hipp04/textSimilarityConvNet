@@ -1,0 +1,16 @@
+"Section:HRP-Learning Management, Training Costs (15 Reqs)"
+710523,Medium,,Provide ability to provide for the planning of future training based on: projected cost of training (internal and external costs).
+710524,Medium,,Provide ability to provide for the planning of future training based on: opportunity cost of employees attending training.
+710525,Medium,,Provide ability to provide for the planning of future training based on: source of funding.
+710526,Medium,,"Support capability to track and report budget and statistical information such as fund, revenue source, number of persons per  workshop, date of workshop, priority rating, training date, justification statements, organization, program, etc."
+710527,Medium,,Support on-line approval of training budget requests based on varying levels of security as defined by organization unit.
+710528,Medium,,"Provide capability to summarize varying levels of chart of account codes such as organization, expenditure, and fund levels, etc."
+710529,Medium,,"Track and report direct costs for training including costs for training instructor(s) (whether staff time or contractor-provided),  venue cost, travel expenses, materials, etc. by: individual."
+710530,Medium,,"Track and report direct costs for training including costs for training instructor(s) (whether staff time or contractor-provided),  venue cost, travel expenses, materials, etc. by: course."
+710531,Medium,,"Track and report direct costs for training including costs for training instructor(s) (whether staff time or contractor-provided),  venue cost, travel expenses, materials, etc. by: chart of accounts."
+710532,Medium,,"Track and report direct costs for training including costs for training instructor(s) (whether staff time or contractor-provided),  venue cost, travel expenses, materials, etc. by: user defined time periods."
+710533,Medium,,"Track and report indirect costs for training including employee time by classification, hourly cost linked to a salary table, etc. by:  individual."
+710534,Medium,,"Track and report indirect costs for training including employee time by classification, hourly cost linked to a salary table, etc. by:  course."
+710535,Medium,,"Track and report indirect costs for training including employee time by classification, hourly cost linked to a salary table, etc. by:  chart of accounts."
+710536,Medium,,"Track and report indirect costs for training including employee time by classification, hourly cost linked to a salary table, etc. by:  user defined time periods."
+710537,Medium,,Track budgeted vs. actual expenses related to the training class/course/program.

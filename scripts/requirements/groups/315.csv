@@ -1,0 +1,12 @@
+"Section:PL-Procurement, Change Order to PO (11 Reqs)"
+715760,High,,Provide the ability to issue a change order to a purchase order following issuance to the vendor: Add an additional line item.
+715761,High,,"Provide the ability to issue a change order to a purchase order following issuance to the vendor: Route change order through  workflow based on business rules (e.g. pricing threshold changes, addition of special material workflow, etc.)."
+715762,High,,Provide the ability to issue a change order to a purchase order following issuance to the vendor: Cancel an existing line item.
+715763,High,,"Provide the ability to issue a change order to a purchase order following issuance to the vendor: Change an existing line item  (price, quantity, or commodity)."
+715764,High,,"Provide the ability to issue a change order to a purchase order following issuance to the vendor: Route line change through  workflow based on business rules (e.g. pricing threshold changes, addition of special material workflow, etc.)."
+715765,High,,"Provide the ability to issue a change order to a purchase order following issuance to the vendor: Change an existing line item  (accounting information), route through workflow based on business rules if applicable."
+715766,High,,Provide the ability to issue a change order to a purchase order following issuance to the vendor: Change internal and external  text.
+715767,High,,Provide the ability to issue a change order to a purchase order following issuance to the vendor: Change delivery locations.
+715768,Medium,,Provide the ability to issue a change order to a purchase order following issuance to the vendor: Provide the ability to issue the  purchase order following each change with only the changed information highlighted with the date printed on the purchase order.
+715769,High,,Provide the ability to issue a change order to a purchase order following issuance to the vendor: Provides the ability to track  changes and identify changes clearly on the PO document.
+715770,High,,Provide the ability to issue a change order to a purchase order following issuance to the vendor: Provides the ability to compare  change versions.

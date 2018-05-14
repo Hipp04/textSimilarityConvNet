@@ -1,0 +1,19 @@
+"Section:PL-Right-of-Way and Utilities, Appraisal (18 Reqs)"
+716440,High,,Assign the appraisal of a parcel to a WVDOT staff member or consultant.
+716441,High,,Assign a WVDOT staff member or consultant review appraiser to a parcel.
+716442,High,,Notify the assigned staff member or consultant of the appraisal assignment through a notification in the ERP system and an  email.
+716443,High,,"Store, update, and retrieve appraisal information in the system. This includes all information tied to an appraisal, including parcel,  appraisal date, appraiser, valuation, basis for valuation, review appraisers report, etc."
+716444,High,,Store a history of appraisals performed on a parcel.
+716445,High,,"Document any changes underlying second and subsequent appraisals (change to size of parcel, etc.)."
+716446,High,,Support flagging a parcel or part of a parcel as a potential uneconomic remnant.
+716447,High,,Support storing and display appraisal prepared and submitted by a property owner.
+716448,Medium,,"Integrate with Application Xtender to support storing, linking and displaying all documents associated with an appraisal."
+716449,Medium,,Notify the assigned appraisal reviewer electronically through a work flow when the appraisal information has been entered into  the system.
+716450,High,,Document the review appraisal including the approval or disapproval of the appraisal and any comments.
+716451,High,,Return the appraisal to the original appraiser electronically if required to address any issues identified by the review appraiser.
+716452,High,,Document review appraiser sign-off on the appraisal.
+716453,High,,"Store recommendation for just compensation in the system along with all applicable information regarding the review (e.g. review  sheet, reviewer)."
+716454,Medium,,Provide online approval capability for authorized users to electronically review and approve just compensation used for initial  offer or revised offers.
+716455,Medium,,Flag parcel based on appraisal approval as ready for negotiation and send an electronic notification by email and within the  system to the assigned negotiator for a parcel.
+716456,Medium,,"Report on the status of appraisals by project (for example appraisal pending, appraisal prepared, appraisal approved, appraisal  waiting for resubmission, on hold, etc.)."
+716457,Medium,,Generate automatically an appraisal summary information sheet based on all appraisal information entered in the system.

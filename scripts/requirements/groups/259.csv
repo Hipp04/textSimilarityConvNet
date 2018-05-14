@@ -1,0 +1,36 @@
+"Section:PL-Fleet Management, Reporting (35 Reqs)"
+714322,Medium,,"Provide extensive standard management reports covering fleet classes, fleet types, fleet/equipment units, work orders, parts,  operations cost, exception reports (utilization and CPA), and fleet/equipment replacement. These reports must be available with  user defined options that will allow them to be tailored to meet operation needs."
+714323,Medium,,"Provide a user-friendly ad-hoc reporting capability allowing for access to fleet/equipment unit inventory, work orders, preventive  maintenance, repair history, fuel and other information within the ERP fleet function."
+714324,Medium,,"Provide ability for authorized users to execute pre-defined reports at the enterprise level, agency, units within agency and other  user defined criteria."
+714325,Medium,,"Provide optional report selection criteria to restrict the data by agency, fleet class, fleet type, whether fleet unit is active or has  been transferred/retired/sent to surplus, shop/location, repair code (or any combination of these factors)."
+714326,Medium,,Produce a listing/inventory of fleet/equipment unit assignments by agency or unit or program area within an agency.
+714327,Medium,,"Produce a listing/inventory of fleet/equipment unit assignments by fleet/equipment unit location by multiple agency specific  organizational parameters (for example regions, districts, counties, maintenance shop, parks, forests, etc.)."
+714328,Medium,,Produce a listing/inventory of fleet/equipment unit assignments by fleet/equipment owner (individual or business unit for a pooled  fleet/equipment unit).
+714329,Medium,,Produce a listing/inventory of fleet/equipment unit assignments for fleet/equipment units which are on temporary loan including  the owner of the fleet/equipment unit and the individual or business unit to whom the equipment is on loan to.
+714330,Medium,,Produce a listing/inventory of fleet/equipment unit assignments by assigned maintenance facilities.
+714331,Medium,,Produce a listing/inventory of fleet/equipment unit assignments which are externally maintained.
+714332,Medium,,"Provide for a replacement unit report including fleet and equipment units by type over certain time (hours) and/or mileage limits,  used for budget forecasting."
+714333,Medium,,"Provide an automated fueling system report, showing equipment information, refueling setting, fuel type, other cost and mileage."
+714334,Medium,,"Provide a fuel card report, matching card and assigned vehicle."
+714335,Medium,,"Prepare fleet/equipment unit report by various user defined parameters including- by class, by department, broken out by make,  model, year, fuel type, GVW, engine type/size, transmission type, radio type or any other attribute of vehicle."
+714336,Medium,,"Report on fleet/equipment unit status by active, salvaged, retained, reserved, etc."
+714337,Medium,,Provide a list of fleet/equipment units by location where assigned or loaned.
+714338,Medium,,Provide a fleet/equipment usage report showing vehicles driven a certain number of miles as defined by the user with no  preventive maintenance.
+714339,Medium,,Provide a fleet/equipment usage report showing equipment utilized more than a certain number of hours as defined by the user  with no preventive maintenance.
+714340,Medium,,Prepare a component usage report showing components operated over a certain number of hours as defined by the user with no  preventive maintenance.
+714341,Medium,,Provide a report of fleet/equipment units with no activity/usage within a given time period.
+714342,Medium,,"Prepare labor reports for any combination of the following: employee or work units for any given time period; repair/activity  reason such as preventive maintenance, road call, breakdown, etc.; subassembly such as brakes, transmission, cooling system,  etc; and repair type."
+714343,Medium,,"Prepare preventive maintenance reports for any combination of type and interval (monthly, quarterly, etc.)."
+714344,Medium,,Report number of preventive maintenance operations performed in a given time period by fleet or equipment type.
+714345,Medium,,Prepare a repair history report by component and by vendor supplying component.
+714346,Medium,,Prepare a report showing the number of scheduled and unscheduled work orders for a user defined time period.
+714347,Medium,,"Prepare a report showing the number of work orders by reason, subassembly and/or repair type for a user defined time period."
+714348,Medium,,"Prepare a report of open work orders by status, type and/or shop (pending, waiting parts, etc.)."
+714349,Medium,,"Prepare a report showing repeat work orders on the same unit for the last 30, 60 or 90 days."
+714350,Medium,,Provide fleet down type report by summary or detail for user defined time periods for location; fleet class; fleet type; preventive  maintenance code; and down time reason.
+714351,Low,,Provide a report of tire repair activity.
+714352,Low,,"Prepare oil and fluid report by summary or detail for user defined time periods by location; assigned maintenance facilities; fleet  class/type; manufacturer, model and make; and preventative maintenance code."
+714353,Medium,,Generate warranty usage report including savings associated with warranty work.
+714354,Medium,,"Provide life-to-date operational cost report per vehicle including by category including repair cost, operational cost, fuel cost,  maintenance cost (labor and parts) and administrative cost."
+714355,Medium,,"Provide cumulative fleet/equipment costs (current, year-to-date, life-to-date, last year cost figures)."
+714356,Medium,,Prepare an accountability report that details all direct and indirect work by a mechanic and location for any user defined period.

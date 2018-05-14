@@ -1,0 +1,33 @@
+"Section:HRP-Position Control, Position Maintenance (32 Reqs)"
+711682,High,,Perform position actions including additions.
+711683,High,,"Perform position actions including abolishments, modifications, and purges."
+711684,High,,Perform position actions including reinstating abolished positions.
+711685,High,,Perform position actions including transfers.
+711686,High,,Perform position actions including reclassifications/reallocations.
+711687,Medium,,Copy selected fields for like positions to a new unique position number.
+711688,Medium,,Provide ability to transfer position descriptions from one position number to another.
+711689,Medium,,Allow transactions to be effective-date driven.
+711690,Medium,,Provide for the processing of position changes with proper authorization.
+711691,Medium,,Provide a comment field for all position changes.
+711692,High,,Route all position action requests to designated agencies for approval.
+711693,High,,Provide workflow routing of position change requests to various staff members for approval by agency.
+711694,High,,Provide an audit trail of all changes to positions including reorganizations and transfers.
+711695,Medium,,Limit the number of hours associated with a position for a user-defined period.
+711696,High,,"Provide a chronological history (e.g., reverse chronological order) of authorized positions and all position actions."
+711697,High,,"Provide a chronological history (e.g., reverse chronological order) of employees by position."
+711698,Medium,,"Update personnel, payroll, budget, and funding source information as appropriate once reorganizations are approved and  accepted."
+711699,Medium,,Link the FLSA status to a position and provide the option to modify the FLSA status.
+711700,Medium,,Track all positions whether filled or vacant based on user-specified criteria.
+711701,Medium,,"Provide ability to attach multiple electronic documents (e.g., position description) to the position."
+711702,Medium,,Flag personnel actions conflicting with position constraints.
+711703,Medium,,"Provide for interagency agreements impacting positions including tracking the original agency, program, etc."
+711704,Medium,,"Provide for interagency agreements impacting positions including tracking the new receiving agency, program, etc."
+711705,Medium,,Compare between positions authorized vs. positions filled vs. escalated positions and vacant by user-defined criteria.
+711706,Medium,,"Provide ability to ""freeze"" (suspend authorization to hire) and ""unfreeze"" position(s) at different levels based on user-defined  parameters."
+711707,Medium,,Control or suppress payroll by position unless it is authorized.
+711708,Medium,,Interface position information with all relevant systems.
+711709,Medium,,Integrate position control with time reporting and payroll processing rules.
+711710,Medium,,Track chronological history of incumbents by positions.
+711711,Medium,,"Personnel transactions are linked to Position Control such that position and payroll data is verified/updated at the completion of  each transaction (e.g., new hire, termination, transfer, etc.)."
+711712,Medium,,Provide ability to archive and retrieve positions.
+711713,Medium,,Provide ability to change account coding distributions (funding sources) associated with positions and the individuals within those  positions.

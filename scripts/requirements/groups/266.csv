@@ -1,0 +1,29 @@
+"Section:PL-Inventory Management, Cycle Counting (28 Reqs)"
+714636,Medium,,Provide automatic cycle count scheduling.
+714637,Medium,,Provide the ability to select and sequence physical inventory and cycle count documents.
+714638,Medium,,Provide cycle counts by items not counted.
+714639,Medium,,Provide the ability to do cycle counting on demand by: Item.
+714640,Medium,,Provide the ability to do cycle counting on demand by: Group.
+714641,Medium,,Provide the ability to do cycle counting on demand by: Class.
+714642,Medium,,Provide the ability to do cycle counting on demand by: Location.
+714643,Medium,,Provide the ability to generate random item numbers for performing random cycle counts.
+714644,Medium,,Enter cycle count data online with proper security and approvals.
+714645,Medium,,Provide the ability to separate the inventory count and reconciliation process to prevent the same user from counting and  reconciling inventory.
+714646,Medium,,"Provide the ability to ""freeze"" the perpetual balances of an item at the time the item is selected for cycle counting or physical  inventory."
+714647,Medium,,"Provide the ability to ""freeze"" the item selected for count by location including row in a warehouse."
+714648,Medium,,"Provide the ability to calculate deviation between ""frozen"" and counted quantities."
+714649,Medium,,"Provide the ability to make appropriate adjusting entries for deviations between ""frozen"" inventory and counted quantities."
+714650,High,,Provide the ability to enter physical count data from count sheets and the system will calculate variances.
+714651,Medium,,"Create physical inventory reports, including the following: Exception report of quantity variances."
+714652,Medium,,"Create physical inventory reports, including the following: Inventory value with value variance."
+714653,Medium,,"Create physical inventory reports, including the following: Inventory list by item by location including quantity and dollar amount at  a user-specified time period (i.e., year-end, June 30)."
+714654,Medium,,Calculate automatically the next cycle count date for each commodity based on user defined cycles.
+714655,Medium,,"Provide the ability to generate a book-to-physical adjustment transaction once cycle, period-end and year-end physical inventory  counts are determined."
+714656,Medium,,Provide the ability to generate and print cycle count worksheets including: Item number.
+714657,Medium,,Provide the ability to generate and print cycle count worksheets including: Manufacturer's part number.
+714658,Medium,,Provide the ability to generate and print cycle count worksheets including: Distributor's number.
+714659,Medium,,Provide the ability to generate and print cycle count worksheets including: Description.
+714660,Medium,,Provide the ability to generate and print cycle count worksheets including: Location (at all levels).
+714661,Medium,,Provide the ability to generate and print cycle count worksheets including: Unit of Measure.
+714662,Medium,,Provide the ability to generate and print cycle count worksheets including: Bar Code.
+714663,Medium,,Perform the physical count and reconciliation process on demand.

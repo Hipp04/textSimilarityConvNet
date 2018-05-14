@@ -1,0 +1,73 @@
+"Section:FIN-Accounts Receivable, Billing / Invoicing (72 Reqs)"
+705456,Medium,,"Provide ability to generate customer invoices and provides defaults by agency and/or organizational sub-level, including but not  limited to the following: Enter multiple invoice lines per invoice."
+705457,Medium,,"Provide ability to generate customer invoices and provides defaults by agency and/or organizational sub-level, including but not  limited to the following: Track, at minimum: item, description (up to 256 characters), quantity, unit cost, unit of measure, and  extended amount."
+705458,Medium,,"Provide ability to generate customer invoices and provides defaults by agency and/or organizational sub-level, including but not  limited to the following: Default item unit cost and any applicable tax associated with the service code."
+705459,Medium,,"Provide ability to generate customer invoices and provides defaults by agency and/or organizational sub-level, including but not  limited to the following: Automatically extend invoice lines, apply any taxes, and sum into the invoice total."
+705460,Medium,,"Provide ability to generate customer invoices and provides defaults by agency and/or organizational sub-level, including but not  limited to the following: Invoice Number."
+705461,Medium,,"Provide ability to generate customer invoices and provides defaults by agency and/or organizational sub-level, including but not  limited to the following: Sales Order Number."
+705462,Medium,,"Provide ability to generate customer invoices and provides defaults by agency and/or organizational sub-level, including but not  limited to the following: PO Number."
+705463,Medium,,"Provide ability to generate customer invoices and provides defaults by agency and/or organizational sub-level, including but not  limited to the following: Customer Information, including name, address and number."
+705464,Medium,,Provide ability for multiple user-defined tax percentages to be defined by item to be used in calculating the customer invoice total.
+705465,Medium,,Provide ability to override sales tax on invoices for tax exempt customers for the total invoice or individual line items on the  revenue transaction.
+705466,Medium,,"Provide ability to support automatic periodic billings to selected customers (e.g., billing for license renewals at specified time  annually). These recurring invoices can be set up for user-selected time periods and starting and ending dates."
+705467,Medium,,"Provide ability for a single invoice item to be distributed across multiple Chart of Account elements based on a user-defined (e.g.,  percentage) allocation."
+705468,Medium,,"Provide ability to bill by agency on behalf of other state agencies or external agencies, which consolidate and reconcile billing  information from several sources and provides one consolidated bill."
+705469,Medium,,Provide ability to bill by type of customer.
+705470,Medium,,"Provide ability to process uncollectible accounts as follows: Generate dunning letter to customer, which is customizable by the  agency and/or organizational sub-level."
+705471,Medium,,"Provide ability to process uncollectible accounts as follows: Export data to legal representatives or third-party collection agencies  and record as bad debt, with option to retain memo entries of the receivable balance in the accounts receivable system."
+705472,Medium,,"Provide ability to process uncollectible accounts as follows: Record receipt of cash and any collection fees associated with the  collection, at any time against the original receivable and maintain proper accounting entries to reverse the bad debt and to  record the collection fee."
+705473,Medium,,"Provide ability to process uncollectible accounts as follows: Obtain proper approvals on a transaction to write-off account balance  if not collected, based on user-defined criteria such as receivable type and dollar amount."
+705474,Medium,,Provide ability to print comments on both an individual and group basis on the billing documents.
+705475,Medium,,Provide ability to automatically calculate interest and fees on an individual account and bill the customer for the interest and  principal. A single customer may have multiple receivable accounts.
+705476,Medium,,Provide ability for users to define billing cycles and frequencies.
+705477,Medium,,"Provide ability for the user to document customer communication regarding an invoice and associate it with the specific invoice,  including the Provide ability to attach documents or end-user comments."
+705478,Medium,,Provide ability to customize the printed invoice/adjustment form to include any field entered in the invoice or adjustments  transaction entry screen. This customization should be accomplished using tools included in system.
+705479,Medium,,"Provide ability for users to preview, print and re-print customized invoices/adjustments (including color, font, type, size  variations), including but not limited to: individually, by customer, range of invoice/adjustment numbers, chart of account  elements, time period ranges, and range of customer numbers, etc."
+705480,Medium,,Provide ability to copy and modify existing invoices.
+705481,Medium,,Provide ability to create invoice templates.
+705482,Medium,,"Provide ability to change account coding on invoices through a mass change functionality, with audit trail and proper security."
+705483,Medium,,Provide ability to generate an invoice document number based upon a user-defined prefix and a unique system-generated  sequential number.
+705484,Medium,,Provide ability to generate customer statements by agency or organizational sub-level.
+705485,High,,"Provide ability to flag invoices for ""special handling"" (e.g., confidentiality issues) with the ability to enter comments."
+705486,Medium,,"Provide ability for full integration of Accounts Receivable and Cash Receipting with the General Ledger. Also, the system  generates receivable transactions in the General Ledger for all original entries, adjustments, penalty and interest assessments,  and write-offs."
+705487,Medium,,"Provide ability to access up to 3 years of complete receivables information in detail format online. For open balance transactions,  history will be maintained regardless of any timeframe."
+705488,Medium,,"Provide ability to generate either a positive or negative adjustment which can either be applied or not applied to a specific  customer invoice, with proper controls and audit trail."
+705489,Medium,,Provide ability for accounts/invoices to be maintained either on an open item or balance forward basis as determined by an  agency and/or organizational sub-level.
+705490,Medium,,"Provide ability to apply a negative (overpayment) balance total existing in an account against a new invoice, or create a refund  transaction."
+705491,Medium,,Provide ability to convert negative A/R balances to deferred revenue at user-defined periods.
+705492,Medium,,"Provide ability to record a protested or unidentified payment as an unapplied receivable item (i.e., maintains clearing accounts)  that can later be applied to receivable balances."
+705493,Medium,,"Provide ability to establish and maintain loan information, including principal, interest, and fluctuating interest rates and provide  an audit trail."
+705494,Medium,,"Provide ability to generate user-defined delinquency notices based upon user-defined aging buckets (for example 30, 60, 90,  120, and greater than 120 days) using the original invoice or transaction date and current system date based on receivable type."
+705495,Medium,,"Provide ability for automatically or manually applying late charges (e.g., penalties, interest, etc.) based upon user-defined criteria  to the unpaid balance on selected accounts receivable. System supports varying penalty amounts and interest by agency or  organizational sub-level."
+705496,Medium,,Provide ability to flag accounts with a user-defined follow-up date for collection related activity.
+705497,Medium,,"Provide ability to include or exclude disputed billings/customers from aging, finance charges, invoice generation/printing,  statistics, and dunning based upon user-defined parameters."
+705498,Medium,,"Provide ability to calculate various types of interest/payment schedules, including but not limited to: Interest-free periods."
+705499,Medium,,"Provide ability to calculate various types of interest/payment schedules, including but not limited to: Installment payments."
+705500,Medium,,"Provide ability to calculate various types of interest/payment schedules, including but not limited to: Interest deferrals or  suspensions of interest payments."
+705501,Medium,,Provide ability to optionally generate an automatic refund transaction on a specified refund date to issue a payment to the  customer.
+705502,Medium,,"Provide ability to generate a refund to a non-invoiced customer (e.g., grant overpayments), with proper approvals."
+705503,Medium,,Provide ability to issue refund payments to invoiced or non-invoiced customers without establishing a Customer ID.
+705504,Medium,,Provide ability to perform aging on committed funds and on actual receivables.
+705505,Medium,,Provide ability to enter miscellaneous invoices in batch or on-line.
+705506,Medium,,Provide ability to produce letters/billings based on a threshold.
+705507,Medium,,Provide ability to produce ready-to-mail invoices prepared in accordance with governmental regulations and in the format  required by the reimbursing Agency/Department.
+705508,Medium,,Provide ability to define the frequency of billings and provide interim and final billings.
+705509,Medium,,Provide ability to provide entry of manual billing transactions.
+705510,Medium,,"Provide ability to produce reconciliation statements showing beginning balance, charges, credits and payments, and a new  balance."
+705511,Medium,,Provide ability to correct and reprint invoices.
+705512,Medium,,Provide ability to print a duplicate bill on request.
+705513,Medium,,Provide ability to allow credit memos in batches or on-line.
+705514,Medium,,Provide ability to apply specific credit memos to specific invoices and invoice line items.
+705515,Medium,,Provide ability to maintain customer balances on an open item and / or balance forward basis.
+705516,Medium,,Provide ability to write-off small discrepancies between the amount due and the amount received.
+705517,Medium,,Provide ability to use automated interdepartmental and intradepartmental invoices and billing journal vouchers.
+705518,Medium,,Provide ability to generate a consolidated statement of a customer with multiple accounts.
+705519,Medium,,Provide ability to produce manual invoices for non-recurring types of billing.
+705520,Medium,,Provide ability to store multiple dunning messages.
+705521,Medium,,"Provide ability to support preparation and generation of ""Final Invoice""."
+705522,Medium,,"Provide ability to create and generate customer bills based on user-defined criteria (e.g., customer information, events, time  periods)."
+705523,Medium,,"Provide ability to support the billing and payment by multiple entities (i.e., percentage of bill paid by Federal Agency, State  Agency, and Local entity)."
+705524,Medium,,Provide ability to add bad check fees to receivables accounts.
+705525,High,,Provide ability to support electronic billing.
+705526,Medium,,Provide ability to accommodate registration for service provider training and perform billing for this purpose.
+705527,Medium,,Ability to create printed invoice from blank stock paper using advanced printer functions.

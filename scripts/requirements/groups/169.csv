@@ -1,0 +1,188 @@
+"Section:HRP-Personnel Administration, Employee Maintenance (187 Reqs)"
+711259,High,,"Control employee data changes with proper security, including what may be changed, who can make changes, and time and  date tracking of when changes are made."
+711260,High,,System should provide the ability to transfer employees within their agency and between agencies on any day of the month and  provide accurate pay calculations.
+711261,Medium,,Transfer employees between pay types (twice a month) on any day of the month and provide accurate pay calculations.
+711262,High,,Make multiple salary adjustments for the same pay period with different effective dates and provide accurate pay calculations.
+711263,Medium,,Automatically produce a letter to the employee verifying personnel data or changes for certain events as defined by the user with  the ability to override the production of a letter on individual transactions.
+711264,Medium,,Automatically produce an email message to the employee verifying personnel data or changes for certain events as defined by  the user with the ability to override the production of the email message on individual transactions.
+711265,Medium,,Generate e-mail or letter notification to employees and other appropriate staff of transaction approvals.
+711266,Medium,,Automatically calculate salary changes based on salary policy established for individual transactions.
+711267,Medium,,Maintain and track historical percentage increase or flat rate/amount for all salary adjustments.
+711268,Medium,,"Automatically flag employees that require personnel action (e.g., transactions placed in pending status) and institute notification  to appropriate personnel based on user defined criteria."
+711269,Medium,,"Create, edit, and view adjusting transactions and maintain history."
+711270,Medium,,Process adjusting transactions for an employee that has separated from State service.
+711271,Medium,,Back out adjusting transactions.
+711272,Medium,,Perform adjustment process based on the related effective date rules and appropriately reflect the updated data through any  actions between the adjustment date and current rules.
+711273,Medium,,Create summary screen for adjusting transactions which includes detailed history and actions as they occurred.
+711274,Medium,,"Process mass changes (adjustment, current and future) of salary and non-salary related data."
+711275,Medium,,Identify employee population based on different selection criteria for mass change.
+711276,Medium,,Generate edit reports prior to and after mass changes for those records that should be adjusted and for those records that were  not adjusted.
+711277,Medium,,Define the order in which multiple effective dated employee changes will be made.
+711278,Medium,,Develop criteria (random testing) and track the job classes or positions requiring drug and alcohol testing and: the type of test.
+711279,Medium,,Develop criteria (random testing) and track the job classes or positions requiring drug and alcohol testing and: who performed  the test (third party).
+711280,Medium,,Develop criteria (random testing) and track the job classes or positions requiring drug and alcohol testing and: the test results.
+711281,Medium,,Develop criteria (random testing) and track the job classes or positions requiring drug and alcohol testing and: the location of test.
+711282,Medium,,Develop criteria (random testing) and track the job classes or positions requiring drug and alcohol testing and: the date of test.
+711283,Medium,,Develop criteria (random testing) and track the job classes or positions requiring drug and alcohol testing and: the invoice  number / date.
+711284,Medium,,Develop criteria (random testing) and track the job classes or positions requiring drug and alcohol testing and: the Employee ID.
+711285,Medium,,Develop criteria (random testing) and track the job classes or positions requiring drug and alcohol testing and: when the next  periodic test should be given.
+711286,Medium,,"Develop random drug testing criteria based on the job classes or positions requiring drug and alcohol testing and record the  employee's method of testing, test results, where the test was taken."
+711287,Medium,,"Calculate critical dates based on the employee status and the effective date of the transaction (e.g., end of probationary period,  Visa, etc.) User has the ability to define date driven events."
+711288,Medium,,"Store multiple service start and end dates used to calculate service time. Service credits are based on a minimum number of  hours paid, including leave hours paid."
+711289,Medium,,"Flag employees that require scheduled personnel actions (e.g., performance evaluations, service recognition, semi-automatic  pay adjustments, and annual pay increments) and generate notification to appropriate personnel (e.g., employee, supervisor,  organization unit leader) based on user-defined criteria."
+711290,High,,Link spouses when both work for the State.
+711291,Medium,,Track FMLA eligibility and usage.
+711292,Medium,,"Link key fields to be updated associated with a specific type of personnel action (e.g., change from part-time employee to full- time employee, contract employee to State employee, requires other data to be updated)."
+711293,Medium,,Track employment actions for a single employee with the transaction type associated with: an appointment.
+711294,Medium,,Track employment actions for a single employee with the transaction type associated with: a reinstatement.
+711295,Medium,,Track employment actions for a single employee with the transaction type associated with: a transfer.
+711296,Medium,,Track employment actions for a single employee with the transaction type associated with: re-employments.
+711297,Medium,,Track employment actions for a single employee with the transaction type associated with: a title change.
+711298,Medium,,Track employment actions for a single employee with the transaction type associated with: a transfer within.
+711299,Medium,,Track employment actions for a single employee with the transaction type associated with: a reorganization.
+711300,Medium,,Track employment actions for a single employee with the transaction type associated with: a detail to special duty.
+711301,Medium,,Track employment actions for a single employee with the transaction type associated with: a reversion.
+711302,Medium,,Track employment actions for a single employee with the transaction type associated with: a SSN change.
+711303,Medium,,Track employment actions for a single employee with the transaction type associated with: an employment status.
+711304,Medium,,Track employment actions for a single employee with the transaction type associated with: a personal status.
+711305,Medium,,Track employment actions for a single employee with the transaction type associated with: an overlap.
+711306,Medium,,Track employment actions for a single employee with the transaction type associated with: a pilot project.
+711307,Medium,,Track employment actions for a single employee with the transaction type associated with: a location / crew change.
+711308,Medium,,Track employment actions for a single employee with the transaction type associated with: a return without pay.
+711309,Medium,,Track employment actions for a single employee with the transaction type associated with: a return with pay.
+711310,Medium,,Track employment actions for a single employee with the transaction type associated with: a temporary assignment.
+711311,Medium,,Track employment actions for a single employee with the transaction type associated with: other user defined employment  actions.
+711312,Medium,,Track actions effecting an employee to include: reasonable accommodation.
+711313,Medium,,Track actions effecting an employee to include: fitness for duty.
+711314,Medium,,Track actions effecting an employee to include: telecommuting.
+711315,Medium,,Track actions effecting an employee to include: other user-defined actions.
+711316,Medium,,Track appointment actions for a single employee for: a regular appointment to existing position.
+711317,Medium,,"Track appointment actions for a single employee for: no service break, same cabinet and department."
+711318,Medium,,"Track appointment actions for a single employee for: no service break, different cabinet and/or department."
+711319,Medium,,"Track appointment actions for a single employee for: previous service, same cabinet and department."
+711320,Medium,,Track appointment actions for a single employee for: new appointment to new position.
+711321,Medium,,Track appointment actions for a single employee for: returning retiree.
+711322,Medium,,Track appointment actions for a single employee for: other user-defined appointment actions.
+711323,Medium,,Track reason codes for an employee taking a break in service for: leave without pay - military duty.
+711324,Medium,,Track reason codes for an employee taking a break in service for: leave without pay - education.
+711325,Medium,,Track reason codes for an employee taking a break in service for: leave without pay - government service.
+711326,Medium,,Track reason codes for an employee taking a break in service for: leave without pay - special assignment.
+711327,Medium,,Track reason codes for an employee taking a break in service for: leave without pay - sick.
+711328,Medium,,Track reason codes for an employee taking a break in service for: leave without pay - best interest of the State.
+711329,Medium,,"Track reason codes for an employee taking a break in service for: leave without pay - other, e.g. FMLA."
+711330,Medium,,Track reason codes for an employee taking a break in service for: special leave with pay - investigation.
+711331,Medium,,Track salary adjustment actions for a single employee for: reclassifications.
+711332,Medium,,Track salary adjustment actions for a single employee for: reallocations.
+711333,Medium,,Track salary adjustment actions for a single employee for: step increases.
+711334,Medium,,Track salary adjustment actions for a single employee for: grade changes.
+711335,Medium,,Track salary adjustment actions for a single employee for: range changes.
+711336,Medium,,Track salary adjustment actions for a single employee for: promotions.
+711337,Medium,,Track salary adjustment actions for a single employee for: retentions.
+711338,Medium,,Track salary adjustment actions for a single employee for: demotions.
+711339,Medium,,Track salary adjustment actions for a single employee for: increments.
+711340,Medium,,Track salary adjustment actions for a single employee for: probationary increase.
+711341,Medium,,Track salary adjustment actions for a single employee for: educational increase.
+711342,Medium,,Track salary adjustment actions for a single employee for: shift / weekend premium.
+711343,Medium,,"Track salary adjustment actions for a single employee for: pay type (hourly, salary)."
+711344,Medium,,Track salary adjustment actions for a single employee for: salary changes (based on scheduled grade change).
+711345,Medium,,Track salary adjustment actions for a single employee for: salary changes (based on State board actions).
+711346,Medium,,Track salary adjustment actions for a single employee for: salary changes (based on performance).
+711347,Medium,,Track salary adjustment actions for a single employee for: salary changes (based on employee recognition award - ERA).
+711348,Medium,,Track salary adjustment actions for a single employee for: salary changes (based on new appointee salary).
+711349,Medium,,Track salary adjustment actions for a single employee for: salary adjustment (based on job duties).
+711350,Medium,,Track salary adjustment actions for a single employee for: salary adjustment (per legislation).
+711351,Medium,,Track salary adjustment actions for a single employee for: salary adjustment (per budget).
+711352,Medium,,Track salary adjustment actions for a single employee for: temporary upgrade/assignment.
+711353,Medium,,Track personnel actions taken by the State that impact employee's employment status for: suspension (time and attendance).
+711354,Medium,,Track personnel actions taken by the State that impact employee's employment status for: suspension (work performance).
+711355,Medium,,Track personnel actions taken by the State that impact employee's employment status for: suspension (job abandonment).
+711356,Medium,,Track personnel actions taken by the State that impact employee's employment status for: suspension (patient / client abuse).
+711357,Medium,,Track personnel actions taken by the State that impact employee's employment status for: suspension (sleeping on the job).
+711358,Medium,,Track personnel actions taken by the State that impact employee's employment status for: suspension (license revocation).
+711359,Medium,,Track personnel actions taken by the State that impact employee's employment status for: suspension (policy violation).
+711360,Medium,,Track personnel actions taken by the State that impact employee's employment status for: suspension (pending completion of  investigation).
+711361,Medium,,Track personnel actions taken by the State that impact employee's employment status for: suspension (insubordination).
+711362,Medium,,Track personnel actions taken by the State that impact employee's employment status for: suspension (alcohol / drug use).
+711363,Medium,,Track personnel actions taken by the State that impact employee's employment status for: suspension (misconduct).
+711364,Medium,,Track personnel actions taken by the State that impact employee's employment status for: suspension (with fines as payroll  deductions).
+711365,Medium,,Track personnel actions taken by the State that impact employee's employment status for: suspension (other).
+711366,Medium,,Track personnel actions taken by the State that impact employee's employment status for: return from suspension.
+711367,Medium,,Track personnel actions taken by the State that impact employee's employment status for: dismissal (time and attendance).
+711368,Medium,,Track personnel actions taken by the State that impact employee's employment status for: dismissal (work performance).
+711369,Medium,,Track personnel actions taken by the State that impact employee's employment status for: dismissal (job abandonment).
+711370,Medium,,Track personnel actions taken by the State that impact employee's employment status for: dismissal (patient / client abuse).
+711371,Medium,,Track personnel actions taken by the State that impact employee's employment status for: dismissal (sleeping on the job).
+711372,Medium,,Track personnel actions taken by the State that impact employee's employment status for: dismissal (license revocation).
+711373,Medium,,Track personnel actions taken by the State that impact employee's employment status for: dismissal (pending completion of  investigation).
+711374,Medium,,Track personnel actions taken by the State that impact employee's employment status for: dismissal (policy violation).
+711375,Medium,,Track personnel actions taken by the State that impact employee's employment status for: dismissal (insubordination).
+711376,Medium,,Track personnel actions taken by the State that impact employee's employment status for: dismissal (alcohol / drug use).
+711377,Medium,,Track personnel actions taken by the State that impact employee's employment status for: dismissal (misconduct).
+711378,Medium,,Track personnel actions taken by the State that impact employee's employment status for: dismissal (from suspension).
+711379,Medium,,Track personnel actions taken by the State that impact employee's employment status for: dismissal (from leave).
+711380,Medium,,Track personnel actions taken by the State that impact employee's employment status for: dismissal (other).
+711381,Medium,,Track personnel actions taken by the State that impact employee's employment status for: transfer out.
+711382,Medium,,Track personnel actions taken by the State that impact employee's employment status for: terminate - time limit.
+711383,Medium,,Track personnel actions taken by the State that impact employee's employment status for: terminate - classified exempt.
+711384,Medium,,Track personnel actions taken by the State that impact employee's employment status for: terminate - classified.
+711385,Medium,,Track personnel actions taken by the State that impact employee's employment status for: terminate - at will.
+711386,Medium,,Track personnel actions taken by the State that impact employee's employment status for: terminate - fail to report.
+711387,Medium,,Track personnel actions taken by the State that impact employee's employment status for: terminate - refused job.
+711388,Medium,,Track personnel actions taken by the State that impact employee's employment status for: layoffs (lack of work).
+711389,Medium,,Track personnel actions taken by the State that impact employee's employment status for: layoffs (lack of funds).
+711390,Medium,,Track personnel actions taken by the State that impact employee's employment status for: layoffs (reorganization).
+711391,Medium,,Track personnel actions taken by the State that impact employee's employment status for: layoffs (other).
+711392,Medium,,Track personnel actions taken by the employee for: resignation - salary.
+711393,Medium,,Track personnel actions taken by the employee for: resignation - lack of opportunity.
+711394,Medium,,Track personnel actions taken by the employee for: resignation - personal conflict.
+711395,Medium,,Track personnel actions taken by the employee for: resignation - marriage.
+711396,Medium,,Track personnel actions taken by the employee for: resignation - job incompatibility.
+711397,Medium,,Track personnel actions taken by the employee for: resignation - return to school.
+711398,Medium,,Track personnel actions taken by the employee for: resignation - health.
+711399,Medium,,Track personnel actions taken by the employee for: resignation - family reasons.
+711400,Medium,,Track personnel actions taken by the employee for: resignation - transportation.
+711401,Medium,,Track personnel actions taken by the employee for: resignation - moving.
+711402,Medium,,Track personnel actions taken by the employee for: resignation - to be reappointed to same/different department.
+711403,Medium,,Track personnel actions taken by the employee for: resignation - to be reappointed same department.
+711404,Medium,,Track personnel actions taken by the employee for: resignation - from leave.
+711405,Medium,,Track personnel actions taken by the employee for: resignation - other.
+711406,Medium,,Track personnel actions taken by the employee for: retirement - disability.
+711407,Medium,,Track personnel actions taken by the employee for: retirement - early.
+711408,Medium,,Track personnel actions taken by the employee for: retirement - mandatory.
+711409,Medium,,Track personnel actions taken by the employee for: retirement - normal.
+711410,Medium,,Track personnel actions taken by the employee for: retirement - from leave.
+711411,Medium,,Track personnel actions taken by the employee for: death.
+711412,Medium,,Track personnel actions taken by the employee for: resignation from suspension.
+711413,Medium,,Track personnel actions taken by the employee for: resignation - job abandonment.
+711414,Medium,,Track personnel actions taken by the employee for: resignation - promotional opportunity.
+711415,Medium,,"Automatically extend probation dates when the employee is on leave, based on user-defined parameters."
+711416,Medium,,Track leave of absence actions for a single employee for: medical leave.
+711417,Medium,,Track leave of absence actions for a single employee for: maternity and/or paternity leave.
+711418,Medium,,Track leave of absence actions for a single employee for: parental leave.
+711419,Medium,,Track leave of absence actions for a single employee for: educational leave without pay.
+711420,Medium,,Track leave of absence actions for a single employee for: Workers' Comp.
+711421,Medium,,Track leave of absence actions for a single employee for: military leave without pay.
+711422,Medium,,Track leave of absence actions for a single employee for: FMLA (Federal and State).
+711423,Medium,,Track additional user-defined employee actions.
+711424,Medium,,"Track information relating to the employee's work for: alternative work patterns (e.g., flex, compressed, deviated, job share)."
+711425,Medium,,Track information relating to the employee's work for: hours scheduled to work by day.
+711426,Medium,,Track information relating to the employee's work for: telecommuting.
+711427,Medium,,"Track military status for an employee (e.g., active, reserve)."
+711428,Medium,,Associate appointments with a valid certification request number.
+711429,Medium,,Establish user-defined edits for employee initiated change transactions and provide appropriate notification to HR department.
+711430,Medium,,Create user-defined employee checklists for various processing activities such as new hire and separation.
+711431,Medium,,Generate COBRA notifications for those eligible.
+711432,High,,"Designate employee transaction approval routing (e.g. reinstatement, transfers, etc), which may be revised by authorized users  prior to becoming official."
+711433,Medium,,"Update employee status for those affected by layoffs or reorganizations (i.e., reversion or reverting to the previous status)."
+711434,Medium,,Transfer employees between agencies with all historical data for the employee accessible to the new organization.
+711435,Medium,,Track reason codes for an employee returning from a break in service for: reinstatement after a break of more than 12 months.
+711436,Medium,,Track reason codes for an employee returning from a break in service for: reinstatement after a break of less than 12 months.
+711437,Medium,,Track reason codes for an employee returning from a break in service for: reinstatement by a board or court order.
+711438,Medium,,Track reason codes for an employee returning from a break in service for: re-employments after layoff.
+711439,Medium,,Track reason codes for an employee returning from a break in service for: return without pay - military duty.
+711440,Medium,,Track reason codes for an employee returning from a break in service for: return without pay - education.
+711441,Medium,,Track reason codes for an employee returning from a break in service for: return without pay - government service.
+711442,Medium,,Track reason codes for an employee returning from a break in service for: return without pay - special assignment.
+711443,Medium,,Track reason codes for an employee returning from a break in service for: return without pay - sick.
+711444,Medium,,Track reason codes for an employee returning from a break in service for: return without pay - best interest of the State.
+711445,Medium,,Track reason codes for an employee returning from a break in service for: return without pay - other.

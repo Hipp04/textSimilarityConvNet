@@ -1,0 +1,5 @@
+"Section:SW-General and Technical, Supportability (4 Reqs)"
+718291,High,,"Construct using current but mature industry-standard application development tools, techniques and standards that can be  maintained for the expected life of the system."
+718292,High,,"Allow at a minimum for configuration across multiple environments including production, patch, user acceptance test, system  test, user training, development and sand box."
+718293,High,,"Allow for at a minimum production, patch, user acceptance test, system test, user training, development and sand box  environments to be used and maintained simultaneously."
+718294,High,,"Protect solution configuration and code base for the system using version control tools that provide ""check in"" and ""check out""  support."

@@ -1,0 +1,4 @@
+ID,Similarity,Requirement
+705067,4.1957285628,"Highlight discrepancies between purchase order, invoice and receiving document: Quantity received vs. quantity ordered vs.  quantity invoiced."
+705066,4.1204497358,"Highlight discrepancies between purchase order, invoice and receiving document: Unit price variances."
+705068,4.0855563185,"Highlight discrepancies between purchase order, invoice and receiving document: Extended value of the PO vs. extended value  of the invoice."

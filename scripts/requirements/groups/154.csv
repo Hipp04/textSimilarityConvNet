@@ -1,0 +1,66 @@
+"Section:HRP-Leave Management, Leave Calculations and Payments (65 Reqs)"
+710736,Medium,,"Allow users to define leave accrual calculation and usage rules based on user-specified combinations of variables, by leave type  (with an override capability) based on: job class."
+710737,Medium,,"Allow users to define leave accrual calculation and usage rules based on user-specified combinations of variables, by leave type  (with an override capability) based on: organizational unit."
+710738,Medium,,"Allow users to define leave accrual calculation and usage rules based on user-specified combinations of variables, by leave type  (with an override capability) based on: effective dates."
+710739,Medium,,"Allow users to define leave accrual calculation and usage rules based on user-specified combinations of variables, by leave type  (with an override capability) based on: expiration dates."
+710740,Medium,,"Allow users to define leave accrual calculation and usage rules based on user-specified combinations of variables, by leave type  (with an override capability) based on: adjusted continuous service date."
+710741,Medium,,"Allow users to define leave accrual calculation and usage rules based on user-specified combinations of variables, by leave type  (with an override capability) based on: months of service (qualified regular hours)."
+710742,Medium,,"Allow users to define leave accrual calculation and usage rules based on user-specified combinations of variables, by leave type  (with an override capability) based on: accrual amount."
+710743,Medium,,"Allow users to define leave accrual calculation and usage rules based on user-specified combinations of variables, by leave type  (with an override capability) based on: date of accrual."
+710744,Medium,,"Allow users to define leave accrual calculation and usage rules based on user-specified combinations of variables, by leave type  (with an override capability) based on: minimum hours worked in a month."
+710745,Medium,,"Allow users to define leave accrual calculation and usage rules based on user-specified combinations of variables, by leave type  (with an override capability) based on: maximum hours accrued."
+710746,Medium,,"Allow users to define leave accrual calculation and usage rules based on user-specified combinations of variables, by leave type  (with an override capability) based on: maximum dollars paid."
+710747,Medium,,"Allow users to define leave accrual calculation and usage rules based on user-specified combinations of variables, by leave type  (with an override capability) based on: payout option available."
+710748,Medium,,"Allow users to define leave accrual calculation and usage rules based on user-specified combinations of variables, by leave type  (with an override capability) based on: actual hours."
+710749,Medium,,"Allow users to define leave accrual calculation and usage rules based on user-specified combinations of variables, by leave type  (with an override capability) based on: benefit accrual plan."
+710750,Medium,,"Allow users to define leave accrual calculation and usage rules based on user-specified combinations of variables, by leave type  (with an override capability) based on: blood donation leave hours."
+710751,Medium,,"Allow users to define leave accrual calculation and usage rules based on user-specified combinations of variables, by leave type  (with an override capability) based on: voting leave."
+710752,Medium,,"Allow users to define leave accrual calculation and usage rules based on user-specified combinations of variables, by leave type  (with an override capability) based on: sick leave used for bereavement."
+710753,Medium,,"Allow users to define leave accrual calculation and usage rules based on user-specified combinations of variables, by leave type  (with an override capability) based on: hazardous duty disability leave."
+710754,Medium,,"Allow users to define leave accrual calculation and usage rules based on user-specified combinations of variables, by leave type  (with an override capability) based on: FTE."
+710755,Medium,,"Allow users to define leave accrual calculation and usage rules based on user-specified combinations of variables, by leave type  (with an override capability) based on: may be taken in period accrued / earned (y/n)."
+710756,Medium,,"Allow users to define leave accrual calculation and usage rules based on user-specified combinations of variables, by leave type  (with an override capability) based on: increment taken allowed."
+710757,Medium,,"Allow users to define leave accrual calculation and usage rules based on user-specified combinations of variables, by leave type  (with an override capability) based on: FMLA (y/n)."
+710758,Medium,,"Allow users to define leave accrual calculation and usage rules based on user-specified combinations of variables, by leave type  (with an override capability) based on: carryover (y/n)."
+710759,Medium,,"Allow users to define leave accrual calculation and usage rules based on user-specified combinations of variables, by leave type  (with an override capability) based on: carryover amount."
+710760,Medium,,"Allow users to define leave accrual calculation and usage rules based on user-specified combinations of variables, by leave type  (with an override capability) based on: carryover period."
+710761,Medium,,"Allow users to define leave accrual calculation and usage rules based on user-specified combinations of variables, by leave type  (with an override capability) based on: scheduled hours."
+710762,Medium,,"Allow users to define leave accrual calculation and usage rules based on user-specified combinations of variables, by leave type  (with an override capability) based on: termination date."
+710763,Medium,,"Allow users to define leave accrual calculation and usage rules based on user-specified combinations of variables, by leave type  (with an override capability) based on: FLSA status."
+710764,Medium,,"Allow users to define leave accrual calculation and usage rules based on user-specified combinations of variables, by leave type  (with an override capability) based on: employee status."
+710765,Medium,,"Allow users to define leave accrual calculation and usage rules based on user-specified combinations of variables, by leave type  (with an override capability) based on: position status."
+710766,Medium,,"Allow users to define leave accrual calculation and usage rules based on user-specified combinations of variables, by leave type  (with an override capability) based on: specialty pay."
+710767,Medium,,Provide ability for authorized users to adjust leave amounts taken through corrections to time capture for impacted reporting  periods based on user defined business rules that may vary by agency.
+710768,Medium,,"Allow the ability to override individual leave balances by entering specific leave adjustment transactions, which provide an audit  trail to the system calculated leave balance."
+710769,Medium,,"Select payments for leave based on Agency, job class, leave type, accrual rate, and leave balance."
+710770,Medium,,"Automatically update projected leave amounts available to reflect changes in employee accrual rates, rollovers, or leave without  pay."
+710771,Medium,,"Automatically edit for required documentation (attachments) based on user defined business rules for various leave types by  agency, organization unit, or job class."
+710772,Medium,,Automatically adjust existing leave balances for all applicable employees when accrual rules change (including retroactive  changes).
+710773,Medium,,Designate leave taken in lieu of employees awaiting workers' compensation benefits.
+710774,Medium,,Restore leave based on repayment of wages paid during the TTD (Worker's Comp) effective date.
+710775,Medium,,"Allow leave payments for leave earned but not taken (e.g., active military duty, other than an employee termination) based on:  leave type."
+710776,Medium,,"Allow leave payments for leave earned but not taken (e.g., active military duty, other than an employee termination) based on:  cutoff date (automatically)."
+710777,Medium,,"Allow leave payments for leave earned but not taken (e.g., active military duty, other than an employee termination) based on:  request after a cutoff date."
+710778,Medium,,"Allow leave payments for leave earned but not taken (e.g., active military duty, other than an employee termination) based on:  hours maximum for payoff, subject to available balance for that leave type."
+710779,Medium,,"Allow leave payments for leave earned but not taken (e.g., active military duty, other than an employee termination) based on:  hours earned in excess of maximum."
+710780,Medium,,"Allow leave payments for leave earned but not taken (e.g., active military duty, other than an employee termination) based on:  leave accrual rate."
+710781,Medium,,"Allow termination of leave processing by leave type, by type of separation ( e.g., terminate, death, retire, etc.) to include: pay or  don't pay."
+710782,Medium,,"Allow termination of leave processing by leave type, by type of separation ( e.g., terminate, death, retire, etc.) to include: lump  sum."
+710783,Medium,,"Allow termination of leave processing by leave type, by type of separation ( e.g., terminate, death, retire, etc.) to include:  carryover for reinstatement on rehire."
+710784,Medium,,"Allow termination of leave processing by leave type, by type of separation ( e.g., terminate, death, retire, etc.) to include: lose  leave balance upon termination."
+710785,Medium,,"Allow termination of leave processing by leave type, by type of separation ( e.g., terminate, death, retire, etc.) to include: leave  balances to be forwarded to CPRB (retirement) for service conversion."
+710786,Medium,,Allow for the roll-over of leave balances based on user-specified parameters.
+710787,Medium,,Validate against leave accrued prior to usage and payment to ensure appropriate balance is available (or projected to be  available at time of use).
+710788,Medium,,Establish non-exempt overtime (> 40 hours worked) at comp time earned at 1.5 for every hour of overtime worked.
+710789,Low,,Capture employees working a designated State holiday to use the time off on an alternate work day(s).
+710790,Medium,,Capture employees working a designated State holiday to earn comp time on user defined business rules.
+710791,Medium,,Ability to mandate non-exempt comp time based on user defined business rules and employee groups.
+710792,Medium,,Establish payments for specified employees that have reached the comp time maximum (thus reducing the comp time balance).
+710793,Medium,,Trigger payment requests for specified employees who have accumulated a user specified number of hours of comp time.
+710794,Medium,,Defer user defined comp time payments to a user-defined future date.
+710795,Medium,,Pay accumulated holiday/comp time upon separation based on the current regular rate of pay for exempt and non-exempt  employees based on user defined parameters.
+710796,Medium,,"Reinstate unused sick leave for appointments, reinstatement or re-employment of former employees who did not receive benefits  at time of separation."
+710797,Medium,,Produce notices to Appointing Authorities/employees who have been on unpaid leave approaching user defined time frame.
+710798,Medium,,Maintain and track effective date leave calculations for accrual and payment.
+710799,Medium,,"Provide the ability to automatically initiate leave (any type) buyouts based on defined business rules that may vary by agency,  organization unit or job class."
+710800,Medium,,"Project leave ""run out"" for any specified employees, including any additional accruals that will occur."

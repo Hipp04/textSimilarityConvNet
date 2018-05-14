@@ -1,0 +1,51 @@
+"Section:PL-Facilities Management, Work Order (50 Reqs)"
+713638,Medium,,Support creation of standing work orders to track routine activities (for example routine grounds maintenance at a given facility  grouping/campus).
+713639,Medium,,"Support creation of work orders for specific maintenance work in response to a work request, problem report or other situation."
+713640,Medium,,Link work requests or problem reports to a work order and pre-populate information in the work order from the work requests  and/or problem reports to the extent possible.
+713641,Medium,,"Allow agency facility class owners or other authorized users to define rates for maintenance/repair services by agency,  employee, maintenance shop or skill within a maintenance shop."
+713642,Medium,,Track regular and overtime labor.
+713643,Medium,,Track general shop as well as individual maintenance technician labor rates.
+713644,Medium,,Allow for assignment of individual overtime rates to each maintenance technician.
+713645,Medium,,Capture date and time work order is created.
+713646,Medium,,Capture user requesting.
+713647,Medium,,Capture description of work to be performed.
+713648,Medium,,Store maintenance activities (multiple allowed) to be performed.
+713649,Medium,,"Store facility, sub facility, systems, components (multiple allowed) on which maintenance is to be performed (for individual work  orders)."
+713650,Medium,,"Store cost center to which the work is to be charged which can be any active chart of account codes, project or grant."
+713651,Medium,,Store individual or crew that work order is assigned to.
+713652,Medium,,Store purchase order (if work is performed by an external provider).
+713653,Medium,,Store agency manager/approver (for any external work).
+713654,Medium,,Store target completion date and time.
+713655,Medium,,Provide the capability to define a work order as relating to a FEMA event.
+713656,Medium,,"Capture estimated cost (labor, parts, other costs) for a work order."
+713657,Medium,,"Support multiple maintenance/repair activities on a work order (such as the inclusion of a warranty repair on a PM work order),  while still allowing detailed analysis by repair type."
+713658,Medium,,"Provide a mechanism to red flag repairs caused by the negligence of others (i.e. traffic accidents, vandalism, etc.) The party  determined at fault must be able to then be billed for these repairs."
+713659,Medium,,Integrate with BRIM to automatically report the estimated repair costs associated with accidents.
+713660,Medium,,Provide the ability to attach various file types to the work request/work order.
+713661,Medium,,Allow the priority on a work order to be set by an authorized user or by a predefined business rule with override by an authorized  user.
+713662,Medium,,Display any applicable warranty data related to a work order and flag the user that the system or component may be under one  or more warranties.
+713663,Medium,,Generate a list of equipment and materials needed based on maintenance/repair activities to be performed and associated  performance standards.
+713664,Medium,,Auto create the materials requisition with the work order based on the maintenance activities to be performed and the associated  performance standards.
+713665,Medium,,"Allow the facilities maintenance supervisor to view each technician's current work queue including assigned jobs, estimated  completion times for each job and estimated availability time."
+713666,Medium,,Allow a maintenance supervisor to identify options for assignment of a work order based on skill set and level of maintenance  technician.
+713667,Medium,,Allow for re-assignment of work order between maintenance shops or to an external repair vendor.
+713668,Medium,,"Provide ability to electronically notify and transmit work requests to the individual or crew assigned, as well as the Maintenance  Supervisor (or other designated staff member)."
+713669,Medium,,Route work order electronically through work flow to crew leader or individual to whom work order is assigned.
+713670,Medium,,Notify assigned individual or crew leader by email and provide ability to link from the email directly into the assigned work order.
+713671,Medium,,Allow crew leader or work order assignee to download work order information to a GPS enabled PDA or other hand held device.
+713672,Medium,,"Provide for emailing, faxing or electronically transmitting through the ERP procurement function a work order to an external  provider."
+713673,Medium,,Allow crew leader to capture GPS location of actual work performed via the PDA or other hand held device and to adjust  impacted asset information as appropriate based on what assets the maintenance work is actually performed on.
+713674,Medium,,Allow crew leader or individual to whom work order is assigned to indicate work order completion online in the system or by  recording completion on their PDA and uploading to the system.
+713675,Medium,,"Capture for each work order the actual labor, equipment and materials utilized to perform the activity and complete the requested  work."
+713676,Medium,,Allow authorized user to review and approve work order as completed through a work flow based notification following the work  order being marked by the crew leader or other staff member performing the work that the work is complete.
+713677,Medium,,Prevent further changes to a work order after approval. Further changes will require an additional transaction against the work  order so that the audit trail of changes is maintained.
+713678,Medium,,Allow a work order to be adjusted for data entry errors.
+713679,Medium,,"Provide work order search capability by a number of parameters including facility grouping/campus, facility, system, component,  maintenance shop, status (open, closed, cancelled), date range, maintenance activity, etc."
+713680,Medium,,"Restrict work order search capability and access to work orders by agency, maintenance shop within an agency and by a user's  roles/responsibilities."
+713681,Medium,,Allow for partially completed work orders that remain open through month and year end without starting new repair order.
+713682,Medium,,Update materials inventory in the ERP inventory function based on materials used on a work order.
+713683,Medium,,Update materials inventory in the ERP inventory function based on any materials credited in a work order (returned to inventory).
+713684,Medium,,Update equipment usage in the ERP fleet management function based on actual equipment usage reported on the work order.
+713685,Medium,,Update employee time information in the ERP time and labor function based on actual time reported by employee on the work  order.
+713686,Medium,,"Integrate with ERP accounts payable function to support payment for completed work orders performed by external providers via  procurement card, ACH or warrant."
+713687,Medium,,Integrate with ERP general ledger function to support intergovernmental billing for maintenance work or repairs performed by one  State agency for another agency.

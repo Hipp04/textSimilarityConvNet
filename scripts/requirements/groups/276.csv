@@ -1,0 +1,5 @@
+"Section:PL-Pavement Management, Crash History (4 Reqs)"
+714835,Medium,,"Capture, store, view and retrieve from the transportation asset inventory and safety management function and the Crash  Reporting system crash history associated with individual pavement segments including crash types, severity, weather  conditions, driver impairments and severity/extent of driver injuries."
+714836,Medium,,"Capture, store, view and retrieve from the transportation asset inventory and safety management function and the Crash  Reporting system high accident location data including rank; location in terms of county, route, starting and ending milepost,  direction of travel and length; frequency rank; severity rank; rate multiplier rank."
+714837,Medium,,Integrate crash history with pavement condition to determine pavement conditions that contribute most to crashes.
+714838,Medium,,Integrate pavement condition with crash reports to determine distress type which may contribute to a greater number of crashes.

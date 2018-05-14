@@ -1,0 +1,13 @@
+"Section:PL-Procurement, General (160 Reqs)  StmtID"
+715082,Rating,,"Medium  Requirement  Provide the ability to validate the tax status of a vendor with the Department of Revenue's Tax Clearance system (i.e., hyperlink  from ERP to Tax Clearance system, data upload from Tax Clearance system to ERP) at a user-defined period of time throughout  the procurement process.  Support Source"
+715083,Medium,,"Provide the ability to validate the insurance status of a vendor with the Department of Insurance's Vendor Insurance Information  system (i.e., hyperlink from ERP to Vendor Insurance Information system, data upload from Vendor Insurance Information  system to ERP) at a user-defined period of time throughout the procurement process."
+715084,Medium,,"Provide the ability to validate the status of a vendor with the Secretary of State's (SOS) Vendor Information system (i.e.,  hyperlink from ERP to Vendor Information system, data upload from Vendor Information system to ERP) at a user-defined period  of time throughout the procurement process."
+715085,Medium,,"Provide the ability to validate the tax status of a vendor with the West Virginia Workforce's Unemployment Insurance Vendor  system (i.e., hyperlink from ERP to Unemployment Insurance system, data upload from Unemployment Insurance system to  ERP) at a user-defined period of time throughout the procurement process."
+715086,Medium,,Provide a mechanism to allow an override to Vendor status exceptions for the four previous interfaces limited to authorized  individuals.
+715087,Medium,,"Provide notification of override vendor status exceptions for the four interfaces (Tax, Insurance, SOS and Workforce)."
+715088,Medium,,Interface with AASHTO SiteManager to create Purchase Orders and contract balances for commitments approved in  SiteManager for WVDOT highway construction projects.
+715089,Medium,,"Interface with AASHTO SiteManager to create PO change orders, contract amendments and adjust contract balances based on  change orders processed and approved in SiteManager for WVDOT highway construction projects."
+715090,Medium,,Interface with AASHTO SiteManager to create invoices based on transactions processed and approved in SiteManager for  WVDOT highway construction projects.
+715091,Medium,,Provide a mechanism to override accounting distributions interfaced on invoices from AASHTO SiteManager as needed.
+715092,High,,"Integrate all purchasing documents (requisitions, Purchase Orders, Goods Receipts) with the inventory module."
+715093,High,,"Support integration of all pre-encumbrance, encumbrances, goods receipt and invoice payments to budgetary control in project  systems."

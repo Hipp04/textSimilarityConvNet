@@ -1,0 +1,3 @@
+ID,Similarity,Requirement
+705001,4.1780389234,"Accumulate and display monthly, year-to-date (calendar or fiscal year), and inception-to-date (for lifetime of vendor) figures for:  Purchases by vendor (i.e., by invoice, purchase order / contract number, purchase item, budget unit)."
+705002,4.1057909376,"Accumulate and display monthly, year-to-date (calendar or fiscal year), and inception-to-date (for lifetime of vendor) figures for:  Payments to vendor, by contract, contract type, invoice, account."

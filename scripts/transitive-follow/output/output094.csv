@@ -1,0 +1,3 @@
+ID,Similarity,Requirement
+705060,3.537137058,Automatically calculate invoice due date based on invoice date or a user-specified date (such as 30 days from the date of  receipt) and payment terms and schedules optimum payment date based on that calculation.
+705094,3.5041388926,"Provide automatic inclusion of credits and penalties within invoices for late delivery, untimely warranty service, and other  predefined violations of contract terms and conditions."

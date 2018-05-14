@@ -1,0 +1,20 @@
+"Section:SW-General and Technical, Application Architecture (18 Reqs)"
+718001,High,,Provide a suite of fully-integrated application modules in which data captured in one module is available for use and updated as  appropriate in other modules of the system.
+718002,High,,Share all related business files shared across functional areas or across organizations.
+718003,High,,"Update all related modules and tables with a single entry, for example, an account number change is made only once but takes  effect throughout the ERP system."
+718004,High,,Implement a table-driven architecture with online screens to control parameters.
+718005,High,,Provide capability for the system administrator or other authorized users to manage and maintain system tables.
+718006,High,,Provide the ability to have edit checking tables which at the State's option for certain functions can have agency specific values  which are managed and maintained at the agency level.
+718007,Medium,,Utilize a system design which provides the end user with a perspective of real-time update of data even if some batch processes  may actually be required in the background to complete the updating of the database. For example users should not have to  toggle from a screen being used to perform a business process to a job queue to check the status of a batch job before being  able to proceed to the next screen in a set of screens required to perform a specific business function or transaction.
+718008,Medium,,"Perform transactions in real-time in the sense that online access will display the most current element value. As an example if a  user changes the value of a data element on one screen, the newly changed data value will be shown if this same data element  is displayed on the next screen in a sequence of screens required to complete a business transaction."
+718009,High,,Edit all system input according to user defined business rules so that the rules are appropriately applied and data is validated at  the time the data is being entered into the system either on-line or through a batch transaction.
+718010,High,,Utilize effective-dated transactions and table updates (either future dated or retroactive) with the ability to specify data edits by  type of transaction.
+718011,High,,Support multiple concurrent application sessions for each user.
+718012,High,,Integrate any proposed third party applications into the main menu structure so that Menu structure is maintained during software  upgrades for ERP system modules and any third-party applications integrated as part of the ERP.
+718013,High,,Ensure vendor proposed third party applications reflect and utilize West Virginia ERP system security profiles.
+718014,High,,Ensure appropriate protection and masking of any fields designated as personally identifiable information with access restricted  to authorized users by agency and role and responsibility.
+718015,High,,Provide the ability to comply with a Statement on Auditing Standards (SAS) 70 Type II audit.
+718016,High,,Comply with Health Insurance Portability and Accountability Act (HIPAA) compliance rules.
+718017,High,,Comply with the Health Information Technology for Economic and Clinical Health Act (HITECH).
+718018,High,,Comply with the Rehabilitation Act of 1973 and ADA
+Sectio,n 508 st,,andards for accessibility for all system functions.

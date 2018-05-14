@@ -1,0 +1,10 @@
+"Section:PL-Procurement, Payment Request Information (9 Reqs)"
+715852,High,,Provide the ability to allow for the release of payment request information to Accounts Payable module.
+715853,Medium,,Provide the ability to establish edits to ensure that descriptive/legal text is entered.
+715854,High,,Provide the ability to automatically calculate payment discounts based on vendor invoice terms and pay date.
+715855,High,,Provide the ability to capture due date and discount date.
+715856,Medium,,Provide the ability to enter and process net and discount payment terms (user defined).
+715857,High,,"Provide the ability for edits to ensure duplicate invoices are not processed from the same vendor (i.e., invoice amount, unique  vendor ID, invoice number, invoice line number, invoice date combination) with the ability to override."
+715858,High,,Provide the ability to allow agencies to enter the invoice to one vendor and make the payment to another vendor with proper  security and approvals.
+715859,High,,Provide the ability to allow payment to be charged to an accounting area other than that of the associated PO with proper  authority. PO liquidations are to be based on the original encumbrance.
+715860,Medium,,Provide the ability to allow standard comments to be entered into payment requests from list box with ability to add/change the  comment.

@@ -1,0 +1,9 @@
+"Section:SW-General and Technical, Enterprise Application Integration (8 Reqs)"
+718040,High,,Provide connectivity services to transport data across different networks and protocols.
+718041,High,,"Provide communication services that guarantees message delivery and handles queuing and encryption for various types of  communication (e.g., publish and subscribe, request/reply, etc.)."
+718042,High,,Provide data-flow services that routes data to the appropriate destinations) and filters messages.
+718043,High,,Provide data-mapping services to link data to the appropriate meaning in different schemas.
+718044,High,,"Provide data-transformation services to handle data validation, calculations, lookups, padding, truncation, etc."
+718045,High,,Provide transaction processing services to manage transactions across multiple applications.
+718046,High,,Provide business process flow services to group and link data flows to automate the steps in a business transaction..
+718047,High,,"Provide web Services functionality (i.e., UDDI, WSDL, SOAP, etc.)."

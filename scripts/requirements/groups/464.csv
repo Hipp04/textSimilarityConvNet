@@ -1,0 +1,14 @@
+"Section:SW-General and Technical, Archiving (13 Reqs)"
+718257,High,,Mark deleted records for deletion but do not remove them from the database until archived.
+718258,Medium,,Provide system administrator or other authorized user with the ability to reset deleted records (maintaining referential integrity).
+718259,High,,Support multiple records retention schedules by functional areas or agencies as defined by users.
+718260,High,,"Provide the ability to purge, archive, and restore inactive records based on user defined criteria and track history."
+718261,Medium,,Allow system administrator to define archiving criteria for different types of data.
+718262,Medium,,Provide archiving routine that archives data following the user defined archiving rules.
+718263,Medium,,Provide for restoration of archived data by various parameters including the date range of the archiving process and other user  defined business rules.
+718264,Medium,,Configure the system to purge records upon request for records within a user-defined time and criteria.
+718265,Medium,,Validate the integrity of the database before and after the purge routine.
+718266,Medium,,"Identify any orphaned records (e.g., records that do not have parent values)."
+718267,Medium,,"Provide a method to access, query, and report against archived data."
+718268,Medium,,Provide a method to access archived data when the system architecture changes as a result of a software upgrade.
+718269,Medium,,Provide the ability to identify/display all records included in a purge process.

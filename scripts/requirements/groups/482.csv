@@ -1,0 +1,18 @@
+"Section:SW-Reporting and Business Intelligence, Data Warehouse Functions and Features (17 Reqs)"
+718438,High,,Provide consistent standards across business functional areas.
+718439,High,,"Provide reconcilable data extract, transformation, quality and load (ETQL) methodologies which support data quality assurance."
+718440,Medium,,Provide data structure designs and tools that simplify and enhance the reporting and analysis experience.
+718441,High,,"Provide intuitive self service portals, report templates, meta data repositories and other documentation or help tools that promote  self sufficiency among information users."
+718442,Medium,,"Support open standards for the report generation, data analysis, ETQL and other data management functions."
+718443,High,,Provide scalable architectures and solutions that can be modified and expanded to meet changing needs.
+718444,Medium,,Provide the ability to accommodate reporting on 'what-if scenarios.
+718445,Low,,"Support the ability to issue the following types of alerts including but not limited to: Smartphone, email and pop-up."
+718446,High,,Support the ability to join ERP data with external data sources.
+718447,High,,Leverage open standards to enable the exchange of metadata with other systems.
+718448,High,,Provide access to historical data and support the comparison of data at multiple points in time e.g. month to month or year  versus year.
+718449,High,,"Support selection and query of 'as was' historical data ( i.e. retrieval of data in the state it was at selected point in times for select  core business functions including end of pay period, month end, quarter end, fiscal year end, Federal fiscal year end, etc."
+718450,High,,Support projection analysis based on historical performance and future variants.
+718451,High,,Support the creation and deployment of information dashboards.
+718452,High,,Support balanced scorecard metrics.
+718453,Medium,,Integrate with WVDOT GIS to spatially display data where geo-referenced data is captured.
+718454,Medium,,Integrate with other State agency GIS environments to spatially display data where geo-referenced data is captured.

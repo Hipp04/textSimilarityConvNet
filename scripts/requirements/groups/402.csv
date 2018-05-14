@@ -1,0 +1,11 @@
+"Section:PL-Transportation Asset Inventory, Structures (10 Reqs)"
+717256,High,,Capture and track a range of structure assets.
+717257,High,,Maintain an inventory of bridges (incl. movable and bike/ped. bridges).
+717258,High,,Maintain an inventory of structures under 10 feet.
+717259,High,,Maintain an inventory of structures between 10 feet and 20 feet.
+717260,High,,"Store roadway underpasses (rail road bridges, conveyor belts, pipes)."
+717261,Medium,,Maintain an inventory of culverts.
+717262,Medium,,Store noise walls.
+717263,Medium,,Store retaining walls.
+717264,High,,Maintain an inventory of tunnels.
+717265,High,,"Integrate with ERP bridge management function and/or WVDOT BridgeInspect TM database to allow an authorized user to drill  down to more detailed information about attributes, inspections and condition assessments for a particular bridge asset."

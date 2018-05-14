@@ -1,0 +1,21 @@
+"Section:HRP-Leave Management, Leave Sharing (20 Reqs)"
+710716,Medium,,"Support authorized donation, return, and acceptance of accrued leave (shared leave) balances to another employee in the same  or different agency based on user defined business rules."
+710717,Medium,,"Support shared leave, leave banks, sick leave, and military leave pool statewide programs based on user defined business rules."
+710718,Medium,,Provide the ability to convert donated leave from hours to dollars.
+710719,Medium,,Automatically validate leave reported on timesheet against shared and pooled leave available once accrued balances are  exhausted based on user defined business rules that may vary by agency or organization unit.
+710720,Medium,,Allow the transfer of donated leave according to user-specified rules such as: requirements for transferring leave (active  employee).
+710721,Medium,,Allow the transfer of donated leave according to user-specified rules such as: requirements for accepting leave (in anticipation of  taking leave with or without pay).
+710722,Medium,,Allow the transfer of donated leave according to user-specified rules such as: requirements for using donated leave.
+710723,Medium,,Allow the transfer of donated leave according to user-specified rules such as: requirements for retroactively using donated leave  (used to pay unpaid leave after date applied for).
+710724,Medium,,Allow the transfer of donated leave according to user-specified rules such as: transferable in minimal increments (1 hour).
+710725,Medium,,Allow the transfer of donated leave according to user-specified rules such as: types of eligible leave.
+710726,Medium,,Allow the transfer of donated leave according to user-specified rules such as: disposition of unused donated leave.
+710727,Medium,,Allow the transfer of donated leave according to user-specified rules such as: minimum sick/annual leave balance.
+710728,Medium,,"Enter an application request for donated leave, including the time period requested."
+710729,Medium,,Maintain and track leave donations linked to donated leave requests.
+710730,Medium,,"Control, maintain and track the use of donated leave based on user defined criteria to include: order it was donated."
+710731,Medium,,"Control, maintain and track the use of donated leave based on user defined criteria to include: used in consecutive days."
+710732,Medium,,"Control, maintain and track the use of donated leave based on user defined criteria to include: certain earned leave is used  before donated leave."
+710733,Medium,,"Control, maintain and track the use of donated leave based on user defined criteria to include: restore unused donated leave in  reverse order of donation."
+710734,Medium,,"Control, maintain and track the use of donated leave based on user defined criteria to include: donated leave paid out to the  recipient while on unpaid leave."
+710735,Medium,,"Control, maintain and track the use of donated leave based on user defined criteria to include: applies to eligible situations only."

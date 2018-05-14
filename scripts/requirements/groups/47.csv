@@ -1,0 +1,3 @@
+"Section:FIN-Cash Management, EFT (2 Reqs)"
+706881,Medium,,Provide ability to upload NACHA files to identify cash receipts.
+706882,Medium,,"Provide ability to upload NACHA files to identify returned items by return type (charge back, deposit)."

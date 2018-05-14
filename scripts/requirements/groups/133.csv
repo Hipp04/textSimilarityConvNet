@@ -1,0 +1,10 @@
+"Section:HRP-Employee Performance, Performance Goals (9 Reqs)"
+710127,High,,"Track multiple types of probation associated with a position, an employee, or invoked through specified personnel actions: to  include initial probation (user specified duration)."
+710128,Medium,,"Track multiple types of probation associated with a position, an employee, or invoked through specified personnel actions: to  include extended probation."
+710129,Medium,,"Track multiple types of probation associated with a position, an employee, or invoked through specified personnel actions: to  include Provisional Appointment."
+710130,Medium,,"Track multiple types of probation associated with a position, an employee, or invoked through specified personnel actions: to  include promotional probation."
+710131,Medium,,"Track multiple types of probation associated with a position, an employee, or invoked through specified personnel actions: to  include demotion (where appropriate)."
+710132,High,,User can override system generated performance evaluation dates.
+710133,Medium,,"Track variable probationary periods, based on user-defined rules for each position."
+710134,High,,Generate notices for personnel evaluations not received.
+710135,Medium,,Generate statistical reporting on performance evaluation results.

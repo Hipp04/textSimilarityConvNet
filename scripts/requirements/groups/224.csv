@@ -1,0 +1,3 @@
+"Section:PL-Facilities Management, Budget Development (49 Reqs)  StmtID"
+713554,Rating,,Medium  Requirement  Provide what-if scenario capabilities during the budgeting process and throughout the budget year for utility and other operating  cost changes (+/-) based on market trends.  Support Source
+713555,Medium,,"Allow the work program and budget to specify the type of work (in-house or contracted). The system will allow the work program  and budget to specify the work type on an activity-by-activity basis, with the capability to group activities into in-house and  contract categories, if desired."

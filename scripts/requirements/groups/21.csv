@@ -1,0 +1,52 @@
+"Section:FIN-Budget Development, Budget Guidance (51 Reqs)"
+706181,Medium,,Capture the budget calendar.
+706182,Medium,,Notify budget coordinators of the establishment of the calendar.
+706183,Medium,,Use budget calendar dates as the trigger for user-defined e-mail alerts to budget coordinators to monitor budget completion  status.
+706184,Medium,,Capture revenue estimates in a budget version for comparison reporting.
+706185,Medium,,Calculate revenue estimates based on user-defined rules applied to actual revenue collected and deposited in the prior 5 years.
+706186,Medium,,Project revenues based on multiple step calculations.
+706187,Medium,,Define formulas that will project revenues based on fixed rate adjustments.
+706188,Medium,,Define formulas that will project revenues based on absolute dollar adjustments.
+706189,Medium,,Define formulas that will project revenues based on prior year expenditures.
+706190,Medium,,Define formulas that will project revenues based on grant match rates.
+706191,Medium,,Define of formulas that will project revenues based on statistical information.
+706192,Medium,,"Capture various levels of detail within the revenue estimates including, the fund, and revenue source code (at varying levels of  the revenue code hierarchy) grant, and other elements of the Chart of Accounts."
+706193,High,,"Ability to view and access comparative data for revenue estimates, including prior, current and future year estimates, and prior  and current year actual balances."
+706194,High,,Ability to split estimates by month and report against monthly estimates.
+706195,Medium,,Ability to capture 10 years of revenue projections.
+706196,Medium,,Ability to seasonalize data before calculating projections.
+706197,Medium,,Track all sources of revenue including Federal Funds Participation (FFP).
+706198,Medium,,Capture spending forecasts across any element of the Chart of Accounts and allow values to be set to constants.
+706199,Medium,,Capture spending forecasts for comparison to revenue estimates.
+706200,Medium,,Calculate spending forecasts applied to actual or budgeted expenditures in prior or current years.
+706201,Medium,,Calculate spending forecasts based on multiple step calculations.
+706202,Medium,,Forecast expenditures based on fixed rate adjustments.
+706203,Medium,,Forecast expenditures based on absolute dollar adjustments.
+706204,Medium,,Forecast expenditures based on prior year expenditures.
+706205,Medium,,Forecast expenditures based on budget amounts.
+706206,Medium,,Forecast expenditures based on grant match rates.
+706207,Medium,,Forecast expenditures based on statistical information.
+706208,High,,"Capture various levels of detail within the expenditure projections including: the Appropriation Line Item and fund, and  expenditure code (at varying levels of the expenditure code hierarchy), grant, project, and other elements of the Chart of  Accounts structure."
+706209,Medium,,Allow definition of budget request control totals by fund or any level of the fund structure.
+706210,Medium,,Limit users from entering requests that exceed control totals.
+706211,Medium,,"Allow core budget levels to be created as a budget version based on either the spending forecasts or prior year actual  expenditures by appropriation line item, fund, and expenditure object code (or any level of the expenditure object code hierarchy)."
+706212,Medium,,Calculate core budget levels based on revenue estimates or spending forecasts.
+706213,Medium,,Allow core budget levels to be defined at any level of the Chart of Accounts.
+706214,Medium,,Accept fields for one-time revenues and costs and allow these to be excluded from budget copies.
+706215,Medium,,Prevent baseline budgets from being loaded into invalid line items.
+706216,Medium,,Provide detail for personal services estimates at all levels of the Chart of Accounts.
+706217,Medium,,"Allow positions (filled, budgeted or planned) to be funded by multiple combinations of Chart of Accounts, at varying percentages  and each assignment to be effective dated."
+706218,Medium,,Allow users to calculate payroll projections based on filled and/or vacant (budgeted or planned) positions based on anticipated  filled dates.
+706219,Medium,,"Calculate pay raises based on a schedule of planned raises, scheduled pay increase advancement, cost of living adjustments or  other user-defined criteria."
+706220,Medium,,Estimate healthcare and fringe benefit costs based on: personnel assignments to positions and/or historical fringe benefit ratios  (by agency).
+706221,Medium,,Capture narrative regarding payroll and fringe assumptions.
+706222,Medium,,Provide aggregate detailed payroll projections across the Chart of Accounts hierarchies.
+706223,Medium,,Include a narration of the impact of new positions on the budget.
+706224,Medium,,Link positions to funding sources.
+706225,Medium,,Ability to include additional compensation items on positions.
+706226,Medium,,"Allow users to define budget forms including instructions, requested amounts for any combination of Chart of Accounts structure,  narrative descriptions, and narrative justifications."
+706227,Medium,,Ability to define business rules for each form (e.g. totals within form or across forms must be within control totals).
+706228,Medium,,Distribute instructions electronically.
+706229,Medium,,Ability to identify a program as a continuation or expansion.
+706230,Medium,,Relate budget line items to a state-wide program.
+706231,Medium,,Provide field to capture narrative explanations of budget variances from one year to the next.

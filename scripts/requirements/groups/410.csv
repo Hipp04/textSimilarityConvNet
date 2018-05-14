@@ -1,0 +1,16 @@
+"Section:PL-Transportation Asset Inventory, Access Permits (15 Reqs)"
+717323,Medium,,Maintain an inventory of highway access permits.
+717324,Medium,,Store permittee.
+717325,Medium,,Store permit number.
+717326,Medium,,"Store permit type (driveway, encroachment, etc.)."
+717327,Medium,,Store detailed description of permit.
+717328,Medium,,"Store surety type (bond, cashiers check)."
+717329,Medium,,Store bonding agency and contact information.
+717330,Medium,,Store amount of security.
+717331,Medium,,Store storm water management required as part of the permit.
+717332,Medium,,Store drawing or sketch of permitted area.
+717333,Medium,,Store photos of permit location before and after work.
+717334,Medium,,Store any design work provided for permit.
+717335,Medium,,Store required sight distance and actual provided sight distance.
+717336,Medium,,"Integrate with EMC Application Xtender to link to, store and display development agreement and copies of any plans submitted  by developer."
+717337,Medium,,Provide ability to track access permits by county/route/milepost and geospatial references.

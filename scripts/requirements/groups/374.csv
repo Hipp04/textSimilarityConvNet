@@ -1,0 +1,7 @@
+"Section:PL-Safety Management, Vehicle History (6 Reqs)"
+716894,High,,Provide information about and support analysis using vehicle history information for vehicles involved in a crash event.
+716895,High,,Integrate with the West Virginia DMV vehicle registration system and the R.L. Polk Vehicle Identification Number Analysis  software to obtain vehicle specific data.
+716896,High,,"Store, display and utilize vehicle manufacturer, make, model."
+716897,High,,"Store, display and utilize year manufactured."
+716898,High,,"Store, display and utilize motor vehicle body type."
+716899,Medium,,Allow authorized users to make adjustments to vehicle history information within the ERP safety management function to support  required data corrections.

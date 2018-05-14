@@ -1,0 +1,62 @@
+"Section:HRP-Learning Management, General (61 Reqs)"
+710330,Medium,,"Attach external files to a training course (e.g., class syllabus, lesson plan)."
+710331,High,,"Track all training course history, including internal, statewide, or external events."
+710332,High,,Manually update training history and control which training events are reflected in employee training history.
+710333,Medium,,Schedule recurring dates for ongoing courses.
+710334,Medium,,Manually override dates for recurring classes where conflicts arise.
+710335,Medium,,Interface with State institutions such as community colleges and universities for: registration.
+710336,Medium,,"Interface with State institutions such as community colleges and universities for: attendance (including credit hours certifications,  grades, etc.)."
+710337,Medium,,Interface with State institutions such as community colleges and universities for: billing.
+710338,Medium,,"Set up and track mentors for designated groups as part of a career development initiative, including name, e-mail address,  business address and phone number."
+710339,Medium,,"Analyze training participation for designated user-defined groups, including amount spent to train groups, number of courses  offered, enrollment, participation and number of hours of training successfully completed."
+710340,Medium,,Interface with MS Outlook to calendar training events for invitees or enrollees.
+710341,High,,Produce notifications to instructors and registered participants of conflicts or changes regarding training schedules or training  facilities.
+710342,High,,"Establish flexible approval routing/workflow for all training events, including requests, approval to attend, completion notices, etc."
+710343,Medium,,Interface with agency specific training systems such that all employee training history is maintained within the ERP system.
+710344,Medium,,"Interface with 3rd party course development systems (i.e. Lectora, Adobe systems, etc) with lesson and course specific  information."
+710345,Medium,,Track ADA features associated with training facilities.
+710346,Medium,,Match trainee special needs with facility accommodations.
+710347,Medium,,Archive training history for breaks in service and reactivate training history upon employee's return.
+710348,High,,Track and record attendance at mandatory training.
+710349,Medium,,Track and record attendance at the AA/EEO/diversity component of the employee orientation training.
+710350,Medium,,"Analyze training participation for designated AA groups as part of adverse impact analysis, including amount spent to train  minority groups, number of courses offered, minority enrollment and participation, and number of hours of training successfully  completed."
+710351,Medium,,"Track the host contact at the facility where the training will be held, including name, phone, email, and street address."
+710352,Medium,,Provide for planning of future training (Full Fiscal Year) for: classes/sessions to be given and location.
+710353,Medium,,Provide for planning of future training (Full Fiscal Year) for: number of employees to be trained.
+710354,Medium,,Provide for planning of future training (Full Fiscal Year) for: track actual against plan.
+710355,Medium,,Provide for planning of future training (Full Fiscal Year) for: scheduling of require future training.
+710356,High,,Provide automatic employee notification of upcoming required training.
+710357,Medium,,Create a training plan by division and employee each fiscal year.
+710358,Medium,,"Create, track and maintain the lowest grouping of items taught - (same lesson can belong to more than one class)."
+710359,Medium,,"Create, track, and maintain classes (a group of one or more lessons - same class can belong to more than one course)."
+710360,Medium,,"Create, track and maintain courses (a group of one or more classes - same course can belong to more than one program)."
+710361,Medium,,"Create, track, and maintain programs / curriculums (a group of one or more courses)."
+710362,Medium,,"Support tracking of Outside Training - training provided by other agencies, vendors, and organizations."
+710363,Medium,,"Track employee training and enrollment (current and historical) in classes, courses, programs, and outside training, including  Continuing Professional Education (CPE), Continuing Legal Education (CLE) Board of Accountancy, Continuing Legal Education  (CLE) credits, or other user defined training requirements."
+710364,Medium,,Track hours and type of training by certification.
+710365,Medium,,"Provide tracking and reporting upon completion of a lesson, class, course, program, or outside training for: skills."
+710366,Medium,,"Provide tracking and reporting upon completion of a lesson, class, course, program, or outside training for: certifications."
+710367,Medium,,"Provide tracking and reporting upon completion of a lesson, class, course, program, or outside training for: licenses."
+710368,Medium,,"Provide tracking and reporting upon completion of a lesson, class, course, program, or outside training for: continuing  professional education (CPE)."
+710369,Medium,,"Provide tracking and reporting upon completion of a lesson, class, course, program, or outside training for: continuing education  units (CPE)."
+710370,Medium,,"Provide tracking and reporting upon completion of a lesson, class, course, program, or outside training for: continuing legal."
+710371,Medium,,"Provide tracking and reporting upon completion of a lesson, class, course, program, or outside training for: other user defined  accreditation needs (including higher education needs)."
+710372,High,,Learning Management component is integrated with other components of the system: Personnel Administration.
+710373,Medium,,Learning Management component is integrated with other components of the system: Accounts Payable.
+710374,Medium,,Learning Management component is integrated with other components of the system: Classification and Compensation.
+710375,Medium,,Learning Management component is integrated with other components of the system: Employee Relations.
+710376,Medium,,Learning Management component is integrated with other components of the system: Position Control.
+710377,Medium,,Learning Management component is integrated with other components of the system: General Ledger.
+710378,Medium,,Learning Management component is integrated with other components of the system: Budget Development.
+710379,Medium,,Learning Management component is integrated with other components of the system: Travel.
+710380,Medium,,Integrated with the employee performance evaluations within the Personnel Administration component.
+710381,Medium,,Reference travel authorization associated with training.
+710382,Medium,,Book conference rooms directly or through on-line links to facilities management programs.
+710383,Medium,,Generate notification regarding conference room conflicts.
+710384,Medium,,Generate notification regarding conference room overrides.
+710385,Medium,,"Generate a Training Evaluation (email or letter) and send to attendees by class upon completion. Training Evaluation emails will  be routed back to training organization and Training Session Coordinator summarized by course, class, etc."
+710386,Medium,,"Track type of training taken such as web based, classroom, lecture, self-study, etc."
+710387,Medium,,Track multiple user-defined training delivery types.
+710388,Medium,,Merge and purge training history based on user-defined criteria.
+710389,Medium,,"Provide ability to handle the functions of training, career development, competencies tracking, testing, licenses, and employee  training certifications."
+710390,Medium,,Produce and track a course catalog and schedule of training sessions by organization unit.

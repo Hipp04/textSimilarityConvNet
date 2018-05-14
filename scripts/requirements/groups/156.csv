@@ -1,0 +1,14 @@
+"Section:HRP-Leave Management, Self-Service (13 Reqs)"
+710814,Medium,,"Allow employees to view their leave balances, by leave type, including carry over balances."
+710815,Medium,,Allow employees to view their leave accruals.
+710816,Medium,,Allow employees to view their leave usage by user-specified time period and leave type.
+710817,Medium,,Allow employees to request time off.
+710818,Medium,,"Allow user-specified criteria, forms, and processes for submitting various types of requests."
+710819,Medium,,Support employee self-service for leave buyout requests based on user business rules by agency or organization unit.
+710820,Medium,,Allow employees to check on the status of all requests they submit.
+710821,Low,,Allow employees to request calculation of the value of comp time and annual leave balances based on current taxable wages  and YTD withholdings.
+710822,Medium,,"Provide on-line calendar of pending / requested and authorized / scheduled leave information by employee, agency, organization  unit, program, and project, based on user defined business rules."
+710823,Medium,,Provide ability to allow secured inquiries of employee leave usage history.
+710824,Medium,,"Support employee self-service for leave requests with immediate editing against user defined business rules by agency,  organization unit code, and work schedule."
+710825,Medium,,"Prompt employee to provide and attach required documentation (attachments) by employee based on user defined business  rules for various leave types by agency, organization unit, or job class."
+710826,Medium,,Allow employees to donate leave based on user defined criteria.

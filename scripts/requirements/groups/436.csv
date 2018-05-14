@@ -1,0 +1,35 @@
+"Section:PL-Transportation Operations Management, Work Calendar (34 Reqs)"
+717607,High,,"Produce an annual work calendar that will show, for each maintenance organizational unit, the number of crew-days of work  planned for each activity by month of the year, using the monthly percent distribution for each activity from the activity  performance guidelines."
+717608,High,,Provide for planned annual and monthly crew-days by activity.
+717609,High,,"Provide for planned annual and monthly labor hours by labor class, with an option to show the equivalent number of individuals  needed in each month in each class along with the current number available."
+717610,High,,"Provide for planned annual and monthly equipment hours by equipment class, with an option to add the equivalent number of  pieces of equipment needed each month in each equipment class along with the current number available."
+717611,High,,Provide for planned annual and monthly material quantities by material class.
+717612,High,,Provide a user-friendly scheduling tool.
+717613,High,,Allow entry/selection of the date and scheduling period.
+717614,High,,"Allow selection of maintenance unit, district wide crew, equipment unit, or statewide crew and the crew leader from a pick list."
+717615,High,,"Allow selection of activity number from a pick list with activity name and measurement unit, and crew size appearing  automatically on the schedule."
+717616,High,,"Allow entry of employee name or number or selection from a pick list, with employee name and labor class appearing  automatically on the schedule."
+717617,High,,Allow assignment of hours to selected days of the week for each individual in the crew.
+717618,Medium,,Provide cross checks to ensure that employees are not over-scheduled unless overtime is planned or authorized.
+717619,Medium,,"Provide capability to adjust the annual schedule on a monthly, weekly or daily basis to generate the specific crew work schedule  with adjustments made in a given week or month adjusted forward on the annual work plan."
+717620,Medium,,Provide the capability to adjust scheduled work activities from one work period to another.
+717621,Medium,,Provide the ability to add one or more assigned work schedules to an individual or crew's weekly or daily schedule.
+717622,Medium,,Provide for display and printing of the schedule.
+717623,Medium,,Support routing of the schedule through a workflow within the system or via email.
+717624,Medium,,Provide ability to make schedules available online to maintenance supervisors for review.
+717625,Medium,,"Accommodate a system-specified warning for ""overrun"" status when scheduling activities based against the work calendar."
+717626,Medium,,Provide the ability to create the work schedule for contract labor.
+717627,Medium,,Provide the ability to create the work schedule for inmate labor.
+717628,Medium,,Provide the ability to create the work schedule for temporary employees.
+717629,Medium,,Provide the ability to create the work schedule for seasonal resources.
+717630,Medium,,Provide the ability to create the work schedule for emergency resources.
+717631,Medium,,"Provide for the creation and retrieval of standard scheduling templates for each crew, including staff and assigned equipment  and materials."
+717632,Medium,,Allow for creation of a new schedule based on the standard scheduling templates.
+717633,Medium,,"Provide system functionality that determines appropriate equipment and materials for scheduling, and warns the user in cases  where sufficient resources do not exist."
+717634,High,,Support various agency specific crew work schedules.
+717635,Medium,,"Provide a system default calendar, and user-defined calendars, to reflect standard working days, non-standard working days,  holidays, etc."
+717636,Medium,,Provide a list of resources (staff and equipment for specified organizational unit) and their availability for any scheduling period.
+717637,Medium,,Integrate with ERP leave management to obtain a list of approved employee leave requests or leave requests which have been  submitted by an employee and are pending supervisor approval.
+717638,Medium,,Manage priority list in which employees must be offered scheduled overtime.
+717639,Medium,,Monitor employee acceptance/refusal of scheduled overtime.
+717640,Medium,,"Provide ability to display all work scheduled by all locations (District wide, district wide crews, substations or Statewide crews),  and by all resource types."

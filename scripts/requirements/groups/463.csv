@@ -1,0 +1,66 @@
+"Section:SW-General and Technical, Security (65 Reqs)"
+718192,High,,Comply with State of West Virginia Computer Crimes and Abuse Act.
+718193,High,,Comply with Payment Card Industry Data Security Standard (PCI DSS).
+718194,High,,Comply with Gramm-Leach-Bliley Act (GLBA).
+718195,High,,Comply with Health Insurance Portability and Accountability Act (HIPPA).
+718196,High,,Comply with Health Information Technology for Economic and Clinical Health Act (HITECH).
+718197,High,,Comply with IRS Publication 1075 and other IRS safeguarding requirements.
+718198,High,,Comply with Federal Information Processing Standard 140 (FIPS).
+718199,Medium,,Comply with ISO/IEC 15408: Common Criteria for Information Technology Security Evaluation.
+718200,High,,Comply with the Electronic Payments Association NACHA Automated Clearing House (ACH) Standards.
+718201,High,,Implement security standards for the ERP system consistent with the following State of West Virginia Office of Technology  security policy: WVOT-PO1004: Acceptable Use of Portable Devices .
+718202,High,,Implement security standards for the ERP system consistent with the following State of West Virginia Office of Technology  security policy: WVOT-PO1010: Acceptable Use of State-Provided Instant Messaging.
+718203,High,,Implement security standards for the ERP system consistent with the following State of West Virginia Office of Technology  security policy: WVOT-PO1002: Acceptable Use of State-Provided Wireless Devices .
+718204,High,,Implement security standards for the ERP system consistent with the following State of West Virginia Office of Technology  security policy: WVOT-PO1014: Anti-Virus .
+718205,High,,"Implement security standards for the ERP system consistent with the following State of West Virginia Office of Technology  security policy: WVOT PO1012: Contractor Management, - Contractor Information Form and Employment Confirmation."
+718206,High,,Implement security standards for the ERP system consistent with the following State of West Virginia Office of Technology  security policy: WVOT-PO1013: Data Backup and Retention.
+718207,High,,Implement security standards for the ERP system consistent with the following State of West Virginia Office of Technology  security policy: WVOT-PO1006: Data Classification .
+718208,High,,Implement security standards for the ERP system consistent with the following State of West Virginia Office of Technology  security policy: WVOT-PO1005: E-Mail Use Standards .
+718209,High,,Implement security standards for the ERP system consistent with the following State of West Virginia Office of Technology  security policy: WVOT-PO1008: Information Security Auditing Program.
+718210,High,,Implement security standards for the ERP system consistent with the following State of West Virginia Office of Technology  security policy: WVOT-PO1001: Information Security Policy.
+718211,High,,Implement security standards for the ERP system consistent with the following State of West Virginia Office of Technology  security policy: WVOT-PO1000: IT Policy and Procedure Development.
+718212,High,,Implement security standards for the ERP system consistent with the following State of West Virginia Office of Technology  security policy: WVOT-PO1011: Removable Media.
+718213,Medium,,Support digital certificates.
+718214,Medium,,Support public key infrastructure (PKI).
+718215,Medium,,Support secure hypertext transfer protocol (HTTPS).
+718216,Medium,,Support two-way authentication of client and server for secured socket layer (SLS) and transport security layer (TLS).
+718217,High,,"Provide an efficient, flexible way to control and administer access to all components of the ERP solution including any third party  solutions using role based security."
+718218,Medium,,Provide for role based security by position.
+718219,High,,"Provide granular management and administrator control over transactions, forms access, field updates, row locking, interfacing  events, data queries and other types of authorizations using role-based security."
+718220,High,,"Support trusted access to approved partner system functions (example punching to a vendors website, etc.)."
+718221,Medium,,Provide for access to all ERP functions including third party components with a single sign-on.
+718222,Medium,,Deactivate the security access of a State employee to the ERP system based on the initiation of a separation transaction in the  ERP personnel administration function.
+718223,Medium,,Notify the security administrator within the ERP system and via email to review the security access of any State employee when  a transaction is initiated within the ERP personnel administration which results in a change in the individual's position.
+718224,Medium,,Notify the security administrator within the ERP system and via email to review the security access of any State employee when  a transaction is initiated within the ERP personnel administration function to place this individual in an extended leave status.
+718225,High,,Integrate with Lightweight Directory Access Protocol (LDAP) v3.
+718226,Medium,,Integrate with existing State of West Virginia identification systems and processes to allow for access to the ERP through a  single user sign-on to the State network.
+718227,High,,Provide capability for the system administrator or other authorized users to define users to the system including the following  information about each user: unique user identification; user first name; user last name; agency; agency unit; user email address  and effective date of user access to the system.
+718228,High,,"Allow the system administrator or other authorized users to define user access groups based on job responsibilities to ensure  separation of duties. The system administrator must enter the user group name, a user group code and a description of the role  and capabilities of the user group."
+718229,High,,"Allow the system administrator to grant user groups access to each system function and to establish the type of access to be  allowed (add, change, inquire, retire, delete) and an effective date for this access."
+718230,High,,"Provide a work flow to allow authorized agency managers to request access for employees to specific system functions and  obtain management approval based on enterprise and agency level business rules for this access; based on agency  management approvals, request will then be forwarded to system administrator or authorized user for review and potential action."
+718231,High,,Provide support for the State of West Virginia's statutory delegation of authority requirements and supporting business policies  by providing the capability to suspend or cancel ERP system access of all employees granted access under the authority of an  official or agency head when that official leaves their position. .
+718232,High,,"Provide ability to support the State of West Virginia's statutory delegation of authority requirements and supporting business  policies by allowing for assignment of a suspension or cancellation date to system access for all system users who were granted  access by a particular official or agency head (for example to automatically suspend a group of users system access on the date  of a change in administration or on a date provided for the expiration of a temporary grant of continued authority issued by a new  official taking office, etc.)."
+718233,Medium,,"Allow the system administrator to grant individual users access to a system function that their user group is not entitled to access  and to establish the type of access to be allowed (add, change, inquire, retire, delete) and the effective date for this access.  Provide an audit trail and exception report for any additional security access granted."
+718234,High,,Allow the system administrator or other authorized users to assign users to one or more user groups including an effective date  for inclusion in each user group.
+718235,High,,Allow the system administrator or other authorized users to remove users from one or more user groups including recording of  an effective date for end of inclusion in each user group.
+718236,Medium,,Restrict the display of system functions on sign-in to the ERP to only the options and icon selections that the user has rights to.  For example a user's logon would define the functionality required and present only that capability. This has the added benefit of  simplifying the choice of available system functions and individual screens for the user.
+718237,High,,Provide for system administrator or other authorized user to define or reset a user's password by entering a temporary password.
+718238,Medium,,"Provide for system administrator or other authorized user to define or reset a user's password with the system generating a  unique, random temporary password. Password must be emailed; user answers challenge questions."
+718239,Low,,Integrate with existing State of West Virginia identification systems in order for user identifications and passwords required within  the ERP system to be maintained and updated through various agency identity management systems.
+718240,Medium,,Allow users to reset their own password after successfully entering their current password.
+718241,Low,,Allow users to enter answers to a set of security challenge questions to be used if a user forgets a password.
+718242,Low,,Allow users to reset their password if the user forgets their password by authenticating themselves by successfully answering a  challenge question randomly selected from among a list of challenge questions the user previously provided answers to.
+718243,High,,Require passwords to be changed at an interval defined by the system administrator or other authorized users.
+718244,Medium,,Revoke access following a user-defined number of invalid sign-on attempts.
+718245,Medium,,"Log incidents of invalid password attempts which exceed the maximum allowable number of attempts capturing user  identification entered, type of violation (invalid user id, invalid password or invalid id and password) and date and time of the  violation."
+718246,Medium,,"Log incidents of security violations within the system capturing user identification, system function for which unauthorized access  was attempted and date and time of security violation."
+718247,Medium,,Allow the system administrator or authorized users to generate a formatted user friendly report of invalid password attempts or  security violations within the system.
+718248,Low,,Provide an online function for review of the logs of invalid password attempts or security violations by the system administrator or  other authorized users.
+718249,Medium,,Ensure report and ad-hoc query results are subject to the system security model such that users cannot access data through  reports and queries for which they are not authorized in the operational system.
+718250,High,,Support access to the State of West Virginia ERP solution by authorized third party business partners through virtual private  network and/or Internet self-service portal capabilities.
+718251,Low,,Allow users to choose from multiple user groups/roles if the user is assigned more than one role .
+718252,Low,,"Provide the ability to delegate proxy roles to other users with an expiration date, and ability to notify user of new proxy right."
+718253,Low,,Allow system administrator or other authorized user to define the allowable period for user inactivity while logged on.
+718254,Medium,,"Disconnect or log out a user session when it exceeds the allowable period of inactivity, which is definable by function. System  default will be 15 minutes and any user defined period for an individual function must not exceed this threshold."
+718255,Low,,Warn user that they will be disconnected before automatically logging off user.
+718256,Medium,,Provide inactivation of a user account based on no use of the system over a user-defined period of time which may vary by  module. System default will be 60 days and any user defined period for an individual function except for self-service functions  must not exceed this threshold.

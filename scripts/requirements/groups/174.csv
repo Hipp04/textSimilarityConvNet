@@ -1,0 +1,47 @@
+"Section:HRP-Personnel Administration, Inquiry and Reporting (46 Reqs)"
+711551,High,,Online access to all employee data based on established security protocols.
+711552,High,,"Access, modify, delete, or update all information in the employee information table(s) based on appropriate authorization with the  integrity of the transaction log maintained (e.g., what was changed, by who and when the change was made)."
+711553,Medium,,"Extract user-specified data on both a scheduled and adhoc basis into various formats, including XML, MS Excel and flat files."
+711554,Medium,,Track all open record requests.
+711555,Medium,,"Access standard reports which will include selection criteria based on such data items as employee class, status, organization,  date ranges, etc."
+711556,Medium,,"Produce reports based upon specific personnel actions for any given time period. The report would include information such as  employee name, ID and SSN, old classification, old budget unit, new classification, new budget unit, EEO information (i.e., race,  ethnicity, gender, persons with disabilities, job group)."
+711557,Medium,,Produce EEO/affirmative action report based upon: workforce analysis.
+711558,Medium,,Produce EEO/affirmative action report based upon: EEO-4.
+711559,Medium,,Produce EEO/affirmative action report based upon: veteran's annual.
+711560,Medium,,Produce EEO/affirmative action report based upon: workforce fact book.
+711561,Medium,,Produce EEO/affirmative action report based upon: underutilization analysis.
+711562,Medium,,"Produce management reports, including employment trends, workforce planning, retirement impacts, FMLA participants and  COBRA participants."
+711563,Low,,Generate charts and graphs without exporting data to MS Excel.
+711564,Medium,,Produce workforce planning reports to reflect: workforce supply analysis comparing agency job classifications and seniority  demographics by business function.
+711565,Medium,,Produce workforce planning reports to reflect: workforce supply analysis comparing agency job classifications and age  demographics by business function.
+711566,Medium,,Produce workforce planning reports to reflect: retirement vulnerability assessment comparing projected retirements by fiscal year  by job class and org. unit.
+711567,Medium,,"Produce workforce planning reports to reflect: workforce turnover analysis by demographic, organization unit, job class and  reason category."
+711568,Medium,,Produce workforce planning reports to reflect: workforce gap analysis illustrating projected skill mix vs. skill requirements.
+711569,Medium,,Produce workforce planning reports to reflect: workforce development plans by organization unit that compare to strategic goals  and objectives.
+711570,Medium,,Produce workforce planning reports to reflect: feeder groups / positions across organizational units.
+711571,Medium,,"Track employee turnover rate by transaction code (e.g., transfer reason code, termination reason code) by: gender."
+711572,Medium,,"Track employee turnover rate by transaction code (e.g., transfer reason code, termination reason code) by: ethnicity."
+711573,Medium,,"Track employee turnover rate by transaction code (e.g., transfer reason code, termination reason code) by: appointment to class  date."
+711574,Medium,,"Track employee turnover rate by transaction code (e.g., transfer reason code, termination reason code) by: transfer."
+711575,Medium,,"Track employee turnover rate by transaction code (e.g., transfer reason code, termination reason code) by: age."
+711576,Medium,,"Track employee turnover rate by transaction code (e.g., transfer reason code, termination reason code) by: classification."
+711577,Medium,,"Track employee turnover rate by transaction code (e.g., transfer reason code, termination reason code) by: probation release."
+711578,Medium,,"Track employee turnover rate by transaction code (e.g., transfer reason code, termination reason code) by: termination."
+711579,Medium,,"Track employee turnover rate by transaction code (e.g., transfer reason code, termination reason code) by: ADA qualified."
+711580,Medium,,"Track employee turnover rate by transaction code (e.g., transfer reason code, termination reason code) by: promotion."
+711581,Medium,,"Track employee turnover rate by transaction code (e.g., transfer reason code, termination reason code) by: geographic location."
+711582,Medium,,"Track employee turnover rate by transaction code (e.g., transfer reason code, termination reason code) by: disciplinary release."
+711583,Medium,,"Track employee turnover rate by transaction code (e.g., transfer reason code, termination reason code) by: demotion."
+711584,Medium,,"Track employee turnover rate by transaction code (e.g., transfer reason code, termination reason code) by: resignation."
+711585,Medium,,"Track employee turnover rate by transaction code (e.g., transfer reason code, termination reason code) by: organization unit."
+711586,Medium,,"Track employee turnover rate by transaction code (e.g., transfer reason code, termination reason code) by: seniority."
+711587,Medium,,"Track employee turnover rate by transaction code (e.g., transfer reason code, termination reason code) by: range of pay."
+711588,Medium,,"Track employee turnover rate by transaction code (e.g., transfer reason code, termination reason code) by: employee type (e.g.,  permanent, provisional, temporary, full time, part time, non-employee groups, etc.)."
+711589,Medium,,"Track employee turnover rate by transaction code (e.g., transfer reason code, termination reason code) by: reasonable  accommodation."
+711590,Medium,,"Track employee turnover rate by transaction code (e.g., transfer reason code, termination reason code) by: fitness for duty."
+711591,Medium,,"Track employee turnover rate by transaction code (e.g., transfer reason code, termination reason code) by: underutilization."
+711592,Medium,,"Track employee turnover rate by transaction code (e.g., transfer reason code, termination reason code) by: special recruitment."
+711593,Medium,,"Track employee turnover rate by transaction code (e.g., transfer reason code, termination reason code) by: retirement."
+711594,Medium,,"Track employee turnover rate by transaction code (e.g., transfer reason code, termination reason code) by: reinstatement."
+711595,Medium,,"Track employee turnover rate by transaction code (e.g., transfer reason code, termination reason code) by: death."
+711596,Medium,,"Track employee turnover rate by transaction code (e.g., transfer reason code, termination reason code) by: other user defined  field."

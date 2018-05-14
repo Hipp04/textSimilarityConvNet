@@ -1,0 +1,17 @@
+"Section:PL-Bridge Management, Multiperiod Optimization (16 Reqs)"
+713277,High,,Establish project priorities and optimally allocate limited funds among alternative actions over a predefined planning horizon  (both short and long run).
+713278,High,,Support a multiperiod optimization procedure to project both constrained and unconstrained needs.
+713279,High,,Support optimization of expenditures to multiple-assets through multiple budget sources.
+713280,High,,Ensure the optimization procedure operates on all the bridges of the network or any user defined subset.
+713281,High,,"Ensure the optimization model accounts for structure deterioration, traffic growth, agency and user costs and the time value of  money."
+713282,Medium,,Determine effectiveness of expenditures based on life cycle costs.
+713283,Medium,,Forecast both short-term (budget cycle) and long-term (planning cycle) bridge needs.
+713284,Medium,,"Optimize through whole life costing prioritization based on safety, functionality, durability and sustainability."
+713285,Medium,,Calculate net present value of whole life costs for different maintenance and renewal strategies.
+713286,Medium,,"Support using data which predicts the future condition of the whole bridge or one or more elements to enable prediction of future  performance (i.e. traffic and load carrying capacity) and the resulting impact on maintenance, disruption and failure costs."
+713287,Medium,,Allow evaluation of the short and long term impacts of alternative work plans based on cost/benefit analysis and optimal life cycle  costing.
+713288,Medium,,Support optimization of funding of maintenance rehabilitation and replacement.
+713289,Medium,,"Consider the immediate and future costs and benefits of the various courses of action and their effects on future conditions. In  particular, the model weighs the benefits of preventative maintenance versus costlier (but less frequent) corrective maintenance."
+713290,Medium,,Provide least-cost estimates for correcting deficiencies if budget constraints are removed.
+713291,Medium,,Forecast future budgets required to achieve and maintain pre-specified condition ratings and levels of service throughout a given  forecasting horizon.
+713292,Medium,,"Determine the impact of insufficient funds on future bridge system performance for statewide, highway systems, a district, county  or one or more routes."

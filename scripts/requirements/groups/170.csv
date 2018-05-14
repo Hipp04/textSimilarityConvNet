@@ -1,0 +1,27 @@
+"Section:HRP-Personnel Administration, Skills Inventory (26 Reqs)"
+711446,Medium,,Track employees whose position require a licensure or certification and are required to maintain continuing education (CE) to  retain that licensure and notify HR of the pending expiration.
+711447,Medium,,"Establish licensure requirements, including hours required per user specified period."
+711448,Medium,,Track qualified training and education toward meeting continuing education requirements for licensure status.
+711449,Medium,,Track skills and competencies for employees.
+711450,Medium,,Track skill requirements and qualifications stored for a job class or position.
+711451,Medium,,Track attributes for each skill by employee for: skill code.
+711452,Medium,,Track attributes for each skill by employee for: skill description.
+711453,Medium,,Track attributes for each skill by employee for: experience level.
+711454,Medium,,Track attributes for each skill by employee for: last year used.
+711455,Medium,,Track attributes for each skill by employee for: last location used.
+711456,Medium,,Track attributes for each skill by employee for: proficiency level.
+711457,Medium,,Track attributes for each skill by employee for: effective date.
+711458,Medium,,Track attributes for each skill by employee for: expiration date.
+711459,Medium,,Identify different groups of individuals to assess gaps in current skills vs. skills for: new hires.
+711460,Medium,,Identify different groups of individuals to assess gaps in current skills vs. skills for: Federal funded time limited (FFTL).
+711461,Medium,,Identify different groups of individuals to assess gaps in current skills vs. skills for: project employees.
+711462,Medium,,"Identify different groups of individuals to assess gaps in current skills vs. skills for: interns, interims, contract employees."
+711463,Medium,,Identify different groups of individuals to assess gaps in current skills vs. skills for: recruits and applicants.
+711464,Medium,,Identify different groups of individuals to assess gaps in current skills vs. skills for: transfers.
+711465,Medium,,Grant authorized personnel permission to review staff skills.
+711466,Medium,,Link training investments to skill development needs and individual training and employee development plans.
+711467,Medium,,Codify skills including user-defined text fields.
+711468,Medium,,Allows authorized personnel to search employees with user-specified skills.
+711469,Medium,,Employees permitted to self-identify interest levels and self assessed proficiency levels for specified skills.
+711470,Medium,,Allow State to administer tests and track employee's assessed skills and proficiency levels.
+711471,Medium,,Allow employees to review skills needed for job classification or position and identify skills they may be lacking to be qualified.

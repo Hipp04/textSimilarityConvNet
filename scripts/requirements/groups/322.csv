@@ -1,0 +1,25 @@
+"Section:PL-Procurement, Commodity Maintenance (24 Reqs)"
+715892,High,,Provide the ability to support the use of various commodity codes.
+715893,High,,"Provide the ability for authorized users to document additional commodity specifications and/or comments, and attach multiple  levels."
+715894,High,,Provide the ability for authorized users to add and associate key words in addition to the search strings within the commodity file.  Key words added should subsequently be used in commodity searches. System automatically formulates a commodity search  string by key word.
+715895,High,,Provide the ability to select a commodity and display to the end user all vendors that have registered or are on contract for that  commodity.
+715896,High,,Provide the ability to select a commodity and display to the end user only vendors on contract for that commodity. The end user  should have the ability to drill-down on the contracts for further item information.
+715897,High,,"Provide the ability to select a commodity and display to the end user vendor and price information from previous purchases if no  contract is in existence for that commodity, for informational purposes only."
+715898,High,,"Provide the ability for the commodity code field to be a variable-length field that accommodates alphanumeric characters, with  manual and automatic assignment capabilities."
+715899,High,,"Provide the ability for the commodity file to contain and search by, but not be limited to, the following data items: Commodity  code."
+715900,Medium,,"Provide the ability for the commodity file to contain and search by, but not be limited to, the following data items: Cross- references to previous commodity codes."
+715901,High,,"Provide the ability for the commodity file to contain and search by, but not be limited to, the following data items: Key words."
+715902,Medium,,"Provide the ability for the commodity file to contain and search by, but not be limited to, the following data items: Long description."
+715903,High,,"Provide the ability for the commodity file to contain and search by, but not be limited to, the following data items: Short  description."
+715904,Medium,,"Provide the ability for the commodity file to contain and search by, but not be limited to, the following data items: Comments field."
+715905,Medium,,"Provide the ability for the commodity file to contain and search by, but not be limited to, the following data items: Source indicator  (e.g., contract, specific inventory)."
+715906,Medium,,"Provide the ability for the commodity file to contain and search by, but not be limited to, the following data items: Commodity  status."
+715907,High,,"Provide the ability for the commodity file to contain and search by, but not be limited to, the following data items: Hazardous item  (yes/no)."
+715908,High,,"Provide the ability for the commodity file to contain and search by, but not be limited to, the following data items: Vendors  registered for commodity."
+715909,High,,"Provide the ability for the commodity file to contain and search by, but not be limited to, the following data items: Unit of Measure."
+715910,High,,"Provide the ability for the commodity file to contain and search by, but not be limited to, the following data items: Inventoried  Item, location, SKU #, etc."
+715911,High,,"Provide the ability for the commodity file to contain and search by, but not be limited to, the following data items: Shelf-life  indicator."
+715912,High,,"Provide the ability for users with authorized security to have the ability to add, change, deactivate commodity file records."
+715913,High,,Provide the ability to maintain an on-line audit trail of changes to the commodity master file.
+715914,High,,Provide the ability for a statewide shared commodity file.
+715915,High,,"Provide the ability to track, display, and/or print all purchase transactions for any commodity, by agency, for a specified date  range, by vendor, showing dollar amounts, who purchased the commodity, unit of measure, etc."

@@ -1,0 +1,27 @@
+"Section:PL-Procurement, Purchase Orders-General (26 Reqs)"
+715616,High,,Provide the ability for authorized purchasing agents to initiate a PO for goods and services online.
+715617,High,,Provide the ability for authorized purchasing agents to query on the status of POs.
+715618,Medium,,Provide the ability for assignment of a unique PO number through system-generated means.
+715619,High,,Provide the ability for the manual assignment of a unique PO number.
+715620,High,,Provide the ability to differentiate between service procurement transactions and commodity/supplies procurement transactions.
+715621,High,,Provide the ability to allow for the retrieval of default vendor information when creating new purchase orders.
+715622,High,,Provide the ability to capture and maintain purchasing agent user ID and displays purchasing agent activity with dates.
+715623,High,,"Provide an audit trail of purchase orders to the corresponding purchase requisitions, solicitation, contracts, asset, inventory  items, receipts, invoices, and vouchers with forward and backward tracking and accessible via online queries."
+715624,High,,Provide the ability to establish and maintain purchase lead-time standards.
+715625,Medium,,"Provide the ability to capture receiving instructions and to carry instructions forward to the receipt (e.g., inspection required,  quarantine, etc.)."
+715626,High,,Provide the ability to update supply inventory records for quantity on order if purchase order line item is an inventory item.
+715627,High,,Provide a fixed asset indicator (asset determination based on dollar amount and expenditure object code).
+715628,Medium,,Provide a fixed asset indicator user-defined at an agency level.
+715629,High,,Provide the ability to issue PO change orders online and optionally transmit the new/changed PO to the vendor / initiating agency  in the same process as the original PO.
+715630,High,,Provide the ability to use workflow for approvals of purchase orders and purchase order change orders at user-defined levels.
+715631,High,,"Provide the ability to maintain original and revised promised ship dates, prices, open quantities and ship via information (change  order process)."
+715632,High,,"Provide the ability to maintain an audit trail of all purchase order changes, including the operator and date, time stamp who  initiates the change."
+715633,High,,Provide the ability to flag critical deliveries for follow up and subsequently record vendor 's performance.
+715634,High,,Provide the ability to flag/denote high priority purchases.
+715635,High,,"Provide the ability to account for multiple taxes (federal, state and local), sales tax, and excise tax, on the purchase order and/or  payment."
+715636,High,,Provide the ability to calculate tax by line item.
+715637,Medium,,Provide the ability to mix taxable and non-taxable line items on same purchase order.
+715638,High,,Provide the ability to generate and route an automatic confirmation to the originator of a purchase requisition when a purchase  order is created.
+715639,High,,"Provide the ability to budget check before a procurement request is approved (e.g., compare previously issued procurement  requests, purchase orders, and expenditures against budgetary authority)."
+715640,Medium,,Provide the ability to print tax rate of purchase order calculation on purchase orders.
+715641,Medium,,Provide the ability to generate reminder notices to vendors for shipments due based on user defined thresholds.

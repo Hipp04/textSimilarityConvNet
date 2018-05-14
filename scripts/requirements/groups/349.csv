@@ -1,0 +1,19 @@
+"Section:PL-Right-of-Way and Utilities, Acquisition and Relocation Payments (18 Reqs)"
+716542,High,,Integrate with the ERP accounts payable function as required to support the payment processing requirements of the right-ofway  and utilities process.
+716543,High,,Support payment for property acquisition and relocation to property owners and displacees who are not already in the State's  vendor master (through use of a one time vendor or similar function).
+716544,Medium,,Integrate with ERP accounts payable function to initiate payment request for accepted offer. This should include pre- encumbrance for acquisition amount against project and project phase.
+716545,High,,"Provide capability to generate multiple warrant requests (for example if the property has multiple property owners who want  individual checks, payments to trusts, payments to one or more banks for mortgage balances, etc."
+716546,High,,Support multiple payees (warrants made out to multiple individuals) by percentage share due to each individual ensuring that the  State will not pay more than 100% of the agreed to acquisition amount.
+716547,Medium,,Display the fund balances on a project/project phase when a payment request is generated in the system.
+716548,Medium,,Generate alerts when the available funds on a project or project phase fall below a threshold value. This includes the ability to  specify the threshold value in the system.
+716549,Medium,,Generate an alert when the project end date or project financial end date is within a certain user defined time period.
+716550,High,,Support electronic review and approval of acquisition and relocation payment requests by authorized users based on project  number and payment amount through a work flow driven approval process.
+716551,High,,Support review and approval of payments by WVDOT Business Manager for payments over a user-defined threshold.
+716552,High,,Allow scheduling of closing following receipt of all required payment approvals.
+716553,High,,Initiate payment request based on obtaining all required approvals.
+716554,High,,"Record expenditure against project, project phase and funding source and adjust encumbrance as appropriate."
+716555,High,,Generate payment for property acquisition by warrant.
+716556,High,,Generate payment for relocation by warrant or EFT with approval of an authorized user.
+716557,High,,Produce 1099 tax form for taxable acquisition and relocation payments.
+716558,High,,"Support withholding of State of West Virginia income taxes from out of state property owners. For out of state property owners,  the State income tax due should be deducted and remitted to the West Virginia State Tax Department. This will be accomplished  by integrating with the ERP general ledger function to process an intergovernmental transaction and then transmitting the  individual taxpayer information to the State Tax Department electronically."
+716559,Medium,,Allow authorized users to track status of acquisition and relocation payment requests excluding personally identifying information.

@@ -1,0 +1,35 @@
+"Section:PL-Procurement, Purchase Requisitions (34 Reqs)"
+715147,High,,Provide the ability for agencies to define requestors (staff that may initiate a request to purchase goods and/or services).
+715148,High,,"Provide the ability for authorized requestors to initiate a purchase requisition for goods and services online via a Web browser,  and to query on the status of such requisitions."
+715149,Medium,,Provide the ability to restrict/control the items requestors can see and order.
+715150,Medium,,"Provide the ability for users to see the available balance on contracts ( PO, encumbrance) as they are creating a requisition to  order from the contracts."
+715151,High,,Provide the ability for assignment of a unique purchase requisition number through system-generated means.
+715152,High,,"Provide the ability to support selection of a commodity through a variety of means including key words on commodity title and  multiple item descriptions or coding commodity number directly (3,5,11 digit)."
+715153,High,,"Provide the ability to support user creation of a requisition by copying an existing (including canceled) requisition, editing and  saving with a new requisition ID. The existing requisition can be from different agency."
+715154,High,,Provide the ability to support the establishment of requisition templates for frequently requested items.
+715155,High,,Provide the ability to automatically generate a requisition to renew a contract based on a user-specified number of days before  the contract expires.
+715156,High,,Provide the ability for electronic notifications to be sent to the respective purchasing agent informing him/her that the requisition  has been generated and is pending his/her action.
+715157,High,,Provide the ability for a requestor to cancel a requisition or individual requisition line items prior to approvals and system  generates appropriate accounting entries.
+715158,Medium,,Provide the ability for authorized purchasing agents to cancel requisitions subsequent to final approval and system generates  appropriate accounting entries.
+715159,High,,"Provide the ability to specify that certain required information be entered for certain types of requisitions (e.g., notification that a  sole-source justification is required, work orders attached to print requisitions)."
+715160,High,,"Provide the ability to perform the following functions online for all types of purchase requests, with appropriate authority: inquiry,  add, change, and cancel (at the line and document level)."
+715161,High,,"Provide the ability for comment fields (multiple) at the header and line level, with an indicator designating internal or external  comments (e.g. internal - only seen by authorized users; external - printed on PO to be seen by Vendor)."
+715162,High,,"Provide the ability to attach files in various formats to the entire requisition or individual line items. Formats include, but not  limited to the following: Image Files."
+715163,High,,"Provide the ability to attach files in various formats to the entire requisition or individual line items. Formats include, but not  limited to the following: PDF files."
+715164,High,,"Provide the ability to attach files in various formats to the entire requisition or individual line items. Formats include, but not  limited to the following: Word processing documents."
+715165,High,,"Provide the ability to attach files in various formats to the entire requisition or individual line items. Formats include, but not  limited to the following: Spreadsheets."
+715166,High,,"Provide the ability to attach files in various formats to the entire requisition or individual line items. Formats include, but not  limited to the following: CAD."
+715167,Low,,"Provide the ability to attach files in various formats to the entire requisition or individual line items. Formats include, but not  limited to the following: URL Link."
+715168,Low,,"Provide the ability to attach files in various formats to the entire requisition or individual line items. Formats include, but not  limited to the following: Sound Files."
+715169,Low,,"Provide the ability to attach files in various formats to the entire requisition or individual line items. Formats include, but not  limited to the following: Video Files."
+715170,High,,Provide the ability for viewing online or generating a hard-copy of the purchase requisition at any time to a local printer or a  networked printer.
+715171,Medium,,"Provide the ability for the automatic assignment of requisitions to purchasing agents based on user-defined criteria (e.g.,  commodity, department etc.) and captures routing date and time."
+715172,High,,Provide the ability to manually assign/reassign requisitions to purchasing agents.
+715173,Medium,,Provide the ability to maintain a schedule that can cause an electronic notification to be sent to a purchasing agent's supervisor if  the purchasing agent does not complete processing within the processing time assigned to the requisition.
+715174,Medium,,Provide the ability to accommodate zero and negative unit price values.
+715175,Medium,,Provide the ability to enable users to override defined sourcing rules with appropriate authorizations.
+715176,High,,"Provide the ability for cross-referencing of purchase requisitions to the corresponding invitation to bid, purchase order, contract,  asset, receiving report, order number, and invoice."
+715177,High,,Provide the ability for notification on expiring contracts and creation of a requisition directly from expiring contract documents.
+715178,Medium,,Provide the ability to pre-encumber.
+715179,High,,Provide clause library capabilities.
+715180,High,,Provide the ability to order in fractional quantities or dollars.

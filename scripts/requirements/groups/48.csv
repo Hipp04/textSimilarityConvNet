@@ -1,0 +1,7 @@
+"Section:FIN-Cost Accounting, General (6 Reqs)"
+706883,High,,Support full costing of State programs and provide allocation processing to distribute overhead or indirect costs that cannot be  directly assigned to a direct cost object at the time incurred.
+706884,High,,Maintain cost account information that is consistent and reconcilable with related general ledger and budget accounts.
+706885,Medium,,"Allocate costs to all Chart of Account elements, as defined in the General Ledger requirements, on a detailed or summary basis."
+706886,Medium,,Maintain all revenue and expenditure transactions at the lowest level of detail as contained in the chart of accounts (COA)  structure.
+706887,Medium,,Group and summarize detail information according to the COA hierarchy.
+706888,Medium,,Employ easy to maintain effective-dated system tables that provide edit checks and cross-validation of key fields.

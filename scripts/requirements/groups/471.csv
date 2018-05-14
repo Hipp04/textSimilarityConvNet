@@ -1,0 +1,5 @@
+"Section:SW-General and Technical, Networking (4 Reqs)"
+718295,High,,"Support running application over State of West Virginia networks including networks operated by State Auditor, State Treasurer,  Office of Technology, Department of Education, West Virginia Lottery, West Virginia Legislature, other State agencies which  maintain their own networks and various higher education institutions."
+718296,Medium,,Utilize IP based communications for network protocol.
+718297,Medium,,"Identify access requirements through firewalls and follow standard port designations, where possible."
+718298,High,,Support access outside the State network/ firewall to the application through virtual private network or internet access with  application security.

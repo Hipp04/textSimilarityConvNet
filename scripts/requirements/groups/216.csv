@@ -1,0 +1,6 @@
+"Section:PL-Facilities Management, Maintenance History (5 Reqs)"
+713441,Medium,,"Provide the capability to view a log of major maintenance activity for each facility, sub-facility, system or component. This  function must provide the following information: date maintenance was performed; maintenance shop and crew performing the  work; crew leader; work order number; type of work performed; contract number and/or purchase order number (external  repairs); and vendor (external repairs)."
+713442,Medium,,Maintains repair histories for both internal agency and vendor repairs.
+713443,Medium,,"Track and report costs (work and parts) for scheduled, unscheduled and accident maintenance."
+713444,Medium,,"Provide ability to search and query maintenance history by a number of user-defined parameters including facility class, facility  type, facility group (such as a park or hospital campus), organization unit owning facility or performing maintenance,  system/component type, maintenance activity, work order number, manufacturer, fleet unit number, maintenance shop,  maintenance date range, etc."
+713445,Medium,,"Allow for transfer of a facility or sub facility between agencies, while retaining maintenance history for operational planning and  maintenance by the new owner and historical analysis by the previous owner."

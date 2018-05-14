@@ -1,0 +1,7 @@
+"Section:PL-Bridge Management, General (6 Reqs)"
+713001,High,,Support the AASHTO Guide to Bridge Management Systems and other best practices.
+713002,High,,"Provide an integrated database for bridge inventory, inspection, and appraisal data."
+713003,High,,"Maintain a complete historical record of inventory characteristics, condition, and maintenance and improvement actions, as well  as associated costs for each structure. The information should be sufficient for estimating and updating lifecycle costs and  deterioration models."
+713004,High,,"Provide a set of deterioration and optimization models which utilize the bridge inventory, inspection and appraisal data to project  future conditions and recommend candidate projects based on various user-defined priorities and parameters."
+713005,High,,"Integrate as required with the other transportation asset management functions within the ERP system including transportation  asset inventory, highway maintenance management, pavement management and safety management."
+713006,High,,Integrate as required with other ERP functions including project management.

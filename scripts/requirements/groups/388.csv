@@ -1,0 +1,5 @@
+"Section:PL-Transportation Asset Inventory, Asset Classes (4 Reqs)"
+717045,High,,Allow system administrator or other authorized user to define different asset classes.
+717046,High,,Store full name of asset class (for example: Pavement).
+717047,High,,Store an asset class code that users can utilize in selecting asset classes for reports and other system functions.
+717048,High,,Store an authorized asset class owner who must be a valid user as defined in the ERP personnel administration and security  functions.

@@ -1,0 +1,36 @@
+"Section:HRP-Applicant Services, Applicant Tracking (35 Reqs)"
+709122,High,,Create and maintain an applicant tracking system for both external and internal job applicants.
+709123,Medium,,"Allow interested applicants to create profile(s) online for job announce notification via email based on job class, job category, job  title, department and other pertinent data."
+709124,Medium,,Generate a unique applicant tracking number.
+709125,Medium,,online entry of applications for both classified and classified exempt candidates.
+709126,Medium,,Electronic education verification capability.
+709127,Medium,,Capture education and experience on the application.
+709128,Medium,,"Application data can be evaluated against user defined criteria for job opening (for example, application is scored using  knowledge, skill and experience codes)."
+709129,Medium,,"Track status of applicants tied to each individual certifications, tracks the reports of actions and optionally shares with any other  certification lists. Reports of action are (user can choose more than one): Selected."
+709130,Medium,,"Track status of applicants tied to each individual certifications, tracks the reports of actions and optionally shares with any other  certification lists. Reports of action are (user can choose more than one): Declined offer."
+709131,Medium,,"Track status of applicants tied to each individual certifications, tracks the reports of actions and optionally shares with any other  certification lists. Reports of action are (user can choose more than one): Not selected."
+709132,Medium,,"Track status of applicants tied to each individual certifications, tracks the reports of actions and optionally shares with any other  certification lists. Reports of action are (user can choose more than one): Failed to respond."
+709133,Medium,,"Track status of applicants tied to each individual certifications, tracks the reports of actions and optionally shares with any other  certification lists. Reports of action are (user can choose more than one): Not interested."
+709134,Medium,,"Track status of applicants tied to each individual certifications, tracks the reports of actions and optionally shares with any other  certification lists. Reports of action are (user can choose more than one): Not available."
+709135,Medium,,"Track status of applicants tied to each individual certifications, tracks the reports of actions and optionally shares with any other  certification lists. Reports of action are (user can choose more than one): Failed to show for interview."
+709136,Medium,,"Track status of applicants tied to each individual certifications, tracks the reports of actions and optionally shares with any other  certification lists. Reports of action are (user can choose more than one): Not contacted."
+709137,Medium,,"Track status of applicants tied to each individual certifications, tracks the reports of actions and optionally shares with any other  certification lists. Reports of action are (user can choose more than one): Not eligible."
+709138,Medium,,"Track status of applicants tied to each individual certifications, tracks the reports of actions and optionally shares with any other  certification lists. Reports of action are (user can choose more than one): Unable to locate."
+709139,Medium,,"Track status of applicants tied to each individual certifications, tracks the reports of actions and optionally shares with any other  certification lists. Reports of action are (user can choose more than one): Interviewed."
+709140,Medium,,"Track status of applicants tied to each individual certifications, tracks the reports of actions and optionally shares with any other  certification lists. Reports of action are (user can choose more than one): Considered."
+709141,Medium,,"Track status of applicants tied to each individual certifications, tracks the reports of actions and optionally shares with any other  certification lists. Reports of action are (user can choose more than one): Appointed."
+709142,Medium,,"Maintain original rank order on a certified list regardless of contact results for applicants on that list (For example, hired, not  available, failed to reply etc.)."
+709143,Medium,,Preserve electronic certified list throughout the hiring process including tracking and contact results information.
+709144,Medium,,"Applicants can submit questions to a mailbox regarding the hiring process or a specific job opening, which can be responded to  at a later time."
+709145,Medium,,Automatically purge or archive the applicant data based on user-defined criteria.
+709146,Medium,,Define application forms (web based) based on job specifications.
+709147,Medium,,"Define steps in the hiring process, including non-testing steps and track the event dates, status, and results of these steps."
+709148,Medium,,"Identify, score and rank veterans for claiming points for service records."
+709149,Medium,,Integrate applicant and employee information with all other components to eliminate duplicate data input.
+709150,Low,,Track and process prospective employee referrals.
+709151,Medium,,Capture reference information including contact dates.
+709152,Low,,"Track ""career agents"", which match job interests (e.g., applications) with job openings."
+709153,Medium,,Integrate staffing and hiring events to a calendar function.
+709154,High,,Applicants have the ability to apply for multiple job openings with one application or multiple applications based on organization  requirements.
+709155,Medium,,Allow for applicants to be assigned to multiple job openings.
+709156,Medium,,Allow for multiple qualified applicants to be assigned to multiple registers.

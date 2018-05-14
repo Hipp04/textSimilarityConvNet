@@ -1,0 +1,29 @@
+"Section:PL-Procurement, Solicitations-General (28 Reqs)"
+715245,High,,Provide the ability to process solicitation transactions through the following stages: Creation of solicitation and addendums by an  approved purchase requisition (although some solicitations may be created without requisitions).
+715246,High,,Provide the ability to process solicitation transactions through the following stages: Posting of the solicitation on the State's  Website or Agency Specific Website when required.
+715247,High,,"Provide the ability to process solicitation transactions through the following stages: Notification sent to registered vendors via fax  and/or e-mail, based on commodity and/or appropriate dollar threshold."
+715248,High,,Provide the ability to process solicitation transactions through the following stages: Receipt of vendor responses electronically  (with receipt time and date).
+715249,High,,"Provide the ability to process solicitation transactions through the following stages: Tabulation of solicitations, including  reciprocity and/or other targeted businesses."
+715250,High,,"Provide the ability to process solicitation transactions through the following stages: Award, including notification of award via  email and Web site posting."
+715251,High,,Provide the ability to process solicitation transactions through the following stages: Initiation of purchase order.
+715252,High,,Provide the ability to process solicitation transactions through the following stages: Transfer / Entry to contract module.
+715253,High,,"Provide the ability to cross-reference requisitions, solicitations, and award documents (entire document as well as line items)."
+715254,High,,Provide the ability to document vendor's Certification of Non Conflict to Compete.
+715255,High,,Provide the ability to amend or cancel solicitations.
+715256,High,,Provide the ability to support the following types of solicitations (but not limited to): Informal - Telephone / Fax / Non-Sealed  Response.
+715257,High,,Provide the ability to support the following types of solicitations (but not limited to): Formal Sealed Bids.
+715258,High,,Provide the ability to support the following types of solicitations (but not limited to): RFQ.
+715259,Medium,,Provide the ability to support the following types of solicitations (but not limited to): IFB.
+715260,High,,Provide the ability to support the following types of solicitations (but not limited to): RFP.
+715261,High,,Provide the ability to support the following types of solicitations (but not limited to): RFI.
+715262,Medium,,Provide the ability to support the following types of solicitations (but not limited to): Reverse auctions.
+715263,High,,Provide the ability to capture/recognize statutory advertising requirements.
+715264,High,,"Provide the ability to allow for inquiry into entire solicitation or solicitation commodity by vendor name or number, solicitation  number, purchasing agent, or commodity number, or status."
+715265,High,,Provide the ability to create a new solicitation transaction by copying from a previous solicitation transactions (all or part).
+715266,High,,"Provide the ability for comment fields (multiple) at the header and line level, with an indicator designating internal or external  comments (e.g., internal - only seen by authorized users; external - printed on solicitation to be seen by Vendor)."
+715267,Medium,,Provide the ability for a user in a different agency the ability to view and copy an existing (not necessarily active) solicitation.
+715268,High,,"Provide the ability to receive electronically solicitation responses from vendors, in industry standard formats, as well as via a  portal."
+715269,High,,Provide the ability to archive solicitation information including the audit trail.
+715270,High,,Provide the ability to group responses based on a single number for evaluation purposes.
+715271,High,,"Provide the ability to differentiate between the use of standard terms and conditions and non-standard terms and conditions for  additional workflow, if necessary."
+715272,High,,"Provide the ability to produce a list of potential vendors (e.g., during bid preparations) from the vendor registration file or other  sources."

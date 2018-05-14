@@ -1,0 +1,6 @@
+"Section:PL-Procurement, Source of Supply Determination (5 Reqs)"
+715642,High,,"Provide the ability to automatically search for a source of supply either on contract in inventory, or within a catalog from the  requisition or purchase order."
+715643,Medium,,"Provide the ability, if determined by purchasing, to automatically identify the source of supply based on the commodity selected  and automatically generate a purchase order and issue to the supplier following proper requisition approvals."
+715644,High,,"Provide the ability to stop an end user from overriding price, item description, preferred vendor if identified by purchasing as the  source of supply (e.g. sourced contracts, catalog contracts)."
+715645,High,,Provide the ability to view multiple sources of supply if multiple contracts exist for the commodity. End user requests source of  supply with the purchasing agent determining the final vendor when creating the PO.
+715646,Medium,,Provide the ability for an end user to select a contract or non-contracted items (free text) from a preferred vendor and workflow  the requisition to a purchasing agent to process.

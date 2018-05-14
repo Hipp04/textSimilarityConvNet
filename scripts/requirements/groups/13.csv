@@ -1,0 +1,20 @@
+"Section:FIN-Asset Management, Surplus Property (19 Reqs)"
+705919,Medium,,Provide ability to split and distribute the proceeds of an asset disposition.
+705920,High,,Provide ability to establish an electronic approval path for dispositions.
+705921,Medium,,"Provide ability of owning agency to change the asset status to/from ""surplus""."
+705922,Medium,,Provide ability to transfer ownership to retired status.
+705923,Medium,,"Support electronic advertisement of items for sale (e.g., on the web) to designated customers."
+705924,Medium,,Support receipt of surplus property bid responses through electronic means.
+705925,Medium,,"If bid opening date and time has expired, the system provides the ability to prohibit the acceptance of a bid through electronic  means."
+705926,Medium,,Support the publishing of surplus properties to be sold on a common State web page.
+705927,Medium,,Maintain a file of customers that commonly bid on surplus properties.
+705928,Medium,,Provide ability to indicate the condition of items surplused.
+705929,Medium,,Maintain multiple individual bin locations for any item within any storeroom while retaining ownership information for each  individual item.
+705930,Medium,,Provide ability to sell items via sealed bid and perform bid tabulations to show highest bidder.
+705931,Medium,,Provide ability to group items into lots for sale while retaining specific item owner information.
+705932,Medium,,Record the sale price received when item is sold.
+705933,Medium,,Produce a bill of sale that includes dollar amount cost and item number.
+705934,Medium,,Generate a report of items sold that are greater than a user-specified dollar amount.
+705935,Medium,,Provide ability to interface to/from-banking systems for credit card authorizations and check verifications.
+705936,Medium,,"Provide ability to process the disposition of donated federal property, including: Treat proceeds as revenue."
+705937,Medium,,"Provide ability to process the disposition of donated federal property, including: Generate federal reporting."

@@ -1,0 +1,47 @@
+"Section:SW-Reporting and Business Intelligence, Standard Report Features (46 Reqs)"
+718376,High,,Allow users to execute reports and modify report query parameters on-line. User should be able to save modified version as a  personal version without impacting base query.
+718377,High,,"Provide drill down capability from summary balances to the supporting detail transactions and drill up from the detail transaction  to the summary balance (e.g., overtime expense to payroll employees contributing to expense to projects/grants specifically  worked on)."
+718378,Medium,,"Provide as part of drill down functionality, the ability to print the expanded sections of the drill down results in context with the  original query results."
+718379,Medium,,Link the report generator directly to the data dictionary to provide point and click data item selection and drag-and-drop  formatting by the user.
+718380,Medium,,Allows users to define or modify the sort order of reports.
+718381,Medium,,"Allow users to search for data, transactions or documents using a range of data values."
+718382,High,,Provide authorized users with the capability to perform free-form text searching.
+718383,Medium,,Provide authorized users with the capability to perform a search within a results set.
+718384,Medium,,"Provide authorized users with the capability to perform searches with full ""if..then..else"" logic."
+718385,Low,,"Provide authorized users with the capability to perform free-form text searching that includes embedded, attached or linked  documents."
+718386,Low,,Provide authorized users with the capability to perform free-form text searching that includes the specification of words that are in  a given range of other words.
+718387,Medium,,Allow a user to save a personal copy for later execution of a pre-defined report with a set of specific selection criteria. The user  must be prompted to provide a descriptive name for this saved report.
+718388,Medium,,"Provide functionality to allow any inquiry available online to be printed or distributed on various devices as defined by the user  (e.g., distribute to named users through email, print at local printer, print at remote printer, fax, distribute as data file through  specified medium of transmission, email, etc.)."
+718389,Medium,,"Provide standard print capabilities such as those typically available in Windows-based products such as print preview, print a  range of pages, number of copies, etc."
+718390,High,,Allow on-line reports to be run in the background and allow users to continue processing. Report results can then be accessed  through the report portal with an online user notification provided when the report is generated.
+718391,Medium,,"Provide ability to schedule a report to run automatically if certain conditions are met (e.g., 95% of budget expended)."
+718392,Medium,,Integrate with WVDOT GIS to spatially display data for applications where geo-referenced data is captured.
+718393,Medium,,Integrate with other State agency GIS environments to spatially display data for applications where geo-referenced data is  captured.
+718394,Medium,,Support export of query and report results as an external database.
+718395,Medium,,Support export of query and report results in word processing format (.doc or .docx).
+718396,Medium,,Support export of query and report results as ASCII files.
+718397,High,,Support export of query and report results in spreadsheet format (.xls or .xlsx) with option to output data only.
+718398,Medium,,Support export of query and report results as text files (.txt).
+718399,Medium,,"Support export of query and report results in other presentation formats (e.g., PDF format)."
+718400,Medium,,"Support export of query and report results in standard portable flat file formats (comma delimited, tab delimited, etc.) with option  to choose delimiter."
+718401,Medium,,Support export of query and report results in XML format.
+718402,Medium,,"Provide multimedia report output for authorized users (central printers, screen, data file, CD ROM, DVD, etc.)."
+718403,Low,,"Provide for report distribution based on events, process milestones, or predefined data thresholds or values for example, based  on data values contained within the report (i.e. conditional operators >, <, =, etc.)."
+718404,Medium,,Integrate with multiple report distribution software solutions including but not limited to Unisys EOM and ASG ViewDirect.
+718405,Medium,,"Provide functionality to distribute reports by a variety of methods such as sending links to reports via email, web, fax, or PDA."
+718406,Medium,,Provide the ability to print reports on special forms.
+718407,Medium,,Support effective dated selection and query including Boolean operations such as. date ranges.
+718408,Medium,,"Provide functionality for the user to incorporate formulas, functions, and mathematical calculations into reports."
+718409,Medium,,Provide the ability to create and specify report templates.
+718410,Medium,,Provide wizards to guide the users through reporting building steps.
+718411,Medium,,"Provide cursor selection and drag-and-drop features to assist users in formatting of files, elements, and operands (e.g., +,-, /, *)  from data dictionary or other pre-established lists."
+718412,Medium,,Provide graphical report layout tools and drag-and-drop features to assist users in formatting reports and inquires.
+718413,Low,,"Provide ability for the report generator to include unstructured data in query results (e.g., MS Word, Excel, scanned images and  other documents attached to transactions) and return the document, page, a reference number and/or other suitable identifiers  as a search result."
+718414,Low,,Support creation of graphic organizational charts from the reporting tool.
+718415,Low,,Support creation of line graphs from the reporting tool.
+718416,Low,,Support creation of pie charts from the reporting tool.
+718417,Low,,Support creation of stacked bar charts from the reporting tool.
+718418,Low,,Support creation of min/mid/max line graphs from the reporting tool.
+718419,Low,,Support creation of regression lines from the reporting tool.
+718420,Low,,Support creation of gauges for dashboards.
+718421,Low,,"Provide ability to link from reporting tool to Microsoft Office graphic, spreadsheet and presentation applications."

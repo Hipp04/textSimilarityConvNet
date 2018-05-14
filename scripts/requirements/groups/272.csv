@@ -1,0 +1,8 @@
+"Section:PL-Pavement Management, Drainage (7 Reqs)"
+714796,High,,"Integrate with transportation asset Inventory to capture, store, view and retrieve all existing drainage structures including their  size, length, material type, condition, estimated remaining life before replacement and any existing problems."
+714797,High,,"Integrate with transportation asset inventory to capture, store, view and retrieve drainage observation information."
+714798,High,,Store/view/display evidence of poor drainage.
+714799,High,,Store/view/display erosion.
+714800,High,,Store/view/display frost heaves.
+714801,High,,Store/view/display inlets.
+714802,High,,Store/view/display reason for poor drainage and inlets.

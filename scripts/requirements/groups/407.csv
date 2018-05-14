@@ -1,0 +1,9 @@
+"Section:PL-Transportation Asset Inventory, Utilities in the Right-of-Way (8 Reqs)"
+717300,High,,Maintain an inventory of utilities in the right-of-way.
+717301,High,,Store utility type.
+717302,High,,Store utility owner/operator.
+717303,Medium,,Store cables.
+717304,Medium,,Store pipes.
+717305,Medium,,Store poles.
+717306,Medium,,Store towers.
+717307,Medium,,Integrate with WVDOT CAD environment or EMC Application Xtender to store as built plan files if provided by utility.

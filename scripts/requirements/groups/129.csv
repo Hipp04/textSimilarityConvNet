@@ -1,0 +1,35 @@
+"Section:HRP-Classification and Compensation, Pay Rate Maintenance (34 Reqs)"
+709977,Medium,,Track update of salary changes: across the board.
+709978,Medium,,Track update of salary changes: by individual.
+709979,Medium,,Track update of salary changes: by type (e.g. reason code).
+709980,Medium,,Track update of salary changes: by statutory changes.
+709981,Medium,,Track update of salary changes: by transaction type.
+709982,Medium,,Track update of salary changes: by job classification.
+709983,Medium,,Track update of salary changes: by organization unit.
+709984,Medium,,Track update of salary changes: by cost center.
+709985,Medium,,"Track update of salary changes: by automated implementation of employee salary/grade adjustments (e.g., annual increments)."
+709986,Medium,,Determine eligibility for salary increases by: effective date / anniversary date.
+709987,Medium,,Determine eligibility for salary increases by: classification.
+709988,Medium,,Determine eligibility for salary increases by: experience.
+709989,Medium,,Determine eligibility for salary increases by: certificates.
+709990,Medium,,Determine eligibility for salary increases by: licenses.
+709991,Low,,Determine eligibility for salary increases by: languages.
+709992,Medium,,Determine eligibility for salary increases by: statutory changes.
+709993,Medium,,Determine eligibility for salary increases by: tenure.
+709994,Medium,,Determine eligibility for salary increases by: employment date.
+709995,Medium,,Determine eligibility for salary increases by: organization unit.
+709996,Medium,,Determine eligibility for salary increases by: education.
+709997,Medium,,Determine eligibility for salary increases by: work location.
+709998,Medium,,Determine eligibility for salary increases by: probationary period.
+709999,Medium,,"Determine eligibility for salary increases by: status of any other variable as of a particular date (e.g., organizational unit for a  specified time)."
+710000,Medium,,Determine eligibility for salary increases by: time in classification.
+710001,Medium,,"Process mass changes for the purposes of changing salaries (e.g., COLA changes, MAP increase based on performance rating,  job classification surveys)."
+710002,Medium,,"Produce notification for employees impacted by a salary, compensation, or class change."
+710003,Medium,,Support mass pay transaction updates based on any field held within the database.
+710004,High,,Record historical information for all compensation changes.
+710005,Medium,,Support user-defined reasons for pay rate changes.
+710006,High,,Support base pay rate to four digits past the decimal point ($0.0000) and corresponding salary schedule.
+710007,High,,Support recording additional employee pay to four digits past the decimal point ($0.0000).
+710008,High,,"Maintain user-defined approval mechanisms for all compensation changes (base rate, additional pay, etc.) by organization unit."
+710009,Medium,,Move employees within the pay progression schedule by pay range based on effective date or calculated years of service.
+710010,High,,Track salary history for each employee.

@@ -1,0 +1,14 @@
+"Section:FIN-Budget Development, Information Access and Reporting (13 Reqs)"
+706501,High,,Develop preformatted reports allowing users to select from a standard assortment of parameters to customize the output to fit  their needs.
+706502,Medium,,"Produce historical, current, and projected data down to the lowest common level of detail available in the Chart of Accounts  structure."
+706503,Medium,,"Generate ad hoc budget queries at any stage of development, including final budget signed into law."
+706504,Medium,,Generate agency budget request that displays base and change items.
+706505,Medium,,"Generate ""sources and uses"" budget request summary reports by combinations of the Chart of Accounts structure."
+706506,Medium,,"Generate detail revenue and expense budget information, including base and changes to base by any combination of the Chart  of Accounts structure."
+706507,Medium,,"Incorporate text and other non-financial data on system reports, along with financial data."
+706508,Medium,,Report base and change item budget information by any element in the Chart of Accounts.
+706509,Medium,,Report real-time status on the budget development process.
+706510,Medium,,Generate reports with drill-down capabilities from budgeted summary categories to line item detail.
+706511,Medium,,Display information graphically.
+706512,Medium,,Ability to drill down from budget to all underlying data of the graph by clicking on area of the graphic presentation.
+706513,Medium,,Ability to drill down from any dollar amount field to supporting data within the budget entry screen.

@@ -1,0 +1,30 @@
+"Section:PL-Procurement, Solicitations-Creation (29 Reqs)"
+715273,High,,"System supports the creation of all types of solicitations, both formal and informal."
+715274,High,,Provide the ability to develop models/templates to be used in the development of solicitations. Users' modifications to the  templates should be highlighted and version-control maintained throughout the approval process.
+715275,High,,Provide the ability for all elements of the requisition to be carried over to the solicitation; but be editable by an approved user  without affecting the original requisition.
+715276,High,,Provide the ability to separate individual line items from requisitions to create solicitations.
+715277,High,,Provide the ability to combine like items from multiple requisitions into one solicitation.
+715278,Medium,,"Provide the ability to combine like items from multiple requisitions from multiple agencies into one solicitation. This  accommodates the State's scheduled purchase process, which coordinates the requests of multiple agencies into a single  solicitation."
+715279,High,,"Provide the ability to produce documents to be sent to potential vendors/bidders (e.g., bid documents, addenda, attachments)."
+715280,High,,Provide the ability to allow agency-defined thresholds to dictate number and type of solicitation responses required per  transaction (either a warning or a hard-edit).
+715281,High,,Provide the ability to input an agency-specific alphanumeric reference number and the ability to search on the agency-specific  reference number.
+715282,High,,Provide the ability to perform wild-card searches on all searchable fields.
+715283,High,,Provide the ability for designating a point of contact to be displayed on the solicitation without affecting the one entered on the  original requisition.
+715284,High,,Provide the ability to override commodity information in the solicitation that is carried forward from purchase requisition.
+715285,High,,"Provide the ability to attach both internal (not issued with solicitation) and external (issued with solicitation) files to the solicitation  documents including, but not limited to: Image Files."
+715286,High,,"Provide the ability to attach both internal (not issued with solicitation) and external (issued with solicitation) files to the solicitation  documents including, but not limited to: PDF files."
+715287,High,,"Provide the ability to attach both internal (not issued with solicitation) and external (issued with solicitation) files to the solicitation  documents including, but not limited to: Word processing documents."
+715288,High,,"Provide the ability to attach both internal (not issued with solicitation) and external (issued with solicitation) files to the solicitation  documents including, but not limited to: Spreadsheets."
+715289,High,,"Provide the ability to attach both internal (not issued with solicitation) and external (issued with solicitation) files to the solicitation  documents including, but not limited to: CAD."
+715290,Low,,"Provide the ability to attach both internal (not issued with solicitation) and external (issued with solicitation) files to the solicitation  documents including, but not limited to: URL Link."
+715291,Low,,"Provide the ability to attach both internal (not issued with solicitation) and external (issued with solicitation) files to the solicitation  documents including, but not limited to: Sound Files."
+715292,Low,,"Provide the ability to attach both internal (not issued with solicitation) and external (issued with solicitation) files to the solicitation  documents including, but not limited to: Video Files."
+715293,High,,Provide the ability to secure select solicitation data prior to award.
+715294,High,,Provide the ability for a purchasing agent to select standard terms and conditions from a repository within the system for  inclusion in the solicitation.
+715295,High,,Provide the ability to modify standard terms and conditions on the solicitation by an authorized user (Attorney General only). Pre- solicitation draft review modifications are highlighted on the screen as well as on printed output.
+715296,High,,Provide the ability to dynamically build the solicitation document based on the purchasing agent selecting attributes to be  included in the solicitation invitation. The purchasing agent should be able to identify mandatory and optional attributes within the  solicitation.
+715297,Medium,,Provide the ability to convert solicitations into reverse auctions.
+715298,High,,Provide the ability to request responses by region or geographic area.
+715299,High,,"Provide the ability for a purchasing agent to define bid response criteria such as geographic region, minimum order, etc., that  must be answered before the bid response can be submitted electronically."
+715300,High,,Provide the ability to warn the vendor when all fields are not entered in the bid response.
+715301,High,,Provide the ability to route solicitations for approval via role-based workflow.

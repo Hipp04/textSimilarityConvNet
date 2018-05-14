@@ -1,0 +1,13 @@
+"Section:FIN-General Ledger, Recurring Transactions (12 Reqs)"
+707528,Medium,,"Allow the use of coding block templates for transactions that use a common coding block but differing transaction amounts (e.g.,  distribute a dollar amount by percentage)."
+707529,Medium,,Support user-defined recurring transactions based upon the following schedules: Periodic.
+707530,Medium,,Support user-defined recurring transactions based upon the following schedules: Fixed.
+707531,Medium,,Support user-defined recurring transactions based upon the following schedules: Open.
+707532,Medium,,Support user-defined recurring transactions based upon the following schedules: Percentage allocation.
+707533,Medium,,Support user-defined recurring transactions based upon the following schedules: Amount.
+707534,Medium,,Support workflow processes for recurring transactions.
+707535,Medium,,Validate all fields in recurring transaction entries.
+707536,Medium,,Notify users that recurring transactions are about to generate.
+707537,Medium,,Provide recurring transaction indicator (a document type) for every financial and statistical transaction.
+707538,Medium,,"Provide the ability to have multiple open periods within each sub-ledger/sub-module, as well as the general ledger."
+707539,Medium,,Prevent transactions from posting unless the transaction updates open periods within each sub-ledger/sub-module and within the  general ledger.

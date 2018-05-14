@@ -1,0 +1,18 @@
+"Section:PL-Procurement, Reporting (with proper security / approval) (17 Reqs)"
+716052,High,,Provide the ability to drill down on reports using any chart of account field to see detailed transactions within the purchasing  system.
+716053,High,,Provide the ability to generate a report listing procurement requests/purchase orders by any segment of the account code  structure upon request.
+716054,High,,Provide the ability to support Ad Hoc reporting.
+716055,High,,Provide the ability to download to Excel and Access for reporting.
+716056,High,,"Provide the ability to view all purchasing information online (i.e.: PO's, requisitions, receipts, vouchers)."
+716057,High,,Provide the ability to display and print all reports and screens.
+716058,High,,Provide the ability to view outstanding purchase orders.
+716059,High,,Provide the ability to produce an aging report for purchases (i.e.: items not yet received and date ordered).
+716060,High,,Provide the ability to detect and measure early / late and over / under delivery.
+716061,High,,"Provide the ability to print bids, purchase orders, receivers and pick ticket discrepancies immediately."
+716062,High,,"Provide the ability to provide reports to User and Management on requisition status, conversion to PO, contract, returned to  department canceled or other action taken and buyer backlog."
+716063,High,,"Provide the ability to inquire into entire bid or bid item by vendor name or number, bid number, purchasing agent or item number."
+716064,High,,Provide the ability to report on total dollars spent / saved per budget(s) / account(s) / item(s) / purchasing agents / commodity(s) /  user-defined.
+716065,High,,Provide the ability to track purchasing volume by vendor.
+716066,Medium,,"Provide the ability to maintain discrepancy file by vendor, stock number, item, dates, control number, purchase order number."
+716067,High,,"Provide the ability to track vendor bid list by vendor history, past awards, bid responses and new vendors."
+716068,High,,"Provide the ability to track Bid by awards, dollar amounts, vendor responses, buyer, commodity."

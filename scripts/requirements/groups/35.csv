@@ -1,0 +1,7 @@
+"Section:FIN-Budgetary Control, Fund Accounting (78 Reqs)  StmtID"
+706562,Rating,,"High    Requirement  Simultaneously support multiple bases of accounting for the appropriate fund types, including but not limited to: Cash basis.  Support Source"
+706563,High,,"Simultaneously support multiple bases of accounting for the appropriate fund types, including but not limited to: Modified cash  basis."
+706564,High,,"Simultaneously support multiple bases of accounting for the appropriate fund types, including but not limited to: Modified accrual  basis."
+706565,High,,"Simultaneously support multiple bases of accounting for the appropriate fund types, including but not limited to: Accrual basis."
+706566,High,,"Simultaneously support multiple bases of accounting for the appropriate fund types, including but not limited to: Budgetary basis."
+706567,Medium,,"Provide ability to report expenditure activity on a cash basis (budgetary compliance and reporting) and accrual basis (CAFR  reporting) within the same fund and to provide reconciling transaction reports as needed, including the transactions that may be  reported in different fiscal years based on the method of reporting. For example, for transactions that need to update prior year  non-cash accounts, but affect current year cash accounts, the system updates cash in the current year and sets up 'due to' and  'due from' appropriately across the fiscal years."

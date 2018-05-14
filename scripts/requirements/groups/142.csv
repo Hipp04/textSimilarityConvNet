@@ -1,0 +1,57 @@
+"Section:HRP-Learning Management, Training Program and Course Development (56 Reqs)"
+710391,High,,Establish and track training session attributes to include: course identification.
+710392,Medium,,Establish and track training session attributes to include: course start and end times.
+710393,Medium,,Establish and track training session attributes to include: course schedule.
+710394,Medium,,Establish and track training session attributes to include: course prerequisites.
+710395,High,,Establish and track training session attributes to include: course hours/credits.
+710396,Medium,,Establish and track training session attributes to include: course location (including attached PDF map file).
+710397,Medium,,Establish and track training session attributes to include: minimum participation required to receive credit.
+710398,Medium,,Establish and track training session attributes to include: minimum participation required to run session.
+710399,Medium,,Establish and track training session attributes to include: maximum session capacity.
+710400,Medium,,Establish and track training session attributes to include: evaluation (class and instructor).
+710401,Medium,,"Establish and track training session attributes to include: cost to conduct session (facility, materials, instructors, administration,  other costs)."
+710402,Medium,,"Establish and track training session attributes to include: tuition cost (employee, non-employee)."
+710403,Medium,,Establish and track training session attributes to include: reimbursable cost (to employee).
+710404,Medium,,Establish and track training session attributes to include: course and instructor.
+710405,Medium,,Establish and track training session attributes to include: course dates.
+710406,Medium,,"Establish and track training session attributes to include: course eligibility (who can attend by organization unit, statewide, job  class, etc.)."
+710407,Medium,,Establish and track training session attributes to include: mandatory or elective.
+710408,Medium,,Track resources needed to deliver a training course to include: type of room.
+710409,Medium,,Track resources needed to deliver a training course to include: configuration / layout of room.
+710410,Medium,,"Track resources needed to deliver a training course to include: technology needed (computers, network for web cast, printers,  etc.)."
+710411,Medium,,Track resources needed to deliver a training course to include: teaching aids needed.
+710412,Medium,,"Track resources needed to deliver a training course to include: checklist of equipment needed (e.g. audio / visual, easels,  extension cords, etc.)."
+710413,Medium,,"Track resources needed to deliver a training course to include: checklist of supplies needed (e.g. sign-in sheet, index cards,  envelopes, manuals, etc.)."
+710414,Medium,,Track resources needed to deliver a training course to include: handouts.
+710415,Medium,,Track resources needed to deliver a training course to include: videos.
+710416,Medium,,"Track resources needed to deliver a training course to include: posters, games, special equipment."
+710417,Medium,,Track resources needed to deliver a training course to include: pre-workshop feedback.
+710418,Medium,,Track resources needed to deliver a training course to include: special instructions.
+710419,Medium,,"Track resources needed to deliver a training course to include: special accommodations based on participant needs (ADA, etc.)."
+710420,Medium,,Track resources needed to deliver a training course to include: instructor needs.
+710421,Medium,,Track resources needed to deliver a training course to include: facility / room capacity.
+710422,Medium,,Provide for the entry of user-defined training types.
+710423,Medium,,"Allow for the recording of prerequisites for courses (other courses, entry exams, certifications, licenses, etc.)."
+710424,Medium,,Monitor prerequisites by employee when enrollment in classes takes place and prohibit (with override capability) enrollment if  prerequisites are not satisfied.
+710425,Medium,,"Track which lessons, classes, courses, programs, and outside training are mandatory."
+710426,Medium,,Each Mandatory Training entry must include: general lesson.
+710427,Medium,,Each Mandatory Training entry must include: class.
+710428,Medium,,Each Mandatory Training entry must include: course.
+710429,Medium,,Each Mandatory Training entry must include: training session information.
+710430,Medium,,Each Mandatory Training entry must include: frequency.
+710431,Medium,,Each Mandatory Training entry must include: reason for being mandated.
+710432,Medium,,Each Mandatory Training entry must include: mandating agency / organization.
+710433,Medium,,"Allow for mandatory training to be displayed and updated when any individual lesson, class, course, program, or outside training  is created and/or updated."
+710434,Medium,,"Provide ability for any lesson, class, course, or program to be scheduled as a training session. The training session inherits  information as appropriate from the referenced lesson, class, course, or program."
+710435,Medium,,Provide for the designation of a logistical training coordinator to be associated with specific training sessions.
+710436,Medium,,Provide for the designation of a subject matter training coordinator to be associated with a set of lessons / classes / courses /  programs.
+710437,Medium,,"Provide for the definition of a standard education and career development curriculum based on position, skill category, and other  criteria. This capability allows supervisors to work with their subordinates to establish a career development plan specific to each  particular employee."
+710438,Medium,,"Record attendance of an attendee at a training session (lesson, class, course, program, or outside training) in hours."
+710439,Medium,,"Track the grade or score achieved (user defined - pass/fail, % score, grade, complete/incomplete, etc.) by an attendee for a  lesson, class, course, or outside training based upon grade achieved at a training session inclusive of that lesson, class, course,  or outside training."
+710440,Medium,,Allow for employees to request a travel advance linked to an approved training request and travel authorization.
+710441,Medium,,Track training for specific job classification for registrants.
+710442,Medium,,"Track the following information on instructors: instruction certification by which lessons, classes, courses, or programs."
+710443,Medium,,"Track the following information on instructors: which classes, courses and training sessions they instruct, even if the state does  not offer that training. for example, instructing a class for the FBI."
+710444,Medium,,Track the following information on instructors: location.
+710445,Medium,,Track the following information on instructors: contact information.
+710446,Medium,,Track the attendance of the employee and record the completion on employee's personnel record.

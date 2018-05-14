@@ -1,0 +1,43 @@
+"Section:FIN-Cost Accounting, Cost Accounting Billing (42 Reqs)"
+707096,Medium,,Create interdepartmental billings from detailed cost information and data.
+707097,Medium,,Create an interdepartmental contract for department to department charges that create an encumbrance.
+707098,Medium,,Create an internal voucher that charges expenses to the user department and credits the service department.
+707099,Medium,,Transmits interdepartmental billings with line-item detailed charges.
+707100,Medium,,Collect units of service and bill at pre-determined rates.
+707101,Medium,,Process chargebacks that create journal vouchers with the offsets to appropriate accounts to be able to measure what is billed  out at rates against the actual costs.
+707102,Medium,,Provides the ability for the agency receiving charges to establish parameters that determine where items are charged.
+707103,Medium,,Provides on-line accounts receivable status by user-defined data fields and parameters (i.e. by customer name or number).
+707104,Medium,,"Allow for user definition of long-term receivables, segregation from standard receivables, and tracking and control through a  control account and subsidiary detail."
+707105,Medium,,"Generate automated billings from time and material and /or non-direct charges such as surcharges and sales tax, and rates and  units of service data."
+707106,Medium,,Generate customized billings based on user-defined parameters.
+707107,Medium,,System will generate invoices that can be scanned with a user-defined scan line.
+707108,Medium,,"Provide the option to bill by work order, job, project, task, program, and activity code."
+707109,Medium,,"System will exclude or include billing detail data elements, allowable charges, and overheads on specific bills/invoices or on all  billings."
+707110,Medium,,"Use different overhead rates, employee benefits, and other factors for billing purposes depending on the entity being billed."
+707111,Medium,,Determine the lower of actual cost or agency allowable charges for billing purposes.
+707112,Medium,,"Accommodate billings with multiple work orders, jobs, projects, tasks, programs, and activity codes."
+707113,Medium,,Generate progress and final billings.
+707114,Medium,,Provide the following billing capabilities: Actual cost billings.
+707115,Medium,,Provide the following billing capabilities: Fixed fee billings.
+707116,Medium,,Provide the following billing capabilities: Hourly rate billings.
+707117,Medium,,Provide the following billing capabilities: Fixed rate billings.
+707118,Medium,,Provide the following billing capabilities: Combination of actual cost and/or hourly rate and/or fixed rate billings.
+707119,Medium,,Provide the following billing capabilities: Federal and State reimbursed projects' billings.
+707120,Medium,,"Provide the following billing capabilities: Time payments (annual, monthly, semiannual, quarterly)."
+707121,Medium,,Provide the following billing capabilities: Billings to other state agencies.
+707122,Medium,,Provide the following billing capabilities: Unit Based.
+707123,Medium,,Provide the following billing capabilities: Prorated - for example utility charge by square footage allocated.
+707124,Medium,,Establish contractual billings on-line which will support automated cost recovery for interagency services.
+707125,Medium,,Establish contractual billings on-line which will support automated cost recovery for external customers.
+707126,Medium,,Produce trial billings for users to review before producing the actual bill.
+707127,Medium,,Cancel billings and re-establish billing parameters directly into the billing application prior to transmittal to the GL.
+707128,Medium,,Provide for invoices that have the ability to include location of work performed by date.
+707129,Medium,,Provide for the accumulation of charges for multiple fiscal years.
+707130,Medium,,"Provide for date sensitivity for all billing-related tables, including contract city liability insurance rates, billing rates, and sales tax  tables."
+707131,Medium,,"Provide for maintenance of tables for overheads and allowable charges for Federal, State, and local government agency  requirements for user-defined time periods."
+707132,Medium,,"Support invoices with a report of detailed cost information, including all labor, equipment, material, and other expenditure  transactions for a specified job."
+707133,Medium,,Maintains detail of unbilled charges and memo billed charges.
+707134,Medium,,"Provide a billing indicator to be used to indicate type of account, e.g. agency, project)."
+707135,Medium,,Creates a single record and distributes costs to both the financials and the cost accounting systems.
+707136,Medium,,Costs agree with costs recorded in the budget system.
+707137,Medium,,Accommodate multiple billing arrangements.

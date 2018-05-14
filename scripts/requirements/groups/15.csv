@@ -1,0 +1,9 @@
+"Section:FIN-Asset Management, Physical Inventory (8 Reqs)"
+705960,Medium,,Support fully integrated bar-code/RFID (Radio Frequency Identification) technology for physical inventory tagging upon  acquisition/purchase and annual inventory certifications).
+705961,Medium,,Provide ability to create a scanned record file from bar-coding for comparison to fixed asset and portable equipment records.
+705962,Medium,,Provide ability to update asset location information and last inventoried date for each scanned asset based on scanned or  manually entered data.
+705963,Medium,,Provide ability to report and adjust variances between system amounts and physical counts.
+705964,Medium,,"Provide ability to generate customized bar-coded labels for asset identification (inventory control and property number tags),  including building, floor and room information."
+705965,Medium,,"Provide ability to enter data manually, in addition to using bar coding or RFID technology."
+705966,Medium,,"Provide ability to update information, from physical inventory, real time from bar code/RFID scanners."
+705967,Medium,,Provide ability to integrate with consumable inventory functions and manage stock levels for equipment repair (need to know  what stock must be available to support a particular piece of equipment).

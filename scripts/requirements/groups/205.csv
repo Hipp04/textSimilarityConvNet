@@ -1,0 +1,12 @@
+"Section:PL-Facilities Management, General (11 Reqs)"
+713324,High,,"Provide a flexible/extensible repository to support managing facilities owned and operated by the State. The facilities  management function must support a varied range of facilities owned, operated and/or maintained by the State including but not  limited to: office facilities, park lodges, hospital and other medical facility campuses; correctional institutions; regional jails;  juvenile facilities; schools; armories; museums; travel plazas; rest areas; laboratories; maintenance shops; garages; parking  decks; fire towers; environmental monitoring sites, etc."
+713325,High,,"Provide an enterprise wide repository for the State's facilities and a set of standard management tools, while providing flexibility  for managing facilities through central services (General Services Division) or at the agency level."
+713326,High,,Support agency specific repair codes/activities.
+713327,High,,Support agency specific vehicle and equipment usage rates.
+713328,High,,Support agency specific labor rates.
+713329,High,,Provide agency specific inventory costing.
+713330,High,,Support agency specific preventable maintenance schedules by major system or component.
+713331,High,,Agency specific owners of facilities classes/types and individual facilities.
+713332,High,,"Support agency specific work flows for work requests, work orders and other approvals."
+713333,High,,Integrate the facilities management function with the ERP real estate function to utilize a shared facilities inventory.
+713334,High,,"Integrate the facilities management function with other relevant ERP functions, including but not limited to: asset management,  accounts payable, accounts receivable, general ledger, grants, inventory, project accounting, purchasing and time and labor."

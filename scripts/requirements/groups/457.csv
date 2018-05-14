@@ -1,0 +1,12 @@
+"Section:SW-General and Technical, Self-Service (11 Reqs)"
+718129,High,,Provide Internet based self-service capabilities for a range of employee and vendor/partner business functions.
+718130,High,,Support access to self-service functions from at least the following browsers: Microsoft Explorer Version 7.x or higher and Mozilla  Firefox Version 4.x. or higher.
+718131,High,,Allow access to self-service functions from within the State network environment and/or from the Internet.
+718132,Low,,Support access to self-service functions from the web browser capability on the Blackberry.
+718133,Low,,Support access to self-service functions from the web browser capability on the iPhone.
+718134,High,,"Allow employees, suppliers or other partners to be granted access to specific self-service capabilities based on user-defined  roles and responsibilities."
+718135,Medium,,Provide email notifications via internal State email (for State employees) or Internet-based mail (for business partners) of  information that is available for review or actions which are required.
+718136,Medium,,Prompt a user to enter their user id and password for changes to certain data elements based on user defined business rules.
+718137,Medium,,Prompt a user with a challenge question for changes to certain data elements based on user defined business rules.
+718138,Medium,,Generate an email notification to a user's previous and new email address when an email address is changed by a user through  the self-service function.
+718139,Medium,,Generate an email notification to a user's email address when information defined as sensitive information by user defined  business rules is changed through the self-service function.

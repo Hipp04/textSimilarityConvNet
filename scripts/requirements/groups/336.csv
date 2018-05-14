@@ -1,0 +1,13 @@
+"Section:PL-Real Estate Management, Property Disposal (12 Reqs)"
+716348,Medium,,"Document interest from citizens in acquiring state owned property including name, date of inquiry and other information provided  by the potential buyer."
+716349,Medium,,"Provide ability to designate any limitations on how the property can be disposed of based on how the property was acquired and  how long ago was the property acquired, and other applicable factors."
+716350,Medium,,Provide ability to designate a property or portion of a property for sale including establishing a unique property identifier.
+716351,Medium,,Document proposed list price of property.
+716352,Medium,,"Record appraisal on property including appraised value, date of appraisal and person performing appraisal."
+716353,Medium,,Document advertising expenses and other related expenses for property disposal or management related activities.
+716354,Medium,,Provide work flow based review and approval of property disposition recommendation within Real Estate Division and user  agencies based on pre-defined business rules.
+716355,Medium,,"Integrate with ERP procurement function to support bid process including recording of bids received, etc."
+716356,Medium,,"Indicate disposal of property in system, record selling price and update property inventory."
+716357,Medium,,Designate funds to which proceeds of sale should be applied.
+716358,Medium,,Integrate automatically with BRIM to update insurance records to reflect property disposition.
+716359,Medium,,Generate required accounting transactions to support treatment of property disposal under Government Accounting Standards  Board (GASB) requirements.

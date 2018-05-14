@@ -1,0 +1,3 @@
+ID,Similarity,Requirement
+705098,4.3268415593,Allow the option for a vendor to specify whether or not to consolidate payments by type of payment method (i.e. consolidate  checks but not EFT).
+705097,4.1556781965,Allow users the option to not consolidate payments by type of payment method (i.e. consolidate checks but not EFT).

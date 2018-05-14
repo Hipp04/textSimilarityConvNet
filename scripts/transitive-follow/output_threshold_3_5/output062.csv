@@ -1,0 +1,15 @@
+ID,Similarity,Requirement
+705050,3.5303319137,Provide the ability to reverse an unpaid payment invoice.
+705062,3.6559290206,Provide the ability to indicate whether payment is final or partial upon entry of the invoice.
+705098,3.6095019244,Allow the option for a vendor to specify whether or not to consolidate payments by type of payment method (i.e. consolidate  checks but not EFT).
+705035,3.5848760415,Support the ability for a vendor to update W-9 and direct deposit information via self service using Web access.
+705033,3.8735630791,Support the ability to electronically notify vendors of payment data availability through vendor self service.
+705077,3.6575312074,Automatically default certain line item details for PO related payments during vendor invoice entry with override capability.
+705001,3.5149134225,"Accumulate and display monthly, year-to-date (calendar or fiscal year), and inception-to-date (for lifetime of vendor) figures for:  Purchases by vendor (i.e., by invoice, purchase order / contract number, purchase item, budget unit)."
+705002,4.1057909376,"Accumulate and display monthly, year-to-date (calendar or fiscal year), and inception-to-date (for lifetime of vendor) figures for:  Payments to vendor, by contract, contract type, invoice, account."
+705080,3.7541115402,Permit disbursements (warrants) to vendors that do not have a unique number in the vendor table (one time vendors).
+705097,4.1556781965,Allow users the option to not consolidate payments by type of payment method (i.e. consolidate checks but not EFT).
+705058,3.5032886173,Allow users to drill down to all purchase order information on-line during payment voucher processing.
+705091,3.6520029504,Allow for the release of payment vouchers to payment processing by the following: Individual line item.
+705089,4.7048232579,Allow for the release of payment vouchers to payment processing by the following: Batch.
+705090,4.7661350768,Allow for the release of payment vouchers to payment processing by the following: Document.

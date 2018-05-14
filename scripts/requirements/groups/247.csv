@@ -1,0 +1,54 @@
+"Section:PL-Fleet Management, Work Orders (53 Reqs)"
+714091,High,,"Allow agency fleet class owners to define, maintain and view repair codes including the repair code and a work description."
+714092,High,,"Allow agency fleet class owners or other authorized users to define rates for repair services by agency, employee, maintenance  shop or skill within a maintenance shop."
+714093,Medium,,Track regular and overtime labor.
+714094,Medium,,Track general shop as well as individual mechanic labor rates.
+714095,Medium,,Allow for assignment of individual overtime rates to each mechanic.
+714096,Medium,,Provide capability to establish at the agency levels work flows for work request and job estimate review and approval based on  user defined business rules and threshold levels.
+714097,Medium,,Allow an operator of a fleet/equipment unit or authorized user to generate a work request for a required repair or service to a  fleet/equipment unit.
+714098,Medium,,Capture on work request the nature of the problem/service/repair and the criticality.
+714099,Medium,,"Allow work orders to be charged to an active grant, project or combination of chart of accounts codes."
+714100,Low,,Provide for a repairs-to-do lookup feature from repair order entry enabling user to add repair-to-do to existing repair order..
+714101,Low,,Support driver notes to the mechanic of a minimum of 240 characters per work request.
+714102,Low,,Provide the ability to attach various file types to the work request/work order.
+714103,Medium,,Route work order request for a service or repair to the operator's supervisor or other authorized user for approval based on  agency specific business rules.
+714104,Medium,,"Route work order automatically to the appropriate maintenance shop for review, estimating and assignment based on  maintenance shop designated in the fleet inventory or other user defined business rules."
+714105,Medium,,Allow for re-assignment of work order between maintenance shops or to an external repair vendor.
+714106,Medium,,"Capture estimated cost (labor, parts, other costs) for a work order."
+714107,Medium,,"Support multiple repair types on a work order (such as the inclusion of a warranty repair on a PM work order), while still allowing  detailed analysis by repair type."
+714108,Medium,,"Provide a mechanism to red flag repairs caused by the negligence of others (i.e. traffic accidents, vandalism, etc.) The party  determined at fault must be able to then be billed for these repairs."
+714109,Medium,,Integrate with BRIM to automatically report the estimated repair costs associated with accidents.
+714110,Medium,,Allow for automated routing of work order back to operator (requestor) and/or operator's supervisor for approval of the estimate  and generation of the work order.
+714111,Medium,,"Allow the maintenance shop supervisor to view each mechanic's current work queue in a maintenance shop including assigned  jobs, estimated completion times for each job and estimated availability time."
+714112,Medium,,Allow a maintenance shop supervisor to identify options for assignment of a work order based on skill set and level of mechanic.
+714113,Medium,,Allow a maintenance shop supervisor to assign and automatically route via a work flow a work order to a mechanic within the  maintenance shop.
+714114,Medium,,Allow the maintenance shop supervisor to adjust the priority of a work order moving a work order up in the mechanics work  queue.
+714115,Medium,,Support multiple mechanics on a single repair order.
+714116,Medium,,"Create or automatically generate work orders based on user defined business rules (preventive maintenance schedules,  warranty check, inspections, etc.)."
+714117,Medium,,Notify via email the assigned operator or designated owner of the fleet/equipment unit of automatically generated work orders.
+714118,Medium,,Generate work orders for external repairs.
+714119,Low,,Allow for e-mail or fax of repair tickets directly to vendors.
+714120,Medium,,Provide the capability to integrate with management systems of multiple outsourced maintenance providers to electronically  transfer work order information.
+714121,Medium,,Route assigned work orders automatically via work flow to the mechanics work queue.
+714122,Medium,,Allow mechanic to log start time on a job by selecting it from their work queue through online entry or scanning a printed bar code  on a printed work order form.
+714123,Medium,,Identify and display all warranties and preventive maintenance as part of a work order.
+714124,Medium,,Generate part list and maintenance procedures with the work orders.
+714125,Medium,,Auto create the parts requisition with the work order.
+714126,Medium,,"Allow a mechanic to perform data entry of parts utilized, parts returned to inventory and other information through scanning of bar  codes on the parts, etc."
+714127,Medium,,Allow mechanic to indicate work order completion.
+714128,Medium,,Allow authorized user to review and approve work order as completed.
+714129,Medium,,Prevent further changes to a work order after approval. Further changes will require an additional transaction against the work  order so that the audit trail of changes is maintained.
+714130,Medium,,Allow a work order to be credited to allow for both current and past errors.
+714131,Medium,,"Provide work order search capability by a number of parameters including maintenance shop, status (open, closed, cancelled),  date range, work order type, fleet/equipment type, make, model, etc."
+714132,Medium,,"Restrict work order search capability and access to work orders by agency, maintenance shop with an agency and by a user's  roles/responsibilities."
+714133,Medium,,Allow for partially complete repair orders that remain open through month and year end without starting new repair order.
+714134,Medium,,Allow authorized users to credit repairs on an existing repair order without deleting when data entry mistakes are made.
+714135,Medium,,Update employee time information in the ERP time and labor function based on the actual time reported by the employee on the  work order. Total time for an employee for each day should be pre-populated on the time sheet based on the total time charged  to work orders that day.
+714136,Medium,,Update parts inventory in ERP inventory function based on parts used on a work order.
+714137,Medium,,Update parts inventory in ERP inventory function based on any parts credited in a work order (returned to inventory).
+714138,Medium,,Track maintenance against the warranty associated with each piece of equipment and/or components.
+714139,Medium,,Capture cost avoidance information associated with maintenance against the warranty work performed on each vehicle and each  piece of equipment and/or components.
+714140,Medium,,Print warranty tracking and labels at time of repair.
+714141,Medium,,Update equipment costs with recovered warranty dollars.
+714142,Medium,,Integrate with ERP accounts payable function to support payment for completed work orders via procurement card or warrant for  external repairs and intergovernmental billing for repairs performed by one State agency for another agency.
+714143,Medium,,Integrate with ERP general ledger function to support intergovernmental billing for repairs performed by one State agency for  another agency.

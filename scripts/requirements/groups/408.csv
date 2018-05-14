@@ -1,0 +1,10 @@
+"Section:PL-Transportation Asset Inventory, Outdoor Advertising (9 Reqs)"
+717308,Medium,,Maintain an inventory of outdoor advertising signs.
+717309,Medium,,Store owner/licensee.
+717310,Medium,,Store permit number.
+717311,Medium,,Store sign type.
+717312,Medium,,Store number of sign faces.
+717313,Medium,,Store permit issued date.
+717314,Medium,,Store permit expiration date.
+717315,Medium,,Store location of sign in terms of left or right of centerline along with station number.
+717316,Medium,,Integrate with ERP accounts receivable to manage billing and collection of required outdoor advertising licensing and permit fees.

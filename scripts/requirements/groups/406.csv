@@ -1,0 +1,8 @@
+"Section:PL-Transportation Asset Inventory, Rail Signals (7 Reqs)"
+717293,Medium,,Provide support for railroad signals.
+717294,Medium,,Store crossing number.
+717295,Medium,,Store type and number of signaling device if present.
+717296,Medium,,Store number of lanes of traffic.
+717297,Medium,,Store surface type of crossing.
+717298,Medium,,Store rail line owner.
+717299,Medium,,Store rail line operator.

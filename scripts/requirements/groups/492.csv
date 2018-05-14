@@ -1,0 +1,11 @@
+"Section:SW-Reporting and Business Intelligence, Data Warehouse Administration (10 Reqs)"
+718522,High,,Provide data warehouse refreshes that are efficient and timely.
+718523,High,,Enable users to run ad hoc reports and queries without data warehouse performance degradation.
+718524,Medium,,"Enable data refresh to occur on different refresh schedules by functionality as a scheduled event, real time, or manual."
+718525,Medium,,Provide a set of system administrator tools to support monitoring and maintaining the data warehouse.
+718526,Medium,,Provide user-controlled definition and maintenance of system values and business rules in tables without requiring programmer  intervention or recompilation of programs.
+718527,Medium,,Enable the administrator to customize their alerts and tracking of data warehouse performance including data staging  performance and reporting performance.
+718528,Low,,Provide the capability to offer suggestions to users based on query statistics that a published query already exists that could  meet the function for which a user is attempting to develop a query.
+718529,High,,Support archiving and purging of data in the data warehouse according to user defined business rules which will vary by  information type.
+718530,High,,Maintain an active metadata repository that contains definitions of all data elements and attributes within the data warehouse.
+718531,Medium,,Support the ability to customize the delivered data structure.

@@ -1,0 +1,13 @@
+"Section:PL-Facilities Management, Parking (12 Reqs)"
+713859,Medium,,Provide the ability to manage parking assignments.
+713860,Medium,,Allow for management of parking lots at the enterprise level or by a group of agencies or an individual agency.
+713861,Medium,,Maintain information about parking assignments.
+713862,Medium,,Integrate with ERP personnel administration to store and display employee ID number for parking assignments.
+713863,Medium,,Integrate with ERP personal administration to store employee name for parking assignments.
+713864,Medium,,"Store vehicle information including tag, model, make, year for multiple vehicles used by the employee."
+713865,Medium,,Store parking tag ID.
+713866,Medium,,"Store parking location including number, lot and facility."
+713867,Medium,,Allow recording parking tags without assigning the tag to a location.
+713868,Medium,,"Display parking information by employee, parking lot, agency unit or other parameters with appropriate security."
+713869,Medium,,"Support a minimum of 3 type of assignments (i.e., temporary reservation, assigned, unassigned)."
+713870,Low,,Integrate with ERP personnel administration function to maintain a waiting list for available spaces in a lot based on user defined  business rules for space allocation.

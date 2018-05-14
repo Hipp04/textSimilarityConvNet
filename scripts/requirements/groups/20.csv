@@ -1,0 +1,96 @@
+"Section:FIN-Budget Development, General (95 Reqs)"
+706086,High,,Provide a fully integrated budget preparation and financial system.
+706087,High,,"Support multiple versions of the budget (expenditure and revenue estimates, multiple agency submission versions, Office of  Budget and Fund Management versions, executive recommendation versions, Legislative Budget Office versions, appropriation  versions, and agency operating budget versions)."
+706088,High,,Provide a fully integrated personal services budget preparation and human resource system that incorporates user-defined  payroll assumptions (such as COLA or other across the board adjustments).
+706089,High,,Provide a fully integrated personal services budget preparation and human resource system that incorporates projections of  vacancy rates based on historical information.
+706090,High,,Provide a fully integrated personal services budget preparation and human resource system that incorporates projections of  salary ranges based on HR-defined business rules.
+706091,High,,Provide a fully integrated personal services budget preparation and human resource system that incorporates benefits and  compensation captured in state-offered benefits.
+706092,Medium,,Provide a fully integrated personal services budget preparation and human resource system that incorporates multiple position- based funding assignments for specified periods.
+706093,High,,Ability to compare different versions of the budget.
+706094,Medium,,Ability to present historical financial information after a reorganization in both the original structure and the revised structure.
+706095,Medium,,Allow for export of budget results to other agency systems.
+706096,High,,"Provide ""mass budget update"" functionality for all Chart of Accounts elements."
+706097,High,,"Calculate budget projections using modeling tools and techniques including multi-variant analysis, what-if simulation, and  integration with PC based analytical applications."
+706098,High,,Provide budget calculations based on actual balance.
+706099,High,,Provide budget calculations based on budgeted balances within a budget version.
+706100,High,,Provide budget calculations based on statistical information.
+706101,High,,"Provide version control (marking as complete, freezing, unfreezing, copying, and modifying)."
+706102,High,,"Provide ""undo/redo"" functionality for budget changes prior to changing the budget version."
+706103,Medium,,Identify changes made by lower level in response to reviewer's change request.
+706104,Medium,,Automatically alert the next user that a version has been frozen.
+706105,Medium,,Alert the next user that no changes were entered in the system before a version was frozen.
+706106,Medium,,Allow the next user to make requested change.
+706107,Medium,,Alert the next user of completion of an assignment or task.
+706108,Medium,,Automatically trigger work once the next version is created.
+706109,Medium,,Ability to identify behind time/calendar schedule entries.
+706110,High,,Ability to allow for remote access from home or remote office with encryption requirements.
+706111,Medium,,Ability to view attachments from within the application.
+706112,Medium,,Allow entry of negative amounts for line item amounts or adjustments.
+706113,Medium,,Allow components of a budget request to be excluded when copying one version to another.
+706114,Medium,,Control user view through role-based security.
+706115,Medium,,Control user updates based on organizational span of control.
+706116,Medium,,Allow the user to change key fields to include a narrative description (250 characters) of the reason for the change.
+706117,Medium,,Identify changes made to key fields.
+706118,Medium,,Allow users to specify the level of rounding that occurs in the budget preparation process in rules definition.
+706119,Medium,,Allow users to specify the level of rounding that occurs in the budget preparation process in reports.
+706120,Medium,,Allow users to specify the level of rounding that occurs in the budget preparation process in projections.
+706121,Medium,,Allow reorganizations to be processed by dropping and dragging an organization from one location to another on a graphical  depiction of the organization.
+706122,Medium,,Allow the user to view the impact of organizational shifts on the budget.
+706123,High,,Provide word processing capability for the textual write-up of the budget document using user-defined templates.
+706124,Medium,,Support multiple sources of revenue for a budget line item within a single fund.
+706125,Medium,,Capture narrative explanation for budget requests.
+706126,High,,Automatically load the appropriation and operating budget into the financial system once approved.
+706127,Medium,,Check for approval before loading budgets into the financial system.
+706128,Medium,,Allow the user to identify an account code value as one which will be used for budget values only.
+706129,Medium,,Use the same baseline Chart of Accounts elements as the State's other financial systems.
+706130,Medium,,"Ability for user-defined attributes such as budget roll-up codes, which further qualify elements within the Chart of Accounts."
+706131,Medium,,Generate budgetary-based funds statements based on historical and budgeted financial data.
+706132,High,,Ability to Develop budgets for at least six fiscal years.
+706133,Medium,,Develop both summary budgets and detail budgets at any level of the Chart of Accounts.
+706134,Medium,,"Ability to enter budget requests at a high level (e.g., appropriation) and optionally develop detailed budgets at a lower level with  the budget summarized and approved at the higher level."
+706135,High,,Import data from the financial system by appropriation for all line items.
+706136,High,,Receive data from and export data to spreadsheets and/or database applications.
+706137,Medium,,"Attach files (e.g., Word, Word Perfect, Excel, Lotus) to particular phases and line items."
+706138,High,,Accept interfaced salary projections and load into state-wide and agency budget scenarios.
+706139,Medium,,Ability to adjust salary projections within the budget scenarios.
+706140,Medium,,"Control user access and approval levels (e.g., view, change, approve) by multiple levels of an organization."
+706141,Medium,,"Control ""view"" access by Chart of Accounts value(s) and/or by multiple levels of an organization."
+706142,Medium,,Ability to group appropriation sources and uses for program/activity level budget presentation.
+706143,Medium,,Ability for each appropriation to relate to a single program in the budget request.
+706144,Medium,,Ability for each appropriation to relate to multiple programs in the budget request.
+706145,Medium,,"Ability to adjust appropriation level coding in historical, current, and budget versions to align data with agency proposed budget  structure."
+706146,High,,Ability to record and maintain: Purpose of Appropriation (minimum 256 characters).
+706147,Low,,Ability to record and maintain: (50) Funding Source (minimum 30 characters).
+706148,Low,,Ability to record and maintain: (50) Bank Accounts (minimum 30 characters).
+706149,Low,,Ability to record and maintain: (50) Bank Name (minimum 30 characters).
+706150,Low,,Ability to record and maintain: (50) Bank Account Balances.
+706151,Medium,,Ability to record and maintain: Restricted / Non-Restricted Indicator.
+706152,Medium,,Ability to record and maintain: Members of boards.
+706153,Medium,,Ability to record and maintain: terms of board members.
+706154,Medium,,Ability to record and maintain: # meetings per year.
+706155,Medium,,Ability to record and maintain: (50) Acceptable Uses (minimum 256 characters).
+706156,High,,"Ability to record and maintain: Legal Authority for Creation (each a minimum 25 characters), including the System provides the  ability for multiple citations and linking to external data sources."
+706157,Medium,,Ability to record and maintain: Appropriation Type (minimum 15 characters).
+706158,Medium,,Ability to record and maintain: Appropriation Title (minimum 256 characters).
+706159,High,,Ability to record and maintain: Ongoing or One-time.
+706160,Medium,,Identify the number of years an Ongoing appropriation is valid for.
+706161,Medium,,Ability to record and maintain: Carryover or Cancel.
+706162,High,,Ability to record and maintain: Operating or Grant.
+706163,Medium,,Ability to record and maintain: Multiple User-defined Indicators (at least 5).
+706164,Medium,,Ability to record and maintain: Multiple User-defined Fields (at least 15).
+706165,Medium,,Ability to record and maintain: Spending Authority.
+706166,Medium,,Ability to group/organize and report appropriation sources and uses at the Legal Level of Budgetary Control (LLBC).
+706167,Medium,,"System orientation is based on Sources and Uses of funds, including: Direct Appropriation."
+706168,Medium,,"System orientation is based on Sources and Uses of funds, including: Tax Revenue."
+706169,Medium,,"System orientation is based on Sources and Uses of funds, including: Dedicated Revenue."
+706170,Medium,,"System orientation is based on Sources and Uses of funds, including: Transfers."
+706171,Medium,,"System orientation is based on Sources and Uses of funds, including: Carry forward."
+706172,High,,"System orientation is based on Sources and Uses of funds, including: Grants."
+706173,Medium,,"System orientation is based on Sources and Uses of funds, including: (10) User-Defined Sources/Uses of Funds."
+706174,Medium,,"System orientation is based on Sources and Uses of funds, including: High-level expense objects."
+706175,Low,,Ability to organize budget requests and historical data by appropriation across multiple agencies.
+706176,Medium,,Ability to optionally enter sub-appropriations into the budget system that roll up to appropriations.
+706177,Medium,,Ability to enter budget requests in varying levels of detail within one appropriation.
+706178,Medium,,"Ability for authorized users to review, modify, and approve budget baseline and actuals."
+706179,High,,Ability for Legislative Budget Office/State Budget Office to configure multiple budget forms.
+706180,High,,"Ability to develop the budget at the object of expenditure, source of funding and position information level by any Chart of  Accounts field."

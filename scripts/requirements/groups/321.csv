@@ -1,0 +1,32 @@
+"Section:PL-Procurement, Procurement Card (Payment Card) Processing (31 Reqs)"
+715861,High,,"Support entry of P-card as a form of payment for items ordered via the eProcurement system (e.g., catalogs, spot purchases,  etc.) and be able to control amounts and usage by agency, commodity, and individual."
+715862,High,,Provide the ability to support entry of P-card as a form of payment for items ordered via the Procurement module in ERP.
+715863,High,,Provide the ability to capture key accounting classification data at time of order for subsequent matching to the statement billing  file received from bank.
+715864,High,,"Provide the ability to track the P-card procurement vendor ID (tax ID , MPS ID, or DUNS) and small business/minorityowned/ other targeted business status."
+715865,High,,Provide the ability for the reconciliation of the P-card.
+715866,High,,"Provide the ability to set up / manage P-card master data with\card validity data, the card holder's information, dollar limits and  approvers with appropriate security."
+715867,High,,"Provide the integration between P-card master setup/maintenance and the HR module, to verify employee information (employee  id and/or position number) for status changes. Provide notification to P-Card coordinators to review P-Card authorization  appropriateness for change in position."
+715868,High,,"Provide the integration between P-card master setup/maintenance and the HR modules, to verify employee leave information.  Provide notification to pcard administrators and pcard coordinators for pcard holders who begin extended leave status."
+715869,High,,"Provide the integration between P-card master setup/maintenance and the HR modules to allow validation of required training  completion for cardholders, pcard coordinators, and pcard administrators."
+715870,High,,"Provide the integration between P-card master setup/maintenance and the HR module, and send notification to pcard  administrators and pcard coordinators when card holder terminates employment."
+715871,High,,Support the ability to store 1099 information for transactions paid by P(payment) card.
+715872,High,,Provide an audit trail for all user ids with a time and date stamp for all actions in the reconciliation and approval process to meet  required signature requirements.
+715873,High,,Support the ability to store transaction ID information for transactions paid by P(payment) card.
+715874,High,,Support the ability to link to scanned images for transactions paid by P(payment) card.
+715875,High,,"Provide the ability to consolidate pcard transactions with non pcard transactions to report total spend by vendor, agency, item,  commodity and all chart of accounts elements."
+715876,High,,Provide the ability for workflow for card issuance approvals including but not limited to P-Card administrators.
+715877,High,,"Provide the ability to export contract vendors information to the bank card issuer, to facilitate authorization strategies."
+715878,High,,"Provide the ability to import bank statements, including transaction detail."
+715879,High,,"Provide the ability to distinguish card types from transactions received from bank such as travel, ghost cards or cardless  accounts (agent number)."
+715880,High,,"Provide the ability to workflow bank statements that require review and the ability to change chart of account elements  information for the line item details (e.g. change cost center, project, fund)."
+715881,High,,"Provide the ability to generate accounting documents, including the electronic funds transfer to pay the bank and the distribution  to charge the account assignment."
+715882,High,,"Provide the ability to have users prepare online logs to include budgetary coding, approvals online."
+715883,High,,Provide the ability to import DEF (Data Exchange File) from the bank (current processor is TSYS).
+715884,High,,Secure access for each processor to transactions by organizational unit and authorization.
+715885,High,,Supports DEF file hierarchy of seven levels each with five characters and supports a description field.
+715886,Medium,,Support the ability to default expense type from DEF by card type (travel) and MCC (Merchant Category Code) with override  capability at reconciliation time.
+715887,Medium,,Support the ability to default the accounting distribution (string) from the DEF with override capability allowing multiple lines of  accounting distributions at reconciliation time.
+715888,High,,Supports the ability to send pcard transaction information to the travel system based upon card hierarchy or for Onecard  expense type (travel indicator).
+715889,High,,"Supports the ability to send transaction detail to the travel system. Detail includes traveler ID, transaction Id, vendor, transaction  date, amount, and accounting distribution."
+715890,High,,"Provide the ability to track purchasing card purchases and items received by vendor, item, agency, and commodity."
+715891,High,,Provide the ability to capture P-card transactions in the system to record the reduction of funds (encumbrance/commitment).

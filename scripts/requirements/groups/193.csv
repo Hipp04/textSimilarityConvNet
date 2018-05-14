@@ -1,0 +1,10 @@
+"Section:PL-Bridge Management, Deterioration Models (9 Reqs)"
+713219,High,,Simulate bridge deterioration over time for use in bridge-by-bridge economic assessment of current and future alternatives.
+713220,Medium,,"Provide deterioration models which project the nature, extent and severity of deterioration of each element."
+713221,High,,"Provide deterioration models which project overall condition of a bridge and condition ratings for the deck, superstructure and  substructure."
+713222,High,,Ensure deterioration models reflect most current updates to bridge inventory or inspection information or maintenance work  performed.
+713223,Medium,,"Include bridge element deterioration rates for various material and structural types, ADT levels, roadway systems, and  geographical areas."
+713224,Medium,,"Support analysis on impact of how structures and components deteriorate or result in reduced performance as a result of  weather, traffic, and other environmental exposure factors."
+713225,Medium,,Predict condition for each element for a user defined number of years.
+713226,Medium,,Support analysis of vulnerability to natural and man-made hazards.
+713227,Medium,,"Support development of vulnerability ratings for scour, fatigue/fracture, earthquake, collision, overload, and other human-made  hazards."

@@ -1,0 +1,24 @@
+"Section:FIN-Cash Management, Reporting and Inquiry (23 Reqs)"
+706835,High,,"Provide cash flow monitoring and reporting, including a comprehensive cash receipts/disbursements journal based upon user- specified criteria."
+706836,Medium,,Provide user-defined cash reporting that can be run on a daily or monthly basis.
+706837,Medium,,Provide a cash flow report that ties to the general ledger cash accounts. This requires the ability to track offsetting accounts  directly related to a cash transaction.
+706838,Medium,,"Provide a cash flow analysis tool that can be utilized to generate cash projections and 'what if' analysis, including the following:  Retrieval of actual monthly ""cash"" receipts and disbursement dollar amounts including agency trust funds by each month at the  lowest levels, i.e., transaction level with the ability to roll items up to higher levels at user's discretion."
+706839,Medium,,"Provide a cash flow analysis tool that can be utilized to generate cash projections and 'what if' analysis, including the following:  Maintain totals and subtotals of receipts and disbursements by month and line."
+706840,Medium,,"Provide a cash flow analysis tool that can be utilized to generate cash projections and 'what if' analysis, including the following:  Retain history of actual receipt and disbursement dollar amounts."
+706841,Medium,,"Provide a cash flow analysis tool that can be utilized to generate cash projections and 'what if' analysis, including the following:  Retain history of monthly projections."
+706842,Medium,,"Provide a cash flow analysis tool that can be utilized to generate cash projections and 'what if' analysis, including the following:  Allow users the flexibility of determining monthly projections (using selected projection method, i.e., straight-line, proportionate  allocation) down to individual item/cell level."
+706843,Medium,,"Provide a cash flow analysis tool that can be utilized to generate cash projections and 'what if' analysis, including the following:  Allow an Agency to combine multiple line items and apply projection parameters such as: change in billing/paying cycle from  monthly to quarterly; change in tax rates; etc."
+706844,Medium,,"Provide a cash flow analysis tool that can be utilized to generate cash projections and 'what if' analysis, including the following:  Provide reports comparing cash flow projections to actual at all levels from line item to Departmental level summary."
+706845,Medium,,"Provide a cash flow analysis tool that can be utilized to generate cash projections and 'what if' analysis, including the following:  Provide a cash projection for the upcoming fiscal year based on available data and user defined modeling parameters."
+706846,Medium,,"Provide a cash flow analysis tool that can be utilized to generate cash projections and 'what if' analysis, including the following:  Display actual fiscal year months receipts and disbursements data with remaining projection months data."
+706847,Medium,,"Provide a cash flow analysis tool that can be utilized to generate cash projections and 'what if' analysis, including the following:  Print reports from the detailed to the summary level for official reports, i.e., official statements."
+706848,Medium,,"Provide a cash flow analysis tool that can be utilized to generate cash projections and 'what if' analysis, including the following:  Provide ability to export cash projection data to spreadsheet format."
+706849,High,,Able drill down from summary deposit or disbursement balances to the supporting detailed transactions.
+706850,High,,Provides average clearance reports.
+706851,High,,Provide ability to export average clearance report to file.
+706852,Medium,,"Report daily transactions by type and projections for user defined periods or days (i.e., 5 day projections) for all wire, ACH, and  warrant transactions."
+706853,Medium,,Provide ability to produce a report that gives information necessary for drawing down funds from grants.
+706854,Medium,,Provide ability to view fund balances online.
+706855,Medium,,Provide ability to report on actual versus projected cash positions.
+706856,Medium,,Provide ability to produce reports on fund balances.
+706857,Medium,,Provide ability to monitor accounts in the system.

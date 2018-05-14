@@ -1,0 +1,19 @@
+"Section:PL-Facilities Management, Work Calendar (32 Reqs)  StmtID"
+713556,Rating,,"Medium  Requirement  Produce an annual work calendar that will show, for each facilities maintenance unit, the number of crew-days of work planned  for each activity by month of the year, using the monthly percent distribution for each activity from the activity performance  guidelines.  Support Source"
+713557,Medium,,Provide for planned annual and monthly crew-days by activity.
+713558,Medium,,"Provide for planned annual and monthly labor hours by labor class, with an option to show the equivalent number of individuals  needed in each month in each class along with the current number available."
+713559,Medium,,"Support planned annual and monthly equipment hours by equipment class, with an option to add the equivalent number of  pieces of equipment needed each month in each equipment class along with the current number available."
+713560,Medium,,Support planned annual and monthly material quantities by material class.
+713561,Medium,,Provide a user-friendly scheduling tool.
+713562,Medium,,Allow entry/selection of the date and scheduling period.
+713563,Medium,,Allow selection of maintenance unit and the crew leader from a pick list.
+713564,Medium,,"Allow selection of activity number from a pick list with activity name and measurement unit, and crew size appearing  automatically on the schedule."
+713565,Medium,,"Allow entry of employee name or number or selection from a pick list, with employee name and labor class appearing  automatically on the schedule."
+713566,Medium,,Allow assignment of hours to selected days of the week for each individual in the crew.
+713567,Medium,,Provide cross checks to ensure that employees are not over-scheduled unless overtime is planned or authorized.
+713568,Medium,,"Provide capability to adjust the annual schedule on a monthly, weekly or daily basis to generate the specific crew work schedule  with adjustments made in a given week or month adjusted forward on the annual work plan."
+713569,Medium,,Provide the capability to adjust scheduled work activities from one work period to another.
+713570,Medium,,Provide the ability to add one or more assigned work schedules to an individual or crew's weekly or daily schedule.
+713571,Medium,,Provide for display and printing of the schedule.
+713572,Medium,,Support routing of the schedule through a workflow within the system.
+713573,Medium,,Support routing of the schedule via email.

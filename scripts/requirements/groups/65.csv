@@ -1,0 +1,44 @@
+"Section:FIN-FHWA Billing, Establish Federal Agreements (43 Reqs)"
+707305,High,,Establish and maintain record of Federal funds (apportionment) available for transportation programs funded through the Federal  Highway Administration (FHWA) by program category and federal fiscal year.
+707306,High,,Provide the ability to have the federal agreement process supported by workflow.
+707307,High,,Establish and maintain a record of the obligation ceiling applicable to a specific groups of the program categories and/or  individual program categories by federal fiscal year.
+707308,High,,Record federal agreements that allocate funds available from FHWA by program category to approved projects and project  phases and project stages. Note: This process obligates federal apportionments to specific projects and phases.
+707309,High,,Support the entry of modifications to existing agreements using workflow. Note: The majority of funding activity involves  modifications to an existing agreements. Modifications are needed for a variety of reasons ranging from changing the scope of a  project to changing the funding of a project.
+707310,Medium,,Provide the ability to close and reopen projects.
+707311,High,,Retain complete history of modifications.
+707312,High,,Record and maintain the dates of agreement actions (such as submission/approval) at user defined levels of detail.
+707313,Medium,,Record and maintain other multiple critical dates such as: Environmental approval dates.
+707314,Medium,,Record and maintain other multiple critical dates such as: State transportation improvement plan dates.
+707315,Medium,,Record and maintain other multiple critical dates such as: Right of Way certification dates.
+707316,High,,Provide for agreement actions (new and modifications) to be recorded at various stages in the agreement process so the effects  of actions pending federal approval can be retained and reported along with federally approved actions.
+707317,High,,Maintain and report unobligated funding balance by Federal program category (apportionment) and obligation ceiling.
+707318,High,,Support the ability to track special earmarks including the ability to have multiple on one project and to capture expiration date if  applicable.
+707319,High,,Support the ability to track federal appropriation funding with a minimum of six digits alphanumeric indicator.
+707320,High,,Support the final bill process including workflow routing for approval with attached supporting documentation.
+707321,High,,Support the closing process for federal aid project in FMIS and ERP .
+707322,High,,Support GARVEE bond process.
+707323,High,,Report effect of each fund obligating action immediately to user as actions are entered for the following: New agreement.
+707324,High,,Report effect of each fund obligating action immediately to user as actions are entered for the following: Pending modification to  agreement.
+707325,High,,Report effect of each fund obligating action immediately to user as actions are entered for the following: Approved modification to  agreement.
+707326,High,,Allow on an agreement record for a federal aid project to be funded from multiple federal program categories.
+707327,High,,Records must allow multiple federal projects to fund a single state project.
+707328,Medium,,Support the ability to allow each project to be subdivided into multiple phases or stages with unique authorization dates for each  based on user defined business rules.
+707329,High,,Record and report total funding for all federal projects including federal funds obligated and state and local matching funds..
+707330,High,,Records must allow agreement criteria to be entered and reported including: State match.
+707331,High,,Records must allow agreement criteria to be entered and reported including: Local match.
+707332,High,,Records must allow agreement criteria to be entered and reported including: In-kind match.
+707333,High,,Records must allow agreement criteria to be entered and reported including: Soft match.
+707334,High,,Records must allow agreement criteria to be entered and reported including: Toll credit.
+707335,High,,Records must allow agreement criteria to be entered and reported including: Toll operating revenue.
+707336,High,,Records must allow agreement criteria to be entered and reported including: Grant Anticipation Revenue Vehicles (GARVEE).
+707337,Low,,Records must allow agreement criteria to be entered and reported including: State Infrastructure Banks (SIB).
+707338,Low,,Records must allow agreement criteria to be entered and reported including: Bridge credits.
+707339,Low,,Records must allow agreement criteria to be entered and reported including: Transportation Infrastructure Finance and  Innovation Act (TIFIA).
+707340,High,,Records must allow agreement criteria to be entered and reported including: Tapered match.
+707341,High,,Records must allow agreement criteria to be entered and reported including: Other user defined to meet federal law and  regulations.
+707342,High,,"Provide an on-line indicator that a project is utilizing one of the special matching requirements such as in-kind match or tapered  match,."
+707343,High,,Provide the ability to calculate the toll credit.
+707344,High,,"Track and report agreements to multiple agencies, both state and local."
+707345,High,,Electronically transmit federal aid agreement data to FHWA's system (FMIS) for authorization. .
+707346,High,,Receive and record FHWA approval for agreement actions electronically.
+707347,Medium,,Track and report the total amount of funding committed in the entire Federal aid program.

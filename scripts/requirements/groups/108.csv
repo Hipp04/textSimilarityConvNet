@@ -1,0 +1,50 @@
+"Section:HRP-Applicant Services, General (49 Reqs)"
+709001,High,,"Track and process external applicants (e.g., competitive) as well as current employees (e.g., internal mobility), non-merit  employees, and former employees with reemployment rights applying for open positions."
+709002,Medium,,Track functions within the State to include: creation of a register for vacant positions.
+709003,Medium,,Track functions within the State to include: approval of register request.
+709004,Medium,,"Track functions within the State to include: tracking of register request status (pending, filled, complete, on-hold)."
+709005,Medium,,Track functions within the State to include: tracking of applicants.
+709006,Medium,,Track functions within the State to include: processing of registers and eligibility lists.
+709007,Medium,,Track functions within the State to include: management of testing and interview process.
+709008,Medium,,Track functions within the State to include: tracking of the interview process.
+709009,Medium,,Track functions within the State to include: management of historical staffing and hiring history.
+709010,Medium,,Produce applicant email notifications or letters based on user-defined option.
+709011,Medium,,Prohibit reapplication for a user define period of time set by posted job.
+709012,Medium,,All applicant notifications/letters may be by email or US mail based on applicant selectable option.
+709013,High,,Post a job position based on a future date and have the position automatically become available on the website on that date.
+709014,High,,Post a job position based on a future expected vacancy date (assuming current job position is currently filled).
+709015,Medium,,Interface applicant tracking with the following State and external systems: drivers license database.
+709016,Medium,,"Interface applicant tracking with the following State and external systems: external job boards (craig's list, etc.)."
+709017,Medium,,Interface applicant tracking with the following State and external systems: testing and examinations.
+709018,Medium,,Interface applicant tracking with the following State and external systems: workforce development (unemployment).
+709019,Medium,,Interface applicant tracking with the following State and external systems: DD214 (honorable discharge from armed services).
+709020,Medium,,Interface applicant tracking with the following State and external systems: selective service record.
+709021,Medium,,Interface applicant tracking with the following State and external systems: professional / occupational licensure.
+709022,Medium,,Interface applicant tracking with the following State and external systems: other designated third party sources.
+709023,Medium,,Interface applicant tracking with the following State and external systems: indexed images to existing image system (e.g. File  Net).
+709024,Medium,,Interface applicant tracking with the following State and external systems: college and education verification.
+709025,Medium,,Interface applicant tracking with the following State and external systems: I-9.
+709026,Medium,,Interface applicant tracking with the following State and external systems: SSN validation.
+709027,Medium,,Interface applicant tracking with the following State and external systems: Visa status.
+709028,Medium,,Interface applicant tracking with the following State and external systems: credit checks.
+709029,Medium,,Interface applicant tracking with the following State and external systems: employment verification.
+709030,Medium,,Interface applicant tracking with the following State and external systems: criminal background.
+709031,Medium,,Interface applicant tracking with the following State and external systems: NCIC (National Crime Information Center).
+709032,Medium,,Interface applicant tracking with the following State and external systems: retirement system.
+709033,Medium,,Integrate with imaging capability to associate scanned data with an applicant.
+709034,Medium,,Designate EEO-related staffing events for review/approval: at the time of job posting and through recruitment.
+709035,Medium,,"Designate EEO-related staffing events for review/approval: for area of competition (e.g., creation or use of limited register (not  state-wide)."
+709036,Medium,,"Designate EEO-related staffing events for review/approval: for use of related register, extend a register or reactivate a register."
+709037,Medium,,Designate EEO-related staffing events for review/approval: of interview results.
+709038,Medium,,Designate EEO-related staffing events for review/approval: of interview questionnaires.
+709039,Medium,,Designate EEO-related staffing events for review/approval: for hiring review for underutilized positions when targeted group  members have been certified.
+709040,Medium,,Designate EEO-related staffing events for review/approval: for administrative removals or suspensions of EEO candidates from  register or certification list.
+709041,Medium,,Designate EEO-related staffing events for review/approval: for recruitment activity plan.
+709042,Medium,,"Attach comments and other documents (Excel, Word, etc.) to applicant records."
+709043,Medium,,Track affirmative action hiring goals and produce statistical performance measures for specified positions by organization unit.
+709044,Low,,Full text search capability for resumes and applications.
+709045,Medium,,"User-specified workflow approval routing of job postings, certified registers, and hiring process."
+709046,Medium,,Integrate with Microsoft Outlook to utilize standard State government settings and use of the Global Address Book and email  structure to facilitate all communication with candidates and hiring managers.
+709047,Medium,,Notify applicable agency EEO representative of upcoming interview events for underutilized positions in which targeted group  certified candidates are included so that interview panels can be briefed.
+709048,Medium,,"Notify applicable agency EEO representative of other staffing events where targeted group candidates are included such as  referrals for interim, limited-time federally funded, contract employees, internships, and stipend/scholarship trainees."
+709049,Low,,Create and maintain a rating panel resource directory to identify potential members of balanced interview and rating panels.

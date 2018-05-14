@@ -1,0 +1,28 @@
+"Section:PL-Pavement Management, RoadWare Integration (27 Reqs)"
+714769,Medium,,Integrate with RoadWare to allow linkage to and display of video images and attribute data obtained from video logs.
+714770,High,,"Capture, store, view, and utilize in analyses data collected via RoadWare."
+714771,High,,"Capture, store, view, and utilize date of inspection/survey in RoadWare."
+714772,High,,"Capture, store, view, and utilize in analyses the IRI left wheel path from RoadWare."
+714773,High,,"Capture, store, view, and utilize in analyses the IRI right wheel path from RoadWare."
+714774,High,,"Capture, store, view, and utilize in analyses the IRI average from RoadWare."
+714775,Medium,,"Capture, store, view, and utilize in analyses the half car roughness from RoadWare."
+714776,Medium,,"Capture, store, view, and utilize in analyses the legacy 3 point rutting from RoadWare."
+714777,High,,"Capture, store, view, and utilize in analyses average rut depth from RoadWare."
+714778,Medium,,"Capture, store, view, and utilize in analyses the transverse profile (1280 points across the lane) from RoadWare."
+714779,Medium,,"Capture, store, view, and utilize in analyses the left wheel path rutting from RoadWare."
+714780,Medium,,"Capture, store, view, and utilize in analyses the right wheel path rutting from RoadWare."
+714781,High,,"Capture, store, view, and utilize in analyses the faulting from RoadWare."
+714782,Medium,,"Capture, store, view, and utilize in analyses the mega texture left wheel path from RoadWare."
+714783,Medium,,"Capture, store, view, and utilize in analyses the mega texture right wheel path from RoadWare."
+714784,Medium,,"Capture, store, view, and utilize in analysis the mega texture center of the lane from RoadWare."
+714785,Medium,,"Capture, store, view, and utilize in analyses the macro texture (ASTM E 1845) from RoadWare."
+714786,High,,"Capture, store, view, and utilize in analyses the percent grade from RoadWare."
+714787,High,,"Capture, store, view, and utilize in analyses cross slope from RoadWare."
+714788,High,,"Capture, store, view, and utilize in analysis horizontal curvature from RoadWare."
+714789,High,,"Capture, store, view, and utilize in analyses vertical curvature from RoadWare."
+714790,Medium,,Provide ability to link to and retrieve digital images of the perspective view of the pavement from RoadWare.
+714791,Medium,,Provide ability to link to and retrieve digital images of the perspective view of the right shoulder of the pavement in RoadWare.
+714792,Medium,,Provide ability to link to and retrieve digital images of the perspective view of the pavement surface in RoadWare.
+714793,Medium,,Provide ability to link to and retrieve 360 degree digital images in RoadWare.
+714794,Medium,,Provide ability to link to and retrieve digital images of the perspective view of the distance between mileposts in RoadWare.
+714795,Medium,,Provide ability to link to and retrieve digital images of the perspective view of the offset in RoadWare.

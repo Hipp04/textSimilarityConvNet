@@ -1,0 +1,24 @@
+"Section:PL-Transportation Asset Inventory, Asset Inventory - Point Assets (23 Reqs)"
+717130,High,,Store county.
+717131,High,,Store municipality.
+717132,High,,Store route prefix.
+717133,High,,Store route number.
+717134,High,,Store route suffix.
+717135,High,,Store mainline type.
+717136,High,,Store direction.
+717137,High,,Store associated prefix.
+717138,High,,Store exit number or established exit name for routes with non-numbered interchanges.
+717139,High,,Store ramp number.
+717140,High,,Store route ID number.
+717141,High,,"Store route supplemental description (i.e. Toll, Alt, Spur)."
+717142,High,,"Store asset owner (WVDOT district, Parkways Authority, State Rail Authority, Division of Natural Resources, an adjoining state,  etc.)."
+717143,High,,"Store organization responsible for maintaining asset (WVDOT district, Parkways Authority, State Rail Authority, Division of  Natural Resources, an adjoining state, etc.)."
+717144,High,,Store sub station or other maintenance shop responsible for maintaining the asset.
+717145,High,,Store distance/direction from centerline (for example 15 feet left of the C/L).
+717146,High,,"Store lane indicator/designator (fast lane, slow lane, climbing lane, turning lane, etc.)."
+717147,High,,Store mile point (within county).
+717148,High,,Store latitude.
+717149,High,,Store longitude.
+717150,High,,Store year constructed or installed.
+717151,High,,Store next scheduled inspection date.
+717152,High,,Store scheduled replacement date.

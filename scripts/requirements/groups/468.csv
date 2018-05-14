@@ -1,0 +1,4 @@
+"Section:SW-General and Technical, Business Continuity (3 Reqs)"
+718287,High,,Allow for maintenance of a current back-up of the ERP database including application data and system tables and configurations  to be utilized for restoration in the event of catastrophic failure and loss of data. This includes any third party add-on modules to  the ERP.
+718288,High,,"Ensure solution is architected to allow it to be fully recoverable, with no data loss, within 48 hours of an unexpected outage."
+718289,High,,Ensure solution is architected to allow the data to be fully replicated to prevent any data loss in the event of an unexpected  outage.

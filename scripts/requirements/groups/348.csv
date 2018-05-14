@@ -1,0 +1,14 @@
+"Section:PL-Right-of-Way and Utilities, Condemnation (13 Reqs)"
+716529,High,,Generate request to institute condemnation proceedings based on initiation by an authorized user. This letter will document the  last offer to the property owner; amount asked by property owner if the property owner has disclosed a price; number of  negotiations attempt with the property owner or their authorized representative; and reasons for recommending condemnation.
+716530,High,,Document in the condemnation request the last offer to the property owner; amount asked by property owner if the property  owner has disclosed a price; number of negotiations attempt with the property owner or their authorized representative; and  reasons for recommending condemnation.
+716531,High,,Route electronically the condemnation request to authorized reviewers and approvers based on user defined business rules.
+716532,High,,Initiate condemnation proceedings based on approval of the condemnation request by authorized reviewers in the system.
+716533,Medium,,Generate 5 day letter (notice of condemnation) to the owner.
+716534,Medium,,Integrate with ERP accounts payable to generate request for warrant to compensate process server including appropriate pre- encumbrance against the project and project phase.
+716535,High,,"Store dates relevant to condemnation (e.g. date condemnation packet received, date to legal, date filed, scheduled trial date,  etc.)."
+716536,High,,Document outcome of court proceedings and amount of court award.
+716537,Medium,,Integrate with ERP accounts payable to generate request for warrant payable to Court Clerk for amount of court award including  appropriate pre-encumbrance against the project and project phase.
+716538,High,,Ensure that a 1099 is not generated for the amount of a condemnation award (since condemnation award is payable to the Court  which is responsible for any 1099 reporting to property owners upon making payment).
+716539,High,,Document a legal settlements prior to condemnation and capture settlement amount and other settlement information in system.
+716540,Medium,,Integrate with ERP accounts payable function to initiate payment request for settlement amount. This should include pre- encumbrance for acquisition amount against project and project phase.
+716541,Medium,,"Track the condemnation rate by different parameters (e.g. fiscal year, urban/rural areas, state project, federal project, etc.)."

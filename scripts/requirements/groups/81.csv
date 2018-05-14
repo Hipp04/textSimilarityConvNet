@@ -1,0 +1,6 @@
+"Section:FIN-Grants Management, CMIA (5 Reqs)"
+707921,High,,Support the calculation of the float for both payment released and settled dates.
+707922,High,,Provide the ability to upload ACH payment.
+707923,Medium,,Support the timing of wires.
+707924,Medium,,Support the ability to separate payment by payment types (e.g. checks separate from ACH).
+707925,Medium,,Support the identification of federal refunds to assist in the calculation of interest owed for CMIA.

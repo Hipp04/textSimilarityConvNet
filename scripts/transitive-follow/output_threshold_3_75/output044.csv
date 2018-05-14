@@ -1,0 +1,5 @@
+ID,Similarity,Requirement
+705045,4.856906949,Provide chart of account number distribution changes at the line item level on: PO.
+705044,4.8568510793,Provide chart of account number distribution changes at the line item level on: Requisition.
+705046,4.6969347277,Provide chart of account number distribution changes at the line item level on: Invoice.
+705047,4.4873481529,Provide chart of account number distribution changes at the line item level on: Payment documents.

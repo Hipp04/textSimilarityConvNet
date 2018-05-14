@@ -1,0 +1,26 @@
+"Section:FIN-Project Management, Project Detail (25 Reqs)"
+708146,High,,Track the application of funding to actual expenditure.
+708147,High,,Associate multiple funding sources with projects.
+708148,High,,Associate multiple funding sources to multiple phases within projects.
+708149,High,,Identify projects lacking financial activity for a user-defined period for possible closeout.
+708150,Medium,,Calculate capitalized interest by project.
+708151,High,,Maintain historical data for all projects independent of G/L data (across multiple fiscal years).
+708152,High,,"Summarize or ""rollup"" expenditures to a higher budget level (budget not requiring minute detail)."
+708153,High,,"Separate costs by real estate acquisition, construction or by any other user definable cost grouping."
+708154,High,,"Provide a hierarchical approach to tracking and reporting projects costs and other user defined fields (i.e., main project, subproject,  task, sub-task)."
+708155,High,,Accommodates resource scheduling on projects.
+708156,High,,Provide the ability to assign resources (people) to a project.
+708157,High,,Provide the ability to attach files in various formats to the entire requisition or individual line items. Formats include: Image Files.
+708158,High,,Provide the ability to attach files in various formats to the entire requisition or individual line items. Formats include: PDF files.
+708159,High,,Provide the ability to attach files in various formats to the entire requisition or individual line items. Formats include: Word  processing documents.
+708160,High,,Provide the ability to attach files in various formats to the entire requisition or individual line items. Formats include:  Spreadsheets.
+708161,High,,Provide the ability to attach files in various formats to the entire requisition or individual line items. Formats include: Microsoft  Office Suite.
+708162,High,,Provide the ability to attach files in various formats to the entire requisition or individual line items. Formats include: Primavera.
+708163,High,,Provide the ability to attach files in various formats to the entire requisition or individual line items. Formats include: Info pack.
+708164,High,,Provide the ability to attach files in various formats to the entire requisition or individual line items. Formats include: GIS.
+708165,High,,Provide the ability to attach files in various formats to the entire requisition or individual line items. Formats include: Visio.
+708166,High,,"Provide the ability to attach files in various formats to the entire requisition or individual line items. Formats include: CAD  (AutoCAD, Microstation)."
+708167,High,,Provide the ability to attach files in various formats to the entire requisition or individual line items. Formats include: URL Link.
+708168,High,,Provide the ability to attach files in various formats to the entire requisition or individual line items. Formats include: Sound Files.
+708169,High,,Provide the ability to attach files in various formats to the entire requisition or individual line items. Formats include: Structural  Analysis Files (Building Inspections).
+708170,High,,Provide the ability to attach files in various formats to the entire requisition or individual line items. Formats include: Video Files.

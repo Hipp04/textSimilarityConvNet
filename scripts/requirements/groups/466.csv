@@ -1,0 +1,3 @@
+"Section:SW-General and Technical, Reliability (2 Reqs)"
+718273,High,,Support 99.999% availability for online inquiry and updates seven days a week (other than the defined maintenance window).
+718274,Medium,,"Conduct scheduled maintenance during hours designated as the ""Maintenance Window"". This maintenance window will be  established by the State at a time which is least impacting to both online users and batch processing."

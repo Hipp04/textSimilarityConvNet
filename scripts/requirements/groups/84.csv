@@ -1,0 +1,8 @@
+"Section:FIN-Investment Accounting, Investment Requests (7 Reqs)"
+707989,High,,Provide the ability for agencies to submit investment requests to Treasury online.
+707990,Low,,Ability to establish Automated Investment request trigger.
+707991,High,,Route agency investment requests to Treasury through automated workflow.
+707992,High,,Perform real time cash availability edit to ensure that cash is available to invest.
+707993,Medium,,"Ability to forecast Cash Requirements (Available cash plus in transit items, less outstanding payables, plus or minus transfers)."
+707994,High,,Treasury approves investment and provides funds to BTI or IMB to invest.
+707995,Low,,Record investment in GL - in multiple investment pools.

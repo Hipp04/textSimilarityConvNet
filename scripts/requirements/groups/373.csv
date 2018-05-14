@@ -1,0 +1,16 @@
+"Section:PL-Safety Management, Driver History (15 Reqs)"
+716879,High,,Provide information about and support analysis using driver history information for drivers involved in a crash event.
+716880,High,,Integrate with West Virginia DMV drivers license system to obtain and store in the safety management function additional  demographic and statistical information about West Virginia licensed drivers involved in a crash.
+716881,High,,"Store, display and utilize driver license class."
+716882,High,,"Store, display and utilize endorsements."
+716883,High,,"Store, display and utilize driver license status at the time of the crash."
+716884,High,,"Store, display and utilize current driver license status."
+716885,High,,"Store, display and utilize driver license restrictions at the time of the crash."
+716886,High,,"Store, display and utilize current driver license restrictions."
+716887,High,,"Store, display and utilize number of convictions previous five years."
+716888,High,,"Store, display and utilize a list of prior convictions with ability to drill down to more detailed information."
+716889,High,,Display a list of a driver's previous crashes from the crash history data.
+716890,High,,Allow a user to select a crash event and drill down to review detailed crash information.
+716891,High,,Display a list of a driver's previous citations from the citation history data.
+716892,High,,Allow a user to select a citation issued to the driver and drill down to review detailed crash information.
+716893,Medium,,Allow authorized users to make adjustments to driver history information within the ERP safety management function to support  required data corrections.

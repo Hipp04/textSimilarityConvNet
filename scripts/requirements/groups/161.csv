@@ -1,0 +1,8 @@
+"Section:HRP-Payroll, Payroll Accounting (7 Reqs)"
+711050,Medium,,"Associate each tax, deduction, and pay type with a valid COA where accounts may be coded to varying levels in the account  code structure. (e.g. FICA, Retirement, Health Insurances, Overtime, Regular Pay, etc.)."
+711051,Medium,,Generate a method to validate all COA numbers.
+711052,Medium,,"Allow ability to pass check or direct deposit output to State Auditor for check processing (e.g. appending bank routing, bank  account information)."
+711053,Medium,,Maintain a check register file for each payroll run with physical check number and ACH direct deposits.
+711054,Medium,,Maintain a check register file for each payroll run for reconciliation of cleared checks as processed by the State Treasurer.
+711055,Medium,,"Calculate ""overlays"" (or burdened labor expense) for annual and sick leave, employer's portion of health insurance and payable  leave time, based on a user provided percentage or flat amount."
+711056,Medium,,"Charge burdened labor ""overlays"" such that projected annual use credits a user defined account (liability) and actual leave and  payable leave time used debits the same account."

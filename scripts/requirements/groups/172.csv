@@ -1,0 +1,30 @@
+"Section:HRP-Personnel Administration, Employee History (29 Reqs)"
+711488,Medium,,"Access employee profile information contained in the employee record information based on point in time historical date for:  employee name, Employee ID and SSN."
+711489,Medium,,Access employee profile information contained in the employee record information based on point in time historical date for:  demographic data.
+711490,Medium,,"Access employee profile information contained in the employee record information based on point in time historical date for:  position data (full time, permanent, temporary, part-time, seasonal, interns, etc.)."
+711491,Medium,,Access employee profile information contained in the employee record information based on point in time historical date for:  organizational information.
+711492,Medium,,Access employee profile information contained in the employee record information based on point in time historical date for:  benefit plan participation.
+711493,Medium,,"Access employee profile information contained in the employee record information based on point in time historical date for:  salary data (hourly, salary, statutory, etc.)."
+711494,Medium,,Access employee profile information contained in the employee record information based on point in time historical date for:  classification data.
+711495,Medium,,Access employee profile information contained in the employee record information based on point in time historical date for: EEO  / job group / CIC.
+711496,Medium,,Access employee profile information contained in the employee record information based on point in time historical date for:  beneficiaries.
+711497,Medium,,Access employee profile information contained in the employee record information based on point in time historical date for:  funding source/type.
+711498,High,,Access employee profile information contained in the employee record information based on point in time historical date for: PCARD  assignment/participation.
+711499,Medium,,Access employee profile information contained in the employee record information based on point in time historical date for:  Workers' compensation status.
+711500,High,,"Track employee history and change transactions associated with: employee name, Employee ID and SSN."
+711501,Medium,,Track employee history and change transactions associated with: demographic data.
+711502,Medium,,"Track employee history and change transactions associated with: position data (full time, permanent, temporary, part-time,  seasonal, interns, etc.)."
+711503,Medium,,Track employee history and change transactions associated with: organizational information.
+711504,Medium,,Track employee history and change transactions associated with: benefit plan participation.
+711505,Medium,,"Track employee history and change transactions associated with: salary data (hourly, salary, statutory, etc.)."
+711506,Medium,,Track employee history and change transactions associated with: classification data.
+711507,Medium,,Track employee history and change transactions associated with: EEO / job group / CIC.
+711508,Medium,,Track employee history and change transactions associated with: beneficiaries.
+711509,Medium,,Track employee history and change transactions associated with: funding source/type.
+711510,High,,Track employee history and change transactions associated with: P-CARD assignment/participation.
+711511,Medium,,Track employee history and change transactions associated with: Workers' compensation status.
+711512,Medium,,Generate confirmation letters to the employee verifying personnel changes for user specified events with the ability to edit the  letter or override the production of a letter and/or e-mail on individual transactions.
+711513,Medium,,"Track ""at risk"" status for employees in jeopardy of losing their position."
+711514,Medium,,Attach notes to personnel transactions and/or fields.
+711515,Medium,,Capture other electronic/scanned documents that may be part of the employee's employment history as contained in their  physical file.
+711516,Medium,,"Track multiple hire dates and multiple periods of State service, including short and long term employee leave."

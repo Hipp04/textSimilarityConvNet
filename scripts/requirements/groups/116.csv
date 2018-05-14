@@ -1,0 +1,37 @@
+"Section:HRP-Applicant Services, Self-Service (36 Reqs)"
+709317,High,,Provide online capability for the applicant to: complete job applications/profile.
+709318,High,,Provide online capability for the applicant to: review opportunities.
+709319,High,,Provide online capability for the applicant to: review application status.
+709320,High,,Provide online capability for the applicant to: update applicant demographics on registers.
+709321,Medium,,Provide online capability for the applicant to: update of candidate resume or application if requested from hiring organization  while preserving the original version of the resume/application.
+709322,High,,Provide online capability for the applicant to: update of applicant account information.
+709323,Medium,,Allow candidates to submit multiple applications/resumes and/or resume profiles online which include: dates worked.
+709324,Medium,,Allow candidates to submit multiple applications/resumes and/or resume profiles online which include: job duties.
+709325,Medium,,Allow candidates to submit multiple applications/resumes and/or resume profiles online which include: job contact information.
+709326,Medium,,Allow candidates to submit multiple applications/resumes and/or resume profiles online which include: skills attained.
+709327,Medium,,Allow candidates to submit multiple applications/resumes and/or resume profiles online which include: certification or degrees  earned.
+709328,Medium,,"Allow candidates to submit multiple applications/resumes and/or resume profiles online which include: hours per week or  percentage of full-time work for a given job title (full-time, part-time)."
+709329,High,,Allow candidates to submit multiple applications/resumes and/or resume profiles online which include: other user defined criteria.
+709330,Medium,,Allow candidates to link multiple documents to the application and any associated updates.
+709331,High,,View job opening information on web site(s)for internal candidates and external candidates.
+709332,High,,Applicants can store work-in-progress and continue at a later date.
+709333,Low,,Applicant to request the support of a recruiter or other assistance during the application submission process.
+709334,Medium,,"Spell check capability for applicants, hiring managers and recruiters."
+709335,Medium,,Allow applicants to establish and maintain multiple electronic resumes and applications through the use of an industry-standard  web browser.
+709336,Medium,,"Allow for user-defined, job specific informational statements to be displayed (job description, salary, benefits, etc.)."
+709337,Medium,,"Allow for supplemental questions to be responded to by the applicant depending on the job applied for (e.g., common questions  pertain to skills, licenses and/or certifications, benefits, etc.). These questions should: be user-defined."
+709338,High,,"Allow for supplemental questions to be responded to by the applicant depending on the job applied for (e.g., common questions  pertain to skills, licenses and/or certifications, benefits, etc.). These questions should: associated with a job posting, job class or  category."
+709339,Medium,,"Allow for supplemental questions to be responded to by the applicant depending on the job applied for (e.g., common questions  pertain to skills, licenses and/or certifications, benefits, etc.). These questions should: assigned a predetermined value."
+709340,Medium,,"Allow for supplemental questions to be responded to by the applicant depending on the job applied for (e.g., common questions  pertain to skills, licenses and/or certifications, benefits, etc.). These questions should: allow for response calculations and score  generation."
+709341,Medium,,System provides the ability for applicants to view the status of their records based on: test results.
+709342,Medium,,System provides the ability for applicants to view the status of their records based on: review score on various registers.
+709343,Medium,,System provides the ability for applicants to view the status of their records based on: status on certification lists.
+709344,Medium,,System provides the ability for applicants to view the status of their records based on: tracking of all open jobs applied for.
+709345,Medium,,Allow applicants to apply for multiple positions at once and to leverage common application steps across multiple job openings.
+709346,Medium,,Allow applicants to request reuse of prior exam scores.
+709347,Medium,,"Allow interested applicants to create profiles for job announcement (posting) notification based on job class, job category,  department, and other pertinent data (career agent function)."
+709348,High,,Applicant has ability to change password and generate email notification.
+709349,Medium,,Create audit trail of historical comments from agency and DOP on an applicant record.
+709350,Medium,,Resume can be created using system generated template online for a job application.
+709351,Medium,,"Allow applicants to request placement on a register once dropped, including a comment field to indicate why they believe the  request to be justified."
+709352,Medium,,Individuals can enter online applicant referrals.

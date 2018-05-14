@@ -1,0 +1,4 @@
+"Section:PL-Safety Management, Collision Diagramming (3 Reqs)"
+716987,Medium,,Provide collision diagramming capability within the ERP safety management function.
+716988,Medium,,Provide the ability to display collision diagrams from the crash reports.
+716989,Medium,,Provide the ability to export collision data from the crash report to a user defined collision diagramming tool (for example  Intersection Magic).

@@ -1,0 +1,115 @@
+"Section:PL-Inventory Management, General (114 Reqs)"
+714357,High,,Integrated with all relevant modules including: General Ledger.
+714358,High,,Integrated with all relevant modules including: Accounts Payable.
+714359,High,,Integrated with all relevant modules including: Purchasing.
+714360,High,,Integrated with all relevant modules including: Cost Allocation.
+714361,High,,Integrated with all relevant modules including: Accounts Receivable.
+714362,High,,Integrated with all relevant modules including: Project/Grant Accounting.
+714363,High,,Integrated with all relevant modules including: Asset Management.
+714364,High,,Integrated with all relevant modules including: Fleet Management.
+714365,High,,Integrated with all relevant modules including: Facilities Management.
+714366,High,,Integrated with all relevant modules including: Project Systems.
+714367,High,,"Integrate with ERP purchasing and accounts payable functions to track part inventory purchases by vendor, vendor location,  purchase order number, vendor invoice or procurement card transaction number."
+714368,High,,"Establish, maintain, adjust, archive and delete inventory stock item records in real-time based on user security."
+714369,High,,Update stock item data and maintain all the specific data for: Returns.
+714370,High,,Update stock item data and maintain all the specific data for: Adjustments.
+714371,High,,Update stock item data and maintain all the specific data for: Transfers.
+714372,High,,Update stock item data and maintain all the specific data for: Receipts/Additions.
+714373,High,,Update stock item data and maintain all the specific data for: Requisitions.
+714374,High,,Update stock item data and maintain all the specific data for: Issuance of inventory.
+714375,High,,Update stock item data and maintain all the specific data for: Recalls.
+714376,High,,Update stock item data and maintain all the specific data for: Disposals.
+714377,High,,Update stock item data and maintain all the specific data for: Refurbish.
+714378,High,,"Supports the use of bar-coding technology as follows: Provide a pre-defined interface to accept and interpret bar-coded data  from receiving documents, cycle counts, transfers, adjustments, and shipments."
+714379,High,,Supports the use of bar-coding technology as follows: Recognize SKU and multiple commodity codes via bar-code technology.
+714380,High,,Supports the use of bar-coding technology as follows: Capture product information during inventory picking.
+714381,High,,Supports the use of bar-coding technology as follows: Ability to capture product information when performing cycle counts.
+714382,Medium,,Supports the use of bar-coding technology as follows: Support Radio Frequency ID (RFID).
+714383,High,,Allows inventory to be classified by purchasing commodity code number.
+714384,High,,"Accommodate standard commodity codes and groupings (e.g., NIGP, UNPSC)."
+714385,High,,"Record status of items (e.g., spoilage, cancellation, quarantined, damaged, etc.)."
+714386,High,,Indicate items approved for use as substitutes for the original item.
+714387,Medium,,Search cross-referenced list of approved substitutes.
+714388,High,,Provide on-line search capabilities of all parts by: Part type.
+714389,High,,Provide on-line search capabilities of all parts by: Agency part number.
+714390,High,,Provide on-line search capabilities of all parts by: Manufacturer's part number.
+714391,High,,Provide on-line search capabilities of all parts by: Alternate part number.
+714392,High,,Provide on-line search capabilities of all parts by: User defined alpha/numeric reference number.
+714393,High,,Provide on-line search capabilities of all parts by: Wildcard search functionality.
+714394,High,,The search screen must also display minimum and maximum stocking levels and quantity on hand.
+714395,Medium,,Provide ability to define a security role to maintain inventory items by item type such as statewide inventory item versus agency  defined inventory item.
+714396,Medium,,"Provide the ability to automatically assign a sequential number, with or without a user-defined prefix and/or suffix, to each type of  inventory item."
+714397,Medium,,"Provide the ability for the inventory item numbering system to be user defined (alpha-numeric) with increment, format, prefix and  suffix configurable and updateable. Increment and format can differ for an individual agency or organization."
+714398,High,,"System can be configured so that default values for transactions can be inferred from transaction type, certain data entered, etc."
+714399,High,,"Keeps usage statistics (receipts, issues, equipment, etc.) on inventory items."
+714400,High,,Track information on the piece of equipment that a part is normally issued for maintenance.
+714401,High,,Provide forecasting functionality for use in analyzing item usage and projecting future usage.
+714402,High,,Provide the ability to reserve inventory for a planned usage. The reservation will freeze the item from other's usage.
+714403,High,,Maintain a table of master descriptions to ensure common descriptions are used throughout the procurement and inventory  process.
+714404,High,,"Provide the ability to create and route electronic forms for electronic approval (e.g., approval notification and reporting for write- off of damaged, non-moving, obsolete inventory; requisitions; adjustments; transfers; receipting; etc.)."
+714405,High,,"Provide an extensive item master and item history capable of managing materials items and cataloged services including  multiple numbering nomenclature schemes (NIGP, UNPSC, UPC, SKU) for items and services via bar code."
+714406,High,,Allow for an agency specific parts inventory with part types unique to each individual agency.
+714407,High,,Track expiration/spoil date by specific stock items.
+714408,High,,"Provide the following fields for each inventory item: Statewide material, part or item code."
+714409,High,,"Provide the following fields for each inventory item: Agency material, part or item code."
+714410,High,,Provide the following fields for each inventory item: Part type code.
+714411,High,,Provide the following fields for each inventory item: Part number.
+714412,High,,Provide the following fields for each inventory item: Serial number.
+714413,High,,Provide the following fields for each inventory item: Manufacturer's part number.
+714414,High,,Provide the following fields for each inventory item: Manufacturer name.
+714415,High,,Provide the following fields for each inventory item: Internal part number (a minimum of 8 alphanumeric characters).
+714416,High,,Provide the following fields for each inventory item: Item name.
+714417,High,,Provide the following fields for each inventory item: Item description (short).
+714418,High,,Provide the following fields for each inventory item: Item description (long).
+714419,High,,Provide the following fields for each inventory item: Alternate part number.
+714420,High,,Provide the following fields for each inventory item: Order Unit of Measure.
+714421,High,,Provide the following fields for each inventory item: Issuance Unit of Measure.
+714422,High,,Provide the following fields for each inventory item: Reorder level.
+714423,High,,Provide the following fields for each inventory item: Hazardous Material flag.
+714424,High,,Provide the following fields for each inventory item: Stocking location.
+714425,High,,Provide the following fields for each inventory item: Special handling (free form field).
+714426,High,,Provide the following fields for each inventory item: Shelf life.
+714427,High,,Provide the following fields for each inventory item: Default Chart of Account fields.
+714428,High,,Provide the following fields for each inventory item: Reorder quantity.
+714429,High,,Provide the following fields for each inventory item: Order Unit of Measure and Price.
+714430,High,,Provide the following fields for each inventory item: Issuance Unit of Measure and Price.
+714431,High,,Provide the following fields for each inventory item: Part usage codes (multiple).
+714432,High,,Provide the following fields for each inventory item: Part reference fields (multiple).
+714433,High,,Provide the following fields for each inventory item: Cross reference fields (multiple).
+714434,High,,Provide the following fields for each inventory item: Warranty information.
+714435,High,,Provide the following fields for each inventory item: Date of last physical count.
+714436,High,,Provide the following fields for each inventory item: Minimum Price.
+714437,High,,Provide the following fields for each inventory item: Maximum Price.
+714438,High,,Provide the following fields for each inventory item: Minimum Quantity.
+714439,High,,Provide the following fields for each inventory item: Maximum Quantity.
+714440,High,,Provide the following fields for each inventory item: On-Hand.
+714441,High,,Provide the following fields for each inventory item: On-Order.
+714442,High,,Maintain a history of part number if the manufacturer's part number changes.
+714443,Medium,,Track and produce a hard copy stock tag.
+714444,High,,Produce a bar-code item tag.
+714445,High,,Accommodate items with zero dollar value and/or zero quantity.
+714446,Medium,,Accommodate items with negative dollar value and/or negative quantity.
+714447,Medium,,Provide the ability to send a notification of items with negative value and negative quantity.
+714448,Medium,,Provide a variable length field to contain requirements for maintaining or servicing an item.
+714449,High,,"Allows for electronic approval for receipts, issues, and other related inventory functions."
+714450,High,,"Provide quantity unit of measure conversions (conversion formula to calculate number of units from number of order quantities,  e.g., 4 boxes = 48 units, conversion of pounds of 12 gauge insulated copper wire into feet of wire, etc.)."
+714451,High,,The ability to cross-reference and track an internal part number with a manufacturer's part number or distributor's part number.
+714452,High,,Support capability to track performance on a parts contract (actual cost per part vs. the contracted cost per part).
+714453,High,,The ability to automatically carry an item code forward from an electronic catalog to a transaction being initiated by a user.
+714454,Medium,,"Provide a variable-length, free-form character field available for describing special handling requirements, including but not  limited to: hazardous material classification, storage requirements, special clothing requirements, special instructions for handling  and disposal, spill response, and notification requirements."
+714455,High,,"Retain detailed transaction (i.e., receipt, issuance, adjustments, transfers, etc.) history for all items."
+714456,High,,"Must be table-driven (i.e., configurable and no hard-coded rules)."
+714457,High,,"Provide the ability to assign a reason code and to provide comments for stock adjustments (i.e., Inventory Adjustment, Defective,  etc.)."
+714458,High,,"Provide the ability to maintain user id, date, and time for all inventory functions."
+714459,High,,Provide the ability to maintain audit history based on user-defined criteria.
+714460,High,,"Provide a full range of audit tracking capabilities including any adjustment to unit cost, count, return to inventory, return to  vendor, transfers, from one storeroom to another, by operator, and date/time."
+714461,Low,,Provide the ability to have an option to change a part number and have the option that the change be reflected for all historical  data.
+714462,Medium,,Allow merging of up to 20 part numbers into one part number while retaining historical data.
+714463,High,,Print bin labels on request.
+714464,Medium,,Provide for ABC classification of parts where A represents the 10% of parts inventory with the highest dollar value; B represents  the next 20% of the highest dollar value; C represents the 70% of parts inventory comprised of lower cost items.
+714465,High,,"Provide the ability to maintain a store inventory (warehouse) system, including but not limited to stock receipting, transfers,  ordering, recovering, withdrawals, defective items, returns and all inventory functions - with online capabilities and automatic real- time posting."
+714466,High,,"Provide ability to track status of inventory items that are manufactured at a state facility the same as those being ordered from a  vendor. For example, ""orders"" for traffic signs to be stocked at the Central Sign Shop (which are in turn ordered by other agency  organizations) are placed with the Central Sign Shop via ""work orders"". The signs are then manufactured and brought into  inventory. ."
+714467,High,,Track the status of the work orders by item.
+714468,High,,"Include items on the work but not yet brought into inventory as part of the calculation of the ""effective inventory"" ."
+714469,High,,"System should provide a tool(s) used to calculate the per unit cost of manufacturing items that are manufactured at state facilities  (ex: traffic signs) based on raw material costs, labor costs, delivery costs, facility costs (lease, utilities, etc....), equipment costs,  etc..."
+714470,High,,"For items stocked at a central location, provide ""effective inventory"" quantity calculated by taking the current quantity on hand,  adding in the quantity on order (but not yet received and brought into inventory), and subtracting the total quantity on order from  other organizations but not yet transferred. This should not require the qty on order from another organization to be placed on  ""reserve""."

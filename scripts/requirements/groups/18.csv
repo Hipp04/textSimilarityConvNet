@@ -1,0 +1,9 @@
+"Section:FIN-Asset Management, Warranties and Serviced (8 Reqs)"
+706003,Medium,,"Maintain history information for assets, by user-defined criteria such as type."
+706004,Medium,,"Maintain warranty/service agreement information for assets, by type of asset."
+706005,Medium,,Support hyperlinks to the vendor's web site to reference asset maintenance and warranty information.
+706006,Medium,,Allow authorized staff the ability to inquire on maintenance and service information through the entry of a serial number and/or  property tag / inventory control number or wild-card.
+706007,Medium,,Record and track regular/preventive maintenance performed on selected assets.
+706008,Medium,,"Send notification of warranty or service agreement of an asset when the asset is disposed of, to designated users."
+706009,Medium,,Notify appropriate users of warranty or service agreement expiration.
+706010,High,,Provide the ability to compare estimated repair cost to current asset value and remaining useful life to determine cost benefit of  repair versus disposal of the asset.

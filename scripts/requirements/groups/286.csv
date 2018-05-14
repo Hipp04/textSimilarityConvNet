@@ -1,0 +1,29 @@
+"Section:PL-Pavement Management, Queries and Reports (28 Reqs)"
+714896,High,,"Provide an ad-hoc query capability for pavement inventory, condition, construction history and treatment recommendation  information, with selections of fields, filters and sort criteria."
+714897,Medium,,Include capability to define calculated fields in ad-hoc queries incorporating standard statistical functions including weighted  averages.
+714898,High,,"Generate a report showing pavement distress and condition attributes over annual periods, for a selected portion of the network."
+714899,High,,"Generate a pavement history report for a user-specified section or portion of the network. Report should identify construction  history, treatments and other maintenance history and the results of condition assessments/inspections."
+714900,High,,"Generate summaries showing pavement condition across and among all of the following categories: WVDOT districts (with state  total); WVDOT counties (with state and district totals); pavement type; ADT/EASL; mix design; functional class; miles (center line  and main line travelled); County, route and post miles."
+714901,High,,"Generate a report of sections recommended for treatment in a selected district, containing section identification, estimated cost,  and recommended treatment type."
+714902,High,,"Generate a list of candidate sections by strategy (preventive maintenance, rehabilitation or reconstruction)."
+714903,High,,"Create a list of proposed preservation, maintenance, and rehabilitation projects."
+714904,High,,Prepare a list of prioritized candidate projects recommended for funding.
+714905,High,,Generate projected condition after treatment for a user-defined list of projects.
+714906,Medium,,"Prepare an estimate of remaining service life for segments sorted by districts, county and routes."
+714907,Medium,,"Produce time-series reports within a user defined time horizon for a specific highway section (district, county, route, begin post  mile to end post mile) including dominant distress (individual Pavement Condition Index), IRI and other condition measures,  priority compared to other projects and PCI reporting."
+714908,Medium,,"Provide an ad-hoc graphing capability for pavement inventory, condition, construction history and treatment recommendation  information-with selections of fields, filters and sort criteria. This function must include the capability to define calculated fields  incorporating weighted average statistics."
+714909,Medium,,"Provide the capability to generate bar charts showing the pavement condition roughness or distress index values) or percent  deficient (below a user-defined threshold), by user-defined ranges for user defined segments of the network (e.g. by highway  system, district, pavement type, and mix design)."
+714910,Medium,,Generate bar charts comparing the current pavement condition to the predicted condition for different funding scenarios.
+714911,Medium,,"Generate graphs of current pavement distress, roughness, and rutting information for user selected locations (route, from milepost  to milepost)."
+714912,Medium,,Generate graphs showing changes in pavement distress and condition attributes over time for a user-selected location.
+714913,Medium,,"Display pavement type, treatment recommendations, treatment history and scheduled projects on a straight line diagram."
+714914,Medium,,"Generate automatically graphical longitudinal and cross-section displays of existing pavement layer materials, thicknesses and  placement dates by section."
+714915,Low,,"Display paved shoulder repair needs for statewide, type, highway system, ADT/EASL, district or county based on user-defined  business rules."
+714916,High,,Produce a report of pavement condition for the Highway Performance Monitoring System (HPMS).
+714917,Low,,"Provide reporting capability using aggregate functions (e.g., mathematical, statistical)."
+714918,Medium,,Display the results from the ad-hoc query tool or predefined reports in a tabular screen format or on a printed report or display  the results in the GIS viewer.
+714919,Medium,,Allow a user from a tabular results display to select a pavement section and drill down from the results of the ad-hoc query or  predefined report to the detailed information screens for the selected pavement section to view inventory and condition  information.
+714920,Medium,,Allow a user to save for later execution a pre-defined report or ad-hoc query with a set of specific selection criteria. The user  must be prompted to provide a descriptive name for this saved report.
+714921,Medium,,Provide users with a personalized report menu which provides a list of saved reports by the user-defined descriptive name for  user selection and execution.
+714922,Medium,,Allow a user to authorize one or more additional users to have access to a saved predefined report or ad-hoc query.
+714923,Medium,,Display any saved predefined reports or ad-hoc queries authorized by one user for use by a second user on the second user's  personalized reports menu.

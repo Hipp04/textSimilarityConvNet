@@ -1,0 +1,9 @@
+"Section:FIN-Project Management, Project Close (8 Reqs)"
+708320,High,,Allow the user to specify and control the project closing process through user defined tables and security roles.
+708321,High,,Supports multiple closing of projects at the user's options.
+708322,High,,Close projects partially or completely.
+708323,High,,Provide an automated procedure to purge and archive data for closed projects.
+708324,High,,Identify inactive projects for possible close.
+708325,High,,Close project at user specified date.
+708326,High,,Close and capitalize or expense each project as completed and make required entries to the asset or expense accounts and  work-in-progress accounts.
+708327,High,,Allow a user with appropriate security to re-open a closed project.

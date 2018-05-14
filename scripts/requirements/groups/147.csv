@@ -1,0 +1,18 @@
+"Section:HRP-Learning Management, Certification - Continuing Education (17 Reqs)"
+710544,Medium,,Maintain a central list of all designations/certifications.
+710545,Medium,,Allow for a variable number of requirements to be entered per designation/certification.
+710546,Medium,,Provide ability to show that an employee has received a specific designation/certification.
+710547,Medium,,Show employee's progress toward obtaining designation/certification.
+710548,Medium,,Show what classes are required to reach a designation/certification or level.
+710549,Medium,,Show required period of experience for a designation.
+710550,Medium,,Show what tests are required for a designation or level.
+710551,Medium,,"Provide an indicator as to whether the designation is state, federal or organizational. If organizational, which organization?."
+710552,Medium,,Provide ability to track and maintain delinquent dues indicator.
+710553,Medium,,Maintain date field for the date on which dues are payable.
+710554,Medium,,Show the number of continuous education hours required for a level or designation.
+710555,Medium,,Calibrate cycle from beginning of certification year through a variable year cycle dependent upon certification.
+710556,Medium,,Support a Recertification Needed in current year flags.
+710557,Medium,,"Allow a person to be designated as a State employee, county staff member, vendors or contract employees."
+710558,Medium,,Include a designator for indication that the training counts toward recertification.
+710559,Medium,,Include a field stating the number of hours that the training counts toward recertification.
+710560,Medium,,"Change the thresholds (hours to certify, duration of certification, etc) per certification requirements with effective dates."

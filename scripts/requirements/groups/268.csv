@@ -1,0 +1,6 @@
+"Section:PL-Pavement Management, General (5 Reqs)"
+714680,High,,Support the AASHTO Pavement Guide and other best practices.
+714681,High,,"Maintain a record of pavement characteristics, pavement conditions, and maintenance and improvement actions, as well as  associated costs. The information should be sufficient for estimating and updating lifecycle costs and deterioration models."
+714682,High,,Provide a set of deterioration and optimization models which utilize the pavement inventory and condition data to project future  conditions and recommend candidate projects based on various user-defined priorities and parameters.
+714683,High,,"Integrate as required with the other transportation asset management functions within the ERP system including transportation  asset inventory, highway maintenance management, bridge management and safety management."
+714684,High,,Integrate as required with other ERP functions including project management.

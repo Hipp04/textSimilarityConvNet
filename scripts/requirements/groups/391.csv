@@ -1,0 +1,43 @@
+"Section:PL-Transportation Asset Inventory, Route Network (42 Reqs)"
+717064,High,,Provide capability for system administrator or other authorized user to add and maintain route segments on the transportation  route network .
+717065,High,,Store county number.
+717066,High,,Store municipal code.
+717067,High,,"Store route prefix (IS, US, WV, CO, HA, PF, NS etc.)."
+717068,High,,Store route number.
+717069,High,,Store route suffix .
+717070,High,,"Store mainline type (Expressway, Trunk line, Feeder, SLS)."
+717071,High,,Store number of lanes.
+717072,High,,Store direction of travel.
+717073,High,,Store divided/undivided.
+717074,High,,Store associated prefix.
+717075,High,,Store exit Number.
+717076,High,,Store ramp Number.
+717077,High,,"Maintain asset owner (A WVDOT district, Parkways Authority, State Rail Authority, Division of Natural Resources, an adjoining  state, etc.)."
+717078,High,,"Define organization responsible for maintaining asset (A WVDOT district, Parkways Authority, State Rail Authority, Division of  Natural Resources, an adjoining state, etc.)."
+717079,High,,"Store class (Interstate, Primary, Secondary, Expressway, Trunk line, Feeder)."
+717080,High,,Store National Highway System (NHS) Code.
+717081,High,,Store legislatively designated name.
+717082,High,,Store local street name.
+717083,High,,Store Federal-Aid designation.
+717084,High,,Store Appalachian Development Highway (APD) Corridor indicator.
+717085,High,,Store emergency route designation indicator.
+717086,High,,Store school bus route indicator.
+717087,High,,Store commercial route indicator.
+717088,High,,Store Coal Resource Transportation System route indicator.
+717089,High,,Store mail route indicator.
+717090,Medium,,Store Federal Lands Highway indicator.
+717091,High,,Store functional class.
+717092,High,,Store sub station or other maintenance shop primarily responsible for maintaining the route.
+717093,High,,Store beginning mile point within county.
+717094,High,,Store ending mile point within county.
+717095,High,,Store average daily traffic (ADT).
+717096,High,,Store traveled surface width.
+717097,High,,Store terrain type.
+717098,Medium,,Store elevation.
+717099,Medium,,Store grade width.
+717100,Medium,,Store median type.
+717101,Medium,,Store median width.
+717102,Medium,,Store shoulder types.
+717103,Medium,,Store shoulder width.
+717104,High,,Store year constructed.
+717105,High,,Integrate with WVDOT GIS and WVDOT linear referencing system to obtain updates to the route network.

@@ -1,0 +1,56 @@
+"Section:PL-Procurement, Vendor Response (55 Reqs)"
+715368,High,,"Provide the ability to select how responses will be accepted (e.g., all or none, by line item, etc.) by the following methods:  Electronically submitted by vendor."
+715369,High,,"Provide the ability to select how responses will be accepted (e.g., all or none, by line item, etc.) by the following methods:  Manually recorded by purchasing agent."
+715370,High,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Solicitation number.
+715371,High,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: License / Certification Type (permit or registration).
+715372,High,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: License / Certification Number.
+715373,Medium,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Workers Compensation Compliance.
+715374,Medium,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Unemployment Insurance Compliance.
+715375,Medium,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Drug free Workplace affidavit.
+715376,Medium,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Bid Bond.
+715377,Medium,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Liability insurance.
+715378,High,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Vendor ID.
+715379,High,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Vendor name.
+715380,High,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Vendor order address.
+715381,High,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Vendor invoice address.
+715382,High,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Vendor remit-to address.
+715383,Low,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Vendor Tax Contact name.
+715384,Low,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Vendor Tax Contact address.
+715385,Low,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Vendor Tax Contact phone.
+715386,Low,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Vendor Tax Contact fax number.
+715387,Low,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Vendor Tax Contact e-mail.
+715388,Low,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Vendor Tax Contact web address.
+715389,Low,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Permanent office staffed in State (yes/no).
+715390,High,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Vendor contact person.
+715391,High,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Vendor phone number.
+715392,High,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Vendor fax number.
+715393,High,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Vendor e-mail address.
+715394,Low,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Vendor web address.
+715395,High,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Small/Minority-owned status (ethnicity and gender)/Other Targeted businesses.
+715396,Medium,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Small/Minority-owned subcontracting (yes/no).
+715397,Medium,,"Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: If yes, what percent."
+715398,Medium,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Contacted by (informal quotes).
+715399,Medium,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Contact date (informal quotes).
+715400,High,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Unit price.
+715401,High,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Unit of measure/packaging.
+715402,High,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Dollar Amount (zero and negative dollars are permitted).
+715403,High,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Availability date.
+715404,High,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Delivery/completion date.
+715405,High,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Identified exceptions by line item.
+715406,High,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Comment (text) field (at line and header level).
+715407,High,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Minimum order amount.
+715408,High,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Bid Receipt Date and Time.
+715409,High,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Political Subdivisions Participation (yes/no).
+715410,High,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: Discount Term.
+715411,High,,Provide the ability to record solicitation responses for each solicitation. Responses include but are not limited to the following  data elements: P-card Acceptance (yes/no).
+715412,High,,Provide the ability for the vendor to attach files to their response.
+715413,High,,Provide the ability for the vendor to include manufacturer and part number being bid.
+715414,High,,Provide the ability to support receipt of solicitation responses through electronic means.
+715415,Medium,,Provide the ability for the purchasing agent to determine if electronic solicitation responses are allowed for each unique purchase.
+715416,High,,"Provide the ability, if solicitation opening date and time has expired, to prohibit the acceptance of a solicitation through electronic  means. In such cases, an electronic message should be sent to the vendor indicating solicitation time has closed. The late  solicitation is recorded as a late bid in the vendor's solicitation-response statistics."
+715417,Medium,,Provide the ability to track and report/display solicitations sent to the vendor and the vendor's solicitation response: solicitation /  no solicitation / late solicitation.
+715418,Medium,,Provide the ability to track when a bidder was added to the bid list.
+715419,High,,Provide the ability for the vendor to receive an automatically generated confirmation number upon submittal of the solicitation  response.
+715420,Medium,,"Provide the ability for buyer to receive an email notification when a bid is received but not the ability to access the bid until the  official opening day and time, if set on the solicitation."
+715421,High,,"Provide the ability for a vendor to withdraw and resubmit a bid up to the bid opening time, with an audit trail."
+715422,High,,Provide the ability to accept alternate and/or multiple bids for individual line items.

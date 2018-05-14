@@ -1,0 +1,9 @@
+"Section:PL-Transportation Asset Inventory, Codes Tables (8 Reqs)"
+717056,High,,Provide capability for system administrator to manage and update various codes tables which contain valid values for various  types of data stored in the system.
+717057,High,,Provide a district number codes table.
+717058,High,,Provide a county code table.
+717059,High,,Provide a sub station or other maintenance shop code table.
+717060,High,,Provide a functional classification code table.
+717061,High,,Provide a national highway system code table.
+717062,High,,Provide a municipality code table.
+717063,High,,Provide the capability for various other user defined code tables.

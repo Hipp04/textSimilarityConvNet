@@ -1,0 +1,30 @@
+"Section:PL-Transportation Asset Inventory, Pavement (29 Reqs)"
+717193,High,,"Manage, store, view and uniquely identify at a minimum pavement asset attributes and associated data for through lanes,  auxiliary lanes, shoulders, ramps, loops, pull outs, parking lots and motorist service facilities (e.g. rest areas, weight stations,  tourist information)."
+717194,High,,Capture and track cross-section geometry.
+717195,High,,Capture and track curb and gutter.
+717196,High,,Capture and track pavements - flexible.
+717197,High,,Capture and track pavements - rigid.
+717198,Medium,,"Capture and track unpaved roads (surface treated, gravel or dirt)."
+717199,High,,Capture and track shoulders - paved.
+717200,Medium,,Capture and track shoulders - unpaved.
+717201,High,,Store pavement type classification.
+717202,High,,Store pavement surface type.
+717203,Medium,,Store mix design.
+717204,High,,Store base type.
+717205,High,,Store base materials.
+717206,High,,Store layer thickness.
+717207,High,,Store sub grade characteristics.
+717208,High,,Store and/or access R-value and date.
+717209,High,,Store moisture and date.
+717210,High,,Store pH/Resistivity.
+717211,High,,Store soil classification.
+717212,High,,Store existing ballast.
+717213,High,,Store subsurface material.
+717214,High,,Store California Bearing Ration (CBR) of subgrade.
+717215,High,,Store aggregate size.
+717216,High,,Store asphalt grade.
+717217,Medium,,Store shoulder types.
+717218,Medium,,Store shoulder width.
+717219,Medium,,Store presence of curb and gutter.
+717220,High,,Integrate with ERP pavement management and/or WVDOT Deighton PMS application to allow authorized user to drill down to  more detailed information about pavement attributes and conditions for a particular segment.
+717221,Medium,,Integrate with RoadWare to allow linkage to and display of video images and attribute data obtained from video logs.

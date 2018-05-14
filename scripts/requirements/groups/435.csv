@@ -1,0 +1,49 @@
+"Section:PL-Transportation Operations Management, Budget Development (48 Reqs)"
+717559,High,,"Provide a budget tool which allows for development of the proposed budget at different agency defined levels with a roll-up  capability to higher organizational levels (for example each district, the equipment unit and other statewide crews developing a  proposed budget and then rolling these up for review according to agency defined business rules - for example by the  Maintenance Division and then the agency Budget office, etc."
+717560,Medium,,Provide capability to roll-down total budget to a division or unit and allow the division or unit to develop or adjust their proposed  budget within the context of their total overall budget (for example each district and the equipment unit is given a total budget  number based on management direction and then allowed to develop their budget within these overall parameters).
+717561,Medium,,Provide capability to adjust recommended budget based on a roll-down from the agency level based on actual appropriation and  other policy level adjustments.
+717562,Medium,,"Provide a budget tool which allows for modeling of unlimited ""what if"" scenarios before selecting your proposed budget scenario  for submission to the next level of review."
+717563,Medium,,Allow for routing through workflow of the preferred budget to each manager who needs to review it.
+717564,Medium,,"Provide capability to develop proposed budget by modeling the impact of achieving different target levels of service for asset  types and maintenance features based on the user defined letter grade scale for that asset or maintenance feature and the  associated level of effort (LOE) factors; for example if the current condition assessment for an asset is a ""B"" and the statewide  target level of service is an ""A"", the user must be able to model the budget impact of moving from a ""B"" level of service to a ""B+""  or ""A-"" or ""A"" level of service."
+717565,Medium,,"Provide capability to specify a target LOS and allow system to calculate the required level of effort (LOE) (e.g., tons of asphalt  patching per lane-mile, linear feet of crack sealing per lane-mile, labor-hours of repair per impact attenuator, etc.) This is  accomplished by converting the difference between actual and target LOS into a incremental additional work effort per unit of  inventory. By multiplying the LOE by the feature inventory, an additional annual work quantity is obtained for that feature, which is  added to the previous annual work quantity to obtain the annual work quantity for the new budget year."
+717566,Medium,,"Retain ""what if"" scenarios for a user defined period of time."
+717567,Medium,,"Restrict access to ""what if"" scenarios based on user defined business rules."
+717568,Medium,,"Calculate level of effort factors (LOE) to support budget modeling for each asset type or maintenance feature based on the  condition assessment history and the historical actual cost data for internal labor, external labor, equipment and materials."
+717569,Medium,,Store historical actual cost data indefinitely and perform real-time calculations on that data to provide refined LOE planning value  information for current-year planning.
+717570,Medium,,Store historical labor cost.
+717571,Medium,,Store historical equipment cost.
+717572,Medium,,Store historical material complement and usage.
+717573,Medium,,Store historical quantity guidelines.
+717574,Medium,,Store historical productivity rates.
+717575,Medium,,Store historical work calendars.
+717576,Medium,,"Provide capability to override the calculated LOE with manual input of an LOE to accommodate special situations, (e.g., storm  damage since last field LOS assessment survey, etc.)."
+717577,Medium,,"Integrate with the ERP cost accounting, fleet, inventory, personnel administration and time and labor functions to obtain required  labor, equipment and materials cost factors for budgeting purposes."
+717578,Medium,,"Maintain standard resource cost factors for labor, equipment and materials."
+717579,Medium,,Store code number for resource.
+717580,Medium,,Store description of resource.
+717581,Medium,,Store unit cost of resource.
+717582,Medium,,Store cost measurement unit of resource.
+717583,Medium,,"Store overtime rates for multiple categories of overtime or comp time such as normal, holiday, on-call, etc. for a resource."
+717584,Medium,,Store overhead factors for resource.
+717585,Medium,,Store a valid date range for all associated cost/rate data for a resource.
+717586,Medium,,Allow for adjustment of standard resource cost factors at the district level.
+717587,Medium,,Allow for the application of a user defined overtime factor (multiplier).
+717588,Medium,,"Maintain the standard resource cost factors for all previous, current, and next budget years."
+717589,Medium,,Support the ability to derive next year's standard resource cost factors for budgeting purposes by copying the current year unit  cost data to the next budget year.
+717590,Medium,,"Support the ability to derive next year's standard resource cost factors for budgeting purposes by copying the current year unit  cost data to the next budget year, with a user-defined multiplier applied for each type of resource."
+717591,Medium,,Support the ability to derive next year's standard resource cost factors for budgeting purposes by allowing for manual override of  unit cost data for the next budget year.
+717592,Medium,,"Calculate an activity-based annual work plan, (i.e., the annual number of crew-days required to accomplish the annual work  quantity in the budget) This calculation divides the annual work quantity by the appropriate average daily work accomplishment  from the activity performance guidelines to determine the required annual number of crew-days of work for each maintenance  feature in the district or maintenance unit."
+717593,Medium,,Support budgeting by using contracts as a resource in addition to in-house resources using a contract unit cost for the activity.
+717594,Medium,,Allow for the tracking of historical contract data for planning purposes.
+717595,Medium,,Roll over uncompleted maintenance contracts from current/prior year.
+717596,Medium,,Allow for the application of chargeback work as a budgeted cost when developing the budget.
+717597,Medium,,Provide capability to apply an adjustment factor (+/-) on the preferred budget submitted by organizational unit when it is being resubmitted  by a parent organizational unit to a lower level for adjustments .
+717598,Medium,,Allow a parent organization to directly make changes to a budget scenario submitted by a lower level organizational unit.
+717599,Medium,,"Allow for the use of current and projected data including costs, labor, equipment class and hours/usage, quantities, productivity  rates, and unit costs."
+717600,Medium,,"Allow user to override unit costs, productivity rates, material quantities, and hours for what-if scenario forecasting."
+717601,Medium,,"Allow for calculating costs and utilization by any period of time, maintenance unit, work type (contracted or in-house),  aggregation, and by category (labor, equipment, and materials)."
+717602,Medium,,"Provide what-if scenario capabilities during the budgeting process and throughout the budget year for Impact of hiring new  employees, reducing workforce, or internal promotions."
+717603,Medium,,"Provide what-if scenario capabilities during the budgeting process and throughout the budget year for Impact of purchasing new  equipment, leasing new equipment, trading in non-utilized equipment, etc."
+717604,Medium,,Provide what-if scenario capabilities during the budgeting process and throughout the budget year for Materials cost changes (+/ based on market trends.
+717605,Medium,,"Allow the work program and budget to specify the type of work (in-house or contracted). The system will allow the work program  and budget to specify the work type on an activity-by-activity basis, with the capability to group activities into in-house and  contract categories, if desired."
+717606,Medium,,Provide the ability to track reimbursement for accident/emergencies as a debit entry to the overall budget.

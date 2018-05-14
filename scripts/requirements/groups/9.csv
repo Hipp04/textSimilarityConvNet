@@ -1,0 +1,35 @@
+"Section:FIN-Accounts Receivable, Reports and Inquiry (34 Reqs)"
+705684,Medium,,"Provide ability to generate various user-defined reports, based on any data field within the invoice and all chart of account  elements, including but not limited to the following: Billing status."
+705685,Medium,,"Provide ability to generate various user-defined reports, based on any data field within the invoice and all chart of account  elements, including but not limited to the following: Billed and unbilled charges."
+705686,Medium,,"Provide ability to generate various user-defined reports, based on any data field within the invoice and all chart of account  elements, including but not limited to the following: Delinquent accounts and referrals of delinquent accounts and bankrupt  customers."
+705687,Medium,,"Provide ability to generate various user-defined reports, based on any data field within the invoice and all chart of account  elements, including but not limited to the following: Receivables tracking."
+705688,Medium,,"Provide ability to generate various user-defined reports, based on any data field within the invoice and all chart of account  elements, including but not limited to the following: Long-term receivables."
+705689,Medium,,"Provide ability to generate various user-defined reports, based on any data field within the invoice and all chart of account  elements, including but not limited to the following: Memo billing status."
+705690,Medium,,Provide ability to query all invoice/adjustments for a single customer online and print the information queried.
+705691,Medium,,Provide ability to report and print customer activity by customer type.
+705692,Medium,,"Provide ability to generate reports of invoices billed, paid, or voided with a user-defined timeframe. Also, the system provides the  Provide ability to generate a report of all outstanding invoices on a given date by chart of account elements."
+705693,Medium,,"Provide ability for aging analysis of outstanding accounts receivable based upon user-defined aging buckets (e.g., 30, 60, 90,  120, and greater than 120 days) using the original invoice date and current system date or a user-specified date."
+705694,Medium,,Provide ability to maintain records of individual billings by customer with on-line inquiry cap.
+705695,Medium,,Provide ability to report un-billed charges.
+705696,Medium,,"Provide ability to flag payments received for which no match to an invoice has been determined (prepayments, duplicates)."
+705697,Medium,,Provide ability to report the variance between prior year revenue accruals and actual collection on reported year-to-date revenue.
+705698,Medium,,Provide ability to account for cash receipts revenue.
+705699,Medium,,Provide ability to summarize open invoices by general ledger accounts.
+705700,Medium,,Provide ability to extract reports of money deposited over a certain time frame into a specific Chart of Account fields.
+705701,Medium,,"Provide ability to download data flat file formats (e.g., CSV, Comma-delimited, etc.)."
+705702,Medium,,Provide ability to easily generate a report that compares monthly receipts to receipts for that month in the previous year and yearto- date receipts to the previous year.
+705703,Medium,,"Provide ability to download data into spreadsheet format (Excel, Lotus, QuatroPro)."
+705704,Medium,,Provide ability to report revenues by various levels within the Grant or Project hierarchy.
+705705,Medium,,Provide ability to report revenues by CFDA number.
+705706,Medium,,Provide ability to track pending receipts by scheduled due dates.
+705707,High,,Reporting should track open item receivables billed in one fiscal year but that are paid in the next fiscal year. For reporting  purposes this tells reader what the AR or AP balance is at the balance sheet date but that those amount were subsequently paid.
+705708,High,,AR Inquiry screen should provide the following: Beginning Balance.
+705709,High,,AR Inquiry screen should provide the following: Plus invoiced amounts.
+705710,High,,AR Inquiry screen should provide the following: Less Credits.
+705711,High,,AR Inquiry screen should provide the following: Less Payments received.
+705712,High,,AR Inquiry screen should provide the following: Equals ending AR balance.
+705713,High,,Bill and establish receivables at the cost center level or any level of the chart of accounts.
+705714,High,,Issue credit memo's at the cost center level or any level of the chart of accounts.
+705715,High,,Compare billings and receipts at the cost center level or any level chart of accounts.
+705716,High,,Compare revenue and expenditures at the cost center level or any level chart of accounts.
+705717,Medium,,Provide the ability to report sales tax collections by state where the merchandise is shipped.

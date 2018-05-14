@@ -1,0 +1,4 @@
+ID,Similarity,Requirement
+705035,3.8520966832,Support the ability for a vendor to update W-9 and direct deposit information via self service using Web access.
+705033,3.8735630791,Support the ability to electronically notify vendors of payment data availability through vendor self service.
+705080,3.7541115402,Permit disbursements (warrants) to vendors that do not have a unique number in the vendor table (one time vendors).

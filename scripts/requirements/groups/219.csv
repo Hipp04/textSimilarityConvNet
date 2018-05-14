@@ -1,0 +1,11 @@
+"Section:PL-Facilities Management, Performance Standards (10 Reqs)"
+713456,Medium,,Create and maintain performance guidelines based on user defined business rules for all facilities maintenance activities.
+713457,Medium,,"Store each activity's name, number, and narrative description."
+713458,Medium,,Store crew size by labor class and quantity.
+713459,Medium,,Store equipment required by fleet/equipment type and daily quantity.
+713460,Medium,,Store material items/types and average daily quantities.
+713461,Medium,,Store average daily work accomplishment and units.
+713462,Medium,,Store preferable workload distribution in percent by months of the year.
+713463,Medium,,"Store associated inventory features, including measurement units."
+713464,Medium,,"Allow performance guidelines to be defined at the agency level (for the operating agency such as General Services or an  individual user agency) and then allow the guidelines to be copied to lower organization levels (such as a region or district  operating unit or a facility group such as a campus or park, etc.) and modified if required to address specific local operational  issues."
+713465,Medium,,Identify performance guidelines by the fiscal year or time period (effective dates) for which they are applicable and retain this  information indefinitely so that historical analysis may be performed.

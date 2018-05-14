@@ -1,0 +1,124 @@
+"Section:FIN-Grants Management, General (123 Reqs)"
+707653,Medium,,Track grant applications.
+707654,High,,Track grant expenditure activity.
+707655,High,,Track grant expenditures to multiple funding sources.
+707656,High,,Track expenditures from multiple funding sources to a single program.
+707657,High,,Track grant activity over multiple years.
+707658,High,,Track grant program income.
+707659,High,,Integrate with other relevant modules including : Purchasing.
+707660,High,,Integrate with other relevant modules including : Asset Management.
+707661,High,,Integrate with other relevant modules including : Cost Accounting.
+707662,Medium,,Integrate with other relevant modules including : Inventory.
+707663,High,,Integrate with other relevant modules including : Human Resources.
+707664,High,,Integrate with other relevant modules including : Projects.
+707665,High,,Integrate with other relevant modules including : Accounts Payable.
+707666,High,,Integrate with other relevant modules including : Time and Labor.
+707667,High,,Integrate with other relevant modules including : Payroll.
+707668,High,,Integrate with other relevant modules including : Cash Management.
+707669,High,,Integrate with other relevant modules including : Accounts Receivable.
+707670,High,,Integrate with other relevant modules including : General Ledger.
+707671,High,,Interface with Federal or State grant systems so that grant information can be automatically exchanged (e.g. SAGA State Agency  Grant Awards).
+707672,High,,Interface with federal ASAP (Automated Standard Application for Payment) system to submit and view billing information.
+707673,High,,Interface with federal PMS (Payment Management System) to submit and view billing information.
+707674,High,,Interface with federal PARS (Public Debt Accounting and Reporting System) to submit and view billing information.
+707675,Medium,,Interface with NHTS (National Household Travel Survey) grant tracking system (GTS ) to submit and view billing information.
+707676,High,,Interface with federal ECHO (EPA Enforcement and Compliance History Online)- Web system to submit and view billing  information.
+707677,High,,Interface with FHWA system to submit and view billing information.
+707678,High,,Interface with federal G5 system to submit and view billing information.
+707679,High,,Support the ability to consolidate the following for reporting: Multiple Funds.
+707680,High,,Support the ability to consolidate the following for reporting: Multiple Grants.
+707681,High,,Support the ability to consolidate the following for reporting: Multiple Contracts.
+707682,High,,"Track and report grant operations (i.e., budget, expenditures, encumbrances, revenue) over several different periods including  state fiscal year, federal fiscal year, multiple-year grant period, and any specified period within the grant period."
+707683,High,,"Uniquely identify each grant through the assignment of an agency defined grant number and maintain grant-related descriptive  information (e.g., grantor's grant number) in a grant table."
+707684,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Award number.
+707685,High,,Allow identification of grants by multiple user-defined identifiers such as the following: State assigned contract number.
+707686,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Catalog of Federal Domestic Assistance.
+707687,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Multiple Catalog of Federal Domestic  Assistance (CFDA) numbers.
+707688,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Agreement number.
+707689,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Reporting category.
+707690,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Project number.
+707691,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Organization (Division below Department).
+707692,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Letter of Credit.
+707693,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Grantor.
+707694,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Grant contact name.
+707695,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Grantor's mailing address.
+707696,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Grantor's email address.
+707697,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Grantor's phone number.
+707698,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Grant number.
+707699,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Grant name.
+707700,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Grant Description.
+707701,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Original grant approval amount.
+707702,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Grant Budget.
+707703,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Grant amendments.
+707704,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Grant carryovers.
+707705,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Grant beginning date.
+707706,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Grant expiration date.
+707707,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Grant close out date.
+707708,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Amounts of State matching funds.
+707709,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Amounts of local matching funds.
+707710,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Amount of other State Agency match.
+707711,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Amount of In kind match.
+707712,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Responsible agency or division (allow for  multiple).
+707713,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Agency or division contact (multiple).
+707714,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Reimbursement schedule.
+707715,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Award date.
+707716,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Contract Number.
+707717,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Contract Award Number.
+707718,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Approved Contract Date.
+707719,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Award amount.
+707720,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Grant program number.
+707721,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Grant program description.
+707722,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Cluster CFDA Indicator.
+707723,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Research and Development source  description.
+707724,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Direct/Indirect funds source indicator.
+707725,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Direct funds/ indirect funds description  (name of who gave the funds).
+707726,High,,Allow identification of grants by multiple user-defined identifiers such as the following: Award amount.
+707727,High,,Provide ability to duplicate preexisting grants to establish templates for new grants.
+707728,High,,"Support combination edits for grants to allowable revenues sources. For example, a grant must use ARRA revenue source."
+707729,High,,Support combination edits for grants to other Chart of Accounts elements which includes the option to list the possible  combinations allowed.
+707730,High,,Provide an audit trail for expenditures and transfers out which links adjustments and corrections back to the original transaction.
+707731,High,,Provide an edit to keep Due To and Due Froms in balance between agencies and funds.
+707732,High,,Provide the ability to report the entries between a Due To to the corresponding Due Froms to the appropriate agencies and chart  of accounts elements.
+707733,High,,Provide audit trail for user who modifies information on grant detail screens.
+707734,High,,"Provide the ability for transactions to split different organizations, and appropriations."
+707735,High,,Provide the ability to link revenue/reimbursements to the expenditure and transfer out transactions.
+707736,High,,Provide the ability for transactions to split between multiple agencies.
+707737,High,,Provide a mechanism to track expenditures made by sub grantee.
+707738,High,,Track unclaimed property by federal and state sources.
+707739,High,,Support the recording of escheated warrants as reduction of expenditures.
+707740,Medium,,System will track the following grant application information: Grant application identifier number.
+707741,Medium,,System will track the following grant application information: Grant name.
+707742,Medium,,System will track the following grant application information: Grant description.
+707743,Medium,,System will track the following grant application information: Catalog of Federal Domestic Assistance number.
+707744,Medium,,System will track the following grant application information: Grantor.
+707745,Medium,,System will track the following grant application information: Grantor Contact Name.
+707746,Medium,,System will track the following grant application information: Grantor's mailing address.
+707747,Medium,,System will track the following grant application information: Grantor's phone number.
+707748,Medium,,System will track the following grant application information: Date application submitted.
+707749,Medium,,System will track the following grant application information: Date application approved or denied.
+707750,Medium,,System will track the following grant application information: Original grant approval amount.
+707751,Medium,,System will track the following grant application information: Original grant requested amount.
+707752,Medium,,System will track the following grant application information: Grant budget.
+707753,Medium,,System will track the following grant application information: Grant amendments.
+707754,Medium,,System will track the following grant application information: Grant carryovers.
+707755,Medium,,System will track the following grant application information: Grant fiscal calendar.
+707756,Medium,,System will track the following grant application information: Grant beginning date.
+707757,Medium,,System will track the following grant application information: Grant expiration date.
+707758,Medium,,System will track the following grant application information: Grant close out date.
+707759,Medium,,System will track the following grant application information: Letter of credit.
+707760,Medium,,System will track the following grant application information: Amounts of State matching funds.
+707761,Medium,,System will track the following grant application information: Responsible agency or division (multiple).
+707762,Medium,,System will track the following grant application information: Agency or division contact (multiple).
+707763,Medium,,System will track the following grant application information: Reimbursement schedule.
+707764,Medium,,System will track the following grant application information: Award Date.
+707765,Medium,,System will track the following grant application information: Letter of Intent to Award Date.
+707766,Medium,,System will track the following grant application information: Contract Number.
+707767,Medium,,System will track the following grant application information: Contract Award Number.
+707768,Medium,,System will track the following grant application information: Approved Contract Date.
+707769,Medium,,System will track the following grant application information: Original Request Amount.
+707770,Medium,,System will track the following grant application information: Award Amount.
+707771,Medium,,System will track the following grant application information: Grant program number.
+707772,Medium,,System will track the following grant application information: Grant program description.
+707773,High,,Provide the cash balance by grant at specific period.
+707774,High,,Accept electronic requests for expenditures and supporting documentation from grantees.
+707775,High,,Provide a routing with electronic signatures with an audit trail for approvals for the electronic request from grantees.

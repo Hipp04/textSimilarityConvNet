@@ -1,0 +1,67 @@
+"Section:HRP-Time and Labor, Labor Distribution (66 Reqs)"
+712053,Medium,,Allocate labor expense and other payroll liabilities to the COA elements and other data fields based on: fund.
+712054,Medium,,Allocate labor expense and other payroll liabilities to the COA elements and other data fields based on: sub fund.
+712055,Medium,,Allocate labor expense and other payroll liabilities to the COA elements and other data fields based on: appropriation.
+712056,Medium,,Allocate labor expense and other payroll liabilities to the COA elements and other data fields based on: sub location.
+712057,Medium,,Allocate labor expense and other payroll liabilities to the COA elements and other data fields based on: department.
+712058,Medium,,Allocate labor expense and other payroll liabilities to the COA elements and other data fields based on: location.
+712059,Medium,,Allocate labor expense and other payroll liabilities to the COA elements and other data fields based on: task.
+712060,Medium,,Allocate labor expense and other payroll liabilities to the COA elements and other data fields based on: sub task.
+712061,Medium,,Allocate labor expense and other payroll liabilities to the COA elements and other data fields based on: task order.
+712062,Medium,,Allocate labor expense and other payroll liabilities to the COA elements and other data fields based on: sub reporting code.
+712063,Medium,,Allocate labor expense and other payroll liabilities to the COA elements and other data fields based on: program.
+712064,Medium,,Allocate labor expense and other payroll liabilities to the COA elements and other data fields based on: program period.
+712065,Medium,,Allocate labor expense and other payroll liabilities to the COA elements and other data fields based on: grants.
+712066,Medium,,Allocate labor expense and other payroll liabilities to the COA elements and other data fields based on: projects.
+712067,Medium,,Allocate labor expense and other payroll liabilities to the COA elements and other data fields based on: phase.
+712068,Medium,,Allocate labor expense and other payroll liabilities to the COA elements and other data fields based on: activity.
+712069,Medium,,Allocate labor expense and other payroll liabilities to the COA elements and other data fields based on: unit.
+712070,Medium,,Allocate labor expense and other payroll liabilities to the COA elements and other data fields based on: sub-unit.
+712071,Medium,,Allocate labor expense and other payroll liabilities to the COA elements and other data fields based on: sub-object.
+712072,Medium,,Allocate labor expense and other payroll liabilities to the COA elements and other data fields based on: department object.
+712073,Medium,,Allocate labor expense and other payroll liabilities to the COA elements and other data fields based on: sub-activity.
+712074,Medium,,Allocate labor expense and other payroll liabilities to the COA elements and other data fields based on: function.
+712075,Medium,,Allocate labor expense and other payroll liabilities to the COA elements and other data fields based on: sub-function.
+712076,Medium,,Allocate labor expense and other payroll liabilities to the COA elements and other data fields based on: user defined template.
+712077,High,,"Constantly refresh COA revisions, from the financial system, to the COA structure maintained within the HR/Payroll system (real  time or near real time)."
+712078,Medium,,Retrieve labor cost distribution transactions for audit and reconciliation purposes for at least the current period and for a user  specified period of time (10-15 yrs).
+712079,Medium,,Maintain labor distribution transaction level detail online for user specified period of time (3-5 yrs).
+712080,Medium,,Make mass corrections/updates to groups of labor distribution transactions selected by key fields while maintaining an audit trail.
+712081,Medium,,Distribute employer-paid benefits and costs of paid leave taken and the hours associated with each cost.
+712082,Medium,,Distribute costs based upon time reported in user-defined increments.
+712083,Medium,,Budget by one set of chart of account elements but distribute payroll based on a different set of chart of account elements.
+712084,Medium,,Use year-to-date information by employee to project remaining fiscal year costs.
+712085,Medium,,Allow authorized users to define specific payroll-related costs to be considered in the distribution process.
+712086,Medium,,"Distribute non-labor costs (i.e., vehicle mileage) based upon employee time data."
+712087,Medium,,Support a labor distribution process based on random moment time study results or prior history data.
+712088,Medium,,Use the results of random moment time studies and other statistical information maintained in labor distribution component of  ERP to allocate costs.
+712089,Medium,,"Optionally account for and distribute agency-defined non-labor costs based on hours worked (i.e., inmate labor, volunteers, etc.)  and process appropriate accounting transactions (i.e., job costing, general ledger, journal entries, etc.)."
+712090,Medium,,Support receipt and reconciliation of retroactive pay type and pay adjustments for both hours in prior periods and to support  updates to labor distribution.
+712091,Medium,,"Receive categorization of time worked and total staff, benefit, and overhead costs back to Grants, Projects, Programs, or other  funding sources."
+712092,Medium,,Support automated workflow for labor distribution rule creation and maintenance processes.
+712093,Medium,,Provide automated support for development and update of labor distribution rules as frequently as every payroll reporting period.
+712094,Medium,,"Provide the ability to distribute the full cost of staff full time equivalents (FTEs), time (hours/pay), and associated benefits and  overhead based on user defined labor distribution rules and associated effective dates that may vary by agency, organization  unit , appropriation/fund, pay type (leave, assignment, overtime, etc.)."
+712095,Medium,,"Provide the ability to include different labor distribution rules for overtime, and other non-regular pay and leave types based on  user defined business rules that may vary by agency, organization unit, appropriation/fund, or information from other integrated  agency or statewide systems."
+712096,Medium,,"Provide the ability to include different labor distribution rules for employee benefits and other reimbursed items based on user  business rules that may vary by agency, organization unit, appropriation/fund, or information from other integrated agency or  statewide systems."
+712097,Medium,,"Provide ability to include rates and calculation algorithms for non-payroll based costs (i.e. for rent) in the full cost of various  activities based on user defined business rules that may vary by agency, organization unit, job class, or equipment type."
+712098,Medium,,"Support receipt of cost rate information and calculation algorithms from integrated agency and statewide systems through batch  or on line integration, online user input, or file upload based on user business rules that may vary by agency, organization unit,  appropriation, fund, or activity."
+712099,Medium,,"Provide the ability for authorized users to create and maintain multi-tiered and multiple labor distribution rules and calculation  algorithms for human capital costs, hours, and FTEs with effective begin and end dates associated with the agency as a whole or  particular programs, projects, revenue sources, appropriations/funds, or grants, (e.g. supporting the distribution of labor costs to  appropriations/funds within programs or projects)."
+712100,Medium,,"Provide ability to include different cost rates, calculation algorithms, and allocation rules for various pay and leave types that may  vary by agency, organization unit, appropriation, fund, or activity."
+712101,Medium,,"Support the ability to apply labor distribution rules based on authorized user maintained effective dates, retaining historical views  for human capital cost, hours, and FTEs rules and calculations by program, project, grant, work order, revenue source,  appropriations/funds, organization and other parameters."
+712102,Medium,,"Support establishment of ""default coding"" for labor distribution based on user defined business defaults that may vary by agency,  organization code, program, project, or appropriation/fund."
+712103,Medium,,Support role based review and approval requirements for labor distribution rule creation and maintenance processes.
+712104,Medium,,"Distribute total staff FTEs, hours, and costs to projects, work orders, routes, and other authorized user defined cost activities  based on employee compensation."
+712105,Medium,,Support the ability to optionally distribute employee leave costs as they are accrued rather than as leave is taken based on user  defined business rules that may vary by agency.
+712106,Medium,,"Support role based review and approval requirements for automated and manual labor distribution, adjustment, and reversal  processes."
+712107,Medium,,"Support automated workflow for automated and manual labor distribution, adjustment, and creation processes."
+712108,Medium,,"Route identified cost, hours, and FTE distribution exceptions (overrides to defaults) to designated authorized users for review,  providing alerts via email or other methods based on user defined business rules that may vary by agency, organization unit or  appropriation/fund."
+712109,Medium,,"Allow authorized users to manually update cost, hour, and FTE distribution amounts to clear exceptions online and automatically  re-reconcile amounts distributed."
+712110,Medium,,"Provide ability to require multiple sorts and summarizations of total labor and related costs, hours, and FTEs by agency,  organization, appropriation/fund, program, and other cost activity codes based on user defined business rules that may vary by  agency or organization unit."
+712111,Medium,,"Automatically capture and allocate/distribute other human resource related costs (safety awards, recognition, certification  reimbursements, allowances) charged by/paid through payroll according to user defined business rules that may vary by agency,  organization unit, project, or appropriation/fund."
+712112,Medium,,"Automatically assign payroll and other human resource related cost, hours, and FTE information to accounting periods based on  user defined business rules that may vary by schedule, agency, organization unit, or appropriation/fund (these rules may vary for  the end of various reporting periods)."
+712113,Medium,,"Automatically calculate the full ""cost"" (equivalent value), hours, and FTEs of non-employee time (i.e. volunteers) and other non- payroll based costs based on user defined business rules that may vary by agency, organization unit, cost type,  appropriation/fund, or job class."
+712114,Medium,,"Automatically distribute, adjust, and reverse the full cost of staff time and associated benefits and other costs, hours, and FTEs  based on an user defined schedule."
+712115,Medium,,"Support the ability for authorized users to adjust the distribution of the full cost of staff time and associated benefits and other  costs, hours, and FTEs to organization units, appropriations/funds, projects, or programs by authorized users based on user  defined business rules that may vary by agency."
+712116,Medium,,"Ability for designation of default (""home"") accounting distribution to be used on time entries, including positions which are spread  across multiple account distributions."
+712117,Medium,,Ability for users to specify distribution percentages when multiple account distributions are charged (or the use of actual hours by  account distributions).
+712118,Medium,,Ability to make online correction of accounting distribution.

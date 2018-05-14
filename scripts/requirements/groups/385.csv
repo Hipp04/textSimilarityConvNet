@@ -1,0 +1,3 @@
+"Section:PL-Safety Management, Data Management (2 Reqs)"
+717037,High,,Provide the ability to flag and archive historical collision records based upon realignment or retirement information.
+717038,High,,Allow inclusion or exclusion at user option for analysis purposes of crash information where the crash event occurred on road  segments which have been re-aligned or retired since the crash event.

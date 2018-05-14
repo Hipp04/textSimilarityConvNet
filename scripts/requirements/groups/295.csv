@@ -1,0 +1,15 @@
+"Section:PL-Procurement, Requisition-Accounting (14 Reqs)"
+715231,High,,Provide the ability to allow the initiation of requisitions prior to new year which cannot be pre-encumbered until availability of new  year's funds.
+715232,Medium,,Provide the ability for requisitions to be entered without posting a pre-encumbrance based on organization-defined parameters.
+715233,High,,Provide the ability for purchase requisition to allow the entry of multiple account codes for allocation of expenditure.
+715234,High,,Provide the ability for purchase requisition to allow the entry to multiple agencies for allocation of expenditure.
+715235,High,,Provide the ability to allocate expenditures by percent of total purchase requisition.
+715236,High,,Provide the ability to allocate expenditures by dollar amount.
+715237,Medium,,Provide the ability to allocate expenditures by purchase. requisition line item.
+715238,Medium,,"Provide the ability to define auto-distribution rules and apply to the requisition using standard, user-defined distribution code."
+715239,High,,Provide the ability to automatically close a requisition line when all commodities/services are received and the final invoice is paid  and/or when the PO is closed.
+715240,High,,Provide the ability to optionally liquidate remaining/outstanding pre-encumbrance.
+715241,High,,"Provide the ability to setup standard auto-close parameters, based on dollar amount remaining and last activity."
+715242,High,,Provide the ability to set a notification that the auto-close is to occur. Notice to be sent at a specified time period.
+715243,High,,Provide the ability to carryover open purchase requisitions to the following fiscal year.
+715244,High,,Provide the ability to reopen a requisition if the requisition was closed in error (with appropriate security procedures).

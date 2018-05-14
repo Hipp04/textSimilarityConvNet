@@ -1,0 +1,52 @@
+"Section:FIN-Grants Management, Billing, Inquiry, and Reporting (51 Reqs)"
+707926,High,,Provide a tickler or warning message to user for outstanding receivables after a user-specified length of time.
+707927,High,,Net expenditures and program income to determine amount to draw.
+707928,High,,Provide an edit to ensure that grant billings do not exceed the reimbursable budget.
+707929,High,,"Provide an on-line inquiry screen that displays grant reimbursable budget, encumbrances, expenditures, program income,  revenues, and amount billed budget. The numbers displayed should be the same balances used by the billing edit program."
+707930,High,,"Track federal, state, and local grant matching requirements."
+707931,High,,"Interface with Accounts Receivable to provide billing, aging, and tracking capabilities."
+707932,Medium,,"Automatically bill the grantor from grant data (i.e., grant phase, object, match rate) when a bill is required."
+707933,High,,Produce reports using both grantor-defined categories or the State's chart of accounts.
+707934,High,,Report on grants both cumulatively and by user-defined periods.
+707935,Medium,,Reprint a letter of credit and the remaining balance on the letter of credit.
+707936,Medium,,Reprints a letter of credit and the remaining balance on the letter of credit when multiple CFDA numbers are on one letter of  credit.
+707937,High,,Provide a list of total draws by grant for a user specified period of time.
+707938,High,,Provide a list of total draws by CFDA for a user specified period of time.
+707939,Medium,,"Report on the detail that supports letters of credit, requests for reimbursement, and the cash drawdown process, including  application of indirect costs on a grant-by-grant basis."
+707940,High,,Provide the following reports: Expenditures and revenues.
+707941,High,,Provide the following reports: Sources of revenues.
+707942,High,,Provide the following reports: Reimbursed costs.
+707943,High,,Provide the following reports: Budget vs. actual costs.
+707944,Medium,,Provide the following reports: Comparison between Claim Submitted and Actual Revenue Received.
+707945,Medium,,Provide the following reports: Projected Estimated Budget vs. Actual Estimated Report.
+707946,High,,Provide the following reports: Combined grant revenue and expenditure reports.
+707947,Medium,,Provide the following reports: Pending approval grant application report.
+707948,High,,Provide the following reports: Pending expiration or expired grant report.
+707949,High,,Provide the following reports: Grant financial year end statements.
+707950,High,,Provide the following reports: Grant Trial Balance.
+707951,High,,Provide the following reports: Federal 425 Report.
+707952,Medium,,"Provide the following reports: Advances of grantor funding vs. Actual costs, including interest earned on reserves."
+707953,Medium,,Provide for narrative information appended to reports.
+707954,Medium,,Maintain statistical information and produce reports on services provided.
+707955,High,,"Provide ability to import/export Word, WordPerfect, and PDF files without loss of formatting."
+707956,High,,"Provide ability to import/export information into spreadsheets (i.e., Excel) or databases (I.e. Access) for ""What-If"" analysis."
+707957,Medium,,Generate the FHWA Current Bill for FHWA draw down purposes.
+707958,Medium,,Provide location detail on the FHWA Current Bill.
+707959,High,,Provide reports by grant by vendor.
+707960,High,,Provide reports by grant by grantor.
+707961,High,,Provide reports by grant by vendor by transaction by user defined time period.
+707962,High,,Provide reports by CFDA by vendor.
+707963,High,,"Display the following on-screen: Grant identifiers (name, number, CFDA, etc.)."
+707964,High,,Display the following on-screen: Grant budget(s).
+707965,High,,"Display the following on-screen: Current year-to-date fiscal budget, revenues and expenditures."
+707966,High,,"Display the following on-screen: Grant-to-date budget, revenues, expenditures."
+707967,High,,Display the following on-screen: Unexpended balance.
+707968,High,,Display the following on-screen: Encumbrances.
+707969,High,,Display the following on-screen: Listing of Draw-down Documents including date and dollar amount.
+707970,Medium,,Display the following on-screen: Listing of Advances Documents including date and dollar amount.
+707971,High,,Display the following on-screen: Grant transaction detail.
+707972,High,,Roll-up grant financial data to higher levels for internal and external reporting.
+707973,High,,Produce the Schedule of Expenditures of Federal Awards.
+707974,High,,Produce the Schedule of Expenditures of Federal Awards accommodating the ability for a grant to have multiple CFDA numbers.
+707975,High,,Produce reports of pass thru monies in conjunction with the Schedule of Expenditures of Federal Awards.
+707976,Medium,,"Provide grant on-line inquiry screens that allow the user to select the time period of the data displayed including the month and  year as well as the type of activity (i.e., monthly activity, year-to-date activity, or life-to-date activity)."

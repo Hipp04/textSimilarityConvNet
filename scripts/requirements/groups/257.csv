@@ -1,0 +1,31 @@
+"Section:PL-Fleet Management, Acquisition, Replacement and Surplus (30 Reqs)"
+714274,Medium,,Allow for identification of replacement criteria by fleet class and fleet type at either the enterprise or agency level.
+714275,Medium,,"Provide the ability to automate equipment replacement scheduling based on time period, mileage and hours utilized and  historical repair costs."
+714276,Medium,,Identify and report on fleet/equipment units meeting replacement criteria by agency or agency unit.
+714277,Medium,,Provide the ability to view current depreciated value to determine surplus timing as it relates to life-to-date maintenance  expenditures. .
+714278,Medium,,"Support multiple surplus property inventories for fleet/equipment units (Division of Purchasing, WVDOT, other agencies as  appropriate, etc.)."
+714279,Medium,,Allow for transfer of fleet/equipment unit into surplus inventory.
+714280,Medium,,Integrate with ERP asset management and purchasing function to support sale of surplus property.
+714281,Medium,,Record sale of surplus property.
+714282,Medium,,Generate a transaction based on completion of sale and integrate with ERP General Ledger to support posting of receipt for user  agency share of revenue from surplus property sale.
+714283,Medium,,Integrate with BRIM to remove fleet/equipment unit from the State inventory for insurance purposes if sold to an external entity.
+714284,Medium,,Integrate with BRIM to transfer surplus property from one State agency to another State agency if fleet/equipment unit is sold to  another State agency.
+714285,Medium,,Transfer repair history from one state agency to another if vehicle is transferred/sold to another State agency.
+714286,Medium,,Allow former State agency owner or former State user agency access to history data on a vehicle after vehicle disposal  (sell/salvage).
+714287,Medium,,Provide ability for an authorized user to submit a fleet/equipment vehicle acquisition or replacement request.
+714288,Medium,,Capture the following information for a acquisition/replacement request: requestor.
+714289,Medium,,Capture the following information for a acquisition/replacement request: date requested.
+714290,Medium,,Capture the following information for a acquisition/replacement request: agency.
+714291,Medium,,Capture the following information for a acquisition/replacement request: agency unit or program area.
+714292,Medium,,Capture the following information for a acquisition/replacement request: authorized agency approver.
+714293,Medium,,Capture the following information for a acquisition/replacement request: date approved.
+714294,Medium,,Capture the following information for a acquisition/replacement request: requested fleet type.
+714295,Medium,,Capture the following information for a acquisition/replacement request: justification/reason for replacement.
+714296,Medium,,Capture the following information for a acquisition/replacement request: requested manufacturer/make/model (if one) with a  justification.
+714297,Medium,,Capture the following information for a acquisition/replacement request: location where fleet/equipment unit will be assigned.
+714298,Medium,,"Capture the following information for a acquisition/replacement request: anticipated cost allocation to active chart of accounts  codes, grants or projects."
+714299,Medium,,Capture the following information for a acquisition/replacement request: date fleet/equipment required by.
+714300,Medium,,"Calculate estimated replacement cost based on purchase price, estimated salvage value, estimated sale price and depreciation."
+714301,Medium,,"Route approval of an acquisition/replacement request based on fleet class, fleet type, agency, agency unit, estimated cost and  other user defined business rules."
+714302,Medium,,Provide approval routing for both internal agency approvals and any required external agency approvals.
+714303,Medium,,Integrate with ERP purchasing function to automatically generate a requisition for an approved fleet/equipment unit pre- populating with available information from the fleet/equipment request form.

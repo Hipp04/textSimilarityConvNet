@@ -1,0 +1,16 @@
+"Section:HRP-Applicant Services, Testing and Examinations Content Management (15 Reqs)"
+709219,Medium,,"Ensure that tests/questions/answers and any associated applicant data is not compromised (i.e., secured)."
+709220,Medium,,Validate that all tests/questions/answers are EEO and ADA compliant and comply with federal/state regulations.
+709221,Medium,,Question pool shall be searchable by categories and grouped by skill level.
+709222,Medium,,Customize a canned test.
+709223,Medium,,Tests/questions contain core competencies.
+709224,Medium,,Create types of test question to include: computer adaptive testing (CAT).
+709225,Medium,,Create types of test question to include: multiple choice.
+709226,Medium,,Create types of test question to include: true or false.
+709227,Medium,,Create types of test question to include: essay (with automated grading).
+709228,Medium,,Create types of test question to include: audio.
+709229,Medium,,Create types of test question to include: photographs.
+709230,Medium,,Create types of test question to include: flash modules.
+709231,Medium,,Create types of test question to include: software simulations.
+709232,Medium,,Justification/documentation for every test/question/answer is produced.
+709233,Medium,,Certified question pool and certified standard tests available.

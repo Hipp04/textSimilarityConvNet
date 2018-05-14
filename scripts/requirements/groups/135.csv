@@ -1,0 +1,7 @@
+"Section:HRP-Employee Performance, Inquiry and Reporting (6 Reqs)"
+710148,Medium,,Perform ad hoc evaluation reporting on any employee performance data.
+710149,Medium,,Create a report of notifications generated for each employee evaluation for audit purposes before the notifications are sent.
+710150,Medium,,"Produce a report of all performance evaluations due in a user-specified period of time, by type of performance evaluation, taking  into consideration any leave statuses (e.g., FMLA, disability, etc.)."
+710151,Medium,,"Query performance evaluation status and outcomes by supervisor or manager and produce comparable statistics (e.g., %  evaluations late, evaluation scores, etc.)."
+710152,Low,,"Perform ""what if"" and modeling scenarios for projecting evaluation scores (current, future, average, past, etc) and pay for  performance salary increase (financial) impact."
+710153,Medium,,"Create a comprehensive report of employee performance specific to classification, department, or any user-defined characteristic  (e.g., average performance rating in Departments A, B, and C)."

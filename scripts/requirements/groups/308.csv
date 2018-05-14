@@ -1,0 +1,5 @@
+"Section:PL-Procurement, Contract Amendments (4 Reqs)"
+715560,High,,Provide the ability for authorized users to enter/track contract amendments and revisions.
+715561,High,,System supports contract versioning if amendments occur.
+715562,High,,"Provide the ability for workflow approvals based on business rules when contract amendments occur (e.g., targeted value  increases to require additional workflow)."
+715563,High,,"Provide the ability for an event notification be sent to end users when contract amendments occur (e.g., Purchasing agents listed  on the purchase orders receive notifications of new contract changes)."

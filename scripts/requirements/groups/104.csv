@@ -1,0 +1,6 @@
+"Section:FIN-Transparency, Purge and Archive (5 Reqs)"
+708591,Medium,,"System automatically handles the archiving or purging of documents beyond the mandatory system availability term, based on  user defined rules."
+708592,High,,"Electronic notice of deposit, W-2."
+708593,Medium,,Employee travel remittance by employee.
+708594,Medium,,Detailed remittance data by vendor.
+708595,Medium,,Allow authorized system admin users to remove documents at the request of authorized users. This should include detail and  summary data.

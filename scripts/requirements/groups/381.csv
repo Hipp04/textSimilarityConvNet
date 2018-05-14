@@ -1,0 +1,10 @@
+"Section:PL-Safety Management, Analysis Tools (9 Reqs)"
+716990,Medium,,Support sliding scale analysis.
+716991,Medium,,Provide cost/benefit analysis capabilities.
+716992,Medium,,"Allow for ranking of high crash locations for various breakouts/groupings including statewide, highway system, district, county, etc."
+716993,Medium,,"Calculate crash rates and critical crash rates for various breakouts/groupings including statewide, highway system, district,  county, etc."
+716994,Medium,,Calculate crash rates for homogenous intersections and highway sections.
+716995,Medium,,"Identify over-representation of crash types at intersections and for highway sections for various breakouts/groupings including  statewide, highway system, district, county, etc."
+716996,Medium,,"Support pre and post improvement crash rate analyses for various breakouts/groupings including statewide, highway system,  district, county, etc."
+716997,Medium,,Provide the ability to export crash data to McTrans Highway Capacity software.
+716998,Medium,,Provide the ability to export crash data to TrafficWare Syncro Studio 7 modeling software.

@@ -1,0 +1,5 @@
+"Section:PL-Real Estate Management, System Set-up (4 Reqs)"
+716077,High,,Allow system administrator or other authorized user to define various facility type codes and facility use codes.
+716078,High,,Allow system administrator or other authorized user to define the types of facilities for which the Real Estate Division leads the  acquisition process and those types of facilities for which agencies have the lead in the acquisition process. This coding will then  be utilized to route work flows for space requests.
+716079,High,,"Allow system administrator or other authorized user to define approval hierarchies for space requests, purchase approvals and  lease approvals at the enterprise level, for an agency or a group of agencies."
+716080,High,,Allow an authorized user to define approval hierarchies for their own specific agency while being restricted from updating  approval hierarchies for other agencies.

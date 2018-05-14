@@ -1,0 +1,30 @@
+"Section:FIN-Accounts Receivable, Customer Maintenance (29 Reqs)"
+705427,Medium,,"Provide a central file for storing all customer-related information (e.g., name, address, contact, etc.)."
+705428,Medium,,Provide ability to create user-defined customer types.
+705429,Medium,,"Provide ability to bill, track and collect for 'one-time' customers."
+705430,Medium,,Provide ability to purge inactive customers based upon Agency/Department defined parameters.
+705431,Medium,,Provide ability to deactivate and reactivate customers with appropriate security and control.
+705432,Medium,,"Provide ability to record customer information by agency in which users can track organization specific information regarding  customer based upon Agency/Department defined security rules, including but not limited to the following: Multiple addresses per  customer."
+705433,Medium,,"Provide ability to record customer information by agency in which users can track organization specific information regarding  customer based upon Agency/Department defined security rules, including but not limited to the following: Multiple contact  names and numbers per customer."
+705434,Medium,,"Provide ability to record customer information by agency in which users can track organization specific information regarding  customer based upon Agency/Department defined security rules, including but not limited to the following: At least 20 user- definable fields per customer."
+705435,Medium,,Provide ability to capture and retain a tax ID number associated with receivable customers.
+705436,Medium,,Provide ability to prevent duplicate customer numbers based on user-defined criteria.
+705437,Medium,,Provide ability to record a customer as blocked from future services.
+705438,Medium,,Provide ability to record customers as in dispute with a description field dedicated to the reason and details of the dispute.
+705439,Medium,,Provide ability to maintain an on-line audit trail of changes made to the customer master.
+705440,Medium,,Provide ability for customer history to be retained when a customer name changes.
+705441,Medium,,Provide ability to copy a similar customer record when creating a new record.
+705442,Medium,,Provide ability to merge two different customer records and their associated history.
+705443,Medium,,"Provide ability for a unique customer ID that is, at a minimum, 10 characters in length."
+705444,Medium,,"Provide ability to check for duplicate customers based on user-defined criteria (e.g., alphabetic similarity, phonetic similarity,  phone number, postal code, etc.)."
+705445,Medium,,"Provide ability to restrict access to add, delete or modify customer information by users."
+705446,Medium,,Provide ability to edit receivables items.
+705447,Medium,,"Provide ability to track additions, changes, and deletions to the customer files with an audit trail."
+705448,Medium,,Provide ability to provide both detail and summary level audit trail.
+705449,Medium,,Provide ability to archive inactive accounts.
+705450,Medium,,Provide ability to classify customers by user-defined specific characteristics.
+705451,Medium,,Provide ability to support a central customer file that all departments can access.
+705452,Medium,,Provide ability to view all receivables for one customer.
+705453,Medium,,Provide ability to flag and track bankruptcy on accounts receivable customer record.
+705454,Medium,,Provide ability for customer look-up capabilities by tax id (FEIN) or social security number.
+705455,Medium,,"Ability to reflect hierarchical nature of customers e.g. to one billing agency the Dept may be customer, but to another a division  with the department is a customer and so on. The ability to roll up all of this AR."

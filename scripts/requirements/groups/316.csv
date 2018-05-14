@@ -1,0 +1,12 @@
+"Section:PL-Procurement, Purchase Order Issuance (11 Reqs)"
+715771,Medium,,Issue a purchase order via the following : EDI.
+715772,High,,Issue a purchase order via the following : Hard copy.
+715773,Medium,,Issue a purchase order via the following : Facsimile.
+715774,High,,Issue a purchase order via the following : Email.
+715775,High,,Issue a purchase order via the following : Direct supplier interface via XML.
+715776,High,,Issue a purchase order via the following : Self service supplier portal.
+715777,High,,Provide the ability to allow user defined on-line and batch printing of purchase orders.
+715778,High,,Provide the ability to print multiple POs at various locations.
+715779,High,,Provide the ability to view and print a draft PO and reprint hard copy of purchase orders and change orders when required.
+715780,High,,"Provide the ability to print ""Original"" on the original PO, then ""Duplicate"" on reprints with the appropriate security."
+715781,High,,Provide the ability for users to print all or selected attachments from within the application.

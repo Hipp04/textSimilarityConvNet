@@ -1,0 +1,13 @@
+"Section:PL-Facilities Management, System Leases (12 Reqs)"
+713391,Medium,,Store lease/rental information for any facility systems/components which are leased.
+713392,Medium,,Store State agency for inter-agency leases.
+713393,Medium,,Store vendor identification number for lessor for external leases.
+713394,Medium,,Store lease term.
+713395,Medium,,Store lease start date.
+713396,Medium,,Store lease end date.
+713397,Medium,,"Store payment terms (lease amount, period)."
+713398,Medium,,Store payment due date.
+713399,Medium,,Store organization to whom payment is made (bank or other).
+713400,Medium,,Store payment location.
+713401,Medium,,Store payment address.
+713402,Medium,,"Integrate with Accounts Payable function to automatically generate payment request for monthly or other recurring payments for  leased facility systems, components or equipment; this could be a payment to an external entity or an intergovernmental transfer  to another State agency."

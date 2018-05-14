@@ -1,0 +1,14 @@
+"Section:PL-Facilities Management, Equipment (13 Reqs)"
+713702,Medium,,"Integrate with the ERP fleet management function to obtain information on vehicles, maintenance equipment and other fleet units  utilized in performing facilities management work activities."
+713703,Medium,,Store and display fleet/equipment class name and code.
+713704,Medium,,Store and display fleet/equipment type name and code.
+713705,Medium,,Store and display fleet/equipment unit ID number.
+713706,Medium,,Store and display manufacturer.
+713707,Medium,,Store and display make .
+713708,Medium,,Store and display model.
+713709,Medium,,Store and display current location of equipment.
+713710,Medium,,Store and display skills/certifications required by operator.
+713711,Medium,,Store and display rental rate or cost per hour (for activity costing purposes).
+713712,Medium,,"Utilize available fleet/equipment information to compare needed versus actual equipment, costing of work orders and daily work  accomplishments, and tracking condition and replacement needs."
+713713,Medium,,"Calculate automatically equipment utilization and non-productive (commitment time) equipment hours by type of equipment,  based on work order information on equipment usage."
+713714,Medium,,Allow an authorized user to create minimum usage requirements for specified equipment that will be set as a threshold for  comparing planned usage versus actual usage.

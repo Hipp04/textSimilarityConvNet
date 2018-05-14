@@ -1,0 +1,25 @@
+"Section:HRP-Leave Management, General (24 Reqs)"
+710599,High,,Track all leave accrued and taken by type of eligible leave and reason.
+710600,High,,Display current leave accrual rates and leave balances for each employee while time is being entered or reviewed.
+710601,High,,Allow changes of leave data entered for the period and edit changes against the employee leave balances.
+710602,High,,Establish beginning leave balances once employees become eligible to earn leave.
+710603,Medium,,Adjust leave balances for the calendar year and record adjustments for audit trail purposes.
+710604,Medium,,Future date leave transactions for processing during the appropriate pay period.
+710605,High,,Process paid and unpaid leave.
+710606,High,,"Provide for a variety of user defined leave classifications such as annual leave, administrative leave, sick leave, including user  defined descriptions, business rules, and approval requirements."
+710607,Medium,,Support the use of unlimited number of leave types with or without balance accruals and associated user defined business rules  that may vary by agency or organization unit.
+710608,High,,Maintain history of all leave accounting actions to include: modifications to leave definitions.
+710609,High,,Maintain history of all leave accounting actions to include: accrual calculations.
+710610,High,,Maintain history of all leave accounting actions to include: leave taken.
+710611,High,,Maintain history of all leave accounting actions to include: leave claimed.
+710612,High,,Maintain history of all leave accounting actions to include: leave paid.
+710613,High,,Maintain history of all leave accounting actions to include: leave adjustments.
+710614,High,,Maintain history of all leave accounting actions to include: leave balances.
+710615,High,,Maintain history of all leave accounting actions to include: donated leave transactions.
+710616,High,,"Maintain history of all leave accounting actions to include: donated leave balances (donor, receiving agency)."
+710617,Medium,,Interface leave accounting information to: Workers' compensation.
+710618,Medium,,Interface leave accounting information to: Consolidated Public Retirement Board.
+710619,Medium,,Interface leave accounting information to: agency labor tracking systems (such as DOT).
+710620,Medium,,Forward applicable leave balances to Consolidated Public Retirement Board upon separation with the State for the conversion of  service credits within the retirement system.
+710621,High,,Provide online access to all employee leave data with appropriate security.
+710622,Medium,,Add future leave plans.

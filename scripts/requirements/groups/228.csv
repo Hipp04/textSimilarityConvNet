@@ -1,0 +1,26 @@
+"Section:PL-Facilities Management, Work Request (25 Reqs)"
+713601,Medium,,Provide a work request function which allows internal staff to request maintenance work to be performed.
+713602,Medium,,Store date work requested.
+713603,Medium,,Store user requesting.
+713604,Medium,,"Store facility, sub facility or other work location."
+713605,Medium,,Define systems or other facilities elements impacted (including specific inventory information to extent possible).
+713606,Medium,,Store the nature of problem.
+713607,Medium,,Store proposed work to be performed.
+713608,Medium,,Store requested completion date.
+713609,Medium,,Provide a means to identify emergency work or accident-related work.
+713610,Medium,,Provide an automated work flow for review and approval of the work request based on user defined business rules.
+713611,Medium,,"Support routing of work requests to the assigned maintenance unit for a facility based on agency specific business rules. This  could be General Services, an agency facility maintenance unit or the Real Estate Division (for leased facilities where the Real  Estate Division is acting as an interface to the landlord)."
+713612,Medium,,"Provide the capability for a maintenance supervisor or other authorized user to review the request, document proposed solutions  and estimate the effort to implement one or more proposed solutions."
+713613,Medium,,Provide integration with various industry leading estimating tools and pricing books.
+713614,Medium,,Integrate with RS Means.
+713615,Medium,,Integrate with Marshall and Swift (Dodge Book).
+713616,Medium,,Integrate with Engineering Performance Standards (EPS).
+713617,Medium,,Integrate with Federal Service Standards.
+713618,Medium,,Integrate with PM Standards.
+713619,Medium,,Integrate with Tracer.
+713620,Low,,Integrate with other user defined methods.
+713621,Low,,Provide ability to export work request to and import estimating information from contractors.
+713622,Low,,Provide the ability to associate estimates to typical recurring problems and have them default on a work order automatically.
+713623,Medium,,Provide for the work flow to allow for approval by an authorized agency manager as defined by agency specific business rules.
+713624,Medium,,Provide the capability for a maintenance supervisor to assign an approved work request to a work crew for implementation.
+713625,Medium,,Generate a work order for each approved work request.

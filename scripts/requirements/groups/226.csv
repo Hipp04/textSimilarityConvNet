@@ -1,0 +1,15 @@
+"Section:PL-Facilities Management, Work Calendar (32 Reqs)"
+713574,Medium,,Provide ability to make schedules available online to facilities maintenance supervisors for review.
+713575,Medium,,"Accommodate a system-specified warning for ""overrun"" status when scheduling activities based against the work calendar."
+713576,Medium,,Provide the ability to create the work schedule for contractor resources.
+713577,Medium,,Provide the ability to create the work schedule for inmate Labor.
+713578,Medium,,Provide the ability to create the work schedule for temporary employees.
+713579,Medium,,Provide the ability to create the work schedule for seasonal resources.
+713580,Medium,,"Provide for the creation and retrieval of standard scheduling templates for each crew, including staff and assigned equipment  and materials."
+713581,Medium,,Allow for creation of a new schedule based on the standard scheduling templates.
+713582,Medium,,"Provide system functionality that determines appropriate equipment and materials for scheduling, and warns the user in cases  where sufficient resources do not exist."
+713583,Medium,,Support various agency specific crew work schedules.
+713584,Medium,,Specify both work schedules and the time frame during the year when each applies.
+713585,Medium,,"Provide a system default calendar, and user-defined calendars, to reflect standard working days, non-standard working days,  holidays, etc."
+713586,Medium,,Provide a list of resources (staff and equipment for specified organizational unit) and their availability for any scheduling period.
+713587,Medium,,"Provide ability to display all work scheduled by facility, maintenance crew and resource types."

@@ -1,0 +1,22 @@
+"Section:SW-General and Technical, Technical Architecture (21 Reqs)"
+718019,High,,Provide a solution based on a distributed systems architecture.
+718020,High,,Utilize a vendor-independent design that is based on non-proprietary technology and does not required the solution to be  operated on proprietary hardware or operating system platforms.
+718021,High,,Support a fully scalable architecture designed to allow incremental increases in hardware capacity to support increased usage of  the system over time.
+718022,High,,"Implement a system design in which the default application system availability is continuous, i.e., 24 by 7."
+718023,Medium,,Utilize a service oriented architecture.
+718024,Medium,,Provide for separation of report server tier from the transaction application server.
+718025,Medium,,Provide for separation of some or all of the web server tier from the application server tier.
+718026,High,,Utilize a Windows or Linux operating system for web servers.
+718027,High,,"Utilize Windows, Unix or Linux operating system for application and data base servers."
+718028,High,,"Support the following desktop Operating System configurations: Windows 7, Windows XP."
+718029,Medium,,Provide a minimum of 80% of the system functionality via the Web to at least 80% of the ERP user base without installation of  client software.
+718030,High,,Deliver content via a web browser which supports at least Microsoft Internet Explorer (7.x and higher).
+718031,Medium,,Deliver content via a web browser which supports at least Firefox (4.x and higher).
+718032,Low,,"Deliver content via the current and most recent previous version of other industry standard browsers such as Chrome, Safari,  Opera, etc."
+718033,Medium,,Ensure that content can be delivered via a web browser without requiring browser security settings to be lowered in order for  system functionality to perform properly.
+718034,Medium,,"Deliver content via browser without Active X controls or plug-in support (Java Runtime Environment, Adobe Flash, etc.)."
+718035,Medium,,Maintain the state of the browser without cookies.
+718036,Low,,Deliver content via the web browser capability available on the Blackberry.
+718037,Low,,Deliver content via the web browser capability available on the iPhone.
+718038,Medium,,Ensure any software which is required to be on a desktop can be easily deployed through push technology.
+718039,Medium,,"Support the following character sets: UTF-8 Unicode, UTF-16 Unicode, ASCII, EBCDIC."

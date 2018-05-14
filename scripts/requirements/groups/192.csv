@@ -1,0 +1,108 @@
+"Section:PL-Bridge Management, Bridge Inspection (107 Reqs)"
+713112,High,,"Store, display and utilize in analyses the overall condition and appraisal of each structure based on the most recent inspection  data."
+713113,High,,Support NBI inspection reporting.
+713114,High,,Support inspection requirements as defined in the West Virginia DOH Bridge Inspection manual.
+713115,Medium,,Support element level inspection reporting which is intended to identify each separate element and report the quantity of each  separate element at each condition state.
+713116,High,,Maintain a history of inspections and condition assessments for each bridge.
+713117,Medium,,Maintain a history of inspections and condition assessments for key element of each bridge.
+713118,High,,"Store/retrieve, display and utilize in analysis: structure number."
+713119,High,,"Store/retrieve, display and utilize in analysis: inspection date."
+713120,High,,"Store/retrieve, display and utilize in analysis: inspected by."
+713121,High,,"Store/retrieve, display and utilize in analysis: condition of wearing surface - deck."
+713122,High,,"Store/retrieve, display and utilize in analysis: condition of superstructure."
+713123,High,,"Store/retrieve, display and utilize in analysis: condition of substructure."
+713124,High,,"Store/retrieve, display and utilize in analysis: condition of channel and channel protection."
+713125,High,,"Store/retrieve, display and utilize in analysis: condition of culverts."
+713126,High,,"Store/retrieve, display and utilize in analysis: live load rating summary - operating rating."
+713127,High,,"Store/retrieve, display and utilize in analysis: live load rating summary - inventory rating."
+713128,High,,"Store/retrieve, display and utilize in analysis: structural evaluation."
+713129,High,,"Store/retrieve, display and utilize in analysis: deck geometry."
+713130,High,,"Store/retrieve, display and utilize in analysis: under clearance - vertical and horizontal."
+713131,High,,"Store/retrieve, display and utilize in analysis: approach roadway alignment."
+713132,High,,"Store/retrieve, display and utilize in analysis: waterway adequacy."
+713133,High,,"Store/retrieve, display and utilize in analysis: operating capacity versus legal load."
+713134,High,,"Store/retrieve, display and utilize in analysis: structure open, posted or closed to traffic."
+713135,High,,"Store/retrieve, display and utilize in analysis: pier or abutment protection."
+713136,High,,"Store/retrieve, display and utilize in analysis: scour critical bridges."
+713137,High,,"Store/retrieve, display and utilize in analysis: fracture critical details and date of last inspection."
+713138,High,,"Store/retrieve, display and utilize in analysis: underwater inspection and date of last underwater inspection."
+713139,High,,"Store/retrieve, display and utilize in analysis: other special inspection and date of last inspection."
+713140,High,,"Store/retrieve, display and utilize in analysis: future average daily traffic."
+713141,High,,"Store/retrieve, display and utilize in analysis: year of future ADT."
+713142,High,,"Store/retrieve, display and utilize in analysis: Rating - H truck (2 axles)."
+713143,High,,"Store/retrieve, display and utilize in analysis: Rating - T3 truck (3 axles)."
+713144,High,,"Store/retrieve, display and utilize in analysis: Rating - SU4 truck (4 + axles)."
+713145,High,,"Store/retrieve, display and utilize in analysis: Rating HS truck (Semi 4)."
+713146,High,,"Store/retrieve, display and utilize in analysis: Rating 3S2 truck (Semi 5+)."
+713147,High,,"Store/retrieve, display and utilize in analysis: Rating HL93 truck."
+713148,High,,"Store/retrieve, display and utilize in analysis: Posting gross load."
+713149,High,,"Store/retrieve, display and utilize in analysis: Posting - H truck."
+713150,High,,"Store/retrieve, display and utilize in analysis: Posting - T3 truck."
+713151,High,,"Store/retrieve, display and utilize in analysis: Posting - SU4 truck."
+713152,High,,"Store/retrieve, display and utilize in analysis: Posting HS truck."
+713153,High,,"Store/retrieve, display and utilize in analysis: Posting 3S2 truck."
+713154,Medium,,"Store/retrieve, display and utilize in analysis: Posting HL93 truck."
+713155,High,,"Store/retrieve, display and utilize in analysis: date of posting."
+713156,High,,"Store/retrieve, display and utilize in analysis: other restrictions."
+713157,High,,"Store/retrieve, display and utilize in analysis: speed restrictions."
+713158,High,,"Store/retrieve, display and utilize in analysis: live load inventory rating for main, floor beam, gusset plate and connection."
+713159,High,,"Store/retrieve, display and utilize in analysis: live load operating rating for main, floor beam, gusset plate and connection."
+713160,High,,"Store/retrieve, display and utilize in analysis: Special permit ratings - H truck."
+713161,High,,"Store/retrieve, display and utilize in analysis: Special permit ratings - T3 truck."
+713162,High,,"Store/retrieve, display and utilize in analysis: Special permit ratings - SU4 truck."
+713163,High,,"Store/retrieve, display and utilize in analysis: Special permit rating - HS truck."
+713164,High,,"Store/retrieve, display and utilize in analysis: Special permit rating - 3S2 truck."
+713165,High,,"Store/retrieve, display and utilize in analysis: method used to determine inventory rating."
+713166,High,,"Store/retrieve, display and utilize in analysis: method used to determine operating rating."
+713167,High,,"Store/retrieve, display and utilize in analysis: Coal resource transportation system (CRTS) trucks SU-40 (3 axle) inventory rating."
+713168,High,,"Store/retrieve, display and utilize in analysis: CRTS trucks SU-45 (4 axle) inventory rating."
+713169,High,,"Store/retrieve, display and utilize in analysis: CRTS trucks 3S-55 (semi 5) inventory rating."
+713170,High,,"Store/retrieve, display and utilize in analysis: CRTS trucks 3S-60 (semi 6) inventory rating."
+713171,High,,"Store/retrieve, display and utilize in analysis: CRTS trucks SU-40 operating rating."
+713172,High,,"Store/retrieve, display and utilize in analysis: CRTS trucks SU-45 operating rating."
+713173,High,,"Store/retrieve, display and utilize in analysis: CRTS trucks 3S-55 operating rating."
+713174,High,,"Store/retrieve, display and utilize in analysis: CRTS trucks 3S-60 operating rating."
+713175,High,,"Store/retrieve, display and utilize in analysis: CRTS trucks SU-40 posting."
+713176,High,,"Store/retrieve, display and utilize in analysis: CRTS SU-45 posting."
+713177,High,,"Store/retrieve, display and utilize in analysis: CRTS 3S-55 posting."
+713178,High,,"Store/retrieve, display and utilize in analysis: CRTS 3S-60 posting."
+713179,High,,"Store/retrieve, display and utilize in analysis: date of CRTS posting."
+713180,High,,"Store/retrieve, display and utilize in analysis: Other CRTS restrictions."
+713181,High,,"Store/retrieve, display and utilize in analysis: type of proposed permanent improvements (multiple)."
+713182,High,,"Store/retrieve, display and utilize in analysis: year permanent improvement is needed (multiple)."
+713183,High,,"Store/retrieve, display and utilize in analysis: length of structure improvement."
+713184,High,,"Store/retrieve, display and utilize in analysis: bridge improvement cost."
+713185,High,,"Store/retrieve, display and utilize in analysis: roadway improvement costs (approaches)."
+713186,High,,"Store/retrieve, display and utilize in analysis: total project cost."
+713187,High,,"Store/retrieve, display and utilize in analysis: year of improvement cost estimate."
+713188,High,,"Store/retrieve, display and utilize in analysis: painting cost."
+713189,High,,"Store/retrieve, display and utilize in analysis: year painting needed."
+713190,High,,"Store/retrieve, display and utilize in analysis: other maintenance work needed (multiple)."
+713191,High,,"Store/retrieve, display and utilize in analysis: year other maintenance work needed (multiple)."
+713192,High,,"Store/retrieve, display and utilize in analysis: cost of other maintenance work needed (multiple)."
+713193,High,,"Store/retrieve, display and utilize in analysis: descriptive notes (free form text)."
+713194,High,,"Support associating, linking, retrieving and displaying photographs or other documents to the inspection report."
+713195,High,,"Provide the capability to store and link to detailed, supplemental or special inspection data in paper, photographic, microfiche, or  digital form."
+713196,Medium,,"Store/retrieve, display and utilize in analyses elemental inspection data for deck."
+713197,Medium,,"Store/retrieve, display and utilize in analyses elemental inspection data for joints."
+713198,Medium,,"Store/retrieve, display and utilize in analyses elemental inspection data for railings."
+713199,Medium,,"Store/retrieve, display and utilize in analyses elemental inspection data for girders."
+713200,Medium,,"Store/retrieve, display and utilize in analyses elemental inspection data for bearings."
+713201,Medium,,"Store/retrieve, display and utilize in analyses elemental inspection data for abutments."
+713202,Medium,,"Store/retrieve, display and utilize in analyses elemental inspection data for piers."
+713203,High,,Integrate with the WVDOT BridgeInspect TM database and the transportation asset inventory function to store or retrieve bridge  inspection and condition data.
+713204,Medium,,Provide for online capture and maintenance of bridge inspection data.
+713205,Medium,,Support capture of bridge inspection data using a laptop or PDA.
+713206,Medium,,Auto populate inspection reports from previous reports.
+713207,Medium,,Highlight changes in fields from past reports.
+713208,Medium,,Provide drop down boxes for each data entry field which provide a list of valid choices for that field.
+713209,Medium,,Incorporate all Federal edit checks.
+713210,Medium,,Incorporate all State edit checks.
+713211,Medium,,Allow digital inspection photos to be attached to any field.
+713212,High,,Calculate the sufficiency rating automatically and establish deficiency status based on most recent inspection report.
+713213,High,,Provide ability to track when bridges are due for inspection based on user defined business rules.
+713214,Medium,,Notify designated users via email of bridges due for inspection.
+713215,Medium,,Notify designated WVDOT management via email of any bridges whose inspection are overdue based on user defined business  rules.
+713216,Medium,,Integrate with highway maintenance management function to support scheduling of bridge inspection crews.
+713217,Medium,,Notify crew leaders of inspection schedule/assignments via email with ability to drill down into schedule by week/day.
+713218,High,,"Integrate with highway maintenance management function to capture employee time, contract resources, equipment and any  materials utilized on bridge inspections through the Daily Activity Report function."

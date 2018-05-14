@@ -1,0 +1,41 @@
+"Section:HRP-Personnel Administration, General (40 Reqs)"
+711182,High,,Link an unique and permanent Employee ID to employee SSN and employee email address (if available) for all employees.
+711183,High,,Generate a unique and permanent employee ID.
+711184,High,,"Use employee ID across non-ERP State systems that require employee data (e.g., time capture, retirement systems, deferred  comp systems, etc.)."
+711185,High,,"Track employee-related information, including employee demographics and chronological history of employment."
+711186,High,,"Store and retrieve employee data in numerous individual and aggregated employee group formats for such purposes as  affirmative action, employee suggestion program, FMLA, FLSA and EEO-4 reporting, grievances, disciplinary actions,  compensation, staffing and employee training history and skills bank, and classification."
+711187,Medium,,Link imaged data to electronic employee records.
+711188,High,,"Provides an integrated capability for linking external files (e.g., MS Word, Excel, Access, XML) to employee records."
+711189,High,,Audit trail of personnel actions accessible by authorized users.
+711190,High,,"Maintain and control employee's data for each employing agency to review/edit their employees' personnel data by individual,  organizational unit, and function."
+711191,High,,"Entry and approval routing of future-dated personnel transactions, including an ability to apply future-dated transactions based  on their effective date."
+711192,Medium,,Control how far in advance personnel transactions may be entered.
+711193,Medium,,Cancel future-dated personnel transactions.
+711194,High,,"Configure and apply data entry defaults in compliance with rulings, State law, Federal requirements, State Administrative Code,  and State Policies and Procedures."
+711195,High,,"Maintain and support all the basic employee data through the life of the employee's employment with the State as well as access  to data after separation (i.e., beginning with the individual's application for employment consideration through the hiring process,  through all promotions, transfers, job changes, and other personnel change events through and beyond separation from the  State)."
+711196,Medium,,"Track non-employee groups including contract workers, volunteer workers, work study, interns, inmate workers, patient workers,  community service jobs, per-diem board members, higher education employees, and other non-employees."
+711197,High,,Rehired employees previous employment data are linked to the original employee ID record.
+711198,Medium,,Purge personnel transactions based on court orders based on authorized users.
+711199,Medium,,Purge personnel transaction history based on court orders based on authorized users.
+711200,High,,Electronic signature capability at each approval step.
+711201,High,,Maintain employee data by agency and utilize agency security profiles to control review/edit of employee data.
+711202,Medium,,Automatically set up default security access to the system as employees are hired based upon established security roles and  functions.
+711203,High,,Automatically delete security access to the system as employees are separated from State service using a user defined date  parameter.
+711204,High,,Track personnel status changes for all employees.
+711205,Medium,,Interface personnel information with: Employee retirement systems.
+711206,Medium,,Interface personnel information with: Workers' comp claims processing.
+711207,Medium,,Interface personnel information with: NEOGOV.
+711208,Medium,,Interface personnel information with: Employment Testing.
+711209,Medium,,Interface personnel information with: State licensing agencies that use employee data.
+711210,Medium,,Interface personnel information with: Unemployment insurance.
+711211,Medium,,Interface personnel information with: Deferred Compensation.
+711212,Medium,,"Interface personnel information with: New hire reporting (Policy Studies, Inc.)."
+711213,Medium,,Interface personnel information with: P-CARD Citi Bank Database.
+711214,Medium,,Interface personnel information with: Welfare and Medicaid Systems.
+711215,High,,"Confidential data (e.g., fields) as well as specified employees (e.g., records) can be secured to authorized users only."
+711216,High,,Designate any user-defined group of employees as confidential and restrict access accordingly with proper security.
+711217,High,,Track Employment Eligibility Verification (I-9s) and Visa.
+711218,High,,Designate employee data such as salary and agency name as available for release.
+711219,Medium,,"Create employee directory for use within the State containing business address, business phone, function, location, supervisor,  backup personnel, and e-mail viewable through the use of an industry-standard web browser."
+711220,High,,Assign and track State issued property to an employee.
+711221,High,,"Track the return of State issued property and non-property items such as id/security badge, purchase card, and other State  equipment."

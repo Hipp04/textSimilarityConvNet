@@ -1,0 +1,36 @@
+"Section:FIN-Project Management, Reporting (35 Reqs)"
+708509,High,,Generate reports from specific or ranges of: Project Number or Name.
+708510,High,,Generate reports from specific or ranges of: Type (capital or operating).
+708511,High,,Generate reports from specific or ranges of: Agencies and Organization/Division.
+708512,High,,Generate reports from specific or ranges of: State fiscal year.
+708513,High,,Generate reports from specific or ranges of: Federal fiscal year.
+708514,High,,Generate reports from specific or ranges of: Calendar year (annual).
+708515,High,,Generate reports from specific or ranges of: Funding Source.
+708516,High,,Produce variance reports according to the account ranges specified above.
+708517,High,,Provide reports at the end of projects listing expenditures by funding sources and type including associated invoice and warrant  numbers at a summary and detail level.
+708518,High,,"System provides the following reports: Project expenditures by type of expenditure, i.e. fixed asset, component, etc."
+708519,High,,System provides the following reports: Project expenditures by vendor and invoice number.
+708520,High,,"System provides the following reports: Produce project status reports for current month, YTD and inception-to-date."
+708521,High,,"Report direct and indirect costs associated with a project, including assessment of fringe benefit and/or overhead costs  associated with direct project labor."
+708522,High,,Track and report revenue and expenditure actual and budget (including encumbrances) by current fiscal year and project  inception date to current date at detail level specified by user.
+708523,High,,Provide resource monitoring and resource utilization queries and reports.
+708524,High,,"Provide project on-line inquiry screens that allow the user to select the time period of the data displayed including the month and  year as well as the type of activity (i.e., monthly activity, year-to-date activity, or life-to-date activity."
+708525,High,,"Provide an on-line inquiry screen that displays project budget, encumbrances, expenditures, revenues, and available budget.  The numbers displayed should be the same balances used by the budget/cash edit program."
+708526,High,,Provide on-line inquiry screens to view vendor and customer information by project.
+708527,High,,Provide the ability to view on line and print time scaled bar chart (Gantt).
+708528,High,,Include a Cost Variance Report.
+708529,High,,Include a Schedule Variance Report.
+708530,High,,Include a Variance at Completion Report.
+708531,High,,Include a number of tracts purchased by funding source report.
+708532,High,,Allow for reporting on federal fiscal year.
+708533,High,,Provide FHWA 10 and 20 year Reports for inactive projects.
+708534,High,,Support reporting on the following: Project.
+708535,High,,Support reporting on the following: Task.
+708536,High,,Support reporting on the following: Resource.
+708537,High,,Support reporting on the following: Period-to Date.
+708538,High,,Support reporting on the following: Prior Period.
+708539,High,,Support reporting on the following: Year-to-Date.
+708540,High,,Support reporting on the following: Inception-to-Date.
+708541,High,,System will have drill down capabilities for the following: Projects.
+708542,High,,System will have drill down capabilities for the following: Task.
+708543,High,,System will have drill down capabilities for the following: Resources.

@@ -1,0 +1,29 @@
+"Section:HRP-Time and Labor, Resource Schedule (28 Reqs)"
+711818,Medium,,Generate unlimited default schedules and work hours for exception based employees based on user defined profile.
+711819,Medium,,Adjust default schedule and work hours for individual employees.
+711820,Medium,,Track scheduled beginning time and scheduled ending time on a daily basis.
+711821,Medium,,Change scheduled beginning time and scheduled ending time on a daily basis based on actual time periods worked.
+711822,Medium,,"Generate holiday schedules, on an as needed, user defined basis, and automatically update eligible employee time and  attendance records where applicable."
+711823,Medium,,Allow each Agency to create work shifts and work schedules of variable duration such as: 24 hour shift.
+711824,Medium,,Allow each Agency to create work shifts and work schedules of variable duration such as: 12 hour shift.
+711825,Medium,,Allow each Agency to create work shifts and work schedules of variable duration such as: 21 day schedule.
+711826,Medium,,"Allow each Agency to create work shifts and work schedules of variable duration such as: day of schedule start (Monday,  Tuesday, day after end of last schedule, etc.)."
+711827,Medium,,"Allow each Agency to create work shifts and work schedules of variable duration such as: combinations of shift, schedule, and  schedule start."
+711828,Medium,,"Provide for access and use of current position and labor schedule information as primary data source and use information for  editing schedules and worked hours based on user defined business rules that may vary by agency, organization unit or job  class."
+711829,Medium,,"Support online and batch creation of and changes to schedules, work hours, seasonal schedules, overtime rates, holidays, pay  differentials and other time reporting and pay requirements based on bargaining unit, job class, agency, and other selection  criteria or for individual employees."
+711830,Medium,,"Provide for standard and rotating schedules that may vary by agency, organization unit or job class."
+711831,Medium,,"Provide the ability to assign work schedules to individuals, employee groups, and employees of a user specified organization unit."
+711832,Medium,,"Support various types of agency specific user defined work schedules for example weeks on/weeks off, split shift, etc."
+711833,Medium,,"Allow authorized user staff to establish agency, organization unit, program based and other work schedules with effective  beginning and end dates and requirements for coverage of particular job functions and staffing levels."
+711834,Medium,,"Edit work schedules against user defined business rules that may vary by agency, organization code, job class."
+711835,High,,"Allow authorized users to assign staff to various work times and job functions on the established work schedule for the applicable  agency, organization unit, program, or project based on user defined business rules."
+711836,Medium,,"Provide automated support (mass update) for implementation of changes to federal, state, or other authorized user defined work  schedules."
+711837,Medium,,"Provide ability to enter, update, and edit against effective beginning and end dates (include future date capabilities) for work  schedules."
+711838,Medium,,Provide capability to automatically generate work schedule/shift change notices to employees based on user defined templates  that may vary by agency.
+711839,Medium,,Automatically notify employees and designated supervisors of new and changes to work times via email and other alerts based  on user defined business rules.
+711840,Medium,,Support scheduling for positions under job share.
+711841,Medium,,Provide email notifications and other alerts to designated supervisors of various scheduling exceptions based on user defined  business rules.
+711842,Medium,,Provide for work shifts that have varying rules by agency or organization unit.
+711843,Medium,,"Provide for multiple user defined work and seasonal schedules by agency, organization unit or job class to pre-existing  schedules. Work schedule = typical work days, such as Monday - Friday or Tuesday - Saturday."
+711844,Medium,,Support establishment of schedule change thresholds for deviations based on user defined business rules that may vary by  agency or organization unit.
+711845,Medium,,Allow scheduling of periodic shifts or schedules on a user defined basis or annual basis.

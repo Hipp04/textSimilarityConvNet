@@ -1,0 +1,6 @@
+"Section:PL-Fleet Management, Labor (5 Reqs)"
+714226,Medium,,"Provide the capability to view on-line work in progress, as well as all work completed that day by mechanic and location."
+714227,Medium,,Track both direct and indirect labor for each fleet/equipment unit.
+714228,Medium,,Capture all labor transactions real-time as the mechanic logs on and off of repairs.
+714229,Medium,,"Produce labor averages by repair type and individual mechanic for a maintenance shop, set of maintenance shops or for the  entire agency."
+714230,Medium,,"Prepare efficiency reports which measure how a mechanic's performance compares with one or more user-defined standards.  Reports must be able to be generated for the entire agency, a set of maintenance shops, a maintenance shop or for one or more  mechanics for a user defined set of repair types and date range."

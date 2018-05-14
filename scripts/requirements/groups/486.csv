@@ -1,0 +1,15 @@
+"Section:SW-Reporting and Business Intelligence, Procurement Analytics (14 Reqs)"
+718480,Medium,,"Provide a range of analytical functions, capabilities, reports and queries for procurement information."
+718481,High,,"Display total spend by elements of the chart of accounts, vendor and commodity."
+718482,High,,Provide the capability to include or not include procurement card transactions in any analysis.
+718483,High,,Display number and amount of POs by vendor.
+718484,Medium,,Display average delivery time.
+718485,High,,Prepare a comparative analysis of purchases for the last three years.
+718486,Medium,,"Prepare an analysis of master contract usage by agency, commodity or dollar amount."
+718487,High,,"Provide a list of the top 10 vendors in terms of purchasing amount statewide, by agency or by commodity."
+718488,High,,Determine average price paid by commodity with high and lows.
+718489,High,,Determine the number and amount of POs by commodity.
+718490,Medium,,Identify commodity usage by agency.
+718491,Medium,,Identify the number and amount of POs by funding source.
+718492,Medium,,Identify the number and amount of POs by funding source by object code.
+718493,Medium,,Identify the number and amount of procurement card purchases.

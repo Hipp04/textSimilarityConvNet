@@ -1,0 +1,14 @@
+"Section:HRP-Leave Management, Inquiry and Reporting (13 Reqs)"
+710801,High,,"Calculate leave value, as of any point in time, estimates the liability (short and long term) of all outstanding leave balances to  support GASB 34 reporting of leave liability and provide the data to the GL module for posting the accrual transaction."
+710802,Medium,,Generate exception reports after time input that will capture leave events such as: leave taken in the period.
+710803,Medium,,Generate exception reports after time input that will capture leave events such as: unpaid leave in the period.
+710804,Medium,,Generate exception reports after time input that will capture leave events such as: leave payouts in the period.
+710805,Medium,,Generate exception reports after time input that will capture leave events such as: comp time taken in the period.
+710806,High,,Generate an attendance report as defined by the end user.
+710807,Medium,,Generate an employee availability report by pay period.
+710808,High,,"Produce a report each pay period listing all employees' sick, annual, and other leave balances (Leave Balance Report)."
+710809,Medium,,"Produce a report of employees due back from leave (this report should be produced based on user specified time period before  an employee returns), including type of leave and type of end date (return to work, re-evaluate, etc.)."
+710810,Medium,,Produce a leave usage report by pay period or other user-specified period by employee by leave type.
+710811,Medium,,"Generate a statistical leave analysis report by leave type, total hours used, average hours used, and the cost of leave used  based on a user-specified time intervals."
+710812,Medium,,Produce standard form letters for qualified FMLA employees and/or employees qualified for medical leave without pay.
+710813,Medium,,"Generate a report that details scheduled hours, time worked, leave usages, leave balances, etc., by day within pay period for  employees, unit level, division level, and state-wide."

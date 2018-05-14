@@ -1,0 +1,16 @@
+"Section:SW-General and Technical, Extract, Transform and Load Tools (15 Reqs)"
+718160,High,,"Provide data integration and data management tools with a range of extract, transform and load (ETL) capabilities."
+718161,High,,Provide pre-built integration through the ETL tools between the ERP functions/modules and the established open interface file  definitions.
+718162,High,,Provide capability to create new routines to transform data.
+718163,High,,Define and maintain business rules for data transformation through formatted screens.
+718164,High,,Utilize scripting or other object-oriented structured languages to define advanced transformation routines/procedures.
+718165,High,,Validate and handle exceptions during transformation.
+718166,Medium,,Provide a graphical environment to model the logical ETL process.
+718167,Medium,,Support chaining of transformations on the data flow.
+718168,Medium,,Apply complex scripted transformations to the data.
+718169,Medium,,Override the default source mapping and use specific SQL statements.
+718170,Medium,,Provide ability to map data from multiple source systems into multiple target source systems.
+718171,Medium,,Provide ability to change transformation output data in debug mode.
+718172,High,,Provide ability to define and alter data refresh frequency and methodology according to business needs.
+718173,High,,"Provide ability to schedule and monitor the extraction, cleansing, transformation, and loading processes."
+718174,High,,"Provide ability to perform incremental loads, or take advantage of pipelined and partitioned parallelism to meet acceptable  timeframes."

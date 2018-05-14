@@ -1,0 +1,55 @@
+"Section:FIN-Budgetary Control, Operating Budget (53 Reqs)"
+706674,Medium,,Supports the use operating budgets. Note: the operating budget is separate from the appropriation budget and is used to control  budgets at a lower or different level of detail than the appropriation budget.
+706675,Medium,,Provides operating budgetary controls for each agency with user-defined combinations of the elements shown below: Fund  Structure.
+706676,Medium,,Provides operating budgetary controls for each agency with user-defined combinations of the elements shown below:  Agency/Department.
+706677,Medium,,"Provides operating budgetary controls for each agency with user-defined combinations of the elements shown below:  Organization Structure (e.g., Agency, Division,"
+Sectio,n).,,
+706678,Medium,,Provides operating budgetary controls for each agency with user-defined combinations of the elements shown below: Program  Structure.
+706679,Medium,,"Provides operating budgetary controls for each agency with user-defined combinations of the elements shown below:  Appropriation Structure (currently Fund, Fiscal Year, Process Fiscal Year, Organization and Activity)."
+706680,Medium,,Provides operating budgetary controls for each agency with user-defined combinations of the elements shown below: Location.
+706681,Medium,,Provides operating budgetary controls for each agency with user-defined combinations of the elements shown below: Project  Structure.
+706682,Medium,,Provides operating budgetary controls for each agency with user-defined combinations of the elements shown below:  Expenditure / Revenue Sub-Object Structure.
+706683,Medium,,Provides operating budgetary controls for each agency with user-defined combinations of the elements shown below: General  Ledger Account.
+706684,Medium,,Provides operating budgetary controls for each agency with user-defined combinations of the elements shown below: Grant  Structure.
+706685,Medium,,Provides operating budgetary controls for each agency with user-defined combinations of the elements shown below: Activity.
+706686,Medium,,Provides operating budgetary controls for each agency with user-defined combinations of the elements shown below:  Expenditure Group.
+706687,Medium,,Provides operating budgetary controls for each agency with user-defined combinations of the elements shown below: Budget  Year.
+706688,Medium,,Provides operating budgetary controls for each agency with user-defined combinations of the elements shown below: Cost  Center.
+706689,Medium,,"Provides operating budgetary control at varying levels and combinations of the Chart of Accounts (i.e., 4th level of fund; 4th level  of organization, 2nd level of object of expenditure)."
+706690,Medium,,"Provides multiple levels of operating budget (e.g., level 1 and level 3 of the organization) within the same organizational branch."
+706691,Medium,,"Provides ability to create, enter, track, and analyze agency spending and receipt plans."
+706692,Medium,,Provides an indicator that determines whether commitments are included in the available operating budget edit.
+706693,Medium,,Provides an indicator that determines whether encumbrances are included in the available operating budget edit.
+706694,Medium,,"Edit commitments, encumbrances and expenditures against the appropriation budget."
+706695,Medium,,"Appropriation budgetary control options in the system include: Absolute Control - prevents transaction from processing, may not  be overridden."
+706696,Medium,,Appropriation budgetary control options in the system include: Override Control - prevents transaction from processing with the  ability to override error with appropriate security.
+706697,Medium,,Appropriation budgetary control options in the system include: Warning - provides warning message but allows transaction to  process.
+706698,Medium,,Appropriation budgetary control options in the system include: No Control - allows transaction to process without warning.
+706699,Medium,,Edit expenditures against the allotment budget.
+706700,Medium,,"Allotment budgetary control options in the system include: Absolute Control - prevents transaction from processing, may not be  overridden."
+706701,Medium,,Allotment budgetary control options in the system include: Override Control - prevents transaction from processing with the ability  to override error with appropriate security.
+706702,Medium,,Allotment budgetary control options in the system include: Warning - provides warning message but allows transaction to  process.
+706703,Medium,,Allotment budgetary control options in the system include: No Control - allows transaction to process without warning.
+706704,Medium,,Provides the ability to distribute and control the operating budget by the following periods: Semi-Annual.
+706705,Medium,,Provides the ability to distribute and control the operating budget by the following periods: Quarter.
+706706,Medium,,Provides the ability to distribute and control the operating budget by the following periods: Month.
+706707,Medium,,Provides the ability to distribute and control the operating budget by the following periods: Allocation (based on seasonal trend).
+706708,Medium,,Provides the ability to distribute and control the operating budget by the following periods: User-defined period (manually input  budget for each month).
+706709,Medium,,Provides the ability to distribute and control the operating budget by the following periods: Annual.
+706710,Medium,,Roll up operating budget details to a user-defined summary level.
+706711,Medium,,Distribute the adopted operating budget (summary level) to detail Account and Organization levels.
+706712,Medium,,Edit all transactions to ensure that operating budget is available before posting the transaction.
+706713,Medium,,Prevent transactions not meeting available operating budgets that are absolutely controlled from being transmitted to the next  approval stage.
+706714,Medium,,"Operating budgetary control options in the System include: Absolute Control - prevents transaction from processing, may not be  overridden."
+706715,Medium,,Operating budgetary control options in the System include: Override Control - prevents transaction from processing with the  ability to override error with appropriate security.
+706716,Medium,,Operating budgetary control options in the System include: Warning - provides warning message but allows transaction to  process.
+706717,Medium,,Operating budgetary control options in the System include: No Control - allows transaction to process without warning.
+706718,Medium,,"Provides a flag that sets the default operating budgetary control option (i.e., absolute, override, warning, no control)."
+706719,Medium,,"Provides multiple levels of operating budgetary control (i.e., absolute, override, warning, no control)."
+706720,Medium,,Provides the ability to carry forward operating budget allotments to the next allotment period based on the funding source.
+706721,Medium,,Provide the ability to drill down from the operating budget error message to the budget inquiry screen and automatically retrieve  budget data.
+706722,Medium,,"Provides an on-line inquiry screen that displays operating budget adjustments, transfers, commitments, encumbrances,  expenditures, revenue, and available budget. The numbers displayed should be the same balances used by the budget edit  program."
+706723,Medium,,"Provides on-line inquiry screens that display the operating budget, adjustments, transfers, commitments, encumbrances,  expenditures, and available budget data at varying levels of the Chart of Accounts."
+706724,Medium,,"Provides an on-line inquiry screen that displays operating budget allotments, adjustments, transfers, commitments,  encumbrances, expenditures, and available budget. The numbers displayed should be the same balances used by the budget  edit program."
+706725,Medium,,Provides the ability to establish multiple levels of control for changes in budget authorization.
+706726,Medium,,Provides the ability to record a transaction type that bypasses edits in the system with appropriate security. Such transaction  would be used to make corrections to the General Ledger and/or Balance Sheet for Chart of Account elements that are no longer  active or valid.

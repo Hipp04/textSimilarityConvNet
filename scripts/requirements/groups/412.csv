@@ -1,0 +1,6 @@
+"Section:PL-Transportation Asset Inventory, Ports (5 Reqs)"
+717342,Medium,,Maintain and inventory of ports and port specific assets.
+717343,Medium,,"Store general port facility information including location, owner, operator, capabilities/services, capacity."
+717344,Medium,,Store docks.
+717345,Medium,,Store access roads to port facilities.
+717346,Medium,,Integrate with ERP grants management function to provide a list of State grants provided to a port facility and allow drill down to  obtain more detailed information about a specific grant.

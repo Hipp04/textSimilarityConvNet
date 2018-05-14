@@ -1,0 +1,38 @@
+"Section:PL-Fleet Management, Parts Inventory (37 Reqs)"
+714149,Medium,,Integrate with the ERP inventory function to maintain an inventory of an unlimited number of parts.
+714150,Medium,,Allow for an agency specific parts inventory with part types unique to each individual agency.
+714151,Medium,,Support set-up of multiple stock rooms or warehouse locations per agency.
+714152,Medium,,"Provide the capability to integrate with bar code scanners to receive, transfer, adjust and charge out parts inventory."
+714153,Medium,,Store part type code.
+714154,Medium,,Store part number.
+714155,Medium,,Store manufacturer.
+714156,Medium,,Store manufacturer part number.
+714157,Medium,,Store serial number.
+714158,Medium,,Store alternate part number.
+714159,Medium,,Store description.
+714160,Medium,,Store part usage codes (multiple).
+714161,Medium,,Store part reference fields (multiple).
+714162,Medium,,Store cross reference fields (multiple).
+714163,Medium,,"Track information on the annual part usage, the type of usage, and the piece of equipment that the part is normally issued to."
+714164,Medium,,"Support warranty tracking including agency specific warranty types, cycle (hours, days, years, miles) and length of cycle in time  and/or miles."
+714165,Medium,,Track the issuance of all stocked and non-stocked parts to a specific fleet unit or piece of equipment.
+714166,Medium,,"Allow for issuance of parts without having to charge it to a work order; instead parts must be charged to an active chart of  account code, grant or project. Provide an audit trail and exception report of these situations."
+714167,Medium,,Maintain inventory history including transfers and adjustments.
+714168,Medium,,Track and record part transfers between shops or locations. Implement appropriate controls to ensure that transfers of parts are  acknowledged by the sender and receiver and an exception report is provided for transfers not acknowledged and for any  variance in quantities.
+714169,Medium,,Maintain year to date and life to date history.
+714170,Medium,,"Provide a full range of audit tracking capabilities including any adjustment to unit cost, count, return to inventory, return to  vendor, transfers, from one storeroom to another, by operator, and date/time."
+714171,Medium,,Provide for an agency specific mark-up percent by part type and/or part number.
+714172,Medium,,"Provide on-line search capabilities of all parts by part type, agency part number, manufacturer's part number, alternate part  number, and a user-defined alpha/numeric reference field. The search screen must also display minimum and maximum  stocking levels and quantity on hand."
+714173,Medium,,"Integrate with ERP purchasing and accounts payable functions to track part inventory purchases by vendor, vendor location,  purchase order number, vendor invoice or procurement card transaction number."
+714174,Medium,,"Display/report purchases and receipts by vendor for all parts, one or more types of parts or a specific part for the fiscal year or  other user-defined time period."
+714175,Medium,,Provide ability to change a part number and have that change be reflected for all historical data.
+714176,Medium,,Allow merging of up to 20 part numbers into one part number while retaining historical data.
+714177,Medium,,Track activity on non-stocked parts to include frequency of issue and fiscal year-to-date information.
+714178,Medium,,Price parts issued to work orders at a moving average.
+714179,Medium,,Generate a surplus parts reports which can track lack of activity for user-defined periods of time.
+714180,Medium,,Print bin labels on request.
+714181,Medium,,"Generate a parts reorder list by vendor, part type, part number, or storeroom."
+714182,Medium,,Provide for ABC classification of parts where A represents the 10% of parts inventory with the highest dollar value; B represents  the next 20% of the highest dollar value; C represents the 70% of parts inventory comprised of lower cost items.
+714183,Medium,,Provide for user-defined inventory cycles.
+714184,Medium,,Generate work lists to assist in inventory counts and automatically generate a variance report when the physical count is entered.
+714185,Medium,,Support capability to track performance on a parts contract (actual cost per part vs. the contracted cost per part).

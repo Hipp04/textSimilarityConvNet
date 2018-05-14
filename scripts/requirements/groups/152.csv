@@ -1,0 +1,21 @@
+"Section:HRP-Leave Management, Leave Requests / Authorizations (20 Reqs)"
+710696,Medium,,Flag pending leave requests for re-processing when projection of future balances not adequate to cover request.
+710697,Medium,,Support ability to authorize leave without pay based on user defined business rules.
+710698,Medium,,Support the ability for authorized users to create and update leave requests for others based on authorized user defined  business rules that may vary by agency and organization unit.
+710699,Medium,,Automatically notify employee of need to approve leave requests prepared by others based on user defined business rules that  may vary by agency.
+710700,Medium,,"Support automated review and approval processes for leave based on user defined business rules, including variations by leave  type (e.g. allow designation of special review and approval requirements for certain leave types)."
+710701,Medium,,Create and maintain a user-specified multi-step approval/workflow for review and approval of all leave transactions.
+710702,Medium,,Support on-line and batch editing of employee leave requests based on leave balances and time before leave is to be taken.
+710703,Medium,,Provide the ability to include alternate review and approval processes for leave buyout based on user defined business rules.
+710704,Medium,,Track leave requests by: expected start of leave.
+710705,Medium,,Track leave requests by: expected end of leave.
+710706,Medium,,Track leave requests by: actual start of leave.
+710707,Medium,,Track leave requests by: actual end of leave.
+710708,Medium,,Track leave requests by: date leave requested.
+710709,Medium,,Track leave requests by: date approved or rejected.
+710710,Low,,Track leave requests by: reviewer/approver.
+710711,Medium,,Track leave requests by: reason why leave rejected.
+710712,High,,"Prohibit leave requests that are in excess of leave balance in the case of paid leave, or policy maximums in the case of unpaid  leave. Leave thresholds are user-definable by type of leave (e.g., sick leave, FMLA maximums)."
+710713,Medium,,Provide the ability for authorized users to grant (cancel) leave and adjust accrual amounts for various leave types for a group of  employees.
+710714,Medium,,Provide an automated method to request the use of leave.
+710715,Medium,,"Present attendance pattern information to leave request reviewers based on user defined business rules by agency, organization  code unit, job class, employee, or supervisor."

@@ -1,0 +1,13 @@
+"Section:SW-General and Technical, Data Integration (12 Reqs)"
+718148,High,,"Support multiple data-transfer methods including XML and flat file (e.g. ASCII, variable and/or fixed length, comma-delimited,  etc.)."
+718149,Medium,,Support EDI including ASC X12 and/or UN EDIFACT.
+718150,High,,"Provide supported application program interface (API) data definitions and file structures for the most common or largest volume  ERP datasets including but not limited to: employees, vendors, purchase orders, accounts payable invoices, accounts receivable  invoices, general ledger transactions, etc."
+718151,High,,Support data encryption where appropriate based on user defined business rules following Advanced Encryption Standards  (AES).
+718152,High,,Provide the ability to interface from all ERP functions and modules with other State management systems or external systems .
+718153,High,,Provide the ability to execute interfaces with other systems on a pre-defined schedule or on the request of an authorized user.
+718154,High,,Edit interfaced data against appropriate business rules defined in the ERP system.
+718155,High,,Generate an error report for any validation issues or other errors identified during execution of a data load or an interface  program.
+718156,High,,Display validations errors on-line within a job history function or print in a report format at user option.
+718157,High,,Place records not passing validation into suspense file.
+718158,Medium,,Allow the system administrator or other authorized users to browse suspense file.
+718159,High,,Provide internal controls to verify that documents or files received via interfaces contain summary totals that balance.

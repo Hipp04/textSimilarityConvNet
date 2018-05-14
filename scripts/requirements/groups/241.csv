@@ -1,0 +1,21 @@
+"Section:PL-Facilities Management, Utilities (20 Reqs)"
+713871,Medium,,Capture and track utility meters in a facility.
+713872,Medium,,Store utility for each meter.
+713873,Medium,,Store meter number.
+713874,Medium,,Store meter location.
+713875,Medium,,Store meter reading cycle.
+713876,Medium,,Store date meter last read.
+713877,Medium,,Store date of last utility bill based on the meter.
+713878,Medium,,"Allow meters to be associated with a facility group/campus, one or more facilities or one or more sub-facilities."
+713879,Medium,,Support meter groups for like types of operations.
+713880,Medium,,Support unlimited meter hierarchy capability.
+713881,Medium,,Support unlimited utility types.
+713882,Medium,,Provide the ability to create virtual meters.
+713883,Medium,,Support creation of a service meter for non-utility services spread across multiple users.
+713884,Medium,,Provide the ability to calculate rates for each utility type and vendor.
+713885,Medium,,"Include cost of purchase, maintenance, and capital improvements in utility calculations."
+713886,Medium,,Allow percentage and fixed price adjustments.
+713887,Medium,,Integrate with ERP accounts receivable (external customers) and general ledger (other agency customers) to create invoices  and customer bills for utility consumption.
+713888,Medium,,"Provides the ability to perform meter readings through manual input, batch input, and interface."
+713889,Medium,,Provides the ability to generate trend data for utility consumption.
+713890,Medium,,"Provide the ability to perform benchmarking of utility consumption between customer groups, facilities, facility types, and other  types of groupings."

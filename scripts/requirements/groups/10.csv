@@ -1,0 +1,37 @@
+"Section:FIN-Asset Management, General (36 Reqs)"
+705718,High,,Provide ability to enter and maintain fixed asset records online and properly accounts for assets in accordance with the State's  chart of accounts.
+705719,High,,"Provide ability to maintain pertinent data on both capitalized and non-capitalized assets, which can be either portable or non- portable as follows: Capitalize assets based upon a user-specified criteria, including amount threshold by asset type."
+705720,Medium,,"Provide ability to maintain pertinent data on both capitalized and non-capitalized assets, which can be either portable or non- portable as follows: Track assets (non-capitalized items) that are not to be capitalized per State policy but have been deemed to  be secured by State or department policy (e.g., mobile phones, digital cameras, guns)."
+705721,Medium,,"Allow on-line modifications, without technical intervention, of asset capitalization and control rules per State and agency policy,  as necessary (i.e., no hard coding of rules)."
+705722,Medium,,"At a minimum, system performs the following Asset Management functions, with proper security: Additions."
+705723,Medium,,"At a minimum, system performs the following Asset Management functions, with proper security: Changes to all asset  information."
+705724,Medium,,"At a minimum, system performs the following Asset Management functions, with proper security: Deletions/Disposals/Theft."
+705725,Medium,,"At a minimum, system performs the following Asset Management functions, with proper security: Reverse previous transactions,  including depreciation."
+705726,Medium,,"At a minimum, system performs the following Asset Management functions, with proper security: Transfers."
+705727,Medium,,"At a minimum, system performs the following Asset Management functions, with proper security: Inquiries."
+705728,Medium,,"At a minimum, system performs the following Asset Management functions, with proper security: Betterments."
+705729,Medium,,"At a minimum, system performs the following Asset Management functions, with proper security: Depreciation."
+705730,Medium,,"At a minimum, system performs the following Asset Management functions, with proper security: Amortization (of leases) or other  intangibles."
+705731,Medium,,Limit the Asset Management functions based on the access granted to users by each agency.
+705732,Medium,,"Provide ability to generate ""mass"" asset transactions (such as mass additions, mass disposals, mass transfers, and mass  changes) by user-defined criteria, with proper security/authority."
+705733,Medium,,"Support a physical location hierarchy (i.e., parent/child relationship) of user-defined levels. For example, a parcel of land can  have multiple buildings on it, and each building can have multiple rooms, etc."
+705734,Medium,,"Provide ability to link accounting activity (e.g., asset movement, depreciation, etc.) by relating a room or rooms in a building and  the room's contents to a cost center."
+705735,Medium,,"Provide ability to graphically depict the physical layout of facilities along with the bar-code or RFID number of each physical area  (e.g., office, storage room, etc.)."
+705736,Medium,,Supports Geographic Information System (GIS) technology for locating and tracking assets.
+705737,Medium,,Supports Global Positioning System (GPS) technology for locating and tracking assets.
+705738,Medium,,"Provide ability to attach electronic documents to an asset record, including, but not limited to, the following: Image Files."
+705739,Medium,,"Provide ability to attach electronic documents to an asset record, including, but not limited to, the following: TIF File."
+705740,High,,"Provide ability to attach electronic documents to an asset record, including, but not limited to, the following: PDF files."
+705741,Medium,,"Provide ability to attach electronic documents to an asset record, including, but not limited to, the following: Word processing  documents."
+705742,Medium,,"Provide ability to attach electronic documents to an asset record, including, but not limited to, the following: Spreadsheets."
+705743,Medium,,"Provide ability to attach electronic documents to an asset record, including, but not limited to, the following: CAD."
+705744,Medium,,"Provide ability to attach electronic documents to an asset record, including, but not limited to, the following: URL Link."
+705745,Medium,,"Provide ability to attach electronic documents to an asset record, including, but not limited to, the following: Sound Files."
+705746,Medium,,"Provide ability to attach electronic documents to an asset record, including, but not limited to, the following: Video Files."
+705747,Medium,,Provide integration between the Asset Management module and the Project Management module.
+705748,Medium,,Provides integration between Asset Management module and the Inventory module.
+705749,High,,"Provides integration between the General Ledger module and Asset Management module to identify expenditure transactions as  capitalized assets when items meet user-defined criteria (e.g., capitalize if greater than $5,000 and controlled by a specific GL  account.)."
+705750,Medium,,Provide ability to specify an effective/posting date for all transactions as long as the associated accounting period is still open  (transactions can only be applied to open fiscal periods).
+705751,Medium,,Integrates with various email systems.
+705752,Medium,,"Provide ability to establish online edits for assets, that provide warnings or fatal errors according to user defined parameters."
+705753,High,,Provides full integration between Asset Management and all procurement and financial modules.

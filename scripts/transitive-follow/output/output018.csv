@@ -1,0 +1,38 @@
+ID,Similarity,Requirement
+705033,3.5620268615,Support the ability to electronically notify vendors of payment data availability through vendor self service.
+705035,3.8520966832,Support the ability for a vendor to update W-9 and direct deposit information via self service using Web access.
+705077,3.5880562431,Automatically default certain line item details for PO related payments during vendor invoice entry with override capability.
+705001,3.5149134225,"Accumulate and display monthly, year-to-date (calendar or fiscal year), and inception-to-date (for lifetime of vendor) figures for:  Purchases by vendor (i.e., by invoice, purchase order / contract number, purchase item, budget unit)."
+705002,4.1057909376,"Accumulate and display monthly, year-to-date (calendar or fiscal year), and inception-to-date (for lifetime of vendor) figures for:  Payments to vendor, by contract, contract type, invoice, account."
+705098,3.6862947547,Allow the option for a vendor to specify whether or not to consolidate payments by type of payment method (i.e. consolidate  checks but not EFT).
+705080,3.6159566108,Permit disbursements (warrants) to vendors that do not have a unique number in the vendor table (one time vendors).
+705097,4.1556781965,Allow users the option to not consolidate payments by type of payment method (i.e. consolidate checks but not EFT).
+705058,3.5032886173,Allow users to drill down to all purchase order information on-line during payment voucher processing.
+705091,3.6520029504,Allow for the release of payment vouchers to payment processing by the following: Individual line item.
+705089,4.7048232579,Allow for the release of payment vouchers to payment processing by the following: Batch.
+705090,4.7661350768,Allow for the release of payment vouchers to payment processing by the following: Document.
+705072,3.6233453325,"Provide for user-defined tolerances in price and quantity, both on the individual line level and a cumulative tolerance on the  header level. As long as the match is within tolerance, payment voucher transaction will be accepted."
+705021,3.6244598195,"For partial payments that the user indicates is a final payment, provide the automatic liquidation of outstanding encumbrance  balances for the invoice amount up to the outstanding encumbrance balance up to a threshold amount."
+705024,3.5861882271,Provide the ability to override edits errors on duplicate payments based upon invoice or amounts to allow payments by  individuals with the appropriate security.
+705006,3.6647544402,"Produce an accounts payable aging report or inquiry according to user defined aging fields: Account number (credit card  account, electric bill account)."
+705003,4.3452897729,Produce an accounts payable aging report or inquiry according to user defined aging fields: One or more receiver documents.
+705004,4.3535033525,Produce an accounts payable aging report or inquiry according to user defined aging fields: Purchase order (Encumbering  Document).
+705005,4.3913528441,Produce an accounts payable aging report or inquiry according to user defined aging fields: Contract or other encumbering  documents.
+705007,4.1770919985,Produce an accounts payable aging report or inquiry according to user defined aging fields: Invoice.
+705017,3.7901702311,Provide the ability to enter an invoice number with a minimum of 60 alphanumeric characters available.
+705020,3.8477382639,Provide the ability to flag an appropriation account so that no payments can be disbursed.
+705039,3.8180679632,Provide the ability to change the due date so that invoices are paid with proper authority.
+705040,3.7700315497,Provide the ability to put an invoice on hold so that it is not paid.
+705083,3.8142915259,"Provide the ability to void or correct payments on-line, with appropriate corrections made to all financial balances."
+705093,3.5482116811,Provide for late payments charges which can be calculated based on a State defined period interest rate applied to the overdue  balance.
+705096,3.525251524,Provide the ability to consolidate payments across agencies.
+705026,3.6123358861,"Provide the ability to automatically establish recurring payments with an end date and frequency (user defined), extension  capability, and the ability to modify chart of accounts coding."
+705059,3.5189706404,"Provide the ability to control payments in excess of encumbered amounts by user-defined tolerance limits for each type of  encumbrance (e.g., 10% or $50 over encumbrance amount) provided sufficient spending authority exists."
+705081,3.5021057232,Provide the ability to provide an external financial/payment system with changes to vendors identified as being used by that  system.
+705047,3.5218699941,Provide chart of account number distribution changes at the line item level on: Payment documents.
+705044,4.6770867696,Provide chart of account number distribution changes at the line item level on: Requisition.
+705030,3.51497784,Provide standard payment terms at the vendor level or individual payment terms at the payment level.
+705045,4.856906949,Provide chart of account number distribution changes at the line item level on: PO.
+705046,4.6975447373,Provide chart of account number distribution changes at the line item level on: Invoice.
+705086,3.6314935248,Automatically assign the accounting period for payment transactions based on user defined criteria with an option for manual  override with proper authority and an audit trail.
+705018,3.5225241635,Reject transactions for insufficient budget (users with the appropriate level of security having override ability).

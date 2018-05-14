@@ -1,0 +1,149 @@
+"Section:PL-Procurement, General (160 Reqs)"
+714934,High,,Supports the following methods of procurement for both State agencies exempt and non exempt from procurement rules: RFQ -  Official sealed bids.
+714935,High,,Supports the following methods of procurement for both State agencies exempt and non exempt from procurement rules:  Multiple levels of agency delegated procurements.
+714936,High,,Supports the following methods of procurement for both State agencies exempt and non exempt from procurement rules:  Emergency procurements.
+714937,High,,Supports the following methods of procurement for both State agencies exempt and non exempt from procurement rules:  Proprietary or sole source procurements.
+714938,Medium,,Supports the following methods of procurement for both State agencies exempt and non exempt from procurement rules:  Informal competitive bids.
+714939,High,,Supports the following methods of procurement for both State agencies exempt and non exempt from procurement rules:  Requests for Proposals (RFP).
+714940,High,,Supports the following methods of procurement for both State agencies exempt and non exempt from procurement rules:  Requests for Information (RFI).
+714941,High,,Supports the following methods of procurement for both State agencies exempt and non exempt from procurement rules:  Inter/Intra-governmental Procurements.
+714942,High,,Supports the following methods of procurement for both State agencies exempt and non exempt from procurement rules:  Expression of Interest (EOI).
+714943,Medium,,Supports the following methods of procurement for both State agencies exempt and non exempt from procurement rules:  Reverse auctions.
+714944,High,,Supports the following methods of procurement for both State agencies exempt and non exempt from procurement rules:  Multiple award procurements-Split Award Pre-qualifies for Second Procurement.
+714945,High,,Supports the following methods of procurement for both State agencies exempt and non exempt from procurement rules:  Multiple award procurements-for Identical items in order to meet demand or for some alternative reason such as location.
+714946,High,,"Supports the following methods of procurement for both State agencies exempt and non exempt from procurement rules: Special  (Set-asides) purchases (Handicapped, Corrections, etc.)."
+714947,High,,Supports the following methods of procurement for both State agencies exempt and non exempt from procurement rules:  Cooperative (Piggyback) Purchasing ( State Agency contract with preapproved authority for other State agencies to release  against).
+714948,High,,Supports the following methods of procurement for both State agencies exempt and non exempt from procurement rules:  Cooperative (Piggyback) Purchasing ( External Public Entity contract which State Agencies can release against with the  appropriate approval).
+714949,High,,Supports the following methods of procurement for both State agencies exempt and non exempt from procurement rules: Joint  purchase with other Entity.
+714950,High,,Supports the following methods of procurement for both State agencies exempt and non exempt from procurement rules: Design  Build Construction.
+714951,High,,Supports the following methods of procurement for both State agencies exempt and non exempt from procurement rules: Design  Bid Build Construction.
+714952,Medium,,Provide an option to override exceptions to procurement rules for authorized individuals.
+714953,Medium,,Provide notification of overridden exceptions.
+714954,High,,"Provide for integration / interfacing between modules, including but not limited to: General Ledger."
+714955,High,,"Provide for integration / interfacing between modules, including but not limited to: Account Payable."
+714956,High,,"Provide for integration / interfacing between modules, including but not limited to: Facilities Management."
+714957,High,,"Provide for integration / interfacing between modules, including but not limited to: Project Systems."
+714958,High,,"Provide for integration / interfacing between modules, including but not limited to: Asset Management."
+714959,High,,"Provide for integration / interfacing between modules, including but not limited to: Fleet."
+714960,High,,"Provide for integration / interfacing between modules, including but not limited to: Grants."
+714961,High,,"Provide for integration / interfacing between modules, including but not limited to: Inventory."
+714962,High,,"Provide the ability to prevent redundant data entry by providing full integration between all application components. Transaction  creation, replacement, update or deletion of any common data element occurs only once, and is carried forward and reflected  through all related tables. (e.g., data entered on requisition is carried forward to the solicitation, PO, etc)."
+714963,High,,"Provide the ability to treat each State agency as a separate entity (e.g., restrict agencies from posting to other agencies and  viewing data, etc. without authorization) but also provides statewide, consolidated querying/reporting from a data repository."
+714964,High,,Processes the following types of purchasing documents in accordance with State policy: Requisitions.
+714965,High,,Processes the following types of purchasing documents in accordance with State policy: Prior Authorizations.
+714966,High,,Processes the following types of purchasing documents in accordance with State policy: Statewide Contract - Mandatory.
+714967,High,,Processes the following types of purchasing documents in accordance with State policy: Statewide Sole Source Contract.
+714968,High,,Processes the following types of purchasing documents in accordance with State policy: Statewide Contract - State Use.
+714969,High,,Processes the following types of purchasing documents in accordance with State policy: Cooperative (Piggyback) Purchasing (  State Agency contract with preapproved authority for other State agencies to release against).
+714970,High,,Processes the following types of purchasing documents in accordance with State policy: Cooperative (Piggyback) Purchasing (  External Public Entity contract which State Agencies can release against with the appropriate approval).
+714971,High,,Processes the following types of purchasing documents in accordance with State policy: Central Agency Specific Contract -  Competitive.
+714972,High,,Processes the following types of purchasing documents in accordance with State policy: Central Agency Specific Contract - Non- Competitive.
+714973,High,,Processes the following types of purchasing documents in accordance with State policy: Central Contract Release Order.
+714974,High,,Processes the following types of purchasing documents in accordance with State policy: Local Agency Contract Competitive.
+714975,High,,Processes the following types of purchasing documents in accordance with State policy: Local Agency Contract - Non- Competitive.
+714976,High,,Processes the following types of purchasing documents in accordance with State policy: Agency Contract Release Order.
+714977,High,,Processes the following types of purchasing documents in accordance with State policy: Agency Specialized.
+714978,High,,Processes the following types of purchasing documents in accordance with State policy: Task Order Contract (Work Orders  issued against).
+714979,High,,Processes the following types of purchasing documents in accordance with State policy: Central Purchase Order.
+714980,High,,Processes the following types of purchasing documents in accordance with State policy: Local Purchase Order.
+714981,High,,"Processes the following types of purchasing documents in accordance with State policy: Leases (equipment, not space)."
+714982,High,,Processes the following types of purchasing documents in accordance with State policy: Construction Project Orders.
+714983,High,,Processes the following types of purchasing documents in accordance with State policy: Interagency Purchase Orders/MOU.
+714984,High,,Processes the following types of purchasing documents in accordance with State policy: Issuing goods from Agency inventory.
+714985,High,,"Provide the ability to print and perform related print processes, included, but not limited to the following: Requisition (Central and  Local)."
+714986,High,,"Provide the ability to print and perform related print processes, included, but not limited to the following: Prior Authorization."
+714987,High,,"Provide the ability to print and perform related print processes, included, but not limited to the following: All Procurement  documents."
+714988,High,,Provide the ability to print on letter size paper for procurement documents and forms.
+714989,High,,Provide the ability to create and maintain information relating to: Requisitions.
+714990,High,,Provide the ability to create and maintain information relating to: Solicitations.
+714991,High,,Provide the ability to create and maintain information relating to: Solicitation preparation.
+714992,High,,Provide the ability to create and maintain information relating to: Vendor bid list creation and maintenance (including subset of  qualified Small and Minority-owned/Other Targeted businesses subcontractors).
+714993,High,,Provide the ability to create and maintain information relating to: Electronic posting and distribution (electronically by system).
+714994,High,,Provide the ability to create and maintain information relating to: Electronic bid receipt (Formal and Informal).
+714995,High,,Provide the ability to create and maintain information relating to: Response tabulation (fed by electronic receipt and manual  entry).
+714996,High,,Provide the ability to create and maintain information relating to: Award notification.
+714997,High,,Provide the ability to create and maintain information relating to: PO / Contract.
+714998,High,,Provide the ability to create and maintain information relating to: Requisition to solicitation to PO/Contract.
+714999,High,,Provide the ability to create and maintain information relating to: Requisition to contract or PO.
+715000,High,,Provide the ability to create and maintain information relating to: Solicitation to contract or PO (no requisition --optional; subject to  proper authorizations).
+715001,High,,Provide the ability to create and maintain information relating to: PO to Contract (release against contract).
+715002,High,,Provide the ability to create and maintain information relating to: PO or Contract (without requisition or solicitation).
+715003,High,,Provide the ability to create and maintain information relating to: Auto generated PO from Sourced Contracts.
+715004,High,,Provide the ability to create and maintain information relating to: Receipts.
+715005,High,,Provide the ability to create and maintain information relating to: Goods receipt.
+715006,High,,Provide the ability to create and maintain information relating to: Shipment Notification.
+715007,High,,Provide the ability to create and maintain information relating to: Returns.
+715008,High,,Provide the ability to create and maintain information relating to: Quarantines.
+715009,High,,Provide the ability to create and maintain information relating to: Vendor performance.
+715010,High,,Provide the ability to create and maintain information relating to: Invoice receipt.
+715011,Medium,,Provide the ability to create and maintain information relating to: Standardized Request to utilize a third party Piggyback contract.
+715012,Medium,,"Provide the ability to create and maintain information relating to: Standardized Waiver form For example, correctional industries  and statewide contracts."
+715013,High,,"Provide the ability to create and maintain information relating to: Linkage to imaged supporting documentation maintained in  State document management system e.g. bid bonds, performance bonds etc."
+715014,High,,Provide an audit trail from requisition to payment with forward and backward tracking.
+715015,High,,"Supports different methods of payment approval which can be set up by purchase, by purchase type or by agency. It should be  possible to restrict administration of purchase type choice to authorized personnel. Methods include: Four way matching of  purchase order, contracts, receiving report and invoice."
+715016,High,,"Supports different methods of payment approval which can be set up by purchase, by purchase type or by agency. It should be  possible to restrict administration of purchase type choice to authorized personnel. Methods include: Three way matching of  purchase order, receiving report and invoice."
+715017,High,,"Supports different methods of payment approval which can be set up by purchase, by purchase type or by agency. It should be  possible to restrict administration of purchase type choice to authorized personnel. Methods include: Two way matching of  purchase order and invoice."
+715018,High,,Allow for procurement approvals to be determined by: Dollar Threshold.
+715019,High,,Allow for procurement approvals to be determined by: Commodity.
+715020,High,,Allow for procurement approvals to be determined by: Procurement Type.
+715021,High,,Allow for procurement approvals to be determined by: Agency.
+715022,High,,"Allow for procurement approvals to be determined by: Combination of dollar, type, commodity, etc."
+715023,High,,Allow the buyers to have the ability to cover for each other in case of absence with the proper authorization.
+715024,High,,Allow the buyers' supervisors the ability to access transactions processes by their subordinates with proper authorization.
+715025,High,,Provide the ability for a user set an automatic renewal reminder flag for recurring purchase orders and contracts.
+715026,High,,"Provide the ability for a user set an automatic renewal reminder flag for recurring contracts to link the renewal to a new contract  number, and turn off the reminder."
+715027,High,,Provide the ability to prompt for automatic renewal requisitions for blanket orders at a user defined time.
+715028,High,,Provide the ability to prompt a purchasing agent of contract expirations at a user defined time prior to contract expiration.
+715029,High,,Provide the ability to copy one or multiple lines of field values to the next/subsequent line(s) and change one or more field value  elements when using input screens for all purchasing documents.
+715030,High,,"Provide the ability to create a new purchasing document (e.g.,. requisition, PO, etc.) from a previously created purchasing  document."
+715031,High,,"Provide the ability to establish repetitive transactions and transaction templates (e.g., requisitions, solicitations, purchase orders,  etc.)."
+715032,Medium,,"Provide the ability to save and flag (or hold) incomplete and/or complete purchasing documents so that it can prevent the flagged  document from inadvertently being released for approval at any stage (e.g., solicitation, award, tabulation, contract, order,  receipt, invoice, payment, etc.)."
+715033,High,,Provide for upload and download capabilities for solicitations and PO/contract documents.
+715034,Medium,,Provide the ability for purchasing agents to view workload in a single view.
+715035,Medium,,Provide the ability to store user defined data on measures and indicators of Buyer activities.
+715036,Medium,,"Provide the ability for the Buyer to view workload, including the details of a procurement and the estimated required processing  time, or any similar pre-defined performance metric."
+715037,Medium,,Provide the ability to show contract and spend data for the buyer's commodities or contracts.
+715038,Medium,,Track goods purchased with recycled materials.
+715039,High,,"Provide the ability to display a calendar that includes weekends and holidays (State and National), which can be used for  scheduling purposes. Warnings should appear if documents specify dates which are on weekends or holidays. For example, the  system should provide a warning if a purchasing agent attempts to set the close date of a solicitation for a weekend or holiday."
+715040,Medium,,"Provide the ability to block the processing of specified types of procurement documents (e.g., requisitions, purchase orders,  solicitations, etc.) after a user-defined date, within a given fiscal year."
+715041,High,,"System is compatible with and supports the use of an industry-standard commodity code structure such as NIGP, UNPSC."
+715042,High,,Provides a mechanism to map the industry-standard commodity code to FHWA expenditure (commodity) codes.
+715043,High,,Stores commodity-specifications data with the following features: Is viewable by all authorized users.
+715044,High,,"Stores commodity-specifications data with the following features: Allows authorized users to add, change, or delete specifications."
+715045,High,,Stores commodity-specifications data with the following features: Retains the exact bid specifications and any addenda  (changes) to specifications that are distributed to vendors.
+715046,High,,"Stores commodity-specifications data with the following features: Prevents changes to bid specifications after a user-defined  point in time. Thereafter, changes can only be made by certain authorized users."
+715047,Medium,,Stores commodity-specifications data with the following features: Provides the ability to develop and store product-comparison  charts (specifications) that present different specifications side by side.
+715048,Medium,,"Provide the ability for unlimited standard and free form comments/messages at the header, line-item, and footer level for all  purchasing documents."
+715049,Medium,,"Provide the ability for users to enter notes on any type of purchasing transaction (e.g., requisition, solicitation, PO, etc.). Notes  functionality includes the following: Security can be set so that only the creator of the note or a system administrator can change  the note."
+715050,Medium,,"Provide the ability for users to enter notes on any type of purchasing transaction (e.g., requisition, solicitation, PO, etc.). Notes  functionality includes the following: Each note is date and time stamped and the creator/editor is stored."
+715051,Medium,,"Provide the ability for users to enter notes on any type of purchasing transaction (e.g., requisition, solicitation, PO, etc.). Notes  functionality includes the following: Notes can be sorted in chronological order."
+715052,Medium,,"Provide the ability for users to enter notes on any type of purchasing transaction (e.g., requisition, solicitation, PO, etc.). Notes  functionality includes the following: Notes can be printed on-demand on any printer to which the user has access (local or  networked)."
+715053,Medium,,"Provide the ability for users to enter notes on any type of purchasing transaction (e.g., requisition, solicitation, PO, etc.). Notes  functionality includes the following: Printing can be for all of a transaction's notes or for any selected note or notes."
+715054,High,,"Provide the ability to attach and retrieve multiple files, regardless of file type, to all purchasing documents and carry forward files  to subsequent purchasing documents: Image Files."
+715055,High,,"Provide the ability to attach and retrieve multiple files, regardless of file type, to all purchasing documents and carry forward files  to subsequent purchasing documents: PDF files."
+715056,High,,"Provide the ability to attach and retrieve multiple files, regardless of file type, to all purchasing documents and carry forward files  to subsequent purchasing documents: Word processing documents."
+715057,High,,"Provide the ability to attach and retrieve multiple files, regardless of file type, to all purchasing documents and carry forward files  to subsequent purchasing documents: Spreadsheets."
+715058,High,,"Provide the ability to attach and retrieve multiple files, regardless of file type, to all purchasing documents and carry forward files  to subsequent purchasing documents: CAD."
+715059,Medium,,"Provide the ability to attach and retrieve multiple files, regardless of file type, to all purchasing documents and carry forward files  to subsequent purchasing documents: URL Link."
+715060,Medium,,"Provide the ability to attach and retrieve multiple files, regardless of file type, to all purchasing documents and carry forward files  to subsequent purchasing documents: Sound Files."
+715061,Medium,,"Provide the ability to attach and retrieve multiple files, regardless of file type, to all purchasing documents and carry forward files  to subsequent purchasing documents: Video Files."
+715062,High,,"Provide the ability for all applications/modules to reside on a shared database. If more than one database is maintained, the  databases should be kept in sync on a near real-time basis."
+715063,Medium,,Supports the ability for a non-State entity to buy off of statewide contracts.
+715064,Medium,,Allows the tracking of volume of non-State entities purchases off of statewide contracts.
+715065,High,,"Provide the ability to differentiate between field locations within an agency (e.g. Hospitals, Correctional Institutions, etc.)."
+715066,High,,Provide ability to accommodate centralized and decentralized purchasing functions within an agency and track procurements  accordingly.
+715067,High,,Provide the ability to procure using purchasing division's rules and agency's rules where exemptions exist.
+715068,High,,"Provide the ability to automatically assign a sequential number, with or without a user-defined prefix and/or suffix, to each type of  procurement transaction."
+715069,Medium,,"Provide the ability for the purchase transaction numbering system to be user defined (alpha-numeric) with increment, format,  prefix and suffix configurable and updateable. Increment and format can differ for an individual agency or organization."
+715070,High,,"Provide purchase transaction numbering system that provides a method to track and easily link multiple awards for one contract  e.g. ###a, ###b, ###c."
+715071,High,,"Provide the ability to maintain a detailed history of all purchasing activity including, but not limited to, requisitions, solicitations  and responses, purchase orders, PO change notices, notes screens, contracts, retainage, and, receiver information, by vendor,  by commodity, by procurement method, by procurement status and by agency. Every purchase transaction includes date, user,  and time."
+715072,Medium,,"Provide the ability for purchasing history to be available both online and in hard copy, as required."
+715073,Medium,,Provide the ability to default vendor data from the vendor master file based on vendor identification number when a vendor is  selected for any purchasing documents in a transaction. System permits certain fields to be overwritten based on administrator- defined settings.
+715074,Medium,,Provide the ability for certain fields to be overwritten based on administrator-defined settings.
+715075,High,,Provide the ability for self-service vendor registration and data maintenance functionality that is fully integrated with the system.
+715076,Medium,,"Provide the ability for vendor collaboration through the bidding, order, receipt and invoice process."
+715077,High,,"Provide the ability to support a shared vendor file across all modules including but not limited to General Ledger, Accounts  Payable, Procurement, Inventory and Asset Management."
+715078,High,,Provide the ability to provide ticklers that are automatically generated and re-generated when follow up is necessary from key  system events.
+715079,Medium,,"Provide the ability to make tickler information accessible on-line by date, responsible person and type of tickler."
+715080,Medium,,"Provide the ability to access on-line administration manuals (policies, procedure, ordinances) related to procurement activities."
+715081,Medium,,Provide the ability to easily access the life cycle costing information.

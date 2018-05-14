@@ -1,0 +1,35 @@
+"Section:HRP-Personnel Administration, Safety and Workers Comp (34 Reqs)"
+711517,Medium,,System must track Employee payments and provide back to the State the amount received while awaiting to be paid temporary  disability benefits.
+711518,Medium,,"Enter and track first reports of illness or injury based upon OSHA 300, 300A and 301 form, including the automated assignment  of a claim number."
+711519,Medium,,Interface incident reporting with multiple third party administrator (TPA) workers' comp claims management and reporting system.
+711520,Medium,,Ability to track the flow of information from injury/illness event from employee to the Worker's Comp Coordinator.
+711521,Medium,,Track injury/illness data based upon the IA-1 and OSHA 300 standards to include: employee name and employee id number.
+711522,Medium,,Track injury/illness data based upon the IA-1 and OSHA 300 standards to include: agency.
+711523,Medium,,Track injury/illness data based upon the IA-1 and OSHA 300 standards to include: department.
+711524,Medium,,Track injury/illness data based upon the IA-1 and OSHA 300 standards to include: State property/assets involved in incident.
+711525,Medium,,Track injury/illness data based upon the IA-1 and OSHA 300 standards to include: job class.
+711526,Medium,,Track injury/illness data based upon the IA-1 and OSHA 300 standards to include: demographics.
+711527,Medium,,Track injury/illness data based upon the IA-1 and OSHA 300 standards to include: location.
+711528,Medium,,Track injury/illness data based upon the IA-1 and OSHA 300 standards to include: date of injury.
+711529,Medium,,Track injury/illness data based upon the IA-1 and OSHA 300 standards to include: date injury reported.
+711530,Medium,,Track injury/illness data based upon the IA-1 and OSHA 300 standards to include: accident description.
+711531,Medium,,"Track injury/illness data based upon the IA-1 and OSHA 300 standards to include: hospital information (e.g., none, refused, first  aid only, treatment facility or doctor visit, emergency room)."
+711532,Medium,,Track injury/illness data based upon the IA-1 and OSHA 300 standards to include: physician.
+711533,Medium,,Track injury/illness data based upon the IA-1 and OSHA 300 standards to include: witness name and employee id number.
+711534,Medium,,"Track injury/illness data based upon the IA-1 and OSHA 300 standards to include: severity (e.g. no medical treatment, first aid  only, lost time, returned to work with restrictions, etc.)."
+711535,Medium,,"Track injury/illness data based upon the IA-1 and OSHA 300 standards to include: nature of injury (e.g., injury, skin disorder,  respiratory, poisoning, hearing loss, other illness)."
+711536,Medium,,Track transitional duty assignments.
+711537,Medium,,Track permanent and temporary work restrictions based on doctor orders.
+711538,Medium,,Track accidents (OSHA 300 form) by: death.
+711539,Medium,,Track accidents (OSHA 300 form) by: days restricted work.
+711540,Medium,,Track accidents (OSHA 300 form) by: days lost from work.
+711541,Medium,,Track accidents (OSHA 300 form) by: other recordable case (no transfer or restrictions required).
+711542,Medium,,Track accidents (OSHA 300 form) by: supervisor name.
+711543,Medium,,Track accident history by employee: and flag if on restricted duty.
+711544,Medium,,Track accident history by employee: for actual date of return to work.
+711545,Medium,,Track accident history by employee: for date temporary restricted duty should end.
+711546,Medium,,Track accident history by employee: for lost time hours.
+711547,Medium,,Track accident history by employee: for type of restriction.
+711548,Medium,,"Process temporary partial disability assignments, including adjustment to employee work schedule."
+711549,Medium,,Integrate with State property assets for recording of property claims against specific State assets.
+711550,Medium,,Generate notice to the Worker's Comp Coordinator when the maximum period of eligibility for TTD has expired based on  beginning date of TTD.

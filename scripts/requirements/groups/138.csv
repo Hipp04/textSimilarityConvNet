@@ -1,0 +1,59 @@
+"Section:HRP-Employee Relations, Disciplinary Actions (58 Reqs)"
+710253,High,,Enable authorized users to initiate disciplinary actions.
+710254,Medium,,"Track multiple employee incidents with description of reason(s) for proposed disciplinary action, statute, rule paragraph and  section violated with automated routing to HR, supervisors, Appointing Authority, or user defined authorized official."
+710255,High,,Enter and track information in an employee's file based on: incident date.
+710256,Medium,,Enter and track information in an employee's file based on: rule or policy violation.
+710257,Medium,,Enter and track information in an employee's file based on: proposed disciplinary/corrective action.
+710258,Medium,,Enter and track information in an employee's file based on: incident (that gave rise to discipline).
+710259,Medium,,Enter and track information in an employee's file based on: step narratives and responses.
+710260,High,,Enter and track information in an employee's file based on: actual discipline.
+710261,Medium,,Enter and track information in an employee's file based on: effective dates.
+710262,Medium,,Enter and track information in an employee's file based on: end dates.
+710263,Medium,,Enter and track information in an employee's file based on: resolutions.
+710264,Medium,,Enter and track information in an employee's file based on: appeal information (internal to organization).
+710265,Medium,,Enter and track information in an employee's file based on: meeting dates.
+710266,Medium,,Enter and track information in an employee's file based on: mediation / arbitration steps (internal to organization).
+710267,Medium,,Enter and track information in an employee's file based on: employee representative.
+710268,Medium,,Enter and track information in an employee's file based on: individual authorizing the discipline action.
+710269,Medium,,Ability to link filed grievances and complaints to employee.
+710270,Medium,,"Track disciplinary steps, events, actions and outcomes for employees."
+710271,Medium,,"Set up and track action codes with multiple dates (date completed, effective date, end date) of all disciplinary actions to include:  counseling."
+710272,Medium,,"Set up and track action codes with multiple dates (date completed, effective date, end date) of all disciplinary actions to include:  plan of improvement."
+710273,Medium,,"Set up and track action codes with multiple dates (date completed, effective date, end date) of all disciplinary actions to include:  verbal reprimand."
+710274,Medium,,"Set up and track action codes with multiple dates (date completed, effective date, end date) of all disciplinary actions to include:  written reprimand."
+710275,Medium,,"Set up and track action codes with multiple dates (date completed, effective date, end date) of all disciplinary actions to include:  pre-disciplinary notice."
+710276,Medium,,"Set up and track action codes with multiple dates (date completed, effective date, end date) of all disciplinary actions to include:  demotion for cause."
+710277,Medium,,"Set up and track action codes with multiple dates (date completed, effective date, end date) of all disciplinary actions to include:  suspensions."
+710278,Medium,,"Set up and track action codes with multiple dates (date completed, effective date, end date) of all disciplinary actions to include:  investigatory notices."
+710279,Medium,,"Set up and track action codes with multiple dates (date completed, effective date, end date) of all disciplinary actions to include:  dismissal."
+710280,Medium,,"Set up and track action codes with multiple dates (date completed, effective date, end date) of all disciplinary actions to include:  intent to dismiss."
+710281,Medium,,"Set up and track action codes with multiple dates (date completed, effective date, end date) of all disciplinary actions to include:  intent to discipline."
+710282,Medium,,"Set up and track action codes with multiple dates (date completed, effective date, end date) of all disciplinary actions to include:  other user defined action codes."
+710283,Medium,,Track all events in the disciplinary process to include: event dates.
+710284,Medium,,Track all events in the disciplinary process to include: event issues.
+710285,Medium,,Track all events in the disciplinary process to include: event outcomes.
+710286,Medium,,"Produce statistical analyses of all disciplinary actions by race, ethnicity, gender, organizational unit, and other user defined  criteria."
+710287,Medium,,Control disciplinary actions by level of authority.
+710288,Medium,,"Track historical information for all disciplinary actions with user defined parameters to modify, archive, and purge with the proper  security."
+710289,Medium,,Disciplinary action history can be maintained for a user specified time.
+710290,Medium,,Link FLSA status with approved disciplinary actions based on regulations.
+710291,Medium,,"Automatically route information to HR, supervisor, manager, Appointing Authority etc. regarding disciplinary actions based upon  user defined criteria."
+710292,Medium,,Provide ability to define steps in the disciplinary action process.
+710293,Medium,,Track disciplinary actions by: agency.
+710294,Medium,,Track disciplinary actions by: division.
+710295,Medium,,Track disciplinary actions by: job classification.
+710296,Medium,,Track disciplinary actions by: disability.
+710297,Medium,,Track disciplinary actions by: age.
+710298,Medium,,Track disciplinary actions by: national origin.
+710299,Medium,,Track disciplinary actions by: military status.
+710300,Medium,,Track disciplinary actions by: count.
+710301,Medium,,Track disciplinary actions by: supervisor.
+710302,Medium,,Track disciplinary actions by: race.
+710303,Medium,,Track disciplinary actions by: sex.
+710304,Medium,,Track disciplinary actions by: time period.
+710305,Medium,,Track disciplinary actions by: other user defined criteria.
+710306,Medium,,Track number of written warnings by agency or system wide.
+710307,Medium,,Track multiple written warnings per day.
+710308,Medium,,"Enable workflow and update employee file for performance review, discipline records by employee."
+710309,Medium,,Flag and limit pay increases or promotions based upon disciplinary action results.
+710310,Medium,,"Enable workflow and update employee record for disciplinary actions: dismissal, suspension, demotion."

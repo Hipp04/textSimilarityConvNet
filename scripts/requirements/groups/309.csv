@@ -1,0 +1,53 @@
+"Section:PL-Procurement, Catalog Management (52 Reqs)"
+715564,High,,"Provide the ability to support internal catalogs for warehouse/inventory items or catalogs for contracted items, and round trip or  punch out capabilities where the vendor hosts the catalog."
+715565,High,,"Provide ability to upload vendor catalog data in various formats via the Internet using a secure, structured process and subject to  the appropriate approvals."
+715566,High,,Provide the ability for large data loads via file transfers and provides a spreadsheet-based input for small data loads.
+715567,High,,Provide the ability to employ XML-messaging technology for retrieving catalog information.
+715568,Medium,,"Provide the ability for a catalog management tool for transforming and cleansing data, importing and exporting content in a  variety of formats, translating various XML formats, etc."
+715569,High,,Provide the ability to support punch out/round trip and catalog functionality.
+715570,High,,"Provide the ability for contracts/catalogs to contain the following items, including but not limited to: Contract number."
+715571,High,,"Provide the ability for contracts/catalogs to contain the following items, including but not limited to: Contract start date."
+715572,High,,"Provide the ability for contracts/catalogs to contain the following items, including but not limited to: Contract end date."
+715573,High,,"Provide the ability for contracts/catalogs to contain the following items, including but not limited to: Vendor item number, as  applicable."
+715574,High,,"Provide the ability for contracts/catalogs to contain the following items, including but not limited to: Renewal options."
+715575,High,,"Provide the ability for contracts/catalogs to contain the following items, including but not limited to: Volume discount price break  for each item."
+715576,High,,"Provide the ability for contracts/catalogs to contain the following items, including but not limited to: Distributor name and number."
+715577,High,,"Provide the ability for contracts/catalogs to contain the following items, including but not limited to: Item specifications (could be a  URL link); support pictures."
+715578,Medium,,"Provide the ability for contracts/catalogs to contain the following items, including but not limited to: Recycled content percentage."
+715579,Medium,,"Provide the ability for contracts/catalogs to contain the following items, including but not limited to: Recycled content type."
+715580,High,,"Provide the ability for contracts/catalogs to contain the following items, including but not limited to: Manufacturer name."
+715581,High,,"Provide the ability for contracts/catalogs to contain the following items, including but not limited to: Manufacturer part number."
+715582,Medium,,"Provide the ability for contracts/catalogs to contain the following items, including but not limited to: Manufacturer URL."
+715583,High,,"Provide the ability for contracts/catalogs to contain the following items, including but not limited to: Unit of measure."
+715584,Medium,,"Provide the ability for contracts/catalogs to contain the following items, including but not limited to: Alternate unit of measure."
+715585,High,,"Provide the ability for contracts/catalogs to contain the following items, including but not limited to: Minimum order quantity (by  unit, by total)."
+715586,High,,"Provide the ability for contracts/catalogs to contain the following items, including but not limited to: Quantity."
+715587,Medium,,"Provide the ability for contracts/catalogs to contain the following items, including but not limited to: Geographic designation  (County, State Highway District, Zone, other)."
+715588,High,,"Provide the ability for contracts/catalogs to contain the following items, including but not limited to: Lead time for delivery."
+715589,High,,"Provide the ability for contracts/catalogs to contain the following items, including but not limited to: Shipping and handling  requirements."
+715590,Medium,,"Provide the ability for contracts/catalogs to contain the following items, including but not limited to: Packaging information."
+715591,High,,"Provide the ability for contracts/catalogs to contain the following items, including but not limited to: Commodity codes."
+715592,Medium,,"Provide the ability for contracts/catalogs to contain the following items, including but not limited to: UPC code."
+715593,High,,"Provide the ability for contracts/catalogs to contain the following items, including but not limited to: Item code."
+715594,Medium,,"Provide the ability for contracts/catalogs to contain the following items, including but not limited to: Long description (at least  8,000 alphanumeric characters) per line item."
+715595,High,,"Provide the ability for contracts/catalogs to contain the following items, including but not limited to: Short description (at least 255  alphanumeric characters) per line item."
+715596,High,,"Provide the ability for contracts/catalogs to contain the following items, including but not limited to: Price and effective dates."
+715597,Medium,,"Provide the ability for contracts/catalogs to contain the following items, including but not limited to: Historical price information  (e.g., YTD average price)."
+715598,Medium,,"Provide the ability for contracts/catalogs to contain the following items, including but not limited to: Accumulators for dollar  amount purchased for the month, quarter, fiscal year-to-date, prior fiscal year (by item, user or vendor)."
+715599,Medium,,"Provide the ability for contracts/catalogs to contain the following items, including but not limited to: Accumulators for quantity  purchased for the month, quarter, fiscal year-to-date, prior fiscal year (by item, user or vendor)."
+715600,Medium,,"Provide the ability for contracts/catalogs to contain the following items, including but not limited to: Substitute/Alternate items with  contract administrator approval."
+715601,Medium,,"Provide the ability for contracts/catalogs to contain the following items, including but not limited to: Agency."
+715602,High,,"Provide the ability for contracts/catalogs to contain the following items, including but not limited to: MSDS (Material Safety Data  Sheet) information."
+715603,High,,"Provide the ability to update catalog content, including prices, descriptions, terms and conditions, etc."
+715604,High,,Provide the ability to calculate price discounts for catalog items.
+715605,Medium,,Provide the ability to accommodate tiered pricing for catalog and contract items.
+715606,High,,Provide the ability to calculate discounts based on the weight or volume of items being purchased.
+715607,Medium,,"Provide the ability to incorporate pricing rules (e.g., increase prices by 3% for a certain vendor with a $10 cap, on a certain date;  production over / under runs)."
+715608,High,,Provide the ability for mass price updates by a percentage or by dollar with the ability for the purchasing agent to schedule the  price adjustments based on the contract terms with approval.
+715609,Medium,,Provide the ability to allow for promotional pricing within a catalog where end users are provided a promotional code to enter  when placing the order from the contract/catalog.
+715610,High,,"Provide the ability to attach and view vendor terms for catalog items (e.g., minimum order quantity)."
+715611,High,,"Provide the ability for users to search catalogs for items using search agents with various types of logic (e.g. fuzzy, sounds like,  wild-card, etc.)."
+715612,Medium,,Provide the ability to search across catalogs for the commodity.
+715613,Medium,,"Provide the ability to attach files in industry standard formats to commodity records (e.g., gif, jpg, xls, doc, PDF, URL link, etc.)."
+715614,High,,Provide an online interface for vendors to update and maintain catalog data/content with appropriate approval and effective dates.
+715615,High,,Provide the ability to maintain standard clauses/wording for specific catalog items that can be modified by authorized users.

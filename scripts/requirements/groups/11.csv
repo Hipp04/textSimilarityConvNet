@@ -1,0 +1,145 @@
+"Section:FIN-Asset Management, Additions and Maintenance (144 Reqs)"
+705754,Medium,,"Provides full integration with General Ledger, Procurement, and Accounts Payable to carry forward relevant purchasing,  descriptive, invoice and accounting information as a starting point for recording the asset."
+705755,Medium,,"Provide ability to track the following categories of assets, including, but not limited to: Land."
+705756,Medium,,"Provide ability to track the following categories of assets, including, but not limited to: Buildings."
+705757,Medium,,"Provide ability to track the following categories of assets, including, but not limited to: Building Improvements."
+705758,Medium,,"Provide ability to track the following categories of assets, including, but not limited to: Leasehold improvements."
+705759,Medium,,"Provide ability to track the following categories of assets, including, but not limited to: Equipment."
+705760,Medium,,"Provide ability to track the following categories of assets, including, but not limited to: Communication equipment."
+705761,Medium,,"Provide ability to track the following categories of assets, including, but not limited to: Furniture and fixtures."
+705762,Medium,,"Provide ability to track the following categories of assets, including, but not limited to: Vehicles."
+705763,Medium,,"Provide ability to track the following categories of assets, including, but not limited to: Trailers."
+705764,Medium,,"Provide ability to track the following categories of assets, including, but not limited to: Capitalized leases."
+705765,Medium,,"Provide ability to track the following categories of assets, including, but not limited to: Construction in progress."
+705766,Medium,,"Provide ability to track the following categories of assets, including, but not limited to: Infrastructure."
+705767,Medium,,"Provide ability to track the following categories of assets, including, but not limited to: Collections of Artwork."
+705768,Medium,,"Provide ability to track the following categories of assets, including, but not limited to: Other user-defined categories."
+705769,Medium,,Provide ability to support multiple user-defined asset types.
+705770,Medium,,Establish and associate standard asset descriptive data for all assets. The standard asset descriptive data reduces and  standardizes data entry and reporting.
+705771,Medium,,Provide ability to have a free-form narrative long description of each asset item.
+705772,Medium,,"Provide ability to identify users of assets, in addition to recording property custodian."
+705773,Medium,,Provide ability to automatically create and assign an alpha-numeric asset number that is defined by agency to a single item or  multiple items purchased.
+705774,Medium,,Provide ability to manually assign an asset number.
+705775,Medium,,Provide ability to track the detailed cost for each item that makes up a whole asset.
+705776,Medium,,Provide ability to store user-defined number of different asset numbers/references for assembled assets.
+705777,Medium,,Provide ability to change the asset number/reference and retain all associated information and history with the proper  authorization.
+705778,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Asset Number."
+705779,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Property Tag Number (inventory control number)."
+705780,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: User Defined Fields (at least 30)."
+705781,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Property Officer or Custodian."
+705782,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Location Segments (up to ten), including but not limited to: Address Number."
+705783,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Location Segments (up to ten), including but not limited to: Address Prefix."
+705784,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Location Segments (up to ten), including but not limited to: Address Name."
+705785,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Location Segments (up to ten), including but not limited to: Street Type."
+705786,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Location Segments (up to ten), including but not limited to: Address Suffix."
+705787,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Location Segments (up to ten), including but not limited to: City."
+705788,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Location Segments (up to ten), including but not limited to: City Code."
+705789,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Location Segments (up to ten), including but not limited to: State."
+705790,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Location Segments (up to ten), including but not limited to: County Code/Name."
+705791,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Location Segments (up to ten), including but not limited to: Zip Code."
+705792,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Location Segments (up to ten), including but not limited to: Parcel ID."
+705793,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Location Segments (up to ten), including but not limited to: Building."
+705794,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Location Segments (up to ten), including but not limited to: Floor."
+705795,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Location Segments (up to ten), including but not limited to: Section."
+705796,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Location Segments (up to ten), including but not limited to: Room."
+705797,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Location Segments (up to ten), including but not limited to: Cubicle Number."
+705798,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Geographic Information System technology location (latitude and longitude)."
+705799,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Multiple Organizational Ownership Info. (including assets loaned to/from other entities)."
+705800,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Funding Sources (multiple) by percentage or dollar amount."
+705801,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Chart of Account distribution."
+705802,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Budget Item."
+705803,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Bond Financed Item."
+705804,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Requisition Number."
+705805,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Purchasing Document Number (multiple) including: Purchase Order Number."
+705806,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Purchasing Document Number (multiple) including: Voucher Number."
+705807,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Asset acquisition date."
+705808,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Asset acquisition source code (user-defined)."
+705809,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: In-service Date."
+705810,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Asset Condition."
+705811,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Asset Type."
+705812,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Improvement Date."
+705813,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Delivery Date."
+705814,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Physical Inventory Validation Flag."
+705815,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Warrant Number."
+705816,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Asset Status (e.g., inactive)."
+705817,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Unit Cost/Value."
+705818,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Original Cost."
+705819,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Value Basis."
+705820,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Trade-in Credit."
+705821,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Item Classification Code (user-defined) with multiple sub-class codes."
+705822,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Insured value/insurance information with user defined fields."
+705823,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Vendor Number, Name."
+705824,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Asset Descriptive Information."
+705825,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Manufacturer Number, Name."
+705826,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Model Year."
+705827,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Model Number."
+705828,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Operator ID."
+705829,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Contact Information."
+705830,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Salvage Value."
+705831,High,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Serial Number."
+705832,High,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: License Number (if applicable)."
+705833,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Employee Name (as established in human resources module) for employee to which asset is assigned to  (if applicable)."
+705834,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Employee Number (as established in human resources module) for employee to which asset is assigned  to (if applicable)."
+705835,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Driver license number of the State employee asset is assigned to (if applicable)."
+705836,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Warranty/Maintenance Information."
+705837,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Maintenance Company."
+705838,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Betterments."
+705839,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Disposal Information (including information in Asset Disposition, Retirement and Theft section of this  document.)."
+705840,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Lease Asset Information (if applicable)."
+705841,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Estimated Useful Life."
+705842,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Estimated Residual Value (Trade-in Value)."
+705843,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Replacement Cost -- This field can be updated as needed by users."
+705844,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Multiple Depreciation Schedule (Method and Life)."
+705845,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Depreciation Convention - Provide ability to record different conventions for depreciable assets, such as  beginning of month, half year, mid-month, etc."
+705846,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Budget Year (from which asset was purchased)."
+705847,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Use Code."
+705848,Medium,,"Maintains detailed property information required to identify, properly account for, and safeguard all assets, including but not  limited to the following: Special Provisions."
+705849,Medium,,Provide ability to create hierarchies for fields listed above.
+705850,Medium,,Provide ability to link component units (parent/child relationship) whereby each component maintains a financial life of its own.
+705851,Medium,,Provide ability to audit all changes made to asset records.
+705852,Medium,,"Provide ability to adjust original cost/value at any time, irrespective of fiscal year boundaries, with proper security authorization."
+705853,High,,"Provide ability to add and maintain assets obtained through non-expenditure transactions (e.g., gifts, donations, eminent domain)."
+705854,Medium,,Allow users to define estimated useful life by type.
+705855,Medium,,Provide ability to copy an asset record to create a similar asset record.
+705856,Medium,,"Allow authorized users to correct discrepancies in asset records by overriding initially loaded information (received from General  Ledger, Accounts Payable, and Purchasing modules) with proper authorization."
+705857,Medium,,Provide ability to upload survey data from an electronic source.
+705858,Medium,,"In addition to asset information listed previously, system provides the ability to maintain detailed property information required to  identify, properly account for, and safeguard State lands, including but not limited to the following: Legal description per survey."
+705859,Medium,,"In addition to asset information listed previously, system provides the ability to maintain detailed property information required to  identify, properly account for, and safeguard State lands, including but not limited to the following: Survey Date."
+705860,Medium,,"In addition to asset information listed previously, system provides the ability to maintain detailed property information required to  identify, properly account for, and safeguard State lands, including but not limited to the following: Survey Plats."
+705861,Medium,,"In addition to asset information listed previously, system provides the ability to maintain detailed property information required to  identify, properly account for, and safeguard State lands, including but not limited to the following: Tax Map."
+705862,Medium,,"In addition to asset information listed previously, system provides the ability to maintain detailed property information required to  identify, properly account for, and safeguard State lands, including but not limited to the following: Person who conducted the  survey."
+705863,Medium,,"In addition to asset information listed previously, system provides the ability to maintain detailed property information required to  identify, properly account for, and safeguard State lands, including but not limited to the following: Property's full address."
+705864,Medium,,"In addition to asset information listed previously, system provides the ability to maintain detailed property information required to  identify, properly account for, and safeguard State lands, including but not limited to the following: Acquisition information."
+705865,Medium,,"In addition to asset information listed previously, system provides the ability to maintain detailed property information required to  identify, properly account for, and safeguard State lands, including but not limited to the following: Number of acres (fractional  and whole)."
+705866,Medium,,"In addition to asset information listed previously, system provides the ability to maintain detailed property information required to  identify, properly account for, and safeguard State lands, including but not limited to the following: Value per acre."
+705867,Medium,,"In addition to asset information listed previously, system provides the ability to maintain detailed property information required to  identify, properly account for, and safeguard State lands, including but not limited to the following: Fair market value."
+705868,Medium,,"In addition to asset information listed previously, system provides the ability to maintain detailed property information required to  identify, properly account for, and safeguard State lands, including but not limited to the following: Multiple Appraiser Dates."
+705869,Medium,,"In addition to asset information listed previously, system provides the ability to maintain detailed property information required to  identify, properly account for, and safeguard State lands, including but not limited to the following: Appraiser's Name."
+705870,Medium,,"In addition to asset information listed previously, system provides the ability to maintain detailed property information required to  identify, properly account for, and safeguard State lands, including but not limited to the following: Cost per acre (multiple)."
+705871,Medium,,"In addition to asset information listed previously, system provides the ability to maintain detailed property information required to  identify, properly account for, and safeguard State lands, including but not limited to the following: Deed information, including,  but not limited to, book, page and deed restrictions."
+705872,Medium,,"In addition to asset information listed previously, system provides the ability to maintain detailed property information required to  identify, properly account for, and safeguard State lands, including but not limited to the following: Options to purchase property."
+705873,Medium,,"In addition to asset information listed previously, system provides the ability to maintain detailed property information required to  identify, properly account for, and safeguard State lands, including but not limited to the following: Owner's Information -  including, but not limited to: Name, Address, Phone and Email."
+705874,Medium,,"In addition to asset information listed previously, system provides the ability to maintain detailed property information required to  identify, properly account for, and safeguard State lands, including but not limited to the following: Options to sell property."
+705875,Medium,,"In addition to asset information listed previously, system provides the ability to maintain detailed property information required to  identify, properly account for, and safeguard State lands, including but not limited to the following: Multiple Tax Related Fields  user-defined."
+705876,Medium,,"In addition to asset information listed previously, system provides the ability to maintain detailed property information required to  identify, properly account for, and safeguard State lands, including but not limited to the following: Geographic Information  System technology location (latitude and longitude)."
+705877,Medium,,"In addition to asset information listed previously, system provides the ability to maintain detailed property information required to  identify, properly account for, and safeguard State lands, including but not limited to the following: Other user-defined fields."
+705878,Medium,,"In addition to asset information listed previously, system provides the ability to maintain detailed property information required to  identify, properly account for, and safeguard State lands, including but not limited to the following: Mapping - Provide ability to  store PLSS (Public Land Survey System) data."
+705879,Medium,,Provide ability to record insurance information including: Insurance company name.
+705880,Medium,,Provide ability to record insurance information including: Insurance company address.
+705881,Medium,,Provide ability to record insurance information including: Insurable value.
+705882,Medium,,Provide ability to record insurance information including: Policy number.
+705883,Medium,,Provide ability to record insurance information including: Policy period (term).
+705884,Medium,,Provide ability to record insurance information including: Type of coverage.
+705885,Medium,,Provide ability to record insurance information including: Coverage limits.
+705886,Medium,,Provide ability to record insurance information including: Premium.
+705887,Medium,,Provide ability to record insurance information including: Other User-defined fields.
+705888,Medium,,"Provide ability during mass additions process, for users to split asset record entries for identical items and then assign separate  property tag / inventory control numbers (e.g., purchase of 20 identical personal computers)."
+705889,Medium,,Provide ability to transfer fixed assets within or between organizations at the individual asset level and to generate the  appropriate accounting entries either manually or electronically.
+705890,Medium,,Provide ability to store accumulated depreciation in a static field for purposes of transferring the asset.
+705891,Medium,,Provide ability to start depreciation on an asset based on user specified amounts.
+705892,Medium,,"Maintain information about the condition of the asset (e.g., good, idle, obsolete, broken, etc.)."
+705893,Medium,,Support multiple organization asset ownership for each property item as multiple organization units or funds may finance an  asset.
+705894,Medium,,"Track funding sources (i.e., grants, bonds) used to purchase assets."
+705895,Medium,,Support in/outbound interfaces of asset data from agency subsystems.
+705896,Medium,,Provide ability to have an approval process for receiving an asset item at some locations.
+705897,Medium,,Track assets for other entities within the system (Dept. of Transportation and other Departments track assets they have in  possession but are owned by another entity.).

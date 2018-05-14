@@ -1,0 +1,27 @@
+"Section:PL-Inventory Management, Stock Issuance / Return To Stock / Backorder (26 Reqs)"
+714546,High,,"Create pick tickets automatically, based on electronic supply requisitions."
+714547,Medium,,Provide the ability to generate pick tickets at prescheduled times.
+714548,High,,"Provide the ability to bundle items into ""carts"". A cart consists of items which are always ordered together. Each cart is assigned  a tracking number."
+714549,Medium,,Provide the ability to place a cap on the quantity and dollar amount of an item that can be issued to a requestor during a  specified time period.
+714550,Medium,,Provide the ability to over ride the a cap on the quantity and dollar amount of an item that can be issued to a requestor during a  specified time period.
+714551,High,,Allow for the issuance of inventory items directly to other chart of account elements without having to charge it to a work order  with proper approval.
+714552,Medium,,"Print a ""ship to"" address on pick tickets from requisition information with the ability to edit."
+714553,High,,"Provide the ability to issue items at a certain cost and credit the item back (if returned) at the issue cost. This feature should be  the default regardless of inventory costing method used (i.e., average cost, LIFO, FIFO, etc.)."
+714554,High,,Provide the ability to create a receipt for items returned to stock.
+714555,High,,Provide the ability to issue items for checkout to locations internal to the warehouse such as a module or floor location.
+714556,High,,"Provide the ability to track and differentiate between warehouse order quantities (i.e., case) and inventory issue quantities (i.e.,  box, when there are 12 boxes in a case)."
+714557,High,,"Differentiate between supply items and logistic items. (Cost of logistic items issued to organizational units are not charged to  units. Logistics costs remain centralized but must be tracked to units.). An example of this would be street barricades in which  the barricades are lent out and their issue location is tracked, but their costs remain centralized."
+714558,High,,Retain requisition information as to what is ordered from warehouses by user-defined organizational unit.
+714559,High,,"Process emergency issues (i.e., deduct anything shipped from on-hand stock immediately and print a receipt for shipment to the  requestor)."
+714560,Medium,,Ability for individual organization units to create material request orders to be filled by a central material supply organization.
+714561,Medium,,Ability for central material organization unit to track status of individual orders with the ability to place individual items on back- order status.
+714562,Medium,,Ability to generate reports summarizing all outstanding orders fro a particular organization unit by individual item.
+714563,Medium,,"Provide the ability to compare stock items received to open requests for stock items to determine which requests (i.e.,  backorders) may be filled."
+714564,High,,Provide back-order information on-line.
+714565,High,,Maintain the number of times orders are placed on back-order.
+714566,High,,Provide a comment field attached to back-order information.
+714567,High,,Provide the ability to record anticipated delivery date for back-ordered items and notify users when delivery date is imminent.
+714568,High,,Provide back-order history.
+714569,Medium,,"Provide back-order processing with manual or automatic release or cancellations, and notification sent to requestor."
+714570,High,,Provide the ability to show current quantity available to issue. Current quantity available is defined as on-hand less end-user  requested but not issued.
+714571,Medium,,Produce a return-to-stock ticket which will contain a reference to issuance document.

@@ -1,0 +1,55 @@
+"Section:FIN-General Ledger, Chart of Accounts (54 Reqs)"
+707426,High,,"System provides the ability to permit authorized users to establish and maintain a standard Chart of Accounts to meet statewide  and user (agency) accounting and financial reporting needs, using tables that do not require programming knowledge to  establish or modify."
+707427,High,,System allows Chart of Accounts field lengths to be configured during the installation.
+707428,High,,"System should provide ability to meet statewide financial reporting needs through its Chart of Accounts, and record transactions  against key elements, including but not limited to: Fund."
+707429,High,,"System should provide ability to meet statewide financial reporting needs through its Chart of Accounts, and record transactions  against key elements, including but not limited to: Fiscal Year."
+707430,High,,"System should provide ability to meet statewide financial reporting needs through its Chart of Accounts, and record transactions  against key elements, including but not limited to: Organization."
+707431,High,,"System should provide ability to meet statewide financial reporting needs through its Chart of Accounts, and record transactions  against key elements, including but not limited to: Program."
+707432,High,,"System should provide ability to meet statewide financial reporting needs through its Chart of Accounts, and record transactions  against key elements, including but not limited to: Location."
+707433,High,,"System should provide ability to meet statewide financial reporting needs through its Chart of Accounts, and record transactions  against key elements, including but not limited to: Grant."
+707434,High,,"System should provide ability to meet statewide financial reporting needs through its Chart of Accounts, and record transactions  against key elements, including but not limited to: Project."
+707435,High,,"System should provide ability to meet statewide financial reporting needs through its Chart of Accounts, and record transactions  against key elements, including but not limited to: Object of Expenditure."
+707436,High,,"System should provide ability to meet statewide financial reporting needs through its Chart of Accounts, and record transactions  against key elements, including but not limited to: Revenue Source."
+707437,High,,"System should provide ability to meet statewide financial reporting needs through its Chart of Accounts, and record transactions  against key elements, including but not limited to: Balance Sheet Account."
+707438,High,,"System should provide ability to meet statewide financial reporting needs through its Chart of Accounts, and record transactions  against key elements, including but not limited to: User-Defined Field 1."
+707439,High,,"System should provide ability to meet statewide financial reporting needs through its Chart of Accounts, and record transactions  against key elements, including but not limited to: User-Defined Field 2."
+707440,High,,"System should provide ability for General Ledger accounts to be designated by a user-definable ""account type,"" which can be  tracked on all transactions, including but not limited to: Asset Account."
+707441,High,,"System should provide ability for General Ledger accounts to be designated by a user-definable ""account type,"" which can be  tracked on all transactions, including but not limited to: Liability Account."
+707442,High,,"System should provide ability for General Ledger accounts to be designated by a user-definable ""account type,"" which can be  tracked on all transactions, including but not limited to: Fund Equity Account."
+707443,High,,"System should provide ability for General Ledger accounts to be designated by a user-definable ""account type,"" which can be  tracked on all transactions, including but not limited to: Revenue Account (Collected and Accrued)."
+707444,High,,"System should provide ability for General Ledger accounts to be designated by a user-definable ""account type,"" which can be  tracked on all transactions, including but not limited to: Expense or Expenditure Account (Paid and Accrued)."
+707445,High,,"System should provide ability for General Ledger accounts to be designated by a user-definable ""account type,"" which can be  tracked on all transactions, including but not limited to: Expense or Transfer Account."
+707446,High,,"System should provide ability for General Ledger accounts to be designated by a user-definable ""account type,"" which can be  tracked on all transactions, including but not limited to: Expense or Budgetary Account (e.g. Encumbrance)."
+707447,High,,"System should provide ability for General Ledger accounts to be designated by a user-definable ""account type,"" which can be  tracked on all transactions, including but not limited to: Expense or Statistical Account (e.g. Budgeted Positions)."
+707448,High,,"System permits accounts to be shared across multiple years (e.g., project accounts, grant accounts)."
+707449,Medium,,System permits all Chart of Account elements to be added or changed to an active or inactive status.
+707450,Medium,,System permits elements of the Chart of Accounts to be grouped or ungrouped on a user-defined basis into multiple reporting  hierarchies.
+707451,High,,"System uses effective dating when adding, changing, or deactivating any element of the Chart of Accounts (at all levels) and  validates entries based upon the effective date."
+707452,Medium,,System provides a hierarchical structure that groups projects across agencies for statewide reporting purposes.
+707453,High,,"System provides an option for coding reduction techniques or tools such as a coding reduction value or code to reference  specific user-defined combinations of chart of accounts elements, to significantly reduce the amount of data entry required on a  transaction and the likelihood of data entry errors. ."
+707454,High,,Data entry of a coding reduction value on a transaction can infer or look up the combination of elements instead of requiring data  entry of each of these elements on the transaction.
+707455,High,,Data entry of a specific element of the Chart of Accounts defaults or looks up the combination of values for other Chart of  Accounts elements by referencing a user-defined mapping table.
+707456,Medium,,"System provides an optional level of detail below the statewide revenue source and expenditure object codes, established for  use by agencies at their discretion, but controlled centrally. The agency codes should automatically roll up to statewide codes."
+707457,Medium,,System allows Chart of Accounts changes and maintains records of the historical Chart of Accounts based on effective-dated  tables.
+707458,Low,,System provides for Chart of Accounts elements to have a long description of at least 50 alphanumeric characters.
+707459,Low,,System provides for Chart of Accounts elements to have a short description of at least 25 alphanumeric characters.
+707460,High,,"System allows a many-to-many relationship while creating transactions between Chart of Accounts elements within user-defined  security rules, including but not limited to the following: Fund."
+707461,High,,"System allows a many-to-many relationship while creating transactions between Chart of Accounts elements within user-defined  security rules, including but not limited to the following: Fiscal Year."
+707462,High,,"System allows a many-to-many relationship while creating transactions between Chart of Accounts elements within user-defined  security rules, including but not limited to the following: Organization."
+707463,High,,"System allows a many-to-many relationship while creating transactions between Chart of Accounts elements within user-defined  security rules, including but not limited to the following: Program."
+707464,High,,"System allows a many-to-many relationship while creating transactions between Chart of Accounts elements within user-defined  security rules, including but not limited to the following: Location."
+707465,High,,"System allows a many-to-many relationship while creating transactions between Chart of Accounts elements within user-defined  security rules, including but not limited to the following: Project."
+707466,High,,"System allows a many-to-many relationship while creating transactions between Chart of Accounts elements within user-defined  security rules, including but not limited to the following: Grant."
+707467,High,,"System allows a many-to-many relationship while creating transactions between Chart of Accounts elements within user-defined  security rules, including but not limited to the following: Expenditure Object."
+707468,High,,"System allows a many-to-many relationship while creating transactions between Chart of Accounts elements within user-defined  security rules, including but not limited to the following: Revenue Source."
+707469,High,,"System allows a many-to-many relationship while creating transactions between Chart of Accounts elements within user-defined  security rules, including but not limited to the following: Balance Sheet Account."
+707470,High,,"System allows a many-to-many relationship while creating transactions between Chart of Accounts elements within user-defined  security rules, including but not limited to the following: User Defined Field 1."
+707471,High,,"System allows a many-to-many relationship while creating transactions between Chart of Accounts elements within user-defined  security rules, including but not limited to the following: User Defined Field 2."
+707472,Medium,,"System provides the ability to infer the GAAP funds (code and name as another field) based on designated Chart of Accounts  fields (such as fund, agency, and appropriation)."
+707473,High,,System provides the ability to have multiple ledgers that are able to be updated simultaneously.
+707474,High,,System provides the ability for the COA to support project and grant accounting.
+707475,High,,System provides the ability for a flexible chart of accounts structure with a flexible roll-up hierarchy.
+707476,Medium,,System provides the ability to accommodate an unlimited number of COA values.
+707477,High,,System provides the ability to specify and validate against COA segment combinations.
+707478,Medium,,System provides the ability to search for or have a dropdown down list for valid COA values.
+707479,Medium,,System provides the ability to change the COA at fiscal year boundaries or based on effective-dated tables.

@@ -1,0 +1,26 @@
+"Section:PL-Fleet Management, Motor Pool (25 Reqs)"
+714249,Medium,,Provide capability to manage an enterprise-wide and/or one or more agency or agency unit specific motor pools.
+714250,Medium,,Allow definition and set-up of an unlimited number of motor pools.
+714251,Medium,,Store for each motor pool: unique motor pool identifier.
+714252,Medium,,Store for each motor pool: operating agency.
+714253,Medium,,Store for each motor pool: operating agency unit.
+714254,Medium,,Store for each motor pool: motor pool manager.
+714255,Medium,,Store for each motor pool: pool location.
+714256,Medium,,Define for each motor pool the employee units or groups of employee units which are eligible to reserve the fleet/equipment units  in each motor pool.
+714257,Medium,,Allow fleet units/equipment to be defined as a pool vehicle which can be reserved for use.
+714258,Medium,,Assign each pooled fleet /equipment unit to a specific motor pool.
+714259,Medium,,"Allow authorized users to view vehicle/equipment availability by fleet class, fleet type, time in and time out and by rental location."
+714260,Medium,,Allow vehicles to be reserved for future periods based on user defined rules with proper security authorization.
+714261,Medium,,"Capture reservation information including agency; agency unit; an active/valid chart of account codes, grant or project to charge  rental to; person requesting reservation; destination; employee operator name and driver license number; dispatched  information; fleet unit number; rental charges; and pick-up site location."
+714262,Medium,,Allow override of vehicle reservations with proper security authorization.
+714263,Medium,,Generate reservation with a PIN# for key control purposes.
+714264,Medium,,Integrate with ERP personnel administration function to obtain employee driver license number at time of reservation.
+714265,Medium,,Integrate with DMV Driver License system to perform a record check and verify employee's driver license is active at time of  reservation.
+714266,Medium,,"Support user defined rental rate structure by fleet class and fleet type for hourly, daily, weekly, monthly and annual rentals."
+714267,Medium,,Provide a rental rate structure which allows free miles or unlimited mites for each type of rental.
+714268,Medium,,Capture and track all costs associated with each rental.
+714269,Medium,,Allow additional costs to be added to each rental.
+714270,Medium,,"Provide the ability to define how the rental costs will be calculated to meet individual agency or motor pool specific needs, i.e.,  rental rate and CPM for excessive miles or rental rate of CPM for total miles, whichever is greater."
+714271,Medium,,Support scheduling of an assigned pool vehicle/equipment unit for preventive maintenance.
+714272,Medium,,Integrate with ERP accounts receivable and general ledger to support intergovernmental billing for use of an enterprise-wide  motor pool or for use by one agency of another agency's motor pool function.
+714273,Medium,,"Support billing for all rental charges, maintenance and operations costs on a single invoice."

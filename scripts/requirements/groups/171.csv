@@ -1,0 +1,17 @@
+"Section:HRP-Personnel Administration, Length of Service (16 Reqs)"
+711472,Medium,,"Track and maintain a comprehensive longevity program for State service, including allowing for breaks in service."
+711473,Medium,,Generate reports and notifications for forthcoming length of service events.
+711474,Medium,,Tracking length of service by: minutes of service.
+711475,Medium,,Tracking length of service by: hours of service.
+711476,Medium,,Tracking length of service by: days of service.
+711477,Medium,,Tracking length of service by: months of service.
+711478,Medium,,Tracking length of service by: years of service.
+711479,Medium,,"Tracking length of service by: service credits based on minimum hours paid per month, including leave hours paid."
+711480,Medium,,Aggregate State service across multiple employment periods and accommodate transfer of credits from other government  entities.
+711481,Medium,,Calculate State service credits based on: employing agency.
+711482,Medium,,"Calculate State service credits based on: type of employment (per-diem, elected, etc.)."
+711483,Medium,,"Calculate State service credits based on: classification of employment (permanent, classified, classified exempt, faculty)."
+711484,Medium,,Calculate State service credits based on: eligible service from other government entities.
+711485,Medium,,Track length of service based on time in classification and position.
+711486,Medium,,Track the issuance of length of service pay as integrated within the payroll system.
+711487,Medium,,Track an employee's receipt of length of service recognition.

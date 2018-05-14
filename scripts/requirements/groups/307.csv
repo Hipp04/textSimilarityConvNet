@@ -1,0 +1,73 @@
+"Section:PL-Procurement, Contract Administration (72 Reqs)"
+715488,High,,"Provide the ability to convert awarded solicitations to approved contracts, following approval of the award decision."
+715489,High,,"Provide the ability to track the number of contract renewals (total, exercised, remaining)."
+715490,Medium,,"Provide the ability to track the number of contract extensions (total, exercised, remaining)."
+715491,Medium,,"Provide the ability to automatically generate user-defined contract releases (based on dates, dollar amounts, and quantities) with  appropriate approval."
+715492,High,,Provide the ability to optionally encumber contracts or contract releases per line item and also assign accounting data.
+715493,High,,"Provide the ability to track multiple encumbrances, receipts, and payments against a single contract at the line item level."
+715494,High,,Provide the ability to track multiple releases against a single encumbrance or contract.
+715495,High,,"Provide the ability to have variations of combinations on contracts, including, but not limited to the following: Allow multiple  contracts per vendor."
+715496,High,,"Provide the ability to have variations of combinations on contracts, including, but not limited to the following: Allow multiple  commodities or services per contract."
+715497,High,,"Provide the ability to have variations of combinations on contracts, including, but not limited to the following: Allow multiple dates  or option years/periods."
+715498,High,,"Provide the ability to have variations of combinations on contracts, including, but not limited to the following: Allow multiple  vendors per contract."
+715499,High,,Provide the ability to drill-down on the contract/agreement to see the detail of the line items included in the contract/agreement  and to view the specifics of each item.
+715500,Medium,,Provide the ability for targeted value and quantity contracts with a user-defined trigger that notifies the purchasing agent when  those targets are exceeded or close to being exceeded.
+715501,High,,Provide the ability to attach electronic documents to a contract.
+715502,High,,Provide the ability for users to review and print contract text and all attachments from within the application.
+715503,High,,Provide clause library capabilities.
+715504,High,,Provide the ability to allow for contract tracking by: Contract number.
+715505,High,,Provide the ability to allow for contract tracking by: Vendor.
+715506,High,,"Provide the ability to allow for contract tracking by: Date (starting, ending, and order)."
+715507,High,,"Provide the ability to allow for contract tracking by: Quantity (authorized, used, and available) by calendar/fiscal year by line item."
+715508,High,,"Provide the ability to allow for contract tracking by: Dollars (authorized, used, and available) by calendar/fiscal year by line item."
+715509,High,,Provide the ability to allow for contract tracking by: Contract status.
+715510,High,,Provide the ability to allow for contract tracking by: Commodity codes.
+715511,High,,Provide the ability to allow for contract tracking by: Class and Item based on commodities.
+715512,High,,Provide the ability to allow for contract tracking by: Chart of Accounts (any component) at the sub line level.
+715513,High,,"Provide the ability to allow for contract tracking by: Renewals (authorized, used, and available)."
+715514,High,,Provide the ability to allow for contract tracking by: Cancellations.
+715515,High,,"Provide the ability to allow for contract tracking by: Extensions (authorized, used, and available)."
+715516,High,,Provide the ability to allow for contract tracking by: Change order.
+715517,Medium,,Provide the ability to allow for contract tracking by: Add/change.
+715518,High,,"Provide the ability to allow for contract tracking by: Contract type (e.g. interagency, etc.)."
+715519,Medium,,Provide the ability to allow for contract tracking by: Contingency amounts by percent of contract or flat dollar amount (DOT  construction).
+715520,High,,"Provide the ability to allow for contract tracking by: Small and Minority-owned Business/West Virginia Business/Other Targeted  Businesses status, including subcontractor details."
+715521,Medium,,Provide the ability to allow for contract tracking by: Recycled goods indicator.
+715522,Medium,,Provide the ability to allow for contract tracking by: Recycled goods percentage.
+715523,Medium,,Provide the ability to allow for contract tracking by: Justification / Comments.
+715524,Medium,,"Provide the ability to allow for contract tracking by: Contract Administrator's name, phone, fax numbers and email."
+715525,Medium,,Provide the ability to allow for contract tracking by: Comment field with internal and external indicator.
+715526,Medium,,Provide the ability to allow for contract tracking by: Unit of Measure.
+715527,Medium,,Provide the ability to allow for contract tracking by: Political Subdivision Availability.
+715528,Medium,,Provide the ability to allow for contract tracking by: Admin Fees.
+715529,High,,Provide the ability to allow for contract tracking by: P-Card Acceptance.
+715530,Medium,,Provide the ability to allow for contract tracking by: User-defined fields (multiple).
+715531,High,,Provide the ability to contain a flag field indicating that insurance certificates and performance and payment bonds are on file for  each contract line item.
+715532,High,,"Provide the ability to track and monitor contractor insurance certificates, flag insurance expiration dates for each contract line  item, and automatically notify the appropriate purchasing agent."
+715533,High,,"Provide the ability to block the release of all line items if all items (e.g., insurance) are not in place."
+715534,High,,"Provide the ability to limit contracts (whole contract or specific line items) at multiple levels (e.g., agency level, individual user  level, etc.)."
+715535,High,,"Provide the ability to track all purchase orders, receipts, adjustments, invoices, or other reference documents within a single  contract."
+715536,High,,"Provide the ability, based on commodities and vendors selected, to provide prompts to requestors and purchasing agents  regarding purchases that may be covered by existing contracts."
+715537,High,,"Provide the ability to support various contract periods, including multiple year contracts (e.g., those that span fiscal and/or  calendar years)."
+715538,High,,"Provide the ability to have a repository of contract models, clauses, specifications, State-specific specifications, standard contract  terms and conditions, solicitation templates, evaluation methods, etc. for both service and commodity contracts."
+715539,Medium,,"Provide the ability to have a user populated repository of contract models, clauses, specifications, State-specific specifications,  standard contract terms and conditions, solicitation templates, evaluation methods, etc. for both service and commodity contracts."
+715540,High,,"Provide the ability for ""key word"" search functionality on standardized contract clauses (such as ""indemnification"") that are stored  in the repository."
+715541,Medium,,"Provide the ability for specified users to be notified when certain types of new contracts are created and to be able to provide  feedback/comments regarding the contract (e.g., the next time a similar contract is drafted, add certain verbiage). The contract's  content is accessible by the following: Viewed in public-forum."
+715542,Medium,,"Provide the ability for specified users to be notified when certain types of new contracts are created and to be able to provide  feedback/comments regarding the contract (e.g., the next time a similar contract is drafted, add certain verbiage). The contract's  content is accessible by the following: Viewed based on user-defined security."
+715543,Medium,,"Provide the ability to track and report expenditures for each individual contract, including budget to actual comparisons by user- defined period (e.g., monthly, quarterly, daily, contract year, fiscal year, contract term, by vendor, etc.)."
+715544,Medium,,"Provide the ability to print a Blanket Contract/Notice of Award document. The Blanket Contract/Notice of Award document  references solicitation terms, conditions, specifications, and pricing. Blanket Contract/Notice of Award documents do not obligate  purchases (or require encumbrances) but specify that released POs are dispatched to the contractor for authorization to ship  specified quantity of goods or services to designated delivery addresses. This is applicable to contracts with secondary bid  processes."
+715545,Medium,,"Provide the ability to support detailed contract performance analysis and generate performance reports, based on the following  criteria: Contract compliance (based on compliance criteria as defined by users)."
+715546,Medium,,"Provide the ability to support detailed contract performance analysis and generate performance reports, based on the following  criteria: Work completed to date."
+715547,Medium,,"Provide the ability to support detailed contract performance analysis and generate performance reports, based on the following  criteria: Timelines/deadline dates."
+715548,Medium,,"Provide the ability to support detailed contract performance analysis and generate performance reports, based on the following  criteria: Contractor performance for vendor contracts."
+715549,Medium,,"Provide the ability to support detailed contract performance analysis and generate performance reports, based on the following  criteria: User-defined milestones and thresholds."
+715550,Medium,,"Provide the ability to support detailed contract performance analysis and generate performance reports, based on the following  criteria: Vendor complaint."
+715551,Medium,,"Provide the ability to support detailed contract performance analysis and generate performance reports, based on the following  criteria: Retainage / Performance (Monetary) guarantees."
+715552,Medium,,"Provide the ability to support detailed contract performance analysis and generate performance reports, based on the following  criteria: Liquidated damages."
+715553,High,,Provide the ability to access contract information on-line and in real-time for central and remote users with appropriate security.
+715554,Medium,,"Provide the ability to attach ""comments"" to each contract. Comments could be free-form or standard user-defined (i.e., selected  from a menu or drop-down list)."
+715555,High,,"Provide the ability to generate new requisition or solicitation detail from the contract detail, with ability to update/modify the  information (e.g., copy contract information into requisition or solicitation document when the contract needs to be re-bid)."
+715556,Medium,,"Provide the ability to convert awarded contract detail to the eProcurement catalog format (i.e., make awarded contracts available  for purchasing from a catalog). Catalogs should also contain the general contract information."
+715557,High,,"Provide the ability for contracts and purchase orders to contain ""Free on Board"" terms (FOB -Destination, Origin, Not Required)."
+715558,High,,"Provide the ability for contracts and purchase orders to contain Shipping/Freight terms (e.g., Collect, Prepaid and Add, Prepaid  and Allow., Special Instructions, Blank)."
+715559,High,,Provide the ability to enter and process net and discount payment terms for contracts and purchase orders.

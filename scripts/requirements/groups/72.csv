@@ -1,0 +1,49 @@
+"Section:FIN-General Ledger, Journal Entry (48 Reqs)"
+707480,Medium,,Provide ability to enter journal transactions online or in batches.
+707481,Medium,,Allow accrual JE's by organization.
+707482,Medium,,"Allow accrual CAFR and financial statements by month, quarter, year."
+707483,Medium,,"Allow accrual JE's by month, quarter, year."
+707484,Medium,,Allow CAFR and financial statements by organization.
+707485,Medium,,Provide ability when entering a journal voucher to view the multiple entries within the journal transaction.
+707486,Medium,,"Defaults data within journal fields (e.g., year, current date) with override ability."
+707487,Medium,,"Defaults data (e.g., cost center, department) within journal fields by user with override ability."
+707488,Medium,,"Provide ability to electronically attach or reference multiple supporting documents to the journal entry. In addition to printing the  journal entry, the user should also be able to print attached documents."
+707489,Medium,,Allows users to input journal entries as a correction or adjustment to any open prior accounting periods.
+707490,Medium,,"Allows users to import journal entries from desktop applications (e.g., Microsoft Excel) and validate the entry against the Chart of  Accounts and allowed Chart of Accounts code combinations."
+707491,Low,,Provide end users with the ability to customize their view of the journal entry screen.
+707492,Medium,,Provide ability to automatically generate and assign document control numbers for all system generated documents and  transactions at the agency level.
+707493,Medium,,"Allows users to cancel or back-out transactions, with audit trail."
+707494,Medium,,"Provide ability to trace summarized transactions online in the General Ledger back to detail source documents in other system  modules or subsystems within the enterprise system. If the information must be retrieved from these modules or subsystems, it  should be transparent to the user."
+707495,Medium,,"Provide ability to trace summarized transactions on a General Ledger report back to detail source documents in other system  modules or subsystems within the enterprise system. If the information must be retrieved from these modules or subsystems, it  should be transparent to the user."
+707496,Medium,,"Support establishment of rules for each journal type, which determine the appropriate processing, including but not limited to:  Account default to reduce keystrokes."
+707497,Medium,,"Support establishment of rules for each journal type, which determine the appropriate processing, including but not limited to:  Type of data to be entered."
+707498,Medium,,"Support establishment of rules for each journal type, which determine the appropriate processing, including but not limited to:  Whether data is required, optional, or not allowed."
+707499,Medium,,"Provide ability to generate default offset entries for non-journal voucher financial documents from sub-ledgers (e.g., payment  requests, purchase orders, encumbrances, requisitions, cash receipts, etc.)."
+707500,Medium,,Process batch files during the day without closing out other users from online transaction processing.
+707501,Medium,,"Provide online validation and editing for error identification and correction before actual posting occurs, including the notification  of out-of-balance batches with correction ability prior to posting at the detail level."
+707502,Medium,,Provide each agency with the ability to print a copy of approved journal vouchers and/or internal vouchers.
+707503,Medium,,"Provide accrual journals, which can (optionally) automatically reverse themselves on a user-specified date in the following period."
+707504,Medium,,Provide for the automatic reversal of specified journal entries using a system generated date.
+707505,Medium,,Support automatic recurring journals each month.
+707506,Medium,,Allow creation of a journal entry using a previously entered journal entry format (copy journal).
+707507,Medium,,Provide journal entry footnotes or a line item description area.
+707508,Medium,,Provide ability to select for inquiry summary or detailed posting of transactions to the general ledger from subsidiary  ledgers/modules within the system.
+707509,Medium,,Provide ability to select for inquiry in transit totals.
+707510,Medium,,Provide ability to create and process transactions against statistical and memo accounts in addition to financial accounts.
+707511,Medium,,Provide for users to save journal entries that have not yet been posted or cleared of all online validation errors.
+707512,Medium,,"Provide ability to record Units of Measure (Hours, FTE, Lots, etc.) and amounts in the same line of a journal entry."
+707513,Medium,,"Allow entry of journals (encumbrance and expenditure) from multiple sources (online, batch, interface, internet)."
+707514,Medium,,"Provide ability to automatically generate journals based on data from other systems/modules (purchasing, accounts payable,  accounts receivable, asset management, etc.) with appropriate audit trails or references."
+707515,Medium,,Allow entries for multiple agencies and funds under one journal.
+707516,Medium,,Provide ability to edit check journals (for coding) before processing.
+707517,Medium,,Provide ability to prevent journals from being processed against inactive accounts or periods.
+707518,Medium,,Provide appropriation control (funds availability check).
+707519,Medium,,Provide cash control (cash availability check) at fund level.
+707520,Medium,,Provide ability for online approval of appropriate journals.
+707521,Medium,,"Provide ability to maintain, modify and resubmit rejected journals online."
+707522,Medium,,Provide ability to post journals in a set sequence to prevent transaction rejections.
+707523,Medium,,"Provide ability to establish control accounts to maintain a balance between various systems (GA, AP, AR, etc.)."
+707524,High,,Provide ability to execute and track interfund and intra fund transfers.
+707525,High,,Support multiple agencies on one interfund transfer.
+707526,Medium,,Provide ability to be notified if a transaction is in suspense.
+707527,Medium,,Provide ability to make mass changes to journals and copy journal information to use for similar/recurring transactions.

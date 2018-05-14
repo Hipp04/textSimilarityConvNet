@@ -1,0 +1,16 @@
+"Section:PL-Facilities Management, Accident History (15 Reqs)"
+713421,Medium,,"Maintain a history of any accidents associated with a facility, sub-facility, system or component."
+713422,Medium,,"Allow a facility class owner for an agency to define mandatory and optional attributes which should be captured for an accident  associated with a facility, sub-facility, system or component."
+713423,Medium,,"Allow a facility class owner for an agency to create a template for entering accidents for a specific facility class, facility type or  system/component type."
+713424,Medium,,"Store information for each accident/incident based on the attributes defined for a facility class, facility type or system/component  type."
+713425,Medium,,Store date of accident.
+713426,Medium,,Store employee reporting accident.
+713427,Medium,,Store citizen/visitor reporting accident.
+713428,Medium,,Store employee operating equipment (if applicable).
+713429,Medium,,Store other employees involved in accident.
+713430,Medium,,Store accident description.
+713431,Medium,,Store names/contact information of non State employees involved in incident/accident.
+713432,Medium,,Store work orders (multiple) associated with any repairs.
+713433,Medium,,Store whether contaminants were involved in the accident and which ones.
+713434,Medium,,Store other optional fields based on facility/sub-facility/system/component class and/or type.
+713435,Medium,,Integrate with BRIM to automatically provide notification of accident and available information on the accident.

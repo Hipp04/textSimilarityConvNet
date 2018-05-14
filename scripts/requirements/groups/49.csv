@@ -1,0 +1,43 @@
+"Section:FIN-Cost Accounting, Cost Allocation (42 Reqs)"
+706889,Medium,,"Allocate within/across agencies by the chart of account elements and other data elements, including, but not limited to the  following: Fund."
+706890,Medium,,"Allocate within/across agencies by the chart of account elements and other data elements, including, but not limited to the  following: Appropriation."
+706891,Medium,,"Allocate within/across agencies by the chart of account elements and other data elements, including, but not limited to the  following: Organization Number."
+706892,Medium,,"Allocate within/across agencies by the chart of account elements and other data elements, including, but not limited to the  following: Program."
+706893,Medium,,"Allocate within/across agencies by the chart of account elements and other data elements, including, but not limited to the  following: General Ledger Account."
+706894,Medium,,"Allocate within/across agencies by the chart of account elements and other data elements, including, but not limited to the  following: Object."
+706895,Medium,,"Allocate within/across agencies by the chart of account elements and other data elements, including, but not limited to the  following: Revenue Source."
+706896,Medium,,"Allocate within/across agencies by the chart of account elements and other data elements, including, but not limited to the  following: Project."
+706897,Medium,,"Allocate within/across agencies by the chart of account elements and other data elements, including, but not limited to the  following: Grant."
+706898,Medium,,"Allocate within/across agencies by the chart of account elements and other data elements, including, but not limited to the  following: Function Code (i.e., administration, supportive services, etc.)."
+706899,Medium,,"Allocate within/across agencies by the chart of account elements and other data elements, including, but not limited to the  following: Budget Year."
+706900,Medium,,"Allocate within/across agencies by the chart of account elements and other data elements, including, but not limited to the  following: Budget Code (i.e., Fiscal Operations)."
+706901,Medium,,"Allocate within/across agencies by the chart of account elements and other data elements, including, but not limited to the  following: User-defined level."
+706902,Medium,,Allocate between transactions with projects and without the project field used.
+706903,Medium,,Allocate between transactions with grants and without the grant field used.
+706904,Medium,,Interface with other State activity tracking systems to assign costs and measure performance.
+706905,Medium,,Accommodates both fixed and variable costs.
+706906,Medium,,Allocate financial balances from any account coding distribution to any other account coding distribution.
+706907,Medium,,Provide for intermediate pools to accumulate lower-level allocations and redistribute them under another allocation.
+706908,Medium,,Allows user agencies to determine frequency of allocation processing.
+706909,Medium,,"Allow user to determine which indirect costs are to be allocated, including the time period in which those costs occurred (e.g.,  effective start and end dates)."
+706910,Medium,,"Allocate indirect financial balances based on pre-determined rates, ratios, or statistics."
+706911,Medium,,Provide source and disposition information on the results of allocation processing.
+706912,Medium,,Allow users to import allocation pool or statistical information from spreadsheets or other desktop tools as a starting point for  allocations.
+706913,Medium,,Allow for the processing of a preliminary allocation process for what if analysis purposes before the results of the allocation are  officially recorded as final.
+706914,Medium,,Provide allocation screens that reflect totals for percentages allocated.
+706915,Medium,,Capture budgeted and actual non-financial statistical information at indicated levels of the agency structure.
+706916,Medium,,Capture non-financial statistical information for various units of service.
+706917,Medium,,Capture cost allocation factor information and statistics which will control the accounting and allocation of indirect and direct  costs to activities through the use of cost pools.
+706918,Medium,,Provide information on the factors and specifications applied during the cost allocation process.
+706919,Medium,,Provide information on the cost per unit of service being delivered by activities.
+706920,Medium,,Provide for a multiple step (at least 50) cost allocation process.
+706921,Medium,,Provide ability to key percentages for use in cost allocation with eight decimal places.
+706922,Medium,,Provide ability to allocate costs using at least eight decimal places.
+706923,Medium,,Provide automated computing and posting of allocation journal entries on a user-defined frequency.
+706924,Medium,,Perform allocations for reporting purposes only.
+706925,Medium,,Provide reversal of actual allocation and spread based on overall rates at the end of the year.
+706926,Medium,,Provide reversal of actual allocation and spread based on overall rates for a specified period.
+706927,Medium,,Allocates variances based on actual costs for a defined period.
+706928,Medium,,"Allocate, based on user defined criteria, a difference between selected revenue and expense accounts, leaving the  corresponding revenue in place."
+706929,Medium,,Provide the capability of cost allocation among unlimited funds.
+706930,Medium,,Provide multiple standard cost allocation reports.

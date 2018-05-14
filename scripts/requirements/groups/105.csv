@@ -1,0 +1,95 @@
+"Section:FIN-Travel, Employee Reimbursement (94 Reqs)"
+708596,Medium,,Provide the ability to reimburse employees for travel and other expenses.
+708597,Medium,,Generate payments (or invoices) to employees based on reconciliation of advances vs. expense reports.
+708598,Medium,,Provide ability for State employees to initiate reimbursement for their travel expenses through direct entry of travel expenses.
+708599,Medium,,Provide ability for State employees to query on the status of their pending travel reimbursements.
+708600,Medium,,"Provide an optional travel authorization process that can be initiated by individual agencies, and must compare approved  expenses per travel authorization to actual expenses claimed for reimbursement."
+708601,Medium,,Optional travel authorization should be capable of on-line approvals from flexible hierarchical approval process.
+708602,Medium,,Differentiate between accountable (detailed reporting and payment for actual expenses) and non-accountable (per diem) travel  reimbursements.
+708603,Medium,,"Provide facility to report certain employee payments on a W-2 (e.g. in certain cases, moving expenses, per diem, in-state  vehicles, travel allowances, or other reimbursements) that are not exempted by the Internal Revenue Service Regulation."
+708604,Medium,,Support the ability to add a custom form to be used for the submission of employee reimbursements.
+708605,Medium,,"Automatically detects and rejects any request for duplicate payment based on time period (start and end), dollar amount, or  invoice number."
+708606,High,,Integrate with employee master files in the Human Resources module to verify that requestor was in fact an active State  employee at the time of the expense.
+708607,Medium,,Integrate with employee leave records in the Human Resources module to verify that requestor was in fact not on leave at the  time of the expense.
+708608,Medium,,Allows an authorized individual to override the employee on leave edit for infrequent exceptions.
+708609,Medium,,Record the issuance of an advance as a receivable and reimbursement of employee advance as a cash receipt and calculate  any remaining amount due or receivable after the employee has completed travel.
+708610,Medium,,Provide an edit to not disallow an advance unless outstanding advances are paid in full at an employee level.
+708611,Medium,,Provide an edit to disallow an advance unless outstanding advances are paid to a specified amount at an agency level.
+708612,Medium,,"Send notification to employee and supervisor if an advance is over a user-specified amount of time (for example, 30 days)."
+708613,Medium,,Provide a flexible on-line hierarchical approval process for approving employee reimbursement.
+708614,Medium,,Provide for proxy approvers.
+708615,Medium,,Track employees who are eligible for mileage reimbursement (i.e. headquarters versus home address mileage).
+708616,Medium,,Pay the per diem rates for meals based on the travel dates and locations.
+708617,Medium,,"Edit transactions to ensure that the State maximum allowance for lodging is not exceeded based on travel dates and location,  without appropriate approvals."
+708618,Medium,,Permit entry and submission of expense claims by selected users on behalf of other employees (proxy submission).
+708619,Medium,,Require basic information concerning the nature of the travel including: In/out of state.
+708620,Medium,,Require basic information concerning the nature of the travel including: Travel reason.
+708621,Medium,,Require basic information concerning the nature of the travel including: Travel advance amount.
+708622,Medium,,Require basic information concerning the nature of the travel including: Departure date.
+708623,Medium,,Require basic information concerning the nature of the travel including: Return date.
+708624,Medium,,Require basic information concerning the nature of the travel including: Exception travel.
+708625,Medium,,Require basic information concerning the nature of the travel including: Registration due date.
+708626,Medium,,Require basic information concerning the nature of the travel including: Actual itinerary.
+708627,Medium,,Require basic information concerning the nature of the travel including: Estimated expenses.
+708628,Medium,,Default the object of expenditure based upon the selected travel category.
+708629,Medium,,Permit recording the expenditure for multiple distribution lines.
+708630,Medium,,Permit recording the expenditure for all coding elements in the Chart of Accounts.
+708631,Medium,,Permit authorized users to override/change the default object of expenditure.
+708632,Medium,,Allow date effective default accounting distribution based upon the user id.
+708633,Medium,,Integrate with employee time records in the Human Resources module to default the accounting distribution for the time period of  the travel.
+708634,Medium,,Permit authorized users to override/change the default accounting distribution.
+708635,Medium,,Allow the option for a requestor's travel reimbursement to be charged to multiple agencies.
+708636,Medium,,Provide an explanation field for each expense line item.
+708637,Medium,,Generate a warning message when travel claims are entered for the same traveler with overlapping travel periods.
+708638,Medium,,Notify approvers that travel claims have overlapping travel periods.
+708639,Medium,,Calculate mileage based upon user specified origination and destination.
+708640,Medium,,"Provide for vicinity mileage (e.g., intra-city)."
+708641,Medium,,Store an employees official station (city and state) to use in calculating point to point mileage.
+708642,Medium,,Require an explanation if the amount of mileage claimed exceeds the amount of mileage calculated by the system.
+708643,Medium,,Identify travel line items that require receipts.
+708644,Medium,,Travel reports contain the following items: Travel claim identifier.
+708645,Medium,,Travel reports contain the following items: Employee identifier.
+708646,Medium,,Travel reports contain the following items: Travel line items.
+708647,Medium,,Travel reports contain the following items: Receipt required indicator.
+708648,Medium,,Prevent employee from altering the travel claim while it is being reviewed by the approver.
+708649,Medium,,Automatically notify approvers that a travel claim has been submitted.
+708650,Medium,,Allow employees to modify rejected travel claims.
+708651,Medium,,Send notification to the approver that the rejected travel claim has been modified.
+708652,Medium,,Send notification to the approver that the travel claim exceeds the State travel guidelines.
+708653,Medium,,"Provide routing of approval based upon expense type. (e.g. travel, training, other reimbursements)."
+708654,Medium,,Track submitted and adjusted expense amounts separately.
+708655,Medium,,Automatically notify the employee if the travel claim is adjusted.
+708656,Medium,,Automatically notify the employee when travel claim has been processed for payment.
+708657,Medium,,Store default per diem rates by location.
+708658,Medium,,Allow authorized users to override defaulted per diem rates.
+708659,Medium,,Provide the following inquiries/reports: Status of all travel claims by employee.
+708660,Medium,,Provide the following inquiries/reports: Paid travel claims by employee.
+708661,Medium,,Provide the following inquiries/reports: Unpaid travel claims by employee.
+708662,Medium,,Provide the following inquiries/reports: Outstanding travel advances by employee.
+708663,Medium,,Provide the following inquiries/reports: Outstanding travel advances by agency.
+708664,Medium,,Provide the following inquiries/reports: Travel claims awaiting action by approver.
+708665,Medium,,Provide the following inquiries/reports: Travel claims approved by approver.
+708666,Medium,,Provide the following inquiries/reports: Travel claims rejected by approver.
+708667,Medium,,Provide the following inquiries/reports: Travel claims awaiting payment by department.
+708668,Medium,,Provide the following inquiries/reports: Registration fees paid by employee.
+708669,Medium,,Provide the following inquiries/reports: Registration fees paid by agency.
+708670,Medium,,Store travel information for a minimum of ten years.
+708671,Medium,,Stored travel information includes: Traveler.
+708672,Medium,,Stored travel information includes: Travel destination.
+708673,Medium,,Stored travel information includes: Travel dates (start and end).
+708674,Medium,,Stored travel information includes: Travel reason.
+708675,Medium,,Stored travel information includes: Travel advance amount.
+708676,Medium,,Stored travel information includes: Travel cost by expense type.
+708677,Medium,,Stored travel information includes: Document imaged support.
+708678,Medium,,"Provide for the retrieval and maintenance of the Government Service Agency (GSA) Continental United States (CONUS) travel  rates for meals, lodging and incidental per diem rates."
+708679,Medium,,Provide ability to upload updates from the Government Service Agency (GSA) Continental United States (CONUS).
+708680,Medium,,Provide ability to link to Document Management system stored documents.
+708681,Low,,Provide ability to process travel reimbursements for contractors.
+708682,Medium,,Provide a mechanism to compare the cost of using a personal vehicle for travel versus using a State vehicle tracked in the Fleet  Management module.
+708683,Medium,,Create a route optimizer feature that can be integrated with the evaluation of best value state-owned vehicle or employee  reimbursement functionality.
+708684,Medium,,Mileage rates are stored in a table for multiple date effective periods.
+708685,Medium,,Per diem and lodging rates are stored in a table for multiple date effective periods.
+708686,Medium,,Provide interface with legacy travel system for travel payments.
+708687,Medium,,Provide interface with legacy travel system for personnel information.
+708688,Medium,,Provide an indicator on travel claim for payment method such as direct bill or pcard.
+708689,Medium,,Support the ability to split expense claim with a portion sent to pcard and a portion sent to Accounts Payable.

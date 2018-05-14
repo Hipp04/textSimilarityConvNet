@@ -1,0 +1,70 @@
+"Section:HRP-Applicant Services, Register and Eligibility List Management (69 Reqs)"
+709234,High,,Track all applicants that are eligible for consideration for hire of a position by classification.
+709235,Medium,,"Generate a preview list to be created for an approved opening by the following categories, ordered by user-defined criteria:  internal mobility."
+709236,Medium,,"Generate a preview list to be created for an approved opening by the following categories, ordered by user-defined criteria:  veterans."
+709237,Medium,,"Generate a preview list to be created for an approved opening by the following categories, ordered by user-defined criteria: open  competitive."
+709238,Medium,,"Generate a preview list to be created for an approved opening by the following categories, ordered by user-defined criteria:  promotional."
+709239,Medium,,"Generate a preview list to be created for an approved opening by the following categories, ordered by user-defined criteria:  employee demographics (EEO)."
+709240,Medium,,"Generate a preview list to be created for an approved opening by the following categories, ordered by user-defined criteria: re- employments."
+709241,Medium,,"Generate a preview list to be created for an approved opening by the following categories, ordered by user-defined criteria: quick  fills (emergency, temporary)."
+709242,Medium,,"Generate a preview list to be created for an approved opening by the following categories, ordered by user-defined criteria:  interns / co-ops / scholarships."
+709243,Medium,,"Lists for internal mobility registers filtered by current agency organization of employees (statewide, department-wide, division,  work unit, etc.)."
+709244,High,,"Apply preference point adjustments when creating the list for an approved opening, based on user-defined parameters on which  adjustments apply to which types of openings (final ranking is based on test/ranking scores)."
+709245,Medium,,Sort and filter lists by approved special qualification parameters based on: geographic designation.
+709246,High,,Sort and filter lists by approved special qualification parameters based on: county of preference.
+709247,High,,Sort and filter lists by approved special qualification parameters based on: county (e.g. county of residence).
+709248,High,,Sort and filter lists by approved special qualification parameters based on: work county.
+709249,High,,Sort and filter lists by approved special qualification parameters based on: agency organization.
+709250,High,,Sort and filter lists by approved special qualification parameters based on: work schedule preference.
+709251,High,,Sort and filter lists by approved special qualification parameters based on: part time / full time preference.
+709252,High,,Sort and filter lists by approved special qualification parameters based on: shift preference.
+709253,High,,Sort and filter lists by approved special qualification parameters based on: other user-specified qualifications.
+709254,Medium,,Create user-specified rules for selecting candidates for inclusion on a list.
+709255,High,,List hierarchy such that certain types of applicants are listed first (e.g. previously laid off employees from State).
+709256,High,,Allows State to save certification data lists and to uniquely identify the lists for use in interviews and appointments (Certification of  Eligibles).
+709257,High,,Match Certification with a position(s) that are to be filled.
+709258,High,,"Identify, rank and certify applicants per Preference Points and/or scores."
+709259,Medium,,Applicants who meet minimum requirements can self-nominate for a posted position.
+709260,Medium,,Track candidates on multiple registers for jobs located throughout the State.
+709261,Medium,,Close certified registers based on: expiration after user-defined time period.
+709262,Medium,,Close certified registers based on: position(s) have been filled.
+709263,Medium,,Close certified registers based on: return with no action taken.
+709264,Medium,,Notify applicants removed from the register and the reason for removal.
+709265,Medium,,Restore applicants to the register once they have been removed based on user defined criteria.
+709266,Medium,,"Generate letters / emails to candidates who have been interviewed, with user-defined format and selection criteria."
+709267,Medium,,"Track and audit of all actions taken during the appointment process, including user-defined codes for results."
+709268,High,,Correct a certification error.
+709269,Medium,,Track the status of all individual register requests from request to completion (including any status within the process).
+709270,Medium,,"Option to notify candidates if referred to the hiring agency including job title, location and posting number."
+709271,Medium,,Track approvals for certified registers.
+709272,Medium,,Track the use of existing and previous registers for recruitment purposes.
+709273,Medium,,"Define timing for certification deadlines (e.g., 6 months)."
+709274,Medium,,Applicants removed from a register for user-defined reasons.
+709275,Medium,,"Prohibit reapplication for a user-defined (e.g. period of time, agency specific, etc.)."
+709276,Medium,,"Automatically remove candidates from registers, and provide notification, once they are hired into a position of equal or higher  level."
+709277,Medium,,"Create and change multiple certification rules, which provide the logic to select candidates for a certification list for consideration  in filling a vacancy(s)."
+709278,Medium,,Track multiple certification rule attributes.
+709279,Medium,,Track multiple certification rules details applied in a user-defined sequence.
+709280,Medium,,Activate or remove multiple certification rules details for each rule.
+709281,Medium,,Enter register requests to include: request number.
+709282,Medium,,Enter register requests to include: agency.
+709283,Medium,,Enter register requests to include: employee id (user id).
+709284,Medium,,Enter register requests to include: position number.
+709285,Medium,,Enter register requests to include: shift.
+709286,Medium,,Enter register requests to include: work schedule.
+709287,Medium,,Enter register requests to include: part time/full time.
+709288,Medium,,Enter register requests to include: total in multiple vacancy fill request.
+709289,Medium,,Enter register requests to include: status on certification lists.
+709290,Medium,,Enter register requests to include: contact information.
+709291,Medium,,Enter register requests to include: county of work location.
+709292,Medium,,Enter register requests to include: other user defined criteria.
+709293,Medium,,Enter register requests to include: job classification.
+709294,Medium,,"Supplement additional cert list selection rules with special qualifications (e.g., veteran status)."
+709295,Medium,,"Generate list of eligibles with a unique identifier based on top scores for test results or other qualifiers (rank order, tie breakers)."
+709296,Medium,,Route offers for internal approval prior to mailing or emailing offer letters to candidates.
+709297,High,,Create a register based on applicant responses to questions regarding minimum requirements.
+709298,High,,Flag certified applicants who are non-responsive for removal from the register.
+709299,Medium,,Track the expiration date of register certifications.
+709300,Medium,,"Notification Certification expiration to user-defined hiring managers, etc."
+709301,Medium,,Notify the hiring agency based on user-defined timeframe prior to a Certification expires.
+709302,Medium,,"Report on the certification list as of a user-specified point in time, for historical purposes."

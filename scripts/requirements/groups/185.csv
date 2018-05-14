@@ -1,0 +1,19 @@
+"Section:HRP-Time and Labor, Inquiry and Reporting (18 Reqs)"
+712119,Medium,,Allow online access for query to all employee time and labor distribution data with appropriate security.
+712120,Medium,,Produce a report that documents work schedules for a workgroup by period and employee.
+712121,High,,Produce online access to all employee time and attendance data with appropriate security.
+712122,Medium,,Produce flexible report writing capability that allows for statistical information on time reported for a user defined period of time.
+712123,Medium,,Produce exception reports after time input that will capture a variety of incidents such as: no time for active employee.
+712124,Medium,,Produce exception reports after time input that will capture a variety of incidents such as: excessive overtime.
+712125,Medium,,Produce exception reports after time input that will capture a variety of incidents such as: error or unapproved timesheets.
+712126,Medium,,Produce exception reports after time input that will capture a variety of incidents such as: overtime for Fair Labor Standards Act  (FLSA).
+712127,Medium,,Produce an attendance report.
+712128,Medium,,"Produce overtime reports to include hours, dollars spent by cost center."
+712129,Medium,,"Produce a time and leave input report that identifies what, who and when entries are made."
+712130,Medium,,Produce an hour type exception report.
+712131,Medium,,"Produce a report that details scheduled hours, time worked, leave usages, leave balances, etc., on a daily basis for each pay  period for every employee."
+712132,Medium,,Produce ability to customize employee time sheets and print by employee or group of employees.
+712133,Medium,,Produce an employee availability report by pay period.
+712134,Medium,,Produce a detailed employee time history by user defined beginning and ending date.
+712135,Medium,,"Produce a report that provides total scheduled hours, time worked, total leave usages (per type) and total overtime hours by cost  center, division, interdepartmental group, or agency."
+712136,Medium,,"Produce a leave value report by employee and allotment code of leave balances at the end of the fiscal and/or calendar year with  the following information: leave balance in days or hours, hourly wage, hours times hourly wage, FICA, total leave value plus  FICA. (all paid leave types)."

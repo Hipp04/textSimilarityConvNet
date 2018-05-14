@@ -1,0 +1,7 @@
+"Section:PL-Facilities Management, Maintenance Features (6 Reqs)"
+713446,Medium,,"Allow the system to store an inventory of different maintenance feature types. Maintenance features are typically features for  which the current condition will be measured through condition assessments but which could actually incorporate several  maintenance activities to manage and maintain the feature. For example, for an office facility with a parking lot maintained by the  State, exterior condition, interior condition, restroom cleanliness, grounds, parking lot cleanliness and, snow and ice removal are  examples of maintenance features which could be related to this type of facility."
+713447,Medium,,Capture and store the following information for each feature type: feature type code.
+713448,Medium,,Capture and store the following information for each feature type: feature description.
+713449,Medium,,"Allow authorized user to add, update or inactivate a maintenance feature."
+713450,Medium,,Associate one or more maintenance features to each facility type or system/component type.
+713451,Medium,,"Allow system administrator to delete a maintenance feature if it is not associated with any facility, sub-facility, system or  component."

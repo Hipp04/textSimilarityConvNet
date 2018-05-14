@@ -1,0 +1,6 @@
+"Section:PL-Bridge Management, Model Constraints and Parameters (5 Reqs)"
+713264,High,,Allow the system administrator or other authorized user to revise parameters and formulas for running the analytical models  through a table-driven online function.
+713265,High,,Allow input and update of budget constraints for each budget period over the planning horizon.
+713266,Low,,Integrate with Primavera and the ERP projects and budget functions to obtain budget information.
+713267,Medium,,"Support the use of other constraints in modeling such as federal funding limitations, matching ratios, level-of-service criteria, or  minimum allocations of funds to districts."
+713268,Medium,,Support optimization of expenditures to multiple-assets through multiple budget sources.

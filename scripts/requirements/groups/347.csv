@@ -1,0 +1,27 @@
+"Section:PL-Right-of-Way and Utilities, Relocation (26 Reqs)"
+716503,High,,Support business and residential relocation for property owners and tenants.
+716504,High,,Support review and calculation of eligible relocation costs for displacees under various relocation alternatives.
+716505,Medium,,Pre-populate relocation work sheets and questionnaires with any information about displacees obtained during the acquisition  process.
+716506,High,,Confirm list of displacees associated with each parcel being acquired and update information about these individuals.
+716507,High,,"Store demographics on displacees (minority, non-minority and sex) for use in statistical reporting."
+716508,High,,Prepare replacement housing appraisal. This will be triggered by completion of appraisal.
+716509,High,,Document initial and subsequent meetings with displacee and information and explanations provided.
+716510,Medium,,"Document residential relocation questionnaire which captures information on all current occupants, the cost of current housing  and preferences for relocation location."
+716511,Medium,,Document non-residential relocation questionnaire which includes the name of the business; the owner of the business;  demographic information on the owner; the nature/type of business; current lease terms; plans for relocating or discontinuing  operations; desired relocation location and other business specific attributes.
+716512,Medium,,"Generate statement of rent and income for execution by residential displacee pre-populating where information is available in the  system (owner name, spouse name, address, etc.)."
+716513,Medium,,"Store information on statement of rent and income including occupant name; spouse name; address; length of time at the  address; date moved in; monthly rent; utility costs; how rent was verified (cancelled checks, rent receipts, verification with  landlord, etc.); and monthly income and how income was verified (pay stub, tax return, etc.)."
+716514,High,,Calculate eligible relocation payments for residential displacees and store within the ERP system.
+716515,High,,Calculate eligible relocation payments for business displacees and store within the ERP system.
+716516,High,,Document types of relocation payments being offered (since some relocation payment types are taxable and others are not this  is needed to support 1099 generation).
+716517,Medium,,Integrate with various Excel-based relocation calculators and link and store the calculation worksheets within the ERP system.
+716518,Medium,,"Document available replacement housing including location, date available, asking price or rent price, a detailed description of  the property, various attributes about the property and whether the property has been inspected and by whom."
+716519,Low,,Provide capability to link to the Multiple Listing Service (MLS) for the appropriate area.
+716520,Low,,Provide capability to link to Digital Courthouse for tax information.
+716521,Medium,,Provide an automated workflow to review/approve relocation payments with review steps based on user defined business rules.
+716522,Medium,,Integrate with ERP accounts payable function to initiate payment request for relocation. This should include pre-encumbrance for  relocation amount against project and project phase.
+716523,Medium,,Integrate with ERP accounts payable function to record warrant numbers and date payments were made by the State.
+716524,Medium,,Generate relocation claim form for execution by residential displacee.
+716525,Medium,,Generate relocation claim form for execution by business displacee.
+716526,Medium,,Document final contact with displacee following relocation including new address and contact information and information about  the replacement dwelling.
+716527,Medium,,Compute whether displacees are eligible to make claims based on occupancy or displacement dates.
+716528,Medium,,"Generate alerts within the system and a letter to displacees a user defined number of days/months (12 months, 18 months, etc.)  before displacee's eligibility to enter a relocation expense claim is set to expire."

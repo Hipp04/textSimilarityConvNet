@@ -1,0 +1,90 @@
+"Section:HRP-Employee Relations, Grievances and Employee Complaints (89 Reqs)"
+710164,Medium,,Create incident codes / types (e.g. violation of employee conduct rule).
+710165,High,,Create narrative text fields for incident.
+710166,Medium,,"Create discipline codes ( e.g. counseling, suspension, and dismissal)."
+710167,Medium,,"Create the ability to measure in numbers of hours, days, weeks, and months for the length of suspensions."
+710168,High,,Create narrative text for disciplinary descriptions.
+710169,High,,Capture the date grievance or discipline was received (different from file date).
+710170,High,,"Define steps in the grievance process (e.g. Step 1, Step 2, Step 3, etc.) with required as defined by user, information for each  step."
+710171,High,,Maintain and track the current status of any grievance.
+710172,Medium,,Track data regarding each grievance to include: organization unit for which the grievance is filed against.
+710173,Medium,,Track data regarding each grievance to include: unique grievance / docket number.
+710174,Medium,,Track data regarding each grievance to include: type of grievance.
+710175,Medium,,"Track data regarding each grievance to include: grievant (e.g. employee number, address, phone number, email address, name  of representative and their contact information, etc.)."
+710176,Medium,,"Track data regarding each grievance to include: grievant's supervisor (e.g. employee number, address, phone number, email  address, name of representative and their contact information, etc.)."
+710177,Medium,,Track data regarding each grievance to include: step in the grievance process.
+710178,Medium,,"Track data regarding each grievance to include: mediator (both state and private) including name, address, phone number, email  address, and other information as defined by user."
+710179,Medium,,"Track data regarding each grievance to include: create narrative text for each step in defined process including mediation,  arbitration, and state personnel board results."
+710180,Medium,,Track data regarding each grievance to include: track all costs (employee / intervener / employer) of private mediation or  arbitration.
+710181,Medium,,Track data regarding each grievance to include: job title / classification.
+710182,Medium,,"Track data regarding each grievance to include: intervener (e.g. employee number, address, phone number, email address,  name of representative and their contact information, etc.)."
+710183,High,,"Track events in the grievance process (by step) for: event codes (e.g. continuance, consolidation, motions, discovery requests,  order to show cause, subpoena)."
+710184,High,,"Track events in the grievance process (by step) for: event dates (e.g., filed on this date, answered on this date, hearing dates,  deadlines, etc.)."
+710185,Medium,,Track events in the grievance process (by step) for: outcome.
+710186,Medium,,"Ability to develop grievance process schedule which identifies key dates, events, and required participants."
+710187,Medium,,Track data regarding each complaint: to include organization unit for which the complaint is filed against.
+710188,Medium,,Track data regarding each complaint: by unique complaint number.
+710189,Medium,,"Track data regarding each complaint: by type of complaint (EEO, human rights, etc.)."
+710190,Medium,,"Track data regarding each complaint: by type of venue/forum (EEOC, human rights commission, etc.)."
+710191,Medium,,"Track data regarding each complaint: by complainant (e.g. employee number, address, phone number, email address, name of  representative and their contact information, etc.)."
+710192,Medium,,"Track data regarding each complaint: by complainant's supervisor (e.g. employee number, address, phone number, email  address, name of representative and their contact information, etc.)."
+710193,Medium,,"Track data regarding each complaint: by mediator (both state and private) including name, address, phone number, email  address, and other information as defined by user."
+710194,Medium,,"Track data regarding each complaint: to include create narrative text for mediation, arbitration, and state personnel board/agency  results."
+710195,Medium,,Track data regarding each complaint: to track all costs (employee / intervener / employer) of private mediation or arbitration.
+710196,Medium,,Track data regarding each complaint: by job title / classification.
+710197,Medium,,"Track data regarding each complaint: by intervener (e.g. employee number, address, phone number, email address, name of  representative and their contact information, etc.)."
+710198,Medium,,"Track events in the complaint process (by step) to include: event codes (e.g. continuance, consolidation, motions, discovery  requests, order to show cause, subpoena, etc.)."
+710199,Medium,,"Track events in the complaint process (by step) to include: event dates (e.g., filed on this date, answered on this date, hearing  dates, deadlines, etc.)."
+710200,Medium,,Track events in the complaint process (by step) to include: outcome.
+710201,Medium,,"Ability to develop complaint process schedule which identifies key dates, events, and required participants."
+710202,Medium,,"Ability to track Individuals, including state administrative law judge, mediator / arbitrator (private) involved at each step of the  grievance process."
+710203,Medium,,Track grievance outcomes including the step in which the outcome was reached for: settled.
+710204,Medium,,Track grievance outcomes including the step in which the outcome was reached for: denied.
+710205,Medium,,Track grievance outcomes including the step in which the outcome was reached for: denied in part.
+710206,Medium,,Track grievance outcomes including the step in which the outcome was reached for: granted.
+710207,Medium,,Track grievance outcomes including the step in which the outcome was reached for: granted in part.
+710208,Medium,,Track grievance outcomes including the step in which the outcome was reached for: dismissed.
+710209,Medium,,Track grievance outcomes including the step in which the outcome was reached for: withdrawn (with or without prejudice).
+710210,Medium,,Track complaint outcomes including the step in which the outcome was reached for: settled.
+710211,Medium,,Track complaint outcomes including the step in which the outcome was reached for: denied.
+710212,Medium,,Track complaint outcomes including the step in which the outcome was reached for: denied in part.
+710213,Medium,,Track complaint outcomes including the step in which the outcome was reached for: granted.
+710214,Medium,,Track complaint outcomes including the step in which the outcome was reached for: granted in part.
+710215,Medium,,Track complaint outcomes including the step in which the outcome was reached for: dismissed.
+710216,Medium,,Track complaint outcomes including the step in which the outcome was reached for: withdrawn (with or without prejudice).
+710217,Medium,,"Track complaint outcomes including the step in which the outcome was reached for: others defined by venue (EEOC adjudicator,  etc.)."
+710218,Medium,,"Track events in the appeal process (by step) for: event codes (e.g. continuance, consolidation, motions, discovery requests,  order to show cause, subpoena, writ of mandamus, etc.)."
+710219,Medium,,"Track events in the appeal process (by step) for: event dates (e.g., filed on this date, answered on this date, hearing dates,  deadlines, etc.)."
+710220,Medium,,Track events in the appeal process (by step) for: outcome.
+710221,Medium,,Track events in the appeal process (by step) for: identification coding for related matters.
+710222,Medium,,Ability to track related matters (e.g. writ of mandamus).
+710223,Medium,,Maintain historical information for all grievances for a user specified period of time.
+710224,Medium,,"Track, route, and summarize EEO and human rights related complaints (e.g., discrimination, sexual harassment, reasonable  accommodations, etc.)."
+710225,Medium,,"Statistically analyze grievance and complaint data by type, organization unit, classification, venue, and outcome."
+710226,Medium,,Automatically assign a randomly generated identification number to each grievance or to accept input of a grievance /docket  number assigned by an organization unit.
+710227,Medium,,Enable workflow of grievance information to user defined appropriate personnel.
+710228,Medium,,Track categories and sub-categories of grievances based on: performance evaluations.
+710229,Medium,,Track categories and sub-categories of grievances based on: disciplinary actions.
+710230,Medium,,Track categories and sub-categories of grievances based on: rule or policy violation.
+710231,Medium,,Track categories and sub-categories of grievances based on: classification and compensation.
+710232,Medium,,Track categories and sub-categories of grievances based on: working conditions.
+710233,Medium,,Track categories and sub-categories of grievances based on: non-selection.
+710234,Medium,,"Track categories and sub-categories of grievances based on: other, user defined categories and sub-categories."
+710235,Medium,,Track categories and sub-categories of grievances by: organization unit.
+710236,Medium,,Track categories and sub-categories of grievances by: division.
+710237,Medium,,Track categories and sub-categories of grievances by: agency / department.
+710238,Medium,,Track categories and sub-categories of grievances by: time period.
+710239,Medium,,Track categories and sub-categories of grievances by: disposition / resolution.
+710240,Medium,,"Track categories and sub-categories of grievances by: other, user defined categories and sub-categories."
+710241,Medium,,Track categories and sub-categories of grievances by: grievant and respondent(s).
+710242,Medium,,"Enable warnings in advance of when grievance, complaint or discipline responses / decisions are due based on user specified  time period."
+710243,Medium,,"Enable workflows based upon the type of grievance, complaint or discipline."
+710244,Medium,,Enable workflows based upon employee characteristics (e.g. veteran or not).
+710245,Medium,,Enable workflows based upon an action code (e.g. suspension without pay routed to payroll).
+710246,Medium,,Track settlement type by employee for: reduction in discipline.
+710247,Medium,,Track settlement type by employee for: sunset of discipline.
+710248,Medium,,Track settlement type by employee for: withdrawal of discipline.
+710249,Medium,,Track settlement type by employee for: back pay/retroactive pay/benefits.
+710250,Medium,,Track settlement type by employee for: cash settlement.
+710251,Medium,,Track settlement type by employee for: conditions to meet.
+710252,Medium,,Track settlement type by employee for: other user defined settlement types.

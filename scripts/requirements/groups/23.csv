@@ -1,0 +1,36 @@
+"Section:FIN-Budget Development, Governor's Budget (35 Reqs)"
+706327,Medium,,Capture the federal and state share of grants/contracts (source of funds) at the appropriation line item level for the Revenue  Fund Budget.
+706328,Medium,,Report both current year appropriations and current year spending estimates by any level of the Chart of Accounts elements.
+706329,Medium,,Evaluate completeness of agency budget requests.
+706330,Medium,,Electronically notify users when a budget version is available for use.
+706331,Medium,,Calculate and identify funds that may be in a negative cash position by adding current year beginning cash balances to the net of  the current year and requested year appropriations and revenue estimates by fund and budget fiscal year.
+706332,Medium,,Alert users when the calculated fund balance is negative.
+706333,Medium,,Allow attachment of files to individual versions of the budget request.
+706334,Medium,,Revise a budget version while preserving the integrity of the original.
+706335,Medium,,"Update revenue estimates, current year spending estimates, or appropriation requests to resolve out-of-balance funds."
+706336,Medium,,Allow Legislature and Budget Office to initiate budget line items not included in the original agency budget submission.
+706337,Medium,,Allow Legislature and Budget Office to enter new line item recommendations at any level of the Chart of Accounts elements.
+706338,Medium,,"Display agency requests as ""change items,"" and summarize, categorize, and report."
+706339,Medium,,Define change items in progressive levels of budgetary detail for: Net budgetary impact.
+706340,Medium,,Define change items in progressive levels of budgetary detail for: Fund-Revenue/Expenditure breakout.
+706341,Medium,,Define change items in progressive levels of budgetary detail for: High-level Revenue Source codes.
+706342,Medium,,Define change items in progressive levels of budgetary detail for: Major Objects.
+706343,Medium,,Define change items in progressive levels of budgetary detail for: Sub-Objects.
+706344,Medium,,Define change items in progressive levels of budgetary detail for: Programs.
+706345,Medium,,Define change items in progressive levels of budgetary detail for: (10) User-Defined Fields.
+706346,Medium,,Define a change item affecting multiple agencies.
+706347,Medium,,Route change items through a workflow process for review and approval.
+706348,Medium,,Define presentation levels by agency and by bill.
+706349,Medium,,"Gather and summarize agency ""requests""."
+706350,Medium,,Ability to enter text or attach supporting electronic files.
+706351,Medium,,"Present data on the basis of ""base"" plus ""decision items""."
+706352,Medium,,Allow data entry in multiple budget stages during budget preparation.
+706353,Medium,,Define and track multiple categories or rankings for decision items.
+706354,Medium,,Ability to create up to four (4) versions within one decision item with the System providing the ability to associate different dollar  costs with each of the four versions.
+706355,Medium,,Create decision items status indicators.
+706356,Medium,,Prevent updating budget information after it has been submitted for review.
+706357,Medium,,Ability to view progress or status of a submitted budget.
+706358,Medium,,"Ability to ""lock"" budgets at any phase of the budget process."
+706359,Medium,,"Ability to unlock a frozen budget at the agency level, unless it has already been submitted to Legislature and/or Budget Office."
+706360,Medium,,Collect and store agency-level financial and analytical information.
+706361,Medium,,Ability to roll budgets into Legislative Budget Office program hierarchy.

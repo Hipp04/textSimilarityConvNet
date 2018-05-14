@@ -1,0 +1,15 @@
+"Section:PL-Procurement, Purchase Order-Accounting (14 Reqs)"
+715782,Medium,,"Provide the ability to define auto-distribution rules and apply to the PO, using standard, user-defined distribution code by  accounting line item."
+715783,Medium,,Provide the ability to create and process individual POs under an existing encumbrance.
+715784,High,,"Provide the ability to generate the appropriate accounting entries based on the PO change notice, including but not limited to  increasing or decreasing the encumbrance."
+715785,High,,"Provide the ability to set up standard auto-close parameters, based on dollar amount remaining and last activity."
+715786,Medium,,Provide the ability to automatically close a purchase order when all commodities/services are received and the final invoice is  paid.
+715787,High,,"Provide the ability for an option to liquidate remaining/outstanding encumbrance, if applicable."
+715788,Medium,,Provide the ability for a warning based on user defined criteria.
+715789,High,,Provide the ability to carryover open purchase orders to the next fiscal year.
+715790,High,,Provide the ability to close or adjust a purchase order without receiving merchandise.
+715791,High,,"Provide the ability to allow a PO to be charged to an accounting area other than that of the associated requisition, with proper  authority. Requisition liquidations to be based on the original pre-encumbrance."
+715792,High,,"Provide the ability to adjust or cancel a purchase order and generate appropriate corrections to the agency's financial  management system for the financial impact (e.g., returns)."
+715793,Medium,,"Provide the ability to establish user-defined tolerances by order type (e.g., a percentage or a specified dollar amount) whereby a  purchase order amount may exceed or be below the purchase requisition and still be processed, provided sufficient spending  authority exists; the tolerance functionality is optional."
+715794,High,,Provide the ability to reopen a purchase order if the purchase order was closed in error (with appropriate security procedures).
+715795,High,,Provide the ability to have a one to many or many to one relationships for PO line and accounting code information.

@@ -1,0 +1,15 @@
+"Section:PL-Transportation Operations Management, Work Request (14 Reqs)"
+717641,Medium,,Provide a work request function which allows internal staff to request maintenance work to be performed.
+717642,Medium,,Store date requested.
+717643,Medium,,Store user requesting.
+717644,Medium,,Store work location.
+717645,Medium,,Identify assets impacted (including specific asset inventory information to extent possible).
+717646,Medium,,Describe nature of problem.
+717647,Medium,,Define proposed work to be performed.
+717648,Medium,,Store requested completion date.
+717649,Medium,,Provide a means to identify emergency work or accident-related work by work order or scheduled activity.
+717650,Medium,,Provide an automated work flow for review and approval of the work request based on user defined business rules.
+717651,Medium,,"Provide the capability for a maintenance supervisor or other authorized user to review the request, document proposed solutions  and estimate the effort to implement one or more proposed solutions."
+717652,Medium,,Provide for the work flow to allow for approval by the Assistant District Engineer or District Engineer.
+717653,Medium,,Provide the capability for a maintenance supervisor to assign an approved work request to a work crew for implementation.
+717654,Medium,,Generate a work order for each approved work request.

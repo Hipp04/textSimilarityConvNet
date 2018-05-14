@@ -1,0 +1,7 @@
+"Section:PL-Procurement, Solicitation Amendment Process (6 Reqs)"
+715362,High,,"Provide the ability to amend solicitations to include add / delete or change line items or data fields, add attachments, generating  the appropriate notification of amendment to vendors and agencies, and posting to the State's Website and Agency Specific  Website, if appropriate."
+715363,High,,"Provide the ability for version-control functionality for controlling the content of solicitation documents, amendments, etc. as they  are routed via the system's workflow functionality to obtain approvals."
+715364,High,,Provide the ability to post answers to vendors' questions to the website as well as distribute responses to the bid list.
+715365,High,,Provide the ability to create multiple amendments to a solicitation with version control.
+715366,Medium,,Provide the ability for a revision history on the document with a summary of revisions.
+715367,High,,"Provide the ability for comment fields (multiple) about the amendment both with internal or external comments (e.g., internal -  only seen by authorized users; external - printed on solicitation to be seen by Vendor)."

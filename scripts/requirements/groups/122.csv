@@ -1,0 +1,28 @@
+"Section:HRP-Benefits Administration, Benefit Billing (27 Reqs)"
+709678,High,,Integrate with Benefits Administration for premium calculations and Payroll for employee deductions.
+709679,Medium,,Integrate with Benefits Administration for premium calculations and Accounts/Receivable for non-employee billing.
+709680,Medium,,Integrate with Benefits Administration for premium calculations and Accounts/Receivable for employee (unpaid status) billing.
+709681,Medium,,Correct an individuals enrollment and issue a corrected billing statement (invoice) if applicable.
+709682,Medium,,Produce remittance advices monthly for direct payment participants.
+709683,Medium,,Create an out of balance report if a payment is received that is insufficient for the balance due and forward to appropriate agency.
+709684,Medium,,"Produce an invoice, for direct bill participants, which shows amounts for individual coverage's (Health, Life, etc.)."
+709685,Medium,,"Set collection method for each payee, including billed/check, ACH, and/or agency paid."
+709686,Medium,,Bill participating entities and other organizations through an online web based billing portal using rate calculations as defined in  benefits administration. Billing should indicate employee and employer portions of the charges or premiums.
+709687,Medium,,All retirement related transactions are accounted for in the Retiree Health Benefit Trust (RHBT).
+709688,High,,"For active employees, the employer portion of the benefit transactions are split between the Retiree Health Benefit Trust (RHBT)  and Public Employee Insurance Agency (PEIA)."
+709689,Medium,,"Bill agencies and/or individuals, based upon their yearly contribution amount, and pay frequency; noting that the annual  contribution amount, pay period contribution amount, and/or the pay frequency may change throughout the year based upon  qualifying event rules and guidelines defined in benefits administration."
+709690,Medium,,"Bill individuals, for their contribution, using rate calculations as defined in benefits administration (e.g., active participants,  COBRA, LOA, etc.)."
+709691,Medium,,"Calculate and bill administrative fees, based on any combination of: flat amount."
+709692,Medium,,"Calculate and bill administrative fees, based on any combination of: organization."
+709693,Medium,,"Calculate and bill administrative fees, based on any combination of: number of members in the organization."
+709694,Medium,,"Calculate and bill administrative fees, based on any combination of: plan participation (e.g., health, life, flexible spending)."
+709695,Medium,,"Calculate and bill administrative fees, based on any combination of: percentage of plan costs."
+709696,High,,"Produce bills in multiple user-defined formats, including web bills, electronic, paper, or PDF formats. Include bar coding on bills  to facilitate lock box processing State Treasurer's office."
+709697,Medium,,"Produce statements listing total amount due, amounts due from previous months, all employees included and specific fund  allocations. Statements should optionally include employee/employer portions or employer only, as well as administrative fees  (option)."
+709698,Medium,,"Produce bills on demand and/or at user defined intervals, and/or in advance."
+709699,Medium,,"Ability to reject a bill, and recalculate charges as needed."
+709700,Medium,,"Calculate retroactive changes to participant plans, and reflect those changes on the next bill (e.g., family status change for  participants)."
+709701,Medium,,Generate accounting entries at the time the bill is generated to: debit account receivable per coverage type and agency type.
+709702,Medium,,Generate accounting entries at the time the bill is generated to: credit revenue per coverage type and agency type.
+709703,Medium,,"Generate accounting entries at the time the bill is generated to: direct charge (for state agencies), debit cash per coverage type."
+709704,Medium,,"Generate accounting entries at the time the bill is generated to: credit (for state agencies), revenue per coverage type."

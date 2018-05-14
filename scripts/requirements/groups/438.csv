@@ -1,0 +1,13 @@
+"Section:PL-Transportation Operations Management, Citizen Problem Report (12 Reqs)"
+717655,Medium,,Provide an Internet based capability for the general public to report issues on the transportation network.
+717656,Medium,,Allow this problem reporting capability to be linked to and integrated with the WVDOT and DNR web sites to promote agency  branding and facilitate public access to the reporting facility.
+717657,Medium,,Capture date and time reported.
+717658,Medium,,"Capture the person reporting including name, address, phone number and email (if provided)."
+717659,Medium,,Store location of problem.
+717660,Medium,,Store description of the nature of the problem.
+717661,Medium,,Send an email confirmation to a citizen reporting a problem who provides their email acknowledging receipt of the problem report  and indicating that the problem will be investigated in a user defined period of time.
+717662,Medium,,Allow for online capture of problem reports for any reports which are called in by telephone or reported in person.
+717663,Medium,,Route problem reports in an automated work flow to designated individuals in each district or headquarters office based on user  defined business rules.
+717664,Medium,,Provide capability for authorized users to review problem reports and document a proposed resolution to the issue.
+717665,Medium,,Allow for creation of work requests for further internal review of a reported problem or a work order for problem resolution.
+717666,Medium,,Send an email to the citizen submitting a problem report upon closure of any work request and/or work order generated based on  a citizen problem report indicating that the problem has been investigated and/or resolved.

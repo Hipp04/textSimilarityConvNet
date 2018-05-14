@@ -1,0 +1,25 @@
+"Section:PL-Transportation Operations Management, Equipment (24 Reqs)"
+717753,High,,"Integrate with the ERP fleet management function to obtain information on vehicles, maintenance equipment and other fleet units  utilized in performing maintenance work activities."
+717754,High,,Store and display fleet/equipment class name and code.
+717755,High,,Store and display fleet/equipment type name and code.
+717756,High,,Store and display fleet/equipment unit ID number.
+717757,High,,Store and display manufacturer.
+717758,High,,Store and display make.
+717759,High,,Store and display model.
+717760,High,,Store and display serial number.
+717761,High,,Store and display USDOT number.
+717762,High,,Store and display assigned organization.
+717763,High,,Store and display current location of equipment.
+717764,High,,Store and display prior history of equipment assignment.
+717765,High,,Store and display warranty information and any recall history.
+717766,High,,Store and display repair history.
+717767,High,,Store and display history of equipment utilization.
+717768,High,,Store and display eligibility of the equipment to be pooled.
+717769,High,,"Store and display current equipment status (Active, Pooled, Reserved, Under Repair, Scheduled for Maintenance, etc.)."
+717770,High,,Store and display combined current equipment status of equipment units which are needed to be reserved as a unit; for example  a loader and hauler.
+717771,High,,Store and display skills/certifications required by operator.
+717772,High,,"Store and display rental rate, cost per hour or cost per mile (for activity costing purposes)."
+717773,High,,"Utilize available fleet/equipment information to compare needed versus actual equipment, costing of work orders and daily work  accomplishments, and tracking condition and replacement needs."
+717774,High,,Integrate with the ERP fleet management function to allow an authorized user to reserve equipment which is eligible to be pooled  and reflect the reserved equipment in their crew schedules.
+717775,Medium,,"Calculate automatically equipment utilization and non-productive (commitment time) equipment hours by type of equipment,  based on data input from crew leader's DARs on equipment usage."
+717776,Medium,,Allow an authorized user to create minimum usage requirements for specified equipment that will be set as a threshold for  comparing planned usage versus actual usage.

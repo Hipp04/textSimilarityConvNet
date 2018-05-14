@@ -1,0 +1,24 @@
+"Section:PL-Procurement, Vendor Registration (23 Reqs)"
+715916,High,,Provide the ability for a self-service vendor registration function via the Internet that will allow the following: Central user-defined  data-entry fields which can be specified as mandatory or optional including all required fields to create the vendor master.
+715917,High,,Provide the ability for a self-service vendor registration function via the Internet that will allow the following: Registration  functionality that is completely integrated with the rest of the ERP including vendor master creation.
+715918,High,,"Provide the ability for a self-service vendor registration function via the Internet that will allow the following: Ability for vendors to  pay registration fees via a credit card, ACH."
+715919,High,,Provide the ability for a self-service vendor registration function via the Internet that will allow the following: The registration will  be placed in suspense until State approval is granted.
+715920,High,,"Provide the ability for a self-service vendor registration function via the Internet that will allow the following: Ability for vendors to  provide additional information, as defined by the State, about the commodities for which they are registering."
+715921,High,,"Provide the ability for a self-service vendor registration function via the Internet that will allow the following: Ability for vendors to  confirm compliance with State Business Requirements (e.g. Tax Clearance, Unemployment Insurance, Worker's Compensation,  contractor license, Secretary of State Registration)."
+715922,High,,Provide the ability for a self-service vendor registration function via the Internet that will allow the following: Vendor self-service  portal is a secured environment with appropriate user security authentication.
+715923,High,,"Provide the ability to for additional security on certain fields such as Tax IDs, vendor name, or Social Security Numbers."
+715924,High,,Provide workflow for approvals for the registration process.
+715925,High,,"Provide the ability for vendors to view registration instructions and to view, search and select commodity listings via the Internet."
+715926,High,,"Provide the ability for vendors to search to see if they are already registered and to provide information regarding their current  status, as well as other specified information in their profile."
+715927,High,,Provide the ability to waive vendor registration with appropriate approval.
+715928,High,,Provide the ability to waive the registration fee for a type of procurement such as sole source with appropriate approval.
+715929,High,,Provide the ability to waive the registration fee for a central user defined threshold amount with appropriate approval.
+715930,High,,Provide the ability to waive vendor registration requirement and registration fee for purchase (payment) card and travel card  vendors with approval.
+715931,High,,"Track by vendor registration method i.e. WV-1 process (pay fee), WV-1A process (waive fee) or a Manual abstract entry (paper  bid)."
+715932,High,,"Provide the ability to warn if a vendor is already registered. Provide the ability to check various fields to view duplication,  including but not limited to: FEIN, Name, DBA, etc."
+715933,High,,Provides the ability for a vendor to update their data with current information.
+715934,High,,"Provide the ability to automatically send a vendor a registration confirmation by email, or generate a confirmation letter if there is  no email address or an invalid email address is in the vendor's profile. The confirmation would include the commodity code (s) for  which the vendor has registered and all other pertinent information."
+715935,High,,Provide the ability for vendors to submit requested documents electronically.
+715936,High,,"Provide the ability that if a vendor application is returned to the vendor for additional information, the system tracks the process:  information needed, date the application was sent, date the application was returned, and date the application was accepted or  other user-defined criteria."
+715937,High,,Provide the ability to send notices to vendors based on a user-specified number of days prior to registration expiration and after  expiration.
+715938,High,,"Provide the ability for a purchasing review of purchasing related registration information (e.g., commodity specific information,  SOS registration) prior to acceptance into the vendor master record."

@@ -1,0 +1,34 @@
+"Section:SW-General and Technical, Work Flow (33 Reqs)"
+718096,High,,"Provide preconfigured workflows for a number of common or high volume business processes such as requisitions, purchase  orders, accounts payable invoices, etc."
+718097,High,,Provide tools for modifying preconfigured work flows or developing new work flows.
+718098,High,,Support establishment of user defined rules based workflows for any system event or transaction.
+718099,Medium,,Provide bi-directional electronic routing of documents for approval or other tasks through workflow.
+718100,High,,Support routing of workflow to multiple destinations based on various user-defined criteria.
+718101,High,,Reverse any approvals and return the work flow transaction to the originating user and any other users who had previously  approved the transaction in the event that one or more reviewers disapproves a transaction.
+718102,Medium,,Allow workflow destination to be defined as specific users or a class of users within agency or by using some other user-defined  criteria.
+718103,High,,Allow for copying/extending preconfigured workflows to meet specific State business requirements.
+718104,High,,"Provide tools to allow for modeling of work processes and design, development and test of user-defined work flows to be  implemented in the ERP system."
+718105,High,,Support establishment of both enterprise level and agency specific work flows for various business processes.
+718106,High,,"Support definition of workflow events based on user-defined criteria including transaction code; agency; user roles and  responsibilities; user position in agency organization; data values (for example - purchase order exceeds $25,000) and other  user-defined values or parameters."
+718107,Medium,,Allow user defined standard approval timeframes.
+718108,Medium,,Allow user defined alternative approval paths.
+718109,Medium,,Support multiple levels of approvals for transactions based on profile security and other user-defined criteria.
+718110,Medium,,Allow users to attach notes to content items within the workflow and stores these notes with user id and date/time stamp.
+718111,Medium,,Allow workflows to be designated as either 'informational' or 'action (such as approval) required'.
+718112,High,,Ensure a transaction is not finalized until all required approval workflows are complete.
+718113,Medium,,"Allow a workflow to be designed to support either simultaneous actions or require consecutive actions, as defined by an  authorized user."
+718114,Medium,,"Provide an ""inbox"" within the ERP system for each user with workflow items to be reviewed."
+718115,High,,Provide email notification of work flow items.
+718116,Medium,,Allow user to disable email notification (opt in/opt out capability).
+718117,Medium,,Allow a user to link to a work item within the ERP system from an email notification.
+718118,Medium,,Provide integrated workflow error handling.
+718119,High,,Support electronic signatures for approvals and rejections of workflows based on a user authenticating themselves to the system.
+718120,Medium,,Track workflow approvals and rejections.
+718121,Medium,,"Support various user-defined transaction statuses, including approved, rejected, pending, under consideration, etc."
+718122,Medium,,Provide for the display of the status of items submitted to a workflow at any time.
+718123,Medium,,"Notify users automatically via email when items in their ""inbox"" have gone unprocessed for a user-defined period of time."
+718124,Medium,,Route transactions automatically to a workgroup after a specific time of inaction (based on user-defined criteria).
+718125,Medium,,"Allow delegation of approval authority to another user for a specified period of time (to cover vacations, etc.)."
+718126,Medium,,"Allow steps in the workflow to be bypassed by allowing approvers higher in the approval chain to approve transactions before the  transactions arrive in the ""in box"" of the approver who would normally be next in the work flow sequence."
+718127,Medium,,"Support the use of a ""master approver"" for each workflow who may approve a transaction at any time whether included in the  normal workflow or not."
+718128,Medium,,Allow attachment of external files in Microsoft Office or PDF format as additional documentation or notes to workflow events.

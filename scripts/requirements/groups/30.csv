@@ -1,0 +1,30 @@
+"Section:FIN-Budget Development, Produce Budget Book (29 Reqs)"
+706458,Medium,,Create varying page templates for presentation of budget information by agency.
+706459,Medium,,"Create page templates that incorporate both financial information and supporting information, such as text or graphics."
+706460,Medium,,Organize the budget document using a hierarchical structure to place the various components of the document in production  order.
+706461,Medium,,"Ability to either display (printed), suppress, or optionally delete from the structure."
+706462,Medium,,"Support ""drag-and-drop"" functionality to organize the budget document."
+706463,Medium,,Ability to produce multiple budget formats/presentation structures.
+706464,Medium,,Ability to place change items in the document outline by agency.
+706465,Medium,,"Ability to package cross-agency initiatives, including explanatory materials and related change items."
+706466,Medium,,Produce high quality (at least 600 dpi) final budget document pages.
+706467,Medium,,Produce budget reports and documents in PDF format.
+706468,Medium,,Produce ADA compliant budget document.
+706469,Medium,,Produce camera-ready output.
+706470,Medium,,Produce the table of contents and index for the budget document.
+706471,Medium,,Provide the user a function to create or enter footnotes and comments for budget publications.
+706472,Medium,,"Produce both the Budget and the Budget Overview from a wide variety of source files, including system output from the database."
+706473,Medium,,"Produce historical, current year projections and proposed budget data at any level of the hierarchical structure in a high quality  printed form."
+706474,Medium,,Include performance measures and results in the budget document.
+706475,Medium,,"Incorporate charts, graphs, spreadsheets, etc. in the budget document."
+706476,Medium,,"Automatically update charts, graphs, spreadsheets, etc., when data stored in budget system is altered."
+706477,Medium,,Support desktop publishing capabilities.
+706478,Medium,,Incorporates non-budget information into the budget document such as the glossary.
+706479,Medium,,"Incorporate objects from various sources, including commercial clipart and photos."
+706480,Medium,,Perform spell and grammar check.
+706481,Medium,,Support concurrent user access to budget document publisher for preparation and editing purposes.
+706482,Medium,,Ability to electronically review and approve documents during pre-publication review.
+706483,Medium,,"Ability to import from and export to State of West Virginia standard spreadsheet, word processing, and other OLE compliant  packages."
+706484,Medium,,"Manage online publication processes to create bookmarks, maintain web links embedded in documents, and provide for proper  pagination."
+706485,Medium,,Utilize a find/replace function to locate specific details and make changes to them across an entire document.
+706486,Medium,,Support concurrent user access to budget document for preparation and editing purposes.

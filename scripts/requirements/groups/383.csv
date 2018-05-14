@@ -1,0 +1,14 @@
+"Section:PL-Safety Management, Safety Projects (13 Reqs)"
+717017,High,,Define and document each candidate safety project.
+717018,High,,Create a unique identifier for each candidate project (fiscal year identified and unique sequence number) to allow for referencing  of candidate projects.
+717019,High,,Capture project description.
+717020,High,,Store project location using county/route/milepost and geospatial referencing.
+717021,High,,Document initial project cost estimate.
+717022,High,,"Maintain a history of project cost estimates including date of cost estimate, amount and reasons for any change in estimated cost."
+717023,High,,Document key project elements and activities.
+717024,High,,Document expected project outcomes in the form of improvements in various safety related metrics.
+717025,Medium,,Provide the ability to extract and save before project snapshots of key safety related data and parameters to allow for evaluating  and measuring outcomes of safety projects.
+717026,High,,Store WVDOT project number(s) for projects which are approved and programmed.
+717027,Medium,,Integrate with ERP project management and the WVDOT Primavera Program and Project Management application to obtain  actual cost and schedule/duration information for projects.
+717028,High,,Support documentation of project outcomes as measured by various safety related metrics.
+717029,Medium,,"Provide the ability to extract and save after project snapshots of key safety related data and parameters to allow for  documenting, evaluating and measuring outcomes of safety projects."

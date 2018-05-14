@@ -1,0 +1,34 @@
+"Section:PL-Transportation Operations Management, Work Reporting (35 Reqs)"
+717707,Medium,,Allow for entry of daily activity report on a GPS enabled PDA or other handheld device and the upload of this information from the  PDA to the system.
+717708,High,,"Capture the crew leader's DAR, showing accomplishments for each activity performed by the crew, including the work order,  work activity number, date, crew ID, work location(s), labor hours used by individual, equipment time commitment and miles and  hours used by fleet/equipment number, materials used, and amount of work accomplished."
+717709,High,,Support entry of all of a crew's daily resource usage on a single daily activity report.
+717710,High,,Store individual employee time for work performed at any location.
+717711,High,,Store individual equipment used for work performed at any location.
+717712,High,,Store material usage for work performed at any location.
+717713,Medium,,Allow a crew leader to report completion of one or multiple work orders on the DAR.
+717714,Medium,,Pre-populate the DAR with any information available for work activities from the crew schedule.
+717715,Medium,,"Pre-populate the DAR with any information available for work orders already marked as completed for that day (labor,  equipment, materials, etc.)."
+717716,High,,"Report equipment commitment (tied up or rental) time and the metered usage on the DAR, by fleet/equipment unit number  (unique ID) using mileage, gallons, and hours as the standard units of measure."
+717717,High,,Monitor temporary employee upgrades (employees working out of class). Record and track on a 365 day basis from the time of  the first upgrade.
+717718,Medium,,Allow for designating emergency overtime on the DAR.
+717719,Medium,,Allow users to enter an explanation for the variance when the reported work accomplishment is outside of the range specified in  the performance guideline for the activity by more than a user-specifiable percent.
+717720,High,,"Allocate labor, materials, and equipment usage used on an activity over the different road segments covered on the DAR.  Record work accomplished by a crew on a single activity to multiple locations using the production at each location to  proportionately allocate the labor, equipment, and material (or contract) costs to the locations while reporting resources utilized  (labor, equipment, materials, and contract) only once for the activity."
+717721,High,,Support acquisition/storing of materials in inventory in one unit of measure and reporting usage on a DAR in a different unit of  measure.
+717722,High,,"Provide the ability to flag individual activities as accident or emergency related, and eligible for reimbursement."
+717723,Medium,,Support maintenance superintendent and other manager review and approval of the crew leader's DAR online through an  automated work flow based review process.
+717724,Medium,,"Integrate with the ERP leave accounting and other human resources functions to pre-populate the DAR with any information  available for regularly scheduled crew members (leave, training, etc.)."
+717725,Medium,,Allow override of information pre-populated from ERP leave accounting and other ERP functions (for example an employee  scheduled for leave actually reported to work.).
+717726,High,,"Provide the ability to report the absence of regularly scheduled crew members on the DAR and the reason for the absence  (leave, sick time, training, etc.)."
+717727,Medium,,Support tracking of lost productivity due to employee injuries.
+717728,High,,Allow for adding to the DAR and reporting on employees temporarily assigned to a crew.
+717729,High,,"Allow for adding to the DAR and reporting on temporary employees, contract employees or emergency resources."
+717730,High,,"Capture daily work done by contract on the DAR for contract services, including contract number, the contractor name, and  equipment/materials and quantities."
+717731,High,,"Validate all data entered on the DAR. To minimize data entry errors, wherever possible, data entry fields must have drop-down  pick lists or calendars for the user to choose from pre-defined formats (e.g., mm/dd/yyyy)."
+717732,Medium,,"Provide application drop down pick lists, lists of values, etc., on the DAR to restrict the data presented to the user based upon  criteria associated with the user's security and data previously populated on the entry screen. For example, if a district has  already been populated on the screen, then only roadways within that district will be available for selection on a route drop down  list."
+717733,High,,Update transpiration asset inventory to reflect changes in assets based on work order activities.
+717734,High,,Update materials inventory in the ERP inventory function based on materials reported as used on a DAR.
+717735,High,,"Allow for reporting of materials on the DAR that were not originally in inventory (materials purchased and charged out directly to  the work order and given to the crew or materials purchased by the crew to accomplish the assigned work activity, etc.)."
+717736,High,,Update materials inventory in the ERP inventory function to reflect the return by the crew of materials not originally in inventory to  an inventory store; credit the work order that was originally billed for the value of the materials transferred to inventory.
+717737,High,,Update equipment usage in the ERP fleet management function based on actual equipment usage reported on the DAR.
+717738,High,,Update employee time information in the ERP time and labor function based on actual time reported by employee on the DAR.
+717739,High,,"Ensure materials, equipment and time usage is only reported and passed to other ERP functions once, either when a work order  is closed out or on the DAR."

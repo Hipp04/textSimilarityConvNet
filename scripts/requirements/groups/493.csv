@@ -1,0 +1,13 @@
+"Section:SW-Reporting and Business Intelligence, Extract, Transform and Load Tools (12 Reqs)"
+718532,Medium,,"Support ability to develop automated extract and load routines using Extract, Transform and Load (ETL) components."
+718533,Medium,,Support creation of new routines to transform data.
+718534,Medium,,Utilize scripting or other object-oriented structured languages to define advanced transformation routines/procedures.
+718535,Medium,,Support validation and handling of exceptions during transformation.
+718536,Low,,Provide a graphical environment to model the logical ETL process.
+718537,Medium,,Provide the capability to specify chained transformations on the data flow and apply complex scripted transformations to the data.
+718538,Medium,,Provide the ability to override the default source mapping and use specific SQL statements.
+718539,Medium,,Provide the ability to map data from multiple source systems into multiple target source systems.
+718540,Low,,Provide the ability to change transformation output data in debug mode.
+718541,High,,Provide the ability to define and alter data refresh frequency and methodology according to business needs.
+718542,Medium,,"Provide the ability to schedule and monitor the extraction, cleansing, transformation, and loading processes."
+718543,High,,Provide the ability to perform incremental loads so as to load only data which has changed since the last update.

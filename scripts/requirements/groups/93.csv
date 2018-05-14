@@ -1,0 +1,88 @@
+"Section:FIN-Project Management, Project Management (87 Reqs)"
+708233,High,,Support work plan creation and periodic updates.
+708234,High,,Management of work plan should include the following: Assigning tasks.
+708235,High,,Management of work plan should include the following: Creating task dependencies.
+708236,High,,Management of work plan should include the following: Assigning activities (sub-tasks).
+708237,High,,Management of work plan should include the following: Providing control by tasks.
+708238,High,,Management of work plan should include the following: Assigning resources.
+708239,High,,Management of work plan should include the following: Create milestones.
+708240,High,,Management of work plan should include the following: Create critical path.
+708241,High,,Management of work plan should include the following: Create work breakdown structures.
+708242,High,,Management of work plan should include the following: Create lower levels of work breakdown structures i.e. Work packages.
+708243,High,,Management of work plan should include the following: Track physical location of actual plan documents.
+708244,High,,Management of work plan should include the following: Contain prime versus subcontractor declarations.
+708245,High,,Management of work plan should include the following: Include contact information.
+708246,High,,Management of work plan should include the following: Include deposit.
+708247,High,,Management of work plan should include the following: Include bond information.
+708248,High,,Management of work plan should include the following: Include addendum notification via email.
+708249,High,,"The ability to track bonds by project name, number, and contractor including: Bid guaranty and contract bond."
+708250,Medium,,"The ability to track bonds by project name, number, and contractor including: Assigning tasks."
+708251,High,,"The ability to track bonds by project name, number, and contractor including: Surety contract information."
+708252,High,,"The ability to track bonds by project name, number, and contractor including: Surety agent contact information."
+708253,High,,"The ability to track bonds by project name, number, and contractor including: Power of Attorney."
+708254,High,,Provide the ability to link a project to multiple bond issues.
+708255,High,,Allow the ability to track and report builder's risk insurance policy at the contractor level including the combining of all active  projects and the validation against policy limits at the time of invoicing.
+708256,High,,The ability to validate that insurance coverage has not expired prior to making payment.
+708257,High,,"The ability to track multiple type of escrow activity, by unique escrow identifier (e.g., liens, non-profit monies, miscellaneous  activities)."
+708258,High,,Allow for the partial release of escrow funds.
+708259,High,,The ability to automatically calculate retainage upon entry of payment request.
+708260,High,,The ability to waive escrowing of retainage amounts.
+708261,High,,Support the reporting of escrow activity for a period of time including: Amount by project manager.
+708262,High,,Support the reporting of escrow activity for a period of time including: Amount by escrow type.
+708263,High,,Support the reporting of escrow activity for a period of time including: Amount by unique escrow identifier.
+708264,High,,Track and report retainage accumulation until reaching a predefined threshold percentage of contract completion.
+708265,High,,Generate a warrant (for escrow) payable to the contractor and the escrow bank (alternate payee).
+708266,High,,The ability to download prevailing wage rates applicable to the county where the project is being performed.
+708267,High,,Support including certified payroll report online as an attachment to a contractor's request for payment including: Name.
+708268,High,,Support including certified payroll report online as an attachment to a contractor's request for payment including: Contractor (may  be multiple).
+708269,High,,Support including certified payroll report online as an attachment to a contractor's request for payment including: Subcontractor.
+708270,High,,Support including certified payroll report online as an attachment to a contractor's request for payment including: Sex.
+708271,High,,Support including certified payroll report online as an attachment to a contractor's request for payment including: Race.
+708272,High,,Support including certified payroll report online as an attachment to a contractor's request for payment including: Address.
+708273,High,,Support including certified payroll report online as an attachment to a contractor's request for payment including: Project number  or Name.
+708274,High,,Support including certified payroll report online as an attachment to a contractor's request for payment including: Classification of  employee.
+708275,High,,Support including certified payroll report online as an attachment to a contractor's request for payment including: Hours worked.
+708276,High,,Support including certified payroll report online as an attachment to a contractor's request for payment including: Trade class.
+708277,High,,"The ability to electronically track certified payroll reports, which have been submitted or scanned."
+708278,High,,Allow users to create and maintain project schedule templates.
+708279,High,,Support the ability to download project information from a contractor.
+708280,High,,Provide users with the option of referencing project schedule template when establishing the project-specific schedule.
+708281,High,,The capability to create a work plan from a project template.
+708282,High,,Capability to create a work plan by copying a portion of a work break down structure from another project from a project template.
+708283,High,,Support the ability to track special earmarks including the ability to have multiple on one project and to capture expiration date if  applicable.
+708284,High,,Support and track the GARVEE bond process.
+708285,High,,Support the tracking of expenditures by MPO.
+708286,High,,End of year bid amount and final cost amount .
+708287,High,,Provide reporting on advanced construction activity and status.
+708288,High,,Support managing project deliverables including: Defining deliverables.
+708289,High,,Support managing project deliverables including: Associating deliverables to tasks.
+708290,High,,Support managing project deliverables including: Integrating deliverables with other applications.
+708291,High,,Provide the capability to view work plans by Gantt chart.
+708292,High,,Support automated routing for work plan approvals.
+708293,High,,Support notification of work plan publication.
+708294,High,,Provide an integrated scheduling tool which provides for task assignments.
+708295,High,,Provide an integrated scheduling tool which provides for task dependencies.
+708296,High,,Support progress management including: Progress status data.
+708297,High,,Support progress management including: Percentage complete.
+708298,High,,Support progress management including: Estimated dates.
+708299,High,,Support progress management including: Actual dates.
+708300,High,,Provide capability to calculate percentage complete values on tasks.
+708301,High,,System should support forecasting by allowing: Ability to set time periods for forecast.
+708302,High,,System should support forecasting by allowing: Ability to generate forecast based upon work plan.
+708303,High,,System should support forecasting by allowing: Ability to generate forecast based upon work quantity.
+708304,High,,System should support forecasting by allowing: Ability to generate forecast based upon staffing plan.
+708305,High,,System should support forecasting by allowing: Ability to generate forecast based upon financial plan.
+708306,High,,System should support forecasting by allowing: Ability to generate forecast based upon average of actual.
+708307,High,,System should support forecasting by allowing: By Budget line.
+708308,High,,System should support forecasting by allowing: The financial impact of change orders.
+708309,High,,System should support forecasting by allowing: The financial impact of change request.
+708310,High,,Capability to generate multiple planning scenarios to assess the consequences of changes.
+708311,High,,Generate an alert for all project behind expectations such as: No Budget remaining.
+708312,High,,Generate an alert for all project behind expectations such as: X days behind schedule.
+708313,High,,Generate an alert for all project behind expectations such as: Exceeded threshold for change orders.
+708314,High,,Generate an alert for all project behind expectations such as: Claims unresolved within x days.
+708315,High,,Generate an alert for all project behind expectations such as: User Defined.
+708316,High,,"Provides a mechanism to capture FHWA Obligation and Apportionment amounts by Federal Agreement number and FHWA  program codes submitted, approved, billed, and expended."
+708317,High,,"The capability to import and export program data to and from standard formats (Excel, Access, etc.)."
+708318,High,,The ability to record and track deliverable and performance quality issues of contractors.
+708319,High,,Capability to track feasibility studies.

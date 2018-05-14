@@ -1,0 +1,64 @@
+"Section:PL-Pavement Management, Pavement Inventory (63 Reqs)"
+714685,High,,"Manage, store, view and uniquely identify pavement asset attributes and associated data for through lanes."
+714686,High,,"Manage, store, view and uniquely identify pavement asset attributes and associated data for auxiliary lanes."
+714687,High,,"Manage, store, view and uniquely identify pavement asset attributes and associated data for shoulders."
+714688,High,,"Manage, store, view and uniquely identify pavement asset attributes and associated data for ramps."
+714689,High,,"Manage, store, view and uniquely identify pavement asset attributes and associated data for loops."
+714690,High,,"Manage, store, view and uniquely identify pavement asset attributes and associated data for pull outs."
+714691,High,,"Manage, store, view and uniquely identify pavement asset attributes and associated data for parking lots."
+714692,High,,"Manage, store, view and uniquely identify pavement asset attributes and associated data for motorist service facilities (e.g. rest  areas, weight stations, tourist information)."
+714693,Low,,"Manage, store, view and uniquely identify pavement asset attributes and associated data for airport runways and other airport  pavements."
+714694,High,,Store data for bituminous pavement types.
+714695,High,,Store data for composite pavement types.
+714696,High,,Store data for continuously reinforced concrete.
+714697,High,,"Store data for surface treatments (chip seal, etc.)."
+714698,High,,Store data for jointed concrete .
+714699,High,,Locate all pavements assets based upon the WVDOT GIS-based linear referencing system and the transportation asset  inventory function.
+714700,High,,Store pavement asset attributes for a minimum of every 0.01 mile segment.
+714701,High,,Store pavement segment data in user definable segments.
+714702,High,,Allow users to manually edit pavement segment boundaries including the ability to split an existing section and the ability to join  two or more existing sections into one.
+714703,Medium,,Store layer data and treatment history data by lane for a given section.
+714704,Medium,,"Store paved shoulder location, condition and work history data separately for left and right shoulders."
+714705,Medium,,Allow shoulder information to utilize different segmentation than pavement asset or condition information.
+714706,High,,Store and/or access pavement attribute information in the transportation asset inventory for reporting and analysis.
+714707,High,,Store and/or access county.
+714708,High,,Store and/or access route number.
+714709,High,,Store and/or access from/to mile points.
+714710,High,,Store and/or access latitude from/to.
+714711,High,,Store and/or access longitude from/to.
+714712,Medium,,Store and/or access elevation.
+714713,High,,"Store and/or access class (Interstate, Primary, Secondary, Expressway, Trunk line, Feeder)."
+714714,High,,Store and/or access Federal-Aid designator.
+714715,High,,Store and/or access APD corridor designator.
+714716,High,,Store and/or access heavy truck route indicator.
+714717,High,,Store and/or access number of lanes.
+714718,High,,Store and/or access location of lanes from centerline in direction of travel.
+714719,High,,Store and/or access segment length.
+714720,High,,Store and/or access pavement type classification.
+714721,High,,Store and/or access pavement surface type.
+714722,Medium,,Store and/or access mix design.
+714723,High,,Store and/or access base type.
+714724,High,,Store and/or access base materials.
+714725,High,,Store and/or access layer thickness.
+714726,High,,Store and/or access sub grade characteristics.
+714727,High,,Store and/or access California Bearing Ration (CBR) for subgrade.
+714728,High,,Store and/or access R-value and date.
+714729,High,,Store and/or access moisture and date.
+714730,High,,Store and/or access pH/Resistivity.
+714731,High,,Store and/or access soil classification.
+714732,High,,Store and/or access existing ballast.
+714733,High,,Store and/or access subsurface material.
+714734,High,,Store and/or access aggregate size.
+714735,High,,Store and/or access asphalt grade.
+714736,High,,Store and/or access traveled surface width.
+714737,High,,Store and/or access direction of travel.
+714738,High,,Store and/or access divided/undivided.
+714739,High,,Store and/or access terrain type.
+714740,High,,Store and/or access grade width.
+714741,High,,Store and/or access median type.
+714742,High,,Store and/or access median width.
+714743,High,,Store and/or access shoulder types.
+714744,High,,Store and/or access shoulder width.
+714745,Medium,,Store and/or access presence of curb and gutter.
+714746,High,,Store and/or access right of way width.
+714747,High,,Store and/or access date of last inventory update.

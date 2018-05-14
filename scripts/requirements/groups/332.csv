@@ -1,0 +1,45 @@
+"Section:PL-Real Estate Management, Construction or Renovation Project (44 Reqs)"
+716185,Medium,,Integrate with ERP project management function to establish construction or renovation project.
+716186,Medium,,"Establish templates for each major type of project (construction, renovation, facility uplift, etc.)."
+716187,Medium,,Link project with original agency facilities request and property acquisition information.
+716188,Medium,,Store/track unique project number assigned by ERP system or unique project number as defined by user.
+716189,Medium,,Store/track project name.
+716190,Medium,,Store/track project description.
+716191,Medium,,"Store/track project type (new construction, renovation, build out, other user defined types)."
+716192,Medium,,"Store/track project status (Active, On-hold, Complete, Closed or other user defined status codes)."
+716193,Medium,,"Store/track location (city/town, area of city/town, etc.)."
+716194,Medium,,Store/track Congressional district.
+716195,Medium,,Store/track Senate district.
+716196,Medium,,Store/track House of Delegate district.
+716197,Medium,,Store/track Facility number/ identifier.
+716198,Medium,,Store/track Lease number.
+716199,Medium,,Document estimated project budget (based on estimates in earlier business case analysis and adjustable by authorized user).
+716200,Medium,,Store approved project budget based on a roll-up from the approved project budget for each phase.
+716201,Medium,,Store approved project budget by funding source based on a roll-up from the approved project budget for each phase.
+716202,Medium,,Store total actual costs to date based on a roll-up by project phase.
+716203,Medium,,Store total actual costs to date by funding source based on a roll-up by project phase.
+716204,Medium,,"Calculate, store and display current actual budget variances (positive/negative) for total budget and each funding source based  on a roll-up by project phase."
+716205,Medium,,"Calculate, store and display total estimated cost to complete the project and the total estimated cost to complete the project by  funding source based on a roll-up by phase."
+716206,Medium,,"Calculate, store and display estimated budget variances for the project at completion (positive/negative) for total budget and  each funding source based on actual to date and estimate to complete rolled-up by phase."
+716207,Medium,,Support the definition of one or more phases for each project.
+716208,Medium,,"Store phase type (planning, design, construction, etc.)."
+716209,Medium,,Document estimated budget for each phase.
+716210,Medium,,Store multiple funding sources for each phase which must be an active chart of accounts code and/or active grants.
+716211,Medium,,Store percentage cost allocation for each phase by funding source.
+716212,Medium,,"Calculate, store and display total actual phase costs to date."
+716213,Medium,,"Calculate, store and display total actual costs phase costs to date by funding source."
+716214,Medium,,"Calculate, store and display actual current budget variances for the phase (positive/negative) for total budget and each funding  source."
+716215,Medium,,Document and display total estimated cost to complete the phase.
+716216,Medium,,"Calculate, display and store total estimated cost to complete the phase by funding source based on allocation percentages."
+716217,Medium,,"Calculate, store and display estimated budget variances for the phase at completion (positive/negative) for total budget and each  funding source based on actual to date and estimate to complete."
+716218,Medium,,Document key milestones for each phase (unlimited).
+716219,Medium,,Document planned start and stop dates for each milestone.
+716220,Medium,,Store and display actual start and stop dates for each milestone.
+716221,Medium,,"Store and display phase status (Active, On-hold, Complete, Closed or other user defined status codes)."
+716222,Medium,,"Document estimated resource requirements for each phase including project manager, architect, engineers and other user  defined resource types."
+716223,Medium,,Allow users to enter time worked on specific projects through ERP time and labor function.
+716224,Medium,,"Allow vendor invoice costs to be captured and charged to projects through ERP procurement, accounts payable and project  management functions."
+716225,Medium,,Integrate with ERP project management function to capture project costs.
+716226,Medium,,Integrate with Primavera to manage a project to obtain milestone dates (if project scheduled is being managed in Primavera)..
+716227,Medium,,Allow user to enter milestone dates for projects not being scheduled in Primavera.
+716228,Medium,,"Assign staff to meet required skills in each project phase including percentage of time, start and stop dates."

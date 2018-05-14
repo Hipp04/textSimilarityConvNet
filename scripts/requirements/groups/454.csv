@@ -1,0 +1,12 @@
+"Section:SW-General and Technical, User Interface (11 Reqs)"
+718048,Medium,,Utilize a consistent user interface across all ERP system components including user definable hot keys; screen naming  functions; navigation patterns; consistent use of controls; online help and menus (as defined by the user's security profile).
+718049,Medium,,Ensure messages appear in a consistent format across all system functions for both batch and on-line processing.
+718050,Medium,,"Allow manual entry as well as provide on-line, contextually valid drop-down lists of all valid values for each validated field."
+718051,Medium,,"Provide immediate transfer of values from ""pop up"" tables to the appropriate field when selected."
+718052,Medium,,Have on-line screens proceed directly and automatically to the next appropriate field when data is entered.
+718053,Medium,,Allow user to access other input screens and modules without backing out of menus or menu paths.
+718054,Medium,,"Allow navigation between multiple, related input screens without losing information input on the original (or header) screen."
+718055,Medium,,Allow the user to move backward within a menu structure without losing data.
+718056,Medium,,Allow user to open multiple screens/windows simultaneously.
+718057,High,,Allow a user to cancel transaction and/or exit any document or screen without saving changes.
+718058,Medium,,Support cut and paste for copying data between windows.

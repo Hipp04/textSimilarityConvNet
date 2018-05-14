@@ -1,0 +1,122 @@
+"Section:HRP-Classification and Compensation, General (121 Reqs)"
+709856,High,,Salary schedules to be maintained by job classification or as defined in statute.
+709857,High,,Maintain effective dates for salary tables to allow for future pay adjustments.
+709858,High,,Maintain effective dates for Class data to allow for future pay adjustments.
+709859,High,,"Retain previous salary, hours data and effective dates for use when calculating retroactive pay adjustments."
+709860,Medium,,Store salary data for user-defined employee groups based on: organization (multi-level. cost center).
+709861,Medium,,Store salary data for user-defined employee groups based on: job title.
+709862,Medium,,Store salary data for user-defined employee groups based on: supervisory.
+709863,Medium,,Store salary data for user-defined employee groups based on: step and grade.
+709864,Medium,,Store salary data for user-defined employee groups based on: hire/employment date.
+709865,Medium,,Store salary data for user-defined employee groups based on: EEO category.
+709866,Medium,,Store salary data for user-defined employee groups based on: salary schedule.
+709867,Medium,,Store salary data for user-defined employee groups based on: pay range.
+709868,Medium,,Store salary data for user-defined employee groups based on: FLSA classification.
+709869,High,,"Maintain salary tables (hourly, Bi-monthly, monthly, and/or manually) for: salary range structure (minimum / mid points /  maximum (optional))."
+709870,High,,"Maintain salary tables (hourly, Bi-monthly, monthly, and/or manually) for: special salary schedules: grade defined by  classification."
+709871,High,,"Maintain salary tables (hourly, Bi-monthly, monthly, and/or manually) for: 35, 37.5, 40 hour work weeks, 114 hour work week  (e.g. national guard firefighters, etc.)."
+709872,Medium,,"Maintain salary tables (hourly, Bi-monthly, monthly, and/or manually) for: other user-defined salary table parameters."
+709873,Medium,,Record base rate as based on: per annum.
+709874,Medium,,Record base rate as based on: Bi-Weekly.
+709875,Medium,,Record base rate as based on: Bi-Monthly.
+709876,Medium,,Record base rate as based on: per month.
+709877,Medium,,Record base rate as based on: per day.
+709878,Medium,,Record base rate as based on: per hour.
+709879,Medium,,Record base rate as based on: per unit (e.g. event).
+709880,High,,Maintain multiple methods to code each occurrence of additional pay such as: flat rate.
+709881,High,,Maintain multiple methods to code each occurrence of additional pay such as: percentage of current salary.
+709882,High,,Maintain multiple methods to code each occurrence of additional pay such as: based on other combinations of base rate and  additional pay.
+709883,High,,Maintain multiple methods to code each occurrence of additional pay such as: percentage of mid point.
+709884,High,,Maintain multiple methods to code each occurrence of additional pay such as: overridden amounts (user entered).
+709885,High,,Maintain multiple methods to code each occurrence of additional pay such as: per hour.
+709886,High,,Maintain multiple methods to code each occurrence of additional pay such as: salary adjustment (pays on a different schedule  and/or level).
+709887,High,,Generate additional pay based on criteria such as: pay type.
+709888,High,,"Generate additional pay based on criteria such as: organization (multi-level, cost center)."
+709889,High,,Generate additional pay based on criteria such as: work location.
+709890,High,,Generate additional pay based on criteria such as: position.
+709891,High,,Generate additional pay based on criteria such as: State classification.
+709892,High,,Generate additional pay based on criteria such as: statute.
+709893,High,,Generate additional pay based on criteria such as: tenure base.
+709894,High,,Generate additional pay based on criteria such as: start and end dates.
+709895,High,,Generate additional pay based on criteria such as: duties performed.
+709896,High,,Generate additional pay based on criteria such as: shift worked.
+709897,Medium,,Generate additional pay based on criteria such as: experience.
+709898,Medium,,Generate additional pay based on criteria such as: certificates.
+709899,Medium,,Generate additional pay based on criteria such as: licenses.
+709900,Medium,,Generate additional pay based on criteria such as: languages.
+709901,Medium,,Generate additional pay based on criteria such as: education.
+709902,High,,Generate additional pay based on criteria such as: current base pay grade.
+709903,Medium,,Generate additional pay based on criteria such as: performance test.
+709904,High,,Generate additional pay based on criteria such as: pay differentials.
+709905,Medium,,Analyze components of employee compensation by: salary.
+709906,Medium,,Analyze components of employee compensation by: State and employee contributions to benefits.
+709907,Medium,,Analyze components of employee compensation by: State and employee contributions to retirement.
+709908,Medium,,Analyze components of employee compensation by: non cash fringe benefits.
+709909,High,,Provide the ability to project annual salary (gross and net) and benefit costs for the year by: person.
+709910,High,,Provide the ability to project annual salary (gross and net) and benefit costs for the year by: organization unit (multi-level).
+709911,High,,Provide the ability to project annual salary (gross and net) and benefit costs for the year by: class.
+709912,High,,Provide the ability to project annual salary (gross and net) and benefit costs for the year by: hire/employment date.
+709913,High,,Provide the ability to project annual salary (gross and net) and benefit costs for the year by: funding source.
+709914,High,,Provide the ability to project annual salary (gross and net) and benefit costs for the year by: grants.
+709915,High,,Provide the ability to project annual salary (gross and net) and benefit costs for the year by: counties.
+709916,High,,Provide the ability to project annual salary (gross and net) and benefit costs for the year by: EEO.
+709917,High,,Provide the ability to project annual salary (gross and net) and benefit costs for the year by: bargaining unit / employee  association.
+709918,High,,Provide the ability to project annual salary (gross and net) and benefit costs for the year by: NCCI codes.
+709919,Medium,,"Project costs for future fiscal years or specific time periods, assuming variable, user-specified effective dates for increases in  salary and benefits."
+709920,Medium,,Change or model any cost factor so that comprehensive forecasts can be generated.
+709921,High,,"Track actual costs and benefits of each employee, including regular salary and wages, and all State paid costs by the various  groups such as organizational unit, fund, budget unit field, or other COA fields."
+709922,Medium,,"Assess the impact of salary proposals by the amount of all payment and benefit provisions. Costs should be provided by various  sorts (total, organization unit, etc.) and show individual benefit costs and totals by benefit type by: base pay."
+709923,Medium,,"Assess the impact of salary proposals by the amount of all payment and benefit provisions. Costs should be provided by various  sorts (total, organization unit, etc.) and show individual benefit costs and totals by benefit type by: overtime."
+709924,Medium,,"Assess the impact of salary proposals by the amount of all payment and benefit provisions. Costs should be provided by various  sorts (total, organization unit, etc.) and show individual benefit costs and totals by benefit type by: on call."
+709925,Medium,,"Assess the impact of salary proposals by the amount of all payment and benefit provisions. Costs should be provided by various  sorts (total, organization unit, etc.) and show individual benefit costs and totals by benefit type by: sick."
+709926,Medium,,"Assess the impact of salary proposals by the amount of all payment and benefit provisions. Costs should be provided by various  sorts (total, organization unit, etc.) and show individual benefit costs and totals by benefit type by: clothing allowance."
+709927,Medium,,"Assess the impact of salary proposals by the amount of all payment and benefit provisions. Costs should be provided by various  sorts (total, organization unit, etc.) and show individual benefit costs and totals by benefit type by: tool / equipment allowance."
+709928,Medium,,"Assess the impact of salary proposals by the amount of all payment and benefit provisions. Costs should be provided by various  sorts (total, organization unit, etc.) and show individual benefit costs and totals by benefit type by: leave (all types)."
+709929,Medium,,"Assess the impact of salary proposals by the amount of all payment and benefit provisions. Costs should be provided by various  sorts (total, organization unit, etc.) and show individual benefit costs and totals by benefit type by: shift differential pay (night,  weekend)."
+709930,Medium,,"Assess the impact of salary proposals by the amount of all payment and benefit provisions. Costs should be provided by various  sorts (total, organization unit, etc.) and show individual benefit costs and totals by benefit type by: premium pay."
+709931,Medium,,"Assess the impact of salary proposals by the amount of all payment and benefit provisions. Costs should be provided by various  sorts (total, organization unit, etc.) and show individual benefit costs and totals by benefit type by: education allowance."
+709932,Medium,,"Assess the impact of salary proposals by the amount of all payment and benefit provisions. Costs should be provided by various  sorts (total, organization unit, etc.) and show individual benefit costs and totals by benefit type by: retirement."
+709933,Medium,,"Assess the impact of salary proposals by the amount of all payment and benefit provisions. Costs should be provided by various  sorts (total, organization unit, etc.) and show individual benefit costs and totals by benefit type by: cafeteria plans."
+709934,Medium,,"Assess the impact of salary proposals by the amount of all payment and benefit provisions. Costs should be provided by various  sorts (total, organization unit, etc.) and show individual benefit costs and totals by benefit type by: WV Retirement Plus (457  deferred compensation)."
+709935,Medium,,"Assess the impact of salary proposals by the amount of all payment and benefit provisions. Costs should be provided by various  sorts (total, organization unit, etc.) and show individual benefit costs and totals by benefit type by: health insurance."
+709936,Medium,,"Assess the impact of salary proposals by the amount of all payment and benefit provisions. Costs should be provided by various  sorts (total, organization unit, etc.) and show individual benefit costs and totals by benefit type by: Workers' comp."
+709937,Medium,,"Assess the impact of salary proposals by the amount of all payment and benefit provisions. Costs should be provided by various  sorts (total, organization unit, etc.) and show individual benefit costs and totals by benefit type by: life and disability insurance."
+709938,Medium,,"Assess the impact of salary proposals by the amount of all payment and benefit provisions. Costs should be provided by various  sorts (total, organization unit, etc.) and show individual benefit costs and totals by benefit type by: emergency."
+709939,Medium,,"Assess the impact of salary proposals by the amount of all payment and benefit provisions. Costs should be provided by various  sorts (total, organization unit, etc.) and show individual benefit costs and totals by benefit type by: unemployment."
+709940,Medium,,"Assess the impact of salary proposals by the amount of all payment and benefit provisions. Costs should be provided by various  sorts (total, organization unit, etc.) and show individual benefit costs and totals by benefit type by: non cash fringe benefits."
+709941,Medium,,"Assess the impact of salary proposals by the amount of all payment and benefit provisions. Costs should be provided by various  sorts (total, organization unit, etc.) and show individual benefit costs and totals by benefit type by: other State define deferred  compensation plans."
+709942,Medium,,"Assess the impact of salary proposals by the amount of all payment and benefit provisions. Costs should be provided by various  sorts (total, organization unit, etc.) and show individual benefit costs and totals by benefit type by: other special allowances."
+709943,Low,,"Automatically recalculate salary, with override option, due to personnel actions such as promotions, demotions, etc."
+709944,High,,"Support user-defined approval and routing for all compensation changes (e.g., base rate, additional pay, etc.)."
+709945,High,,"Support user-defined approval and routing for all classification changes (e.g., reclass, reallocation, request to fill, etc.)."
+709946,Medium,,Restrict establishment/reclass of a position into a specific user defined class specification.
+709947,Medium,,"Track historical usage of class specifications for both incumbents and vacancies. (e.g., classes not used or vacant for a period of  time, etc.)."
+709948,High,,"Maintain a history of position structures, including all reorganizations."
+709949,Medium,,"Calculate adverse impact analysis on compensation plans by ethnicity, gender, and persons with disabilities, including salary and  discretionary pay."
+709950,Medium,,Track data within each salary schedule by: range.
+709951,Medium,,"Track data within each salary schedule by: schedule type (fixed, range, etc.)."
+709952,Medium,,Track data within each salary schedule by: minimum.
+709953,Medium,,Track data within each salary schedule by: maximum.
+709954,Medium,,Track data within each salary schedule by: midpoint.
+709955,Medium,,Track data within each salary schedule by: appointment maximum pay rates.
+709956,Medium,,Track data within each salary schedule by: additional pay points within the pay range.
+709957,Medium,,Track data within each salary schedule by: pay progression schedule by pay range.
+709958,Medium,,Track data within each salary schedule by: market rate.
+709959,Medium,,Track data within each salary schedule by: tenure.
+709960,Medium,,Track data within each salary schedule by: rank.
+709961,Medium,,Track data within each salary schedule by: overtime eligible.
+709962,Medium,,Track data within each salary schedule by: hazardous occupation status.
+709963,Medium,,Track data within each salary schedule by: FLSA status.
+709964,Medium,,Track data within each salary schedule by: non classified and non classified exempt.
+709965,Medium,,Track data within each salary schedule by: classified and classified exempt status.
+709966,Medium,,Track data within each salary schedule by: career employee status.
+709967,Medium,,Maintain data for additional pay items by: pay code.
+709968,Medium,,"Maintain data for additional pay items by: calculation method (%, flat rate, etc.)."
+709969,Medium,,"Maintain data for additional pay items by: amount (fixed amount, %, etc.)."
+709970,Medium,,"Maintain data for additional pay items by: calculation frequency (every pay period, monthly, annual increment, etc.)."
+709971,Medium,,"Maintain data for additional pay items by: taxable (Federal, State, FICA, etc.)."
+709972,Medium,,Maintain data for additional pay items by: longevity.
+709973,Medium,,Maintain data for additional pay items by: non cash fringe benefits.
+709974,Medium,,Maintain data for additional pay items by: emoluments.
+709975,Medium,,Support analysis of classification and compensation costs based on user-defined criteria.
+709976,Medium,,"Support ""what if"" analysis on proposed classification and compensation changes."

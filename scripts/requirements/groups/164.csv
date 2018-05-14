@@ -1,0 +1,72 @@
+"Section:HRP-Payroll, Inquiry and Reporting (71 Reqs)"
+711100,Medium,,Generate online access to all detailed payroll data with appropriate security.
+711101,Medium,,Allow ability to drill down on payroll register subtotals by organization unit to the employee level: based on Employee ID and  name.
+711102,Medium,,Allow ability to drill down on payroll register subtotals by organization unit to the employee level: based on organizational Unit.
+711103,Medium,,Allow ability to drill down on payroll register subtotals by organization unit to the employee level: based on hours by type.
+711104,Medium,,Allow ability to drill down on payroll register subtotals by organization unit to the employee level: based on earnings by type.
+711105,Medium,,Allow ability to drill down on payroll register subtotals by organization unit to the employee level: based on employee tax liabilities.
+711106,Medium,,Allow ability to drill down on payroll register subtotals by organization unit to the employee level: based on employee deduction  amount.
+711107,Medium,,Allow ability to drill down on payroll register subtotals by organization unit to the employee level: based on employer contribution  amount.
+711108,Medium,,Allow ability to drill down on payroll register subtotals by organization unit to the employee level: based on User-specified chart of  account field or combination of fields.
+711109,Medium,,Allow ability to drill down on payroll register subtotals by organization unit to the employee level: based on taxable gross.
+711110,Medium,,"Generate a standard report, grouped by user-specified criteria: based on employee profile."
+711111,Medium,,"Generate a standard report, grouped by user-specified criteria: based on new hires."
+711112,Medium,,"Generate a standard report, grouped by user-specified criteria: based on promotions."
+711113,Medium,,"Generate a standard report, grouped by user-specified criteria: based on personnel roster."
+711114,Medium,,"Generate a standard report, grouped by user-specified criteria: based on purged employees."
+711115,Medium,,"Generate a standard report, grouped by user-specified criteria: based on leave of absence."
+711116,Medium,,"Generate a standard report, grouped by user-specified criteria: based on elected officials roster."
+711117,Medium,,"Generate a standard report, grouped by user-specified criteria: based on FLSA overtime report."
+711118,Medium,,"Generate a standard report, grouped by user-specified criteria: based on deferred compensation."
+711119,Medium,,"Generate a standard report, grouped by user-specified criteria: based on manual check / warrants."
+711120,Medium,,"Generate a standard report, grouped by user-specified criteria: based on miscellaneous deduction maintenance."
+711121,Medium,,"Generate a standard report, grouped by user-specified criteria: based on terminations."
+711122,Medium,,"Generate a standard report, grouped by user-specified criteria: based on master file maintenance."
+711123,Medium,,"Generate a standard report, grouped by user-specified criteria: based on current, quarterly, and year-to-date balances."
+711124,Medium,,"Generate a standard report, grouped by user-specified criteria: based on selected deduction register by deduction code."
+711125,Medium,,"Generate a standard report, grouped by user-specified criteria: based on quarterly withholding summary."
+711126,Medium,,"Generate a standard report, grouped by user-specified criteria: based on unemployment compensation."
+711127,Medium,,"Generate a standard report, grouped by user-specified criteria: based on adjustment register (supplemental payroll register)."
+711128,Medium,,"Generate a standard report, grouped by user-specified criteria: based on Workers' compensation attendance history."
+711129,Medium,,"Generate a standard report, grouped by user-specified criteria: based on levy tracking report by type (garnishments)."
+711130,Medium,,"Generate a standard report, grouped by user-specified criteria: based on W-2 audit / final run."
+711131,Medium,,"Generate a standard report, grouped by user-specified criteria: based on net deposit by financial institution."
+711132,Medium,,"Generate a standard report, grouped by user-specified criteria: based on personnel related changes."
+711133,Medium,,"Generate a standard report, grouped by user-specified criteria: based on Department of Labor requirements - number of females  and number of employees by work county."
+711134,Medium,,"Generate a standard report, grouped by user-specified criteria: based on Department of Labor - quarterly wages by work location  with each county."
+711135,Medium,,"Generate a standard report, grouped by user-specified criteria: based on administrative management roster."
+711136,Medium,,"Generate a standard report, grouped by user-specified criteria: based on W-4 changes."
+711137,Medium,,"Generate a standard report, grouped by user-specified criteria: based on salary changes."
+711138,Medium,,"Generate a standard report, grouped by user-specified criteria: based on deduction register."
+711139,Medium,,"Generate a standard report, grouped by user-specified criteria: based on error log."
+711140,Medium,,"Generate a standard report, grouped by user-specified criteria: based on Federal 941 report."
+711141,Medium,,"Generate a standard report, grouped by user-specified criteria: based on earned income credit report."
+711142,Medium,,"Generate a standard report, grouped by user-specified criteria: based on payroll proof run."
+711143,Medium,,"Generate a standard report, grouped by user-specified criteria: based on employee leave balances."
+711144,Medium,,"Generate a standard report, grouped by user-specified criteria: based on longevity."
+711145,Medium,,"Generate a standard report, grouped by user-specified criteria: based on retroactive pay ."
+711146,Medium,,"Generate a standard report, grouped by user-specified criteria: based on payroll costs by project supporting federal  reimbursement."
+711147,Medium,,Generate a payable leave time report for employees including overtime paid for user-defined periods.
+711148,High,,"Generate a payroll register, deduction and other earnings report: to include Employee ID."
+711149,High,,"Generate a payroll register, deduction and other earnings report: to include employee name."
+711150,High,,"Generate a payroll register, deduction and other earnings report: to include hours by type."
+711151,High,,"Generate a payroll register, deduction and other earnings report: to include earnings by type."
+711152,High,,"Generate a payroll register, deduction and other earnings report: to include employee tax liabilities."
+711153,High,,"Generate a payroll register, deduction and other earnings report: to include employee deduction type and amount."
+711154,High,,"Generate a payroll register, deduction and other earnings report: to include employer contribution type and amount."
+711155,High,,"Generate a payroll register, deduction and other earnings report: to include organization Unit."
+711156,High,,"Generate a payroll register, deduction and other earnings report: to include employer portion of all taxes."
+711157,High,,"Generate a payroll register, deduction and other earnings report: to include any user-specified chart of account field or  combination of fields."
+711158,High,,"Generate a payroll register, deduction and other earnings report: to include totals by employee, COA fields, Agency, State."
+711159,Medium,,"Generate a payroll register, deduction and other earnings report: FLSA code."
+711160,High,,"Generate a payroll register, deduction and other earnings report: to include payment type (check or ACH)."
+711161,High,,"Generate a payroll register, deduction and other earnings report: to include schedule range."
+711162,Medium,,"Generate a payroll register, deduction and other earnings report: to include class code/title."
+711163,Medium,,"Generate a payroll register, deduction and other earnings report: to include employment type."
+711164,High,,"Generate a payroll register, deduction and other earnings report: to include taxable gross."
+711165,Medium,,"Generate a payroll register, deduction and other earnings report: Federal/State exemption status."
+711166,High,,Generate tracking reports linked to labor distribution fields.
+711167,Medium,,Generate a leave report by leave pay type.
+711168,Medium,,"Automate the scheduling, generation and distribution of reports."
+711169,Medium,,"System provides the ability to track and report SAD reserve cost by executive order, mission and unit number."
+711170,Medium,,"Report on UI work history requests including amounts paid, dates paid, hours paid, termination reason, and disciplinary events."

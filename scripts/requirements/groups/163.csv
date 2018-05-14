@@ -1,0 +1,37 @@
+"Section:HRP-Payroll, Audit and Controls (36 Reqs)"
+711064,Low,,Specify expected minimum and maximum hours and amounts: statewide.
+711065,Low,,Specify expected minimum and maximum hours and amounts: by organizational unit.
+711066,Low,,Specify expected minimum and maximum hours and amounts: by other user-specified control total.
+711067,Medium,,"Validate beginning balances against ending balances from last run, stopping the processes if error occurs (must consider any  valid transactions that have occurred between pay cycles)."
+711068,Medium,,"Define error condition counters that will allow payroll to continue processing if individual errors occur, but will stop processing if  large numbers of errors are identified (indicating an underlying set-up problem)."
+711069,Medium,,Generate validations at field level for both online and batch input: to include data required for new employees.
+711070,Medium,,Generate validations at field level for both online and batch input: to include changes for current employees on the master file.
+711071,Medium,,Generate validations at field level for both online and batch input: to include deduction changes.
+711072,Medium,,Generate validations at field level for both online and batch input: to include valid cost accounting data elements.
+711073,Medium,,"Generate validations at field level for both online and batch input: to include balance of total rate, hours, over-time hours,  exception hours."
+711074,Medium,,Generate validations at field level for both online and batch input: to include leave balances.
+711075,Medium,,"Generate adjustments to and reconciliation of YTD information by: employee pay, deductions, and taxes."
+711076,Medium,,Generate adjustments to and reconciliation of YTD information by: employer deductions and taxes.
+711077,Medium,,Generate adjustments to and reconciliation of YTD information by: government reporting for each employee.
+711078,Medium,,Generate adjustments to and reconciliation of YTD information by: organization unit.
+711079,Medium,,Generate adjustments to and reconciliation of YTD information by: other user-specified criteria.
+711080,High,,Maintain historical records for every financial transaction as a complete audit trail.
+711081,High,,Budget department and agencies need ability to certify the release of the payroll based on valid fund availability.
+711082,High,,Generate a complete audit trail of all records updated online.
+711083,High,,"Generate a payroll proof list of all payroll calculations, gross-to-net, before check / warrants are produced to include: hours by  type."
+711084,High,,"Generate a payroll proof list of all payroll calculations, gross-to-net, before check / warrants are produced to include: earnings by  type."
+711085,High,,"Generate a payroll proof list of all payroll calculations, gross-to-net, before check / warrants are produced to include: employee  tax liabilities."
+711086,High,,"Generate a payroll proof list of all payroll calculations, gross-to-net, before check / warrants are produced to include: employee  deduction amount."
+711087,High,,"Generate a payroll proof list of all payroll calculations, gross-to-net, before check / warrants are produced to include: employer  contribution amount."
+711088,High,,"Generate a payroll proof list of all payroll calculations, gross-to-net, before check / warrants are produced to include: Employee  ID and Name."
+711089,High,,"Generate a payroll proof list of all payroll calculations, gross-to-net, before check / warrants are produced to include:  organizational unit."
+711090,High,,"Generate a payroll proof list of all payroll calculations, gross-to-net, before check / warrants are produced to include: employer  portion of all taxes."
+711091,High,,"Generate a payroll proof list of all payroll calculations, gross-to-net, before check / warrants are produced to include: any user- specified chart of account field or combination of fields."
+711092,High,,"Generate a payroll proof list of all payroll calculations, gross-to-net, before check / warrants are produced to include: totals by  employee, COA fields, Agency, State."
+711093,High,,"Generate a payroll proof list of all payroll calculations, gross-to-net, before check / warrants are produced to include: FLSA code."
+711094,High,,"Generate a payroll proof list of all payroll calculations, gross-to-net, before check / warrants are produced to include: confirmation  of availability for funding and funding source by organization unit."
+711095,High,,"Generate a payroll proof list of all payroll calculations, gross-to-net, before check / warrants are produced to include: payment  type (check or ACH)."
+711096,High,,"Generate a payroll proof list of all payroll calculations, gross-to-net, before check / warrants are produced to include: schedule  range."
+711097,High,,"Generate a payroll proof list of all payroll calculations, gross-to-net, before check / warrants are produced to include: class  code/title."
+711098,High,,"Generate a payroll proof list of all payroll calculations, gross-to-net, before check / warrants are produced to include: taxable  gross."
+711099,High,,"Generate a payroll proof list of all payroll calculations, gross-to-net, before check / warrants are produced to include:  Federal/State exemption status."

@@ -1,0 +1,8 @@
+"Section:HRP-Payroll, Annual Processing (7 Reqs)"
+711057,Medium,,"Produce W-2 forms, including multiple W-2s for multiple state reporting. The system generates the forms, using blank or preprinted  forms, in the correct format and has the ability to select from varying formats (i.e. mailer or side by side). Additionally, the  system provides for direct mail of the forms to the employees."
+711058,High,,Include employee organization mailing information for the return address on W-2.
+711059,High,,"Print multiple W-2's by department, agency by employee."
+711060,High,,Calculate and produce duplicate W-2 forms for multiple years.
+711061,High,,"Create a simple method of ""resetting"" the system for a new calendar year, taking into account business rules for setting amount  fields to zero and carrying forward relevant balances."
+711062,Medium,,Print multiple W-2C's once corrections have been made.
+711063,Medium,,Properly tax and issue of final check and year end 1099 for deceased employees.

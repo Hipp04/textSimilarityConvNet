@@ -1,0 +1,27 @@
+"Section:PL-Procurement, Vendor Selection (26 Reqs)"
+715302,High,,Provide the ability to select vendors to receive the solicitation taking into consideration each of the following (but not limited to):  Vendor registration information.
+715303,High,,Provide the ability to select vendors to receive the solicitation taking into consideration each of the following (but not limited to):  Vendor identified as supporting the requested commodity class/subclass per vendor file.
+715304,Medium,,Provide the ability to select vendors to receive the solicitation taking into consideration each of the following (but not limited to):  Vendor's geographic area.
+715305,High,,Provide the ability to select vendors to receive the solicitation taking into consideration each of the following (but not limited to):  Vendor identified as suggested source by agency on purchase requisition.
+715306,Medium,,Provide the ability to select vendors to receive the solicitation taking into consideration each of the following (but not limited to):  Vendor has previous history of responding on a specific commodity (even if no longer registered).
+715307,High,,"Provide the ability to select vendors to receive the solicitation taking into consideration each of the following (but not limited to):  For re-procurements, select all vendors that previously bid on the most recent version of the procurement, by commodity."
+715308,High,,"Provide the ability to select vendors to receive the solicitation taking into consideration each of the following (but not limited to):  Vendor status (e.g., ineligible, suspended, etc.)."
+715309,Medium,,Provide the ability to select vendors to receive the solicitation taking into consideration each of the following (but not limited to):  Vendor performance.
+715310,High,,Provide the ability to select vendors to receive the solicitation taking into consideration each of the following (but not limited to):  Small and Minority-owned Business /West Virginia Business/Other Targeted Businesses status identified as supporting  commodity requested per vendor file.
+715311,Medium,,Provide the ability to select vendors to receive the solicitation taking into consideration each of the following (but not limited to):  Maximum or minimum number of vendors to be selected.
+715312,Medium,,Provide the ability to select vendors to receive the solicitation taking into consideration each of the following (but not limited to):  Other user-defined criteria.
+715313,Medium,,"Provide the ability for the purchasing agent to edit the solicitation list of registered vendors, including ability to add/supplement,  select/deselect vendors from the solicitation list with appropriate approval. History of updates and changes to the solicitation list  will be maintained."
+715314,High,,Secure Proprietary information submitted by vendors.
+715315,High,,Provide the ability to display during the vendor/bidder selection process: Vendor Name.
+715316,High,,Provide the ability to display during the vendor/bidder selection process: Vendor address (city and state).
+715317,High,,Provide the ability to display during the vendor/bidder selection process: Telephone number.
+715318,High,,Provide the ability to display during the vendor/bidder selection process: Vendor contact person.
+715319,High,,Provide the ability to display during the vendor/bidder selection process: Vendor contact phone number.
+715320,High,,Provide the ability to display during the vendor/bidder selection process: Vendor contact email address.
+715321,High,,"Provide the ability to display during the vendor/bidder selection process: Vendor status (e.g. active, inactive, ineligible, etc.)."
+715322,High,,Provide the ability to display during the vendor/bidder selection process: Vendor Tax Identification number.
+715323,High,,Provide the ability to display during the vendor/bidder selection process: Vendor ID number.
+715324,High,,Provide the ability to display during the vendor/bidder selection process: DUNS number.
+715325,Medium,,Provide the ability to display during the vendor/bidder selection process: Vendor fax number.
+715326,Medium,,Provide the ability to display during the vendor/bidder selection process: Vendor web address.
+715327,High,,Provide the ability to capture vendors selected for a solicitation (who solicitation was sent to). Captured data includes vendor  characteristics such as small/minority-owned/other targeted business designations.

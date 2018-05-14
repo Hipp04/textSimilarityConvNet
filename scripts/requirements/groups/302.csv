@@ -1,0 +1,22 @@
+"Section:PL-Procurement, Tabulation / Evaluation (21 Reqs)"
+715423,High,,Provide the ability to keep all responses secure until user-defined opening/closing date and time (except for reverse auctions and  informal bids).
+715424,High,,Provide the ability to download solicitation responses in industry standard file formats for evaluation and then be able to upload  back to the system.
+715425,High,,Provide the ability to properly calculate unit costs based on vendor responses and on user-defined formulas. Values for certain  variables can be entered at the time of evaluation. Applicable to life cycle costing.
+715426,High,,"Provide the ability to tabulate and award entire bid packages, selected line item(s), or pre-grouped line items (Market Basket /  Core List)."
+715427,High,,Provide the ability for unit of measure conversions and/or ability to define specific conversion factors.
+715428,High,,"Provide the ability to establish evaluation criteria, assign weights to those criteria, and then tabulate/evaluate responses by those  criteria."
+715429,High,,Provide the ability to specify a percentage by which to adjust the bid price based on certain criteria.
+715430,High,,"Provide the ability to convert bid responses to enable ""apples-to-apples"" tabulation comparisons (e.g., different units of measure,  different packaging/bundling, etc.)."
+715431,High,,Provide the ability to prevent changes to the original bid submittal.
+715432,High,,Provide the ability for purchasing agents to view responses and vendor comments by line item or by total response.
+715433,High,,Provide the ability to route bid responses for review via role-based workflow.
+715434,High,,Provide the ability for comparison and summary of multiple vendors and to automatically identify the lowest bid (overall and by  line item) once all bids have been entered in the bid tabulation file.
+715435,Medium,,Provide the ability for purchasing agents to add purchaser comments to a response.
+715436,High,,Provide the ability for authorized users to record any exceptions to specifications and terms and conditions on the bid tabulation.
+715437,High,,Provide the ability to enter the justification for not selecting the lowest-price bid (best value criteria).
+715438,High,,"Provide the ability for Counter proposals / Best And Final Offers (alternates, multiples or other means)."
+715439,High,,Provide the ability to carry forward pertinent solicitation information to the bid tabulation file to reduce data entry.
+715440,High,,Provide the ability to post the bid tabulation to the State's Website for public view.
+715441,High,,Provide the ability via security to allow only the purchasing agent or specified Purchasing staff to view all associated information  that is under evaluation prior to award.
+715442,High,,"Provide the ability to score, weight, and rank non-price evaluation criteria for use when scoring bids, EIO, RFPs etc."
+715443,High,,"Provide the ability to download, upload and print solicitation tabulations."

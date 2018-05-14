@@ -1,0 +1,8 @@
+"Section:SW-General and Technical, Job Scheduling and Processing (7 Reqs)"
+718309,High,,Provides job scheduling tools to automate administrative tasks such as data base backups or regular report production.
+718310,High,,Provide ability to establish job dependencies and control subsequent job execution based on user-defined condition codes.
+718311,High,,Allow authorized users to control priority of the batch process.
+718312,High,,Allow authorized users to control job start time.
+718313,High,,Allow authorized users to control job by transaction type.
+718314,High,,Produce a log of job results.
+718315,High,,Allow scheduling of report and query jobs.

@@ -1,0 +1,23 @@
+"Section:FIN-Asset Management, Depreciation (22 Reqs)"
+705938,Medium,,Provide ability to generate either financial or memo transactions to the General Ledger for capital asset depreciation expense in  specified funds.
+705939,Medium,,Provide ability to process depreciation on-line or in a batch process.
+705940,Medium,,"Perform the following depreciation functions, including, but not limited to: Provide depreciation schedules on fixed assets."
+705941,Medium,,"Perform the following depreciation functions, including, but not limited to: Generate user-defined (monthly, quarterly, annually)  depreciation by asset for any element in the classification structure."
+705942,Medium,,"Perform the following depreciation functions, including, but not limited to: Automatically calculate depreciation in accordance with  the depreciation method and convention where designated for an asset."
+705943,Medium,,"Perform the following depreciation functions, including, but not limited to: Maintain multiple asset basis values for each asset if  desired, utilizing industry-standard depreciation methods."
+705944,Medium,,"Perform the following depreciation functions, including, but not limited to: Automatically charge depreciation to multiple chart of  accounts for split-ownership assets."
+705945,Medium,,Provide ability for multiple depreciation schedules to be applied to an asset to support varying depreciation reporting  requirements.
+705946,Medium,,"Provide ability to change asset useful life, value basis, salvage value, and depreciation method, when necessary, and  automatically recalculate depreciation expense in accordance with such changes (with proper authorization)."
+705947,Medium,,Provide ability to simulate depreciation calculations for individual assets or a group of assets without being required to post the  results.
+705948,Medium,,Provide allocation tables that can be user-defined to allocate asset cost and depreciation expense.
+705949,Medium,,"Store an acquisition date and a depreciation-start date, without the dates having to be the same."
+705950,Medium,,"Provide ability to perform multiple depreciation methods, including but not limited to: Straight Line."
+705951,Medium,,"Provide ability to perform multiple depreciation methods, including but not limited to: Declining Balance."
+705952,Medium,,"Provide ability to perform multiple depreciation methods, including but not limited to: Sum of the Years Digits."
+705953,Medium,,"Provide ability to perform multiple depreciation methods, including but not limited to: Hours / Mileage / Age."
+705954,Medium,,"Provide ability to perform multiple depreciation methods, including but not limited to: User-Defined."
+705955,Medium,,Prevent the depreciating of an asset's value below zero.
+705956,Medium,,"Provide ability to record different conventions for depreciable assets, such as beginning of month, half year, mid-month, etc."
+705957,Medium,,"Allow depreciation methods to be changed for an asset or a group of assets, to depreciate the assets for the balance of the  asset's useful life with proper authorization."
+705958,Medium,,"Allow individual assets to be designated as depreciable or non-depreciable (e.g., land)."
+705959,Medium,,Provide ability to calculate and allocate depreciation based on the funding source used to purchase the asset.

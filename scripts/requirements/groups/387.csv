@@ -1,0 +1,6 @@
+"Section:PL-Transportation Asset Inventory, General (5 Reqs)"
+717040,High,,Provide a flexible/extensible asset data repository to support managing all types of assets on the transportation network.
+717041,High,,"Support all transportation modes including highways, tolled facilities, road and bridge infrastructure within State park facilities,  rails, transit, ports and airports."
+717042,High,,"Support tracking of assets in which WVDOT is the owner/operator and assets in which WVDOT is a grantor or funding partner  such as airports, ports and transit facilities."
+717043,High,,"Integrate as required with the other transportation asset management functions within ERP including bridge management,  pavement management, transportation operations management and safety management."
+717044,High,,"Integrate as required with other ERP functions including but not limited to asset management, grants management, project  management, facilities management, fleet management, real estate management and right-of-way and utilities."

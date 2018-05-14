@@ -1,0 +1,16 @@
+"Section:SW-General and Technical, System Documentation (15 Reqs)"
+718323,High,,"Provide user documentation that is comprehensive, clear and easy to use. For example, user documentation must provide quick  answers to questions regarding the navigation of application screens, execution of pre-defined reports, and use of the ad-hoc  query capability. It must also contain clear and thorough descriptions of all screen and batch processing functions, screen data,  programs, system reports, and any processing parameters."
+718324,High,,Provide all system documentation and manuals electronically.
+718325,Medium,,Provide search functions for on-line documentation.
+718326,High,,Provide comprehensive technical system documentation and technical manuals for the ERP system including third party add-on  modules for information systems personnel.
+718327,High,,Include program descriptions in technical system documentation.
+718328,High,,Include screen definitions and descriptions in technical system documentation.
+718329,High,,"Include database definitions, logical data model, and record layouts in technical system documentation."
+718330,High,,Include security administration documentation in technical system documentation.
+718331,High,,Include installation documentation in technical system documentation.
+718332,High,,Include performance tuning documentation in technical system documentation.
+718333,High,,Include workflow process and administration documentation in technical system documentation.
+718334,High,,Include process flow documentation in technical system documentation.
+718335,Medium,,"Enable users to incorporate user-defined documentation into system documentation (e.g., user procedures, business rules, etc.)  which is accessible in the same manner as vendor provided documentation."
+718336,Low,,Allow for maintaining version control of user-defined documentation.
+718337,Medium,,Incorporate user-defined documentation automatically during the upgrade process.

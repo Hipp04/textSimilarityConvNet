@@ -1,0 +1,10 @@
+"Section:FIN-FHWA Billing, Integration with other modules (9 Reqs)"
+707296,High,,Support the full integration with the following: General Ledger.
+707297,High,,Support the full integration with the following: Accounts Payable.
+707298,High,,Support the full integration with the following: Accounts Receivable.
+707299,High,,Support the full integration with the following: Grants.
+707300,High,,Support the full integration with the following: Projects.
+707301,High,,Support the full integration with the following: Payroll.
+707302,High,,"Interface with other systems which may initially record the receivable, cash receipt or invoice amount."
+707303,High,,Interface with Primavera for agreement information for billing.
+707304,High,,Interface with federal agreement development and modifications to FHWA's FMIS.

@@ -1,0 +1,3 @@
+"Section:PL-Transportation Asset Inventory, Maintenance History (2 Reqs)"
+717450,Medium,,Integrate with the ERP transportation operations management function to provide the capability to view a log of major  maintenance activity for each asset in the asset inventory. This function must provide the following information: date  maintenance was performed; maintenance shop and crew performing the work; crew leader; work order number; and type of  work performed.
+717451,Medium,,Integrate with ERP facilities management function to display work order history for facility maintenance activities.

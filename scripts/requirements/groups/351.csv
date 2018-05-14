@@ -1,0 +1,16 @@
+"Section:PL-Right-of-Way and Utilities, Contract Management (15 Reqs)"
+716561,Medium,,"Integrate with the ERP procurement function to access and maintain a list of contract appraisers, attorneys, right-of-way services  firms and firms performing disinterment and reinterment services. Information available for review should exclude any personally  identifying information."
+716562,Medium,,Provide the ability to search a list of real estate specific capabilities and specifications which a consultant is authorized to perform.
+716563,Medium,,"Integrate with the ERP procurement function to maintain a list of key staff members at each appraisal or right-of-way services  firm. This should include vendor identification number, company name, employee name, phone number, fax number, email  address, physical address, functional role if applicable (e.g. project manager, appraiser, right-of-way agent, etc.) and any  licenses and certifications which the individual holds."
+716564,High,,Integrate with the ERP contracts management function to support the consultant selection process for appraisal and other right- of-way acquisition services.
+716565,Medium,,Define a proposed consultant scope of work including a description and the items of work to be performed.
+716566,Medium,,"Record WVDOT estimate of cost of performing services and create pre-encumbrance for this amount against appropriate project,  project phase and funding source."
+716567,Medium,,Record consultant responses to WVDOT issued scopes of work.
+716568,Medium,,Document WVDOT selection of consultant including selection team scoring and comments.
+716569,High,,"Integrate with ERP purchasing to create purchase order for selected consultant and encumber funds against appropriate project,  project phase and funding sources."
+716570,High,,"Integrate with the ERP contracts management function to support the creation, maintenance and tracking of contracts for any  contracted services such as appraisals, etc."
+716571,High,,"Track contract number, contract amount, contract effective date, contract expiration date, vendor contacts for the contract and  other contract attributes."
+716572,Medium,,Support creation and modification of consultant contract templates in system as required.
+716573,Medium,,"Generate consultants contracts in the system using contract templates as required, based on a set of parameters."
+716574,Medium,,"Support creation, review, approval and execution of contract change orders."
+716575,Low,,Record consultant performance ratings on a specific scope of work.

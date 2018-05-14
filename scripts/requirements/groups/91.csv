@@ -1,0 +1,57 @@
+"Section:FIN-Project Management, Project Accounting (56 Reqs)"
+708171,High,,Provide an interface to DOA's Primavera system for tracking project details.
+708172,High,,"Provide an interface to WVDOT's Primavera system for tracking project details (Project creation, milestones)."
+708173,High,,"Export information from system into ERP projects function from Primavera Program to update milestone dates based on any  changes to dates for individual parcels, etc. which are impacting the overall dates for the right-of-way phase. This will allow for  easier updates when project delays may occur, reducing risk of any late surprises."
+708174,High,,"Completely integrated with other system modules to provide real-time transactional information for requisitions, contracts and  labor distributions. These modules include: Purchasing."
+708175,High,,"Completely integrated with other system modules to provide real-time transactional information for requisitions, contracts and  labor distributions. These modules include: Accounts Payable."
+708176,High,,"Completely integrated with other system modules to provide real-time transactional information for requisitions, contracts and  labor distributions. These modules include: Grants."
+708177,High,,"Completely integrated with other system modules to provide real-time transactional information for requisitions, contracts and  labor distributions. These modules include: Payroll."
+708178,High,,"Completely integrated with other system modules to provide real-time transactional information for requisitions, contracts and  labor distributions. These modules include: Real Estate."
+708179,High,,"Completely integrated with other system modules to provide real-time transactional information for requisitions, contracts and  labor distributions. These modules include: Time and Labor."
+708180,High,,"Completely integrated with other system modules to provide real-time transactional information for requisitions, contracts and  labor distributions. These modules include: Cost Accounting."
+708181,High,,Accommodate the change order process for projects.
+708182,High,,Accommodates multiple change orders.
+708183,High,,Track retainage and release by user-defined percentages.
+708184,High,,Provide the ability to designate a project to be capitalized or not upon completion e.g.. Infrastructure for WVDOT.
+708185,High,,Assign indirect cost codes.
+708186,High,,Track both contracts and in-house spending to a project.
+708187,High,,Transfer transaction detail from one project to another.
+708188,High,,Accommodates multiple transfers of funds between projects.
+708189,High,,Automatically set aside retainage by multiple user-defined percentages and release formulas.
+708190,High,,Record non-financial data without affecting financial accounts.
+708191,High,,"Differentiate between direct and indirect costs and identify the type of costs (i.e., fixed, fixed plus flat fee, etc.)."
+708192,High,,Track multiple contracts to a single project.
+708193,High,,Track a single contract to multiple projects.
+708194,High,,"Allow input, adjustments, and transfer of costs at the lowest level of account coding."
+708195,High,,"Generate on-line, user defined warning when project and phase expenditures nears or exceeds the original project estimates  and/or the current approved project estimates."
+708196,High,,"Alert user with a flag or warning when project budget is overcharged either by overall project, phase, or task and allows the  overcharge only with proper security."
+708197,High,,"Maintain multiple types of project completions/status. For example, project may be complete from a performance viewpoint but  still open for accounting purposes."
+708198,High,,"Provide the ability to prevent charges from being allocated to a closed project, sub-project, or phase with the ability to override  with the proper security."
+708199,High,,Prevent contractors from getting paid prior to the official start date of the project with the ability to override with the proper  security.
+708200,High,,Prevent contractors from getting paid until access requirements and ADA regulations are met with the ability to override with the  proper security.
+708201,High,,"Provide a flag that prerequisites have been met. Prevent contractors from getting paid until prerequisites are met with the ability  to override with the proper security. E.g. insurance, Worker's Compensation."
+708202,High,,Allow processing of project-related revenue transactions outside of the project service dates (with override capability).
+708203,High,,"Identify expenditures by grant number, project number, and outstanding encumbrances for specific project number."
+708204,High,,"When security allows overcharge, no other users other than the specified user can charge against the project budget."
+708205,High,,Track project and contract costs and encumbrances by equipment/asset categories.
+708206,High,,Allocate and track budget dollars by selected user-defined levels.
+708207,High,,Increase or decrease the maximum amount of project funding with proper security.
+708208,High,,Provide a workflow with routing for approvals for project funding change request.
+708209,High,,Validate charges against project master files to determine if: Charges are to open projects.
+708210,High,,Validate charges against project master files to determine if: Accounts charged are valid for specified projects.
+708211,High,,Obtain project titles online to assist in proper identification for data entry.
+708212,High,,Allocate an amount of revenue/ expenditure by entered percentages to various projects.
+708213,High,,Allow posting of non-financial transactions to project ledgers without corresponding posting to general ledger accounts.
+708214,High,,Maintain accrual and cash basis balances.
+708215,High,,Track multiple year expenditures.
+708216,High,,Accumulate balances for: Actual.
+708217,High,,Accumulate balances for: Budgets.
+708218,High,,Allow or disallow spending of anticipated revenue for each project.
+708219,High,,"Generate cash profiles for specified grants, projects, or programs for specified time periods. Profiles will detail and summarize all  transaction types which directly or indirectly reflect cash usage or receipts by specified grants or program."
+708220,High,,Calculate interest liability based on clearance pattern analysis and daily cash balances.
+708221,High,,Allow an occupied building or a portion of the building to be capitalized even though the project has not been closed out.
+708222,High,,"The ability to record fixed assets that are purchased outside state procurement process (e.g., contractor procures a commercial  oven on behalf of state)."
+708223,High,,"Track internal administrative fees related to the project (e.g., general, change order, and other)."
+708224,High,,Track the utilization of toll credits (FHWA) with automated accounting entries.
+708225,High,,Support the ability to report FHWA improvement types.
+708226,High,,"Allows inquiries into project budgets, pre-encumbrances/encumbrances, revenues, and expenditures at any project hierarchy  (phase, activity)."

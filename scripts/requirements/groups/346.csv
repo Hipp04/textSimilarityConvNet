@@ -1,0 +1,46 @@
+"Section:PL-Right-of-Way and Utilities, Negotiation and Acquisition (45 Reqs)"
+716458,High,,Assign a right-of-way agent negotiator to each parcel.
+716459,Medium,,Notify right-of-way agent/negotiator in the system and via email of the parcel assignment.
+716460,High,,Generate 90-day notification letter to property owner based on request by an authorized user and document the date of the letter  in the system. This letter is typically sent by a WVDOT district right-of-way agent.
+716461,High,,Generate 30-day notification letter documenting requirement for property owner to vacate the property based on a request by an  authorized user and document the date of the letter in the system. This letter is normally sent by a district right-of-way agent.
+716462,High,,"Provide ability to display or print the WVDOT right-of-way questionnaire which provides in a one page format information about  the parcel including location, owners, mineral rights/leases, tenants and deeds, etc."
+716463,High,,"Document acquisition and negotiation activities/ log. This includes ability for parcel negotiator to enter all acquisition and  negotiation information in the system, including times of contact with owner, offers/promises made, acceptance/rejection or  counter offer by owner, location of the conversation, in-person, mail, phone, etc."
+716464,High,,"Document the sex and ethnicity of the owner for statistical reporting purposes (minority, non-minority and/or female)."
+716465,High,,Store approved valuation for negotiation.
+716466,High,,Store approved valuation for negotiation if owner retains structures.
+716467,High,,"Document each negotiating session including the date, time, place and individuals present."
+716468,High,,Document a brief summary of the explanation provided about the WVDOT's acquisition process.
+716469,High,,Document a brief summary of the explanation of the full effect of the take.
+716470,High,,Document offer made for land and improvements.
+716471,High,,Document offer made to allow owner to retain improvements and appurtenances.
+716472,High,,Document counter offers if any.
+716473,Medium,,Document person right-of-way pamphlet was delivered to and the date provided.
+716474,Medium,,Document person relocation brochure was delivered to and the date provided.
+716475,Medium,,Document to whom the copy of the option was delivered to and the date provided.
+716476,Medium,,Document who the statement of compensation was delivered to and the date provided.
+716477,Medium,,Document replacement housing amount and to whom this amount was given to and the date provided.
+716478,High,,Document any reasons a settlement cannot be reached.
+716479,High,,Document the owner's comments or those of the owner's representative.
+716480,Medium,,Document other relevant information from the negotiations.
+716481,High,,Document property owner's acceptance or rejection of the offer.
+716482,High,,Generate negotiator's certification based on property owners acceptance of the offer and a request by assigned right-of-way  agent.
+716483,High,,Document amount of administrative settlement if any (amount of offer agreed to in excess of documented just compensation).
+716484,High,,Route administrative settlement for approval via work flow based on user defined business rules.
+716485,High,,Support electronic review and approval of administrative settlements by FHWA West Virginia Division office.
+716486,High,,Document assignment of closing attorney.
+716487,High,,Document scheduled closing date.
+716488,High,,"Integrate with ERP accounts payable function to initiate payment request for accepted offer. This should include pre- encumbrance for acquisition amount against project and project phase. This must include capability to generate multiple warrant  requests if property has multiple property owners, trusts, amounts due on mortgage to bank, etc."
+716489,Medium,,Calculate and document property owner claim for pro-rata share of taxes paid by the property owner on portion of property  acquired by WVDOT.
+716490,Medium,,Integrate with ERP accounts payable to initiate payment request to reimburse property owner for their pro-rata share of taxes  paid on property acquired by WVDOT. This includes creating the appropriate pre-encumbrance on the project and project phase.
+716491,Medium,,"Generate negotiator's progress report for a specific month or other user defined period. This report will document assigned  parcels by project and parcel number, whether it is a central office or district project and the status of each parcel including date  of deed/option; amount of deed/option; targeted or actual closing date; date of request for condemnation; amount deposited in  court; and date of right of entry."
+716492,Medium,,Provide an alert via email and a notice in the system to the assigned WVDOT project manager and the district right-of-way  manager and other users based on business rules to flag when parcel acquisition dates are slipping from plan by more than a  user defined set of days or a certain user defined % of parcels are not acquired.
+716493,High,,Document completion of closing process.
+716494,High,,Document date on which possession is taken of the property.
+716495,Medium,,"Document collection of keys to structures, the date collected and by whom."
+716496,Medium,,Document ordering and completion of required asbestos inspection.
+716497,Medium,,Document scheduled demolition date and firm performing demolition.
+716498,Medium,,Document date of completion of demolition.
+716499,Medium,,Integrate with BRIM where required to add property to the BRIM database for insurance purposes. This applies in cases of non  highway use/uneconomic remnant or if a structure is remaining for some period of time.
+716500,Medium,,Integrate with the ERP real estate function to add all parcels acquired to the inventory of State real estate and facilities pre- populating the inventory with all available information.
+716501,Medium,,Integrate with the ERP transportation asset inventory function to add all parcels acquired to the transportation asset inventory pre- populating the inventory with all available information.
+716502,High,,Support cost of cure ensuring that these damages payments to a property owner are not subject to taxes.

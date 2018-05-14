@@ -1,0 +1,22 @@
+"Section:FIN-Accounts Receivable, Setoff (21 Reqs)"
+705528,Medium,,Provide ability to classify receivables and payables by type in order to determine which are qualified to be included in the Setoff  Program.
+705529,Medium,,Provide ability to specify a hierarchy for which receivables/payables to offset first.
+705530,Medium,,Provide ability to specify rules for amount that is to be charged for each collection by the Department of Administration for the  Setoff Program.
+705531,Medium,,Provide ability to match payables to aged receivables for Setoff processing.
+705532,Medium,,Provide ability to net receivables against payables with payables balance (if applicable) to continue for payment processing.
+705533,Medium,,Provide ability to flag and/or release payables that are not eligible for setoff processing.
+705534,Medium,,"Provide ability to notify the appropriate payable agency/department, receivable agency/department, and the debtor/vendor of the  setoff transaction."
+705535,Medium,,Provide ability to specify details of the receivables and payables on each billing statement.
+705536,Medium,,Provide ability for notification to debtor/vendor regarding set-off transaction including details and remaining debt balance.
+705537,Medium,,Provide ability to upload data using standard file format.
+705538,Medium,,Provide ability to allow manual and automatic upload of files.
+705539,Medium,,"Provide ability for detailed statement of transactions including beginning balance, transactions details by date, and ending  balance for a user-defined time period."
+705540,High,,"Provide ability for statement to be viewed on-line, printed for one vendor or printed for all debtor/vendors in batch."
+705541,Medium,,Provide ability for download/interfaces which includes but not limited to: Customer ID.
+705542,Medium,,Provide ability for download/interfaces which includes but not limited to: Social Security number/Federal Employment  identification number.
+705543,Medium,,Provide ability for download/interfaces which includes but not limited to: Name.
+705544,Medium,,Provide ability for download/interfaces which includes but not limited to: Total dollar amount owed by category.
+705545,Medium,,Provide ability for download/interfaces which includes but not limited to: Setoff category.
+705546,Medium,,Provide ability to compare vouchers against set-off receivable list to identify vendors who are eligible for set-off by matching  social security or FEIN number.
+705547,Medium,,Provide ability to put hold on voucher if vendor is identified as eligible for set-off.
+705548,Medium,,Provide ability to override hold on voucher with proper authority.

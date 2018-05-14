@@ -1,0 +1,65 @@
+"Section:PL-Facilities Management, Contract Resources (64 Reqs)"
+713756,High,,Integrate with the ERP procurement function to obtain information about contractors performing facilities maintenance work.
+713757,High,,Maintain a database of contractor information as it pertains to facilities management activities.
+713758,High,,Store and display vendor number.
+713759,High,,Store and display company name.
+713760,High,,Store and display address.
+713761,High,,Store and display contact person and phone number.
+713762,High,,Store and display contract history by contract number and description.
+713763,Medium,,Store and display purchase order history by purchase order number and description.
+713764,Medium,,Store and display cost and quantity of all bid items on each purchase order.
+713765,Medium,,Store and display Insurance information.
+713766,Medium,,"Store work order history including work order, start/stop dates, district, maintenance unit and maintenance activities performed."
+713767,Medium,,Provide the ability to track project specific construction contracts.
+713768,Medium,,Store and display contract number for each project specific construction contract.
+713769,Medium,,Store and display facility for each project specific construction contract.
+713770,Medium,,Store and display sub-facility for each project specific construction contract.
+713771,Medium,,Store and display systems or components (multiple) for each project specific construction contract.
+713772,Medium,,Store and display vendor number for each project specific construction contract.
+713773,Medium,,Store and display vendor name for each project specific construction contract.
+713774,Medium,,Store and display purchase order number for each project specific construction contract.
+713775,Medium,,Store and display work order number for each project specific construction contract.
+713776,Medium,,Store and display contract start date for each project specific construction contract.
+713777,Medium,,Store and display contract end date for each project specific construction contract.
+713778,Medium,,Store and display a description of the work for each project specific construction contract.
+713779,Medium,,Store and display the contract line items for each project specific construction contract.
+713780,Medium,,Store and display the line item prices for each project specific construction contract.
+713781,Medium,,"Store and display the contract type (fixed fee, cost plus fixed fee, hourly, etc.) for each project specific construction contract."
+713782,Medium,,Store and display the billing frequency for each project specific construction contract.
+713783,Medium,,Provide the ability to track indefinite quantity construction contracts.
+713784,Medium,,Store and display the contract number for each indefinite quantity construction contract.
+713785,Medium,,Store and display the vendor number for each indefinite quantity construction contract.
+713786,Medium,,Store and display the vendor name for each indefinite quantity construction contract.
+713787,Medium,,Store and display the contract start date for each indefinite quantity construction contract.
+713788,Medium,,Store and display the contract end date for each indefinite quantity construction contract.
+713789,Medium,,Store and display the maximum contract value for each indefinite quantity construction contract.
+713790,Medium,,Store and display the contract line items for each indefinite quantity construction contract.
+713791,Medium,,"Store and display the contract type (fixed fee, hourly, unit price, etc.) for each indefinite quantity construction contract."
+713792,Medium,,Store and display the line item prices for each indefinite quantity construction contract.
+713793,Medium,,Store and display the billing frequency for each indefinite quantity construction contract.
+713794,Medium,,Store and display specific work orders for each indefinite quantity construction contract.
+713795,Medium,,Store and display specific purchase orders for each indefinite quantity construction contract.
+713796,Medium,,"Store and display facility, system and components impacted (per work order/purchase order) for each indefinite quantity  construction contract."
+713797,Medium,,Store and display sub facility impacted (per work order/purchase order) for each indefinite quantity construction contract.
+713798,Medium,,Store and display a description of the work performed (per work order/purchase order) for each indefinite quantity construction  contract.
+713799,Medium,,Store and display purchase order line items (per purchase order) for each indefinite quantity construction contract.
+713800,Medium,,Store and display line item quantities (per purchase order) for each indefinite quantity construction contract.
+713801,Medium,,Store and display purchase order value (per purchase order) for each indefinite quantity construction contract.
+713802,Medium,,Store and display total cost to date (per purchase order) for each indefinite quantity construction contract.
+713803,Medium,,Store and display total amount paid to date under the contract for each indefinite quantity construction contract.
+713804,Medium,,"Track facility service contracts (janitorial contracts, elevator, etc.) for one or more facilities or sub-facilities."
+713805,Medium,,Store and display contract number for each facility services contract.
+713806,Medium,,Store and display facility (potentially multiple) for each facility services contract.
+713807,Medium,,Store and display sub facility (potentially multiple) for each facility services contract.
+713808,Medium,,Store and display vendor number for each facility services contract.
+713809,Medium,,Store and display vendor name for each facility services contract.
+713810,Medium,,Store and display purchase order number for each facility services contract.
+713811,Medium,,Store and display work order number (potentially multiple) for each facility services contract.
+713812,Medium,,Store and display contract start date for each facility services contract.
+713813,Medium,,Store and display contract end date for each facility services contract.
+713814,Medium,,Store and display maintenance activity codes (multiple) for each facility services contract.
+713815,Medium,,Store and display contract line items for each facility services contract.
+713816,Medium,,Store and display line item prices for each facility services contract.
+713817,Medium,,"Store and display contract type (fixed fee, hourly, etc.) for each facility services contract."
+713818,Medium,,Store and display billing frequency for each facility services contract.
+713819,Medium,,"Track and display active maintenance contracts (yearly and as needed contracts) by agency such as mowing, litter removal,  sweeping, janitorial, etc."

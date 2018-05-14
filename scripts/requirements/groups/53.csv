@@ -1,0 +1,8 @@
+"Section:FIN-Cost Accounting, Cost Accounting Reporting (7 Reqs)"
+707138,Medium,,Provide for multiple user defined cost reports.
+707139,Medium,,"Report expenses, statistics, revenue by any element in the chart of accounts."
+707140,Medium,,"Provide departmental reports broken down by cost accounting codes, fund, department, and organizational unit."
+707141,Medium,,Generate Medicare Cost Report 2552.
+707142,Medium,,Provide capability to export cost data to excel spreadsheet.
+707143,Medium,,Provide a set of system assurance reports and control totals that reconcile with data source systems.
+707144,Medium,,Provide user-defined reports showing any of the labor distribution elements by a user-specified date range.

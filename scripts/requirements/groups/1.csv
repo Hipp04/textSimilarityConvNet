@@ -1,0 +1,403 @@
+Unknown
+705001,High,AP,"Accumulate and display monthly, year-to-date (calendar or fiscal year), and inception-to-date (for lifetime of vendor) figures for:  Purchases by vendor (i.e., by invoice, purchase order / contract number, purchase item, budget unit)."
+705002,High,AP,"Accumulate and display monthly, year-to-date (calendar or fiscal year), and inception-to-date (for lifetime of vendor) figures for:  Payments to vendor, by contract, contract type, invoice, account."
+705003,High,AP,Produce an accounts payable aging report or inquiry according to user defined aging fields: One or more receiver documents.
+705004,High,AP,Produce an accounts payable aging report or inquiry according to user defined aging fields: Purchase order (Encumbering  Document).
+705005,High,AP,Produce an accounts payable aging report or inquiry according to user defined aging fields: Contract or other encumbering  documents.
+705006,Medium,AP,"Produce an accounts payable aging report or inquiry according to user defined aging fields: Account number (credit card  account, electric bill account)."
+705007,High,AP,Produce an accounts payable aging report or inquiry according to user defined aging fields: Invoice.
+705008,High,AP,"Automatically update the general ledger for commitment (pre-encumbrance), encumbrance, payment voucher, and payment  activities."
+705009,High,AP,Provide for the recording of pre-encumbrances and encumbrances against all elements in the data classification structure.
+705010,High,AP,Automatically reduce an encumbrance when an expenditure transaction is entered.
+705011,High,AP,Automatically update the general ledger on-line and in batch as commitment (pre-encumbrance)s and encumbrances are  liquidated upon entry of encumbrances/expenditures or payables.
+705012,High,AP,Provide ability to perform annual encumbrance and commitments reviews and close-outs at year end.
+705013,High,AP,"Provide for assignment of unique pre-encumbrance and encumbrance document numbers, which are system-generated or  manually entered."
+705014,Medium,AP,Accommodate the recording of: Pre-encumbered encumbrances.
+705015,Medium,AP,Accommodate the recording of: Non pre-encumbered encumbrances.
+705016,High,AP,"Accommodate the recording of: Non-pre-encumbered/non-encumbered vendor invoices, with the appropriate security control."
+705017,High,AP,Provide the ability to enter an invoice number with a minimum of 60 alphanumeric characters available.
+705018,High,AP,Reject transactions for insufficient budget (users with the appropriate level of security having override ability).
+705019,Medium,AP,Determine whether to reject disbursements if insufficient budget balance or allow payment despite lack of sufficient funds.
+705020,High,AP,Provide the ability to flag an appropriation account so that no payments can be disbursed.
+705021,Medium,AP,"For partial payments that the user indicates is a final payment, provide the automatic liquidation of outstanding encumbrance  balances for the invoice amount up to the outstanding encumbrance balance up to a threshold amount."
+705022,High,AP,"Prevent duplicate payments by editing invoice numbers, Tax Id, and dollar amounts."
+705023,High,AP,Prevent duplicate payments by editing invoice numbers (exclusive of leading zeros) and dollar amounts.
+705024,Medium,AP,Provide the ability to override edits errors on duplicate payments based upon invoice or amounts to allow payments by  individuals with the appropriate security.
+705025,Medium,AP,Provide an indicator that determines if the duplicate invoice edit produces fatal (prevents posting) error or warning message.
+705026,Medium,AP,"Provide the ability to automatically establish recurring payments with an end date and frequency (user defined), extension  capability, and the ability to modify chart of accounts coding."
+705027,Medium,AP,Establish recurring payments with an end date when leases are recorded.
+705028,Medium,AP,Establish lease liabilities by fiscal year or accounting period.
+705029,Medium,AP,"Process prepaid expenses (i.e., advanced payment, travel, etc.)."
+705030,Medium,AP,Provide standard payment terms at the vendor level or individual payment terms at the payment level.
+705031,Medium,AP,Generate accrual transactions for goods and services received and not invoiced by period end (month end and year-end).
+705032,Medium,AP,"Establish liability when goods are received. Functionality will include relieving the liability when paid, even if a discount is taken."
+705033,Medium,AP,Support the ability to electronically notify vendors of payment data availability through vendor self service.
+705034,Medium,AP,Provide a flag on the vendor master that indicates the W-9 information is current.
+705035,Medium,AP,Support the ability for a vendor to update W-9 and direct deposit information via self service using Web access.
+705036,Medium,AP,"Allow for payment method options as an override by invoice with proper authority. Example, a county may be required to have a  check payment for a specific invoice, but could have an ACH payment for another. The application should allow for a variety of  payment options based upon invoice not exclusively by payee. ."
+705037,Medium,AP,Support CCD and CTX transactions to allow greater payment detail to the payee and financial institution.
+705038,Medium,AP,Provide standard interfaces for document imaging.
+705039,Medium,AP,Provide the ability to change the due date so that invoices are paid with proper authority.
+705040,Medium,AP,Provide the ability to put an invoice on hold so that it is not paid.
+705041,Medium,AP,"Allow the storage of a due date, discount date and discount percentage."
+705042,Medium,AP,Allow the allocation of an invoice amount to various accounts according to a percentage of the invoice amount.
+705043,High,AP,Accept memo information related to an invoice (including the vendor invoice number) and pass that information along to the  vendor in the form of a remittance advice associated with a warrant or ACH payment.
+705044,Medium,AP,Provide chart of account number distribution changes at the line item level on: Requisition.
+705045,High,AP,Provide chart of account number distribution changes at the line item level on: PO.
+705046,High,AP,Provide chart of account number distribution changes at the line item level on: Invoice.
+705047,High,AP,Provide chart of account number distribution changes at the line item level on: Payment documents.
+705048,Medium,AP,Allow changes to account number distribution after a partial payment has been made.
+705049,Medium,AP,Allow changes to vendor mailing address after a partial payment has been made.
+705050,Medium,AP,Provide the ability to reverse an unpaid payment invoice.
+705051,High,AP,Allow an invoice payment to be charged to multiple funds.
+705052,High,AP,"Allow users the ability to save, retrieve, and update invoice transactions by payee."
+705053,Medium,AP,"Track and report daily, weekly, or monthly future payment requirement schedules (cash requirements reporting) for  disbursements."
+705054,Medium,AP,Provide on line review of unpaid invoices by vendor and/or date.
+705055,High,AP,Associate multiple payment vouchers with a single purchase order.
+705056,Medium,AP,"Provide for automatically generated unique payment voucher numbers for each agency, with override capabilities."
+705057,Medium,AP,Prevent duplicate payment voucher numbers.
+705058,Medium,AP,Allow users to drill down to all purchase order information on-line during payment voucher processing.
+705059,Medium,AP,"Provide the ability to control payments in excess of encumbered amounts by user-defined tolerance limits for each type of  encumbrance (e.g., 10% or $50 over encumbrance amount) provided sufficient spending authority exists."
+705060,Medium,AP,Automatically calculate invoice due date based on invoice date or a user-specified date (such as 30 days from the date of  receipt) and payment terms and schedules optimum payment date based on that calculation.
+705061,High,AP,Provide ability to flag invoices for additional workflow approval upon entry.
+705062,Medium,AP,Provide the ability to indicate whether payment is final or partial upon entry of the invoice.
+705063,High,AP,Allow for the input of invoice receipt date.
+705064,Medium,AP,"Automatically generate payments based on three way matching (invoice, receipt, PO)."
+705065,Medium,AP,Provide the ability to associate a payment with matching purchase documentation and receiving information.
+705066,High,AP,"Highlight discrepancies between purchase order, invoice and receiving document: Unit price variances."
+705067,High,AP,"Highlight discrepancies between purchase order, invoice and receiving document: Quantity received vs. quantity ordered vs.  quantity invoiced."
+705068,Medium,AP,"Highlight discrepancies between purchase order, invoice and receiving document: Extended value of the PO vs. extended value  of the invoice."
+705069,Medium,AP,"Highlight discrepancies between encumbrance, invoice and authorizing documents for non-commodity purchases: Hourly rate for  services (i.e., consulting, contracted personnel services, etc.)."
+705070,Medium,AP,"Highlight discrepancies between encumbrance, invoice and authorizing documents for non-commodity purchases: Deliverables."
+705071,Medium,AP,"Highlight discrepancies between encumbrance, invoice and authorizing documents for non-commodity purchases: Terms of  contract."
+705072,Medium,AP,"Provide for user-defined tolerances in price and quantity, both on the individual line level and a cumulative tolerance on the  header level. As long as the match is within tolerance, payment voucher transaction will be accepted."
+705073,Medium,AP,Require the user to enter additional information for assets valued at a system configured dollar value.
+705074,Medium,AP,Allow input of freight invoices/payments where there may be no corresponding purchase order reference.
+705075,Medium,AP,Provide a report for freight invoice/payment additions with no corresponding purchase order reference.
+705076,Medium,AP,Prevent freight charges on invoices that have FOB destination terms.
+705077,Medium,AP,Automatically default certain line item details for PO related payments during vendor invoice entry with override capability.
+705078,Medium,AP,Provide link to document management stored documents.
+705079,High,AP,Prevent un-authorized users from generating payments to vendors that are not in the vendor table.
+705080,High,AP,Permit disbursements (warrants) to vendors that do not have a unique number in the vendor table (one time vendors).
+705081,High,AP,Provide the ability to provide an external financial/payment system with changes to vendors identified as being used by that  system.
+705082,High,AP,Accept inbound payment requests through an open interface.
+705083,High,AP,"Provide the ability to void or correct payments on-line, with appropriate corrections made to all financial balances."
+705084,Medium,AP,Allow the user with appropriate security to override the default accounting period presented to the user during payment  cancellation.
+705085,High,AP,Produce payment registers.
+705086,Medium,AP,Automatically assign the accounting period for payment transactions based on user defined criteria with an option for manual  override with proper authority and an audit trail.
+705087,High,AP,"Provide the user the ability to correct errors on-line prior to processing a payment (e.g. voucher balance, account number, data  error, remit to address)."
+705088,Medium,AP,Process invoices and payment from prior periods and properly update general ledger with proper authority.
+705089,Medium,AP,Allow for the release of payment vouchers to payment processing by the following: Batch.
+705090,Medium,AP,Allow for the release of payment vouchers to payment processing by the following: Document.
+705091,Medium,AP,Allow for the release of payment vouchers to payment processing by the following: Individual line item.
+705092,High,AP,Track the last warrant number.
+705093,Medium,AP,Provide for late payments charges which can be calculated based on a State defined period interest rate applied to the overdue  balance.
+705094,High,AP,"Provide automatic inclusion of credits and penalties within invoices for late delivery, untimely warranty service, and other  predefined violations of contract terms and conditions."
+705095,Medium,AP,Override invoices rejected for services performed past contract end date to allow payment with penalty for late services.
+705096,High,AP,Provide the ability to consolidate payments across agencies.
+705097,Medium,AP,Allow users the option to not consolidate payments by type of payment method (i.e. consolidate checks but not EFT).
+705098,Medium,AP,Allow the option for a vendor to specify whether or not to consolidate payments by type of payment method (i.e. consolidate  checks but not EFT).
+705099,Medium,AP,Provide an indicator on an invoice to not consolidate payment across agencies.
+705100,High,AP,Prevent payment processing (warrants or direct deposits) until authorized personnel release payment voucher records.
+705101,Medium,AP,"Apply credit and debit memo amounts before producing payment, and apply credit memos only to the extent that they do not  produce a negative payment."
+705102,Medium,AP,Provide notification that vendor has a credit memo that exceeds the payment voucher amount.
+705103,Medium,AP,Allow for recording of credit or debit memo that is netted against or added to other payment vouchers during payment  processing. Payment stub provides detail of netting.
+705104,Medium,AP,Track balance remaining on credit memo and display the invoices to which the credit has been applied.
+705105,Medium,AP,Allow the option of offsetting of a payment due a vendor against a receivable for a debt owed to the State on a request by basis.
+705106,Medium,AP,Allow on demand payments to cover emergency needs with proper authority.
+705107,Medium,AP,Provide a warning message if the account distribution on credit memo transactions is not the same as the original expense  account distribution.
+705108,Medium,AP,Hold all payments to a vendor until the credit balance is exceeded by the amount owed the vendor.
+705109,Medium,AP,Automatically update liability account balances and accounts payable in the general ledger for payment processes.
+705110,Medium,AP,"Track all cash disbursements by financial reporting categories required by GAAP (i.e., other funds, component units, related  governments, private customers, federal)."
+705111,Medium,AP,Provide the ability to accept electronic billings from vendors and process appropriate payments to vendors.
+705112,Medium,AP,Allow for cancellation of payment made in a previous period and enable generation of general ledger transactions in the current  period.
+705113,Medium,AP,Provide the option to produce a single warrant for payment vouchers that have different agency numbers.
+705114,Medium,AP,Allow for correction of payments that were made erroneously to encumbered purchase orders with proper authority.
+705115,Medium,AP,Allow for adjustment of payments made to encumbered purchase orders from a prior year with the adjustment posting in the  current period with proper authority.
+705116,Medium,AP,Provide ability to post an expenditure already approved but not previously posted to an encumbrance with proper authority.
+705117,Medium,AP,Provide ability to transfer an expenditure from one encumbrance to another with proper authority.
+705118,Medium,AP,Provide ability to split a payment between encumbrances with proper authority.
+705119,Medium,AP,Provide ability to have payments partially against a statewide contract but some items that are non contract on the same invoice  with proper authority.
+705120,Medium,AP,View payees for wire and ACH payments.
+705121,Medium,AP,Report payees for wires and ACH payments.
+705122,Medium,AP,Provide the ability to participate in United States Treasury's Financial Management Service Treasury Offset Program (TOPS) by  allowing debts owed to the State or to a state agency to be collected by offset from federal payments to vendor and/or  contractors.
+705123,Medium,AP,"Provide the ability for the Federal Government to offset non-tax debts owed to federal agencies to offset against state payments  to vendors, contractors, or expense reimbursements to an employee of the State."
+705124,Medium,AP,Prevent payments from being produced on a processed payment voucher.
+705125,High,AP,Provide the ability to record refund payments to vendors.
+705126,High,AP,Link refund payments to a specific receipt or collection and the associated revenue transaction.
+705127,High,AP,Provide the ability for a revenue refund to generate a ACH distribution.
+705128,High,AP,Restrict access to confidential payments or refund data to authorized users.
+705129,Medium,AP,Support the process to refund revenue which includes the appropriate accounting entries.
+705130,Medium,AP,Support the process to refund revenue using workflow.
+705131,Medium,AP,Provide the ability to accept and process a file of tax refunds from GenTax/RAPIDS at a detailed level.
+705132,Medium,AP,Support the process to refund revenue which includes document imaging capabilities.
+705133,Medium,AP,Allow payment scheduling by discount date.
+705134,Medium,AP,Provide the ability to automatically distribute discounts taken during payment processing to the general ledger.
+705135,Medium,AP,"Automatically calculate discounts when the payment date is the same as, or prior to, the discount due date with override  capabilities on discount due date."
+705136,High,AP,"Generate vendor payments based on federal rules, due date and discount date (whichever is earliest) to maximize interest  earned and discounts received by the State."
+705137,Medium,AP,"Accommodate time-based discounts based on quantity (e.g., $.03/gallon discount if certain quantity of gasoline is purchased and  paid for within a certain timeframe)."
+705138,Medium,AP,Provide the ability to put a payment on hold.
+705139,High,AP,"Provide mechanism for holding payment to vendors (separate from a Purchasing ""hold"") which have outstanding liabilities to the  State, due to unresolved contractual problems, due to court-ordered garnishments, or for other reasons as dictated by State law  (e.g., failure to pay child support), with the ability to override the hold with the necessary security."
+705140,High,AP,Do not produce a payment for vendors in hold status.
+705141,Medium,AP,"Provide the ability to place a payment ""hold"" on encumbrances/documents such that no payment can be generated until the  ""hold"" is lifted."
+705142,High,AP,"Provide the ability to place a ""hold"" on payments from one agency to a vendor, but maintain the ability for other agencies to  continue to make payments to that vendor."
+705143,High,AP,"Provide ability to place a ""hold"" on payments related to a specific contract for a vendor, but maintain the ability to make payments  associated with other contracts for that vendor."
+705144,Medium,AP,Support deducting monies from payments based on a payment plan including the following methods: Percentage.
+705145,Medium,AP,Support deducting monies from payments based on a payment plan including the following methods: Pre-determined dollar  amount.
+705146,Medium,AP,Support redirecting a vendor payment to a third party such as the IRS.
+705147,High,AP,"Provide for EFT payments and allow ability to specify which type of EFT transaction to use (PPD, CCD, etc.)."
+705148,Medium,AP,Accommodate management of bank transmission files (sorts prenotes and EFT payments by ACH clearing account and send file  at appropriate time).
+705149,High,AP,Retain obsolete EFT vendor bank information for research purposes.
+705150,Medium,AP,Allow effective dating (including future dating) of updated EFT bank information.
+705151,High,AP,Provide for Electronic Benefit Transfer (EBT) payments.
+705152,High,AP,Provide for the use of multiple banks with multiple accounts for both warrants and EFTs.
+705153,Medium,AP,Retain payment information and associated mailing address together.
+705154,Medium,AP,Allow for the recording of deposits to multiple accounts across multiple banks.
+705155,Medium,AP,"Provide the ability to consolidate (or choose not to consolidate) multiple invoices for the same vendor on one warrant, and itemize the invoices (including the vendor invoice number) on the remittance advice."
+705156,High,AP,Allow for an electronic hierarchical payment approval path which includes routing based upon type of expenses and or amounts.
+705157,Medium,AP,"Prohibit attempts to process payments and wire transfers until funds are available, or request is deleted."
+705158,Medium,AP,"Allow for the manual deletion of payments and wire transfers based upon a single item, or a range of items with proper authority."
+705159,Medium,AP,Provide override capabilities to allow a payment or wire transfer when funds are not available with proper authority and audit trail.
+705160,Medium,AP,Provide automatic notification of specified users when a wire transfer payment is approved.
+705161,Medium,AP,Provide the ability to accommodate positive pay banking.
+705162,Medium,AP,Provide the ability to record non-match paid warrants from the bank's warrant file to the system for inquiry on an exception file.
+705163,Medium,AP,"Provide ability to transmit warrant number, $ amount, payee name, general ledger accounting information and issue date of warrants issued."
+705164,Medium,AP,"Provide ability to receive and post paid warrant information, including warrant number, issue date, status/paid date, paid amount and status of warrant, based on the bank account number."
+705165,Medium,AP,"Provide ability to receive electronic payment files from bank and record discrepancies (i.e., differences in dollar amount, status, etc.) in a reconciliation database without updating financial balances (suspense file)."
+705166,Medium,AP,Provide the ability to accommodate the subsequent posting of a bank reversal in the reconciliation database and repost the corrected information to clear the suspense file for an identified mismatch.
+705167,Medium,AP,"Provide the ability to change the issuance number (i.e., manual warrant number recorded incorrectly) with proper security."
+705168,Medium,AP,Provide the ability to allow electronic updates when payment cancellations are confirmed.
+705169,High,AP,Provide the ability to accommodate reverse positive pay banking.
+705170,High,AP,"Provide the ability to produce an exception report of transactions for non-match presented warrants listing the warrant number, issued date, presented date, issued amount, and presented amount."
+705171,High,AP,Provide the ability to update the status of matched presented warrants.
+705172,High,AP,"Provide the ability to change the issuance number (i.e., manual warrant number recorded incorrectly) with proper security."
+705173,High,AP,Provide the ability to allow electronic updates when payment cancellations are confirmed.
+705174,High,AP,"Provide the ability to generate reports and electronic files of cancelled and stale dated warrants, and allow for the transmission of  electronic information."
+705175,High,AP,Provide the ability to accept and post cancellation status and cancellation date of posted stale dated warrants.
+705176,High,AP,Provide the ability for reporting of stale dated and cancelled warrants at any chart of account field or other user-defined criteria.
+705177,High,AP,Provide the ability to post accounting entries to record cancellation information accepted by the system.
+705178,High,AP,"Provide ability to reconcile by warrant number, payee name, issue date, issuance number, and dollar amount."
+705179,High,AP,"Provide the ability to retain cleared warrants for inquiry and/or reporting purposes, including the ability to view the remittance  advice."
+705180,High,AP,Provide for an automated reconciliation of all bank activity (including detailed reconciling items) per the system to bank  transactions received from the State's bank accounts through automated means.
+705181,High,AP,Provide the ability to reconcile treasury cash balances with fund cash balances.
+705182,High,AP,Provide the ability to accommodate multiple bank accounts with multiple banks through the automated bank reconciliation  processes.
+705183,High,AP,Provide the ability to have a manual as well as an automated reconciliation process that can be used at the operator's discretion.
+705184,High,AP,Provide the ability to make corrections or changes during the reconciliation process with appropriate user authorization.
+705185,High,AP,Provide the ability to reconcile cash in the bank with treasury cash balances.
+705186,High,AP,"Provide the ability to produce a monthly detailed Stale Dated Warrants Listing by chart of account fields, by warrant type, by  Agency or other user-defined criteria."
+705187,High,AP,"Provide the ability to produce warrant reconciliation reports of manual transactions by chart of account field and warrant type on  a daily, monthly, or annual basis or by a specified date range."
+705188,High,AP,"Provide the ability print a daily, monthly, annual, or specified date range report of all cleared warrants by warrant type and by  chart of account field."
+705189,High,AP,"Provide the ability to print a daily, monthly, annual, or specified date range report of all cleared warrants by bank account  number, by agency, payee, or by chart of account field."
+705190,High,AP,Provide the ability to produce a daily general ledger accounting report of the warrant clearing transactions.
+705191,High,AP,"Provide the ability to produce a daily, monthly, annual or specified date range report that shows the total amount and number of  outstanding warrants for the chart of account field."
+705192,High,AP,"Provide the ability to compute the number and dollar amount of warrants written per warrant run by day, per month, or other user- defined time-period."
+705193,High,AP,Provide the ability to store paid warrant images from CD input or other electronic means.
+705194,High,AP,Post accounting entries to record cancellation information accepted by the system.
+705195,High,AP,"Provide standard warrant writing functionality including: Producing a warrant register, in paper format."
+705196,High,AP,"Provide standard warrant writing functionality including: Producing a warrant register, in electronic format."
+705197,Medium,AP,Provide standard warrant writing functionality including: Printing U.S. Post Office approved barcodes on warrants and printing  required Post Office reports required to obtain mailing discounts.
+705198,Medium,AP,"Provide standard warrant writing functionality including: Printing warrants based on multiple sorts (e.g., bank account first, then  agency, then vendor number, etc.) as defined by the State."
+705199,High,AP,Provide the ability to print warrants through the following means: On-demand (override batch).
+705200,High,AP,Provide the ability to print warrants through the following means: On-schedule/same day.
+705201,High,AP,Provide the ability to print warrants through the following means: Manual (immediate).
+705202,High,AP,"Prevent the printing or producing of blank, negative, or zero amount warrants as well as warrants with no payee specified or  incomplete address information."
+705203,Medium,AP,Suppress printing or producing of warrants under a user-defined dollar amount parameter (e.g. $2).
+705204,Medium,AP,Provide the ability for authorized users to override the user defined warrant printing threshold (e.g. not less than $2).
+705205,High,AP,"Provide the ability to print on-demand warrants (exclusive of the normal payment processing cycle) and record in a separate  warrant register, bank file, and control file, if desired. with proper authority."
+705206,Medium,AP,Provide a report of on-demand warrant generated.
+705207,Medium,AP,Accommodate the reprinting of the remittance advice.
+705208,Medium,AP,"Provide the ability to enter ""global"" promotional or reminder comments on the remittance advice."
+705209,Medium,AP,Provide the ability to enter a user-specified payment message on one particular payment voucher and have it print on the  remittance advice.
+705210,High,AP,"Provide the ability to produce, through secure printers, warrants with MICR encoding, post office approved bar codes, and  electronic signatures including the following: MICR encoding."
+705211,Medium,AP,"Provide the ability to produce, through secure printers, warrants with MICR encoding, post office approved bar codes, and  electronic signatures including the following: Post office approved bar codes."
+705212,High,AP,"Provide the ability to produce, through secure printers, warrants with MICR encoding, post office approved bar codes, and  electronic signatures including the following: Electronic signatures (image of signatures)."
+705213,High,AP,Print warrants at remote location.
+705214,High,AP,"Provide ability to generate replacement warrants to replace canceled, stale dated, lost, or voided warrants and generate related  table updates for the replacement warrants."
+705215,High,AP,Provide the ability to designate warrants for special handling and specify sort in printing cycle.
+705216,Medium,AP,Provide the ability to designate warrants for special handling when source is electronic file.
+705217,Medium,AP,Allow for overflow to a separate remittance advice when the number of invoices exceeds available space on initial advice.
+705218,Medium,AP,"Optionally combine payment transactions by vendor across the chart of accounts (i.e., fund, agency, appropriation, and project)."
+705219,High,AP,Generate payment through direct deposit if designated to do so in vendor file (for vendors) or in the employee master file  maintained in the Human Resource module (for any payments including tax refunds).
+705220,High,AP,"Provide ability to cancel a payment or warrant or a portion of or entire warrant run by entering certain payment cancellation  information, including a cancel reason code (e.g., pending cancel, cancel, stop, etc.)."
+705221,Medium,AP,Provide the ability to place a cancellation on disbursements and generate the appropriate general ledger transaction.
+705222,High,AP,"Depending on the cancellation reason code, automatically update the financial balances including general ledger and available  budget in the appropriate budget year."
+705223,Medium,AP,Allow up to 99 lines of remittance advice.
+705224,High,AP,Print warrants using blank check stock.
+705225,High,AP,Provide ability to restart warrant and remittance advice printing at a user specified starting point.
+705226,High,AP,Sequentially number and control payments and remittance advices.
+705227,High,AP,Provide for assigning a number scheme to ACH transactions.
+705228,High,AP,Provide the ability to track W-9 forms.
+705229,High,AP,Provide the ability to produce the following 1099 form types: 1099- MISC.
+705230,High,AP,Provide the ability to produce the following 1099 form types: 1099-S.
+705231,Medium,AP,Provide the ability to produce the following 1099 form types: 1099-G.
+705232,Medium,AP,Provide the ability to produce the following 1099 form types: 1099-DIV.
+705233,Medium,AP,Provide the ability to produce the following 1099 form types: 1099-INT.
+705234,Medium,AP,Provide the ability to produce the following 1099 form types: 1099-R.
+705235,Medium,AP,Provide the ability to produce the following 1099 form types: 1099-Q.
+705236,Medium,AP,Provide the ability to produce the following 1099 form types: 1099-B.
+705237,Medium,AP,Provide the ability to report 1099 amounts by social security number and EIN.
+705238,Medium,AP,Provide the ability to secure confidential information such as social security numbers to authorized users.
+705239,Medium,AP,Provide ability to split a payment with a portion as 1099 reportable and a portion non-reportable.
+705240,Medium,AP,"Provide ability to make adjustments to 1099 reportable amounts for payments cut before calendar year, but not distributed to the  vendor until the next calendar year. For example, a closing date on a sale of right away rescheduled to January."
+705241,High,AP,Provide backup withholding functionality.
+705242,Medium,AP,Provide for payments to multiple 1099 categories.
+705243,High,AP,"Produce 1099 file that fully complies with current and on-going IRS standards (i.e., no special characters, appropriate use of  blanks, etc.)."
+705244,High,AP,Provide the ability to query and print 1099 data.
+705245,Medium,AP,Collect necessary information for generation of Federal 1099s at year-end (both manually and per IRS approved file).
+705246,Medium,AP,1099 information from interfaced disbursement systems must also be included for consolidated reporting.
+705247,High,AP,Support the ability for each agency to have a Federal Employer Identification number (FEIN) and report 1099 as a separate entity.
+705248,High,AP,Support the ability for the State to maintain one Federal Employer Identification number (FEIN) and report 1099 consolidated  across agencies.
+705249,Medium,AP,Support the ability for the State to maintain one Federal Employer Identification number (FEIN) and report 1099 consolidated  across agencies including transactions from outside bank accounts that have been posted to the ERP system.
+705250,Medium,AP,Maintain 1099 name and address separately from historical payment information and retains it from one year to the next.
+705251,Medium,AP,Provide for reprinted 1099 forms for an individual vendor.
+705252,High,AP,"Provide the ability to correct 1099 information in the system, reprint the 1099 form, and produce a correction file for the IRS with  proper authority."
+705253,Medium,AP,Appropriately adjust 1099 reportable balances for both on-line and batch/interface payments and payment cancellations.
+705254,Medium,AP,Automatically identify transactions as 1099 reportable based upon the expenditure general ledger account even if the vendor is  not 1099 reportable.
+705255,Medium,AP,Provide a field that indicates if a vendor is 1099 reportable.
+705256,Medium,AP,Provide a field that indicates if a vendor is 1099 reportable by agency.
+705257,Medium,AP,Provide a field that indicates if a vendor is a medical or legal corporation.
+705258,Medium,AP,Provide the ability to report payments to foreign vendors on form 1042.
+705259,Medium,AP,Provide the ability to produce multiple 1099 forms to the same vendor (e.g.. 1099-MISC and 1099-G).
+705260,Medium,AP,Provide the ability to include 1099 information from P-card transactions in the appropriate 1099.
+705261,Medium,AP,"Identify and exclude 1099 transactions from other systems (e.g. Tax, Lottery, etc.)."
+705262,High,AP,"Support the ability to include checks, cancellations, or partial refunds (refund deposit) in 1099 calculations."
+705263,Medium,AP,Support the ability to include revenue refunds in the 1099 calculations with an override option at an agency level.
+705264,Medium,AP,Support the ability to include refunds (of expenditures) and cancelations in the 1099 calculations.
+705265,Medium,AP,Generate an electronic file of invoices(1099) to payment interfacing agencies for review.
+705266,Medium,AP,Provide for the establishment of individual trust accounts for children or inmates.
+705267,Medium,AP,Provide the capability to disburse funds from the trust account.
+705268,Medium,AP,Provide the capability to garnish any deposits made into the inmate's trust account.
+705269,Medium,AP,Provide the capability to deposit funds into the inmate's trust fund account.
+705270,Medium,AP,Provide the ability to set the precedence of the garnishments.
+705271,Medium,AP,Provide the ability to establish business rules that predefine the percentage split between the garnishment and the inmate's trust  account for deposits.
+705272,Medium,AP,Provide the ability to transfer funds from the inmate's trust account to a holding fund.
+705273,Medium,AP,Track contributions to holding account from each inmate.
+705274,Medium,AP,Provide invoice tracking for pending department/agency approvals.
+705275,Medium,AP,Track performance measures by user ID.
+705276,Medium,AP,Maintain an open item file of unpaid vendor invoices and allow inquiry into that file by vendor or invoice.
+705277,Medium,AP,"Maintain, track, and inquire (online) the following payment voucher history information: Invoice number."
+705278,Medium,AP,"Maintain, track, and inquire (online) the following payment voucher history information: Vendor name."
+705279,Medium,AP,"Maintain, track, and inquire (online) the following payment voucher history information: Vendor number."
+705280,Medium,AP,"Maintain, track, and inquire (online) the following payment voucher history information: Tax ID number or SSN."
+705281,Medium,AP,"Maintain, track, and inquire (online) the following payment voucher history information: Requisition number."
+705282,Medium,AP,"Maintain, track, and inquire (online) the following payment voucher history information: Purchase order or Encumbering  Document number."
+705283,Medium,AP,"Maintain, track, and inquire (online) the following payment voucher history information: Contract number."
+705284,Medium,AP,"Maintain, track, and inquire (online) the following payment voucher history information: Warrant/EFT amount."
+705285,Medium,AP,"Maintain, track, and inquire (online) the following payment voucher history information: Warrant/EFT date."
+705286,Medium,AP,"Maintain, track, and inquire (online) the following payment voucher history information: Payment Transaction Date."
+705287,Medium,AP,"Maintain, track, and inquire (online) the following payment voucher history information: Warrant/EFT number."
+705288,Medium,AP,"Maintain, track, and inquire (online) the following payment voucher history information: Account distribution."
+705289,Medium,AP,"Maintain, track, and inquire (online) the following payment voucher history information: Unpaid invoices."
+705290,Medium,AP,"Maintain, track, and inquire (online) the following payment voucher history information: Comments."
+705291,High,AP,Exclude certain types of confidential information from queries except by authorized users by type of transaction.
+705292,Medium,AP,"Segregate payables by purchase type, object, etc."
+705293,High,AP,Segregate payables by commodity.
+705294,Medium,AP,"Track archived payments by vendor name, warrant number, date and amount."
+705295,Medium,AP,Track spending payments by scheduled payment date.
+705296,Medium,AP,"Allow the user to retrieve payment information and determine its redemption status (redeemed, stop payment, etc.)."
+705297,Medium,AP,"Provide user-defined sorting parameters (i.e., date ranges, funds, etc.)."
+705298,Medium,AP,"Provide the following reports, including: Invoice Aging Report."
+705299,Medium,AP,"Provide the following reports, including: Match Discrepancy Report (discrepancies between matched items by quantify and price)  by vendor."
+705300,Medium,AP,"Provide the following reports, including: Missing Match Report (2 out of 3 items in the 3 way match in the system)."
+705301,Medium,AP,"Provide the following reports, including: Report of payments made within or on 30 days from receipt of the invoice."
+705302,Medium,AP,"Provide the following reports, including: Report of payments not made within 30 days from the receipt of the invoice."
+705303,Medium,AP,"Provide the following reports, including: Report of all outstanding encumbrances as of a user specified date."
+705304,Medium,AP,"Provide the following reports, including: Report of payments not made within 30 days of receipt of goods."
+705305,Medium,AP,"Provide the following reports, including: Report of payment transactions processed for a given day."
+705306,Medium,AP,"Provide the following reports, including: Report of error transactions."
+705307,Medium,AP,"Provide the following reports, including: Report of invoices approved for payment for a given day."
+705308,Medium,AP,"Provide the following reports, including: Report time lapsed from receipt of invoice to payment of invoice."
+705309,Medium,AP,Provide the ability to filter or sort the above reports by vendor.
+705310,Medium,AP,Produce a report that identifies the average number of days for disbursements to be paid by bank account or in aggregate.
+705311,Medium,AP,Produce a listing of invoices that have triggered the duplicate invoice edit.
+705312,Medium,AP,Produce a listing of payment vouchers that have not been approved for payment.
+705313,Medium,AP,"Allow for online viewing or printing of a summary Outstanding Warrant Report by fund and warrant type on a daily, monthly, or  annual basis or by a specified date range."
+705314,Medium,AP,Provide a report of discounts taken.
+705315,Medium,AP,"List all discounts lost by any or all of the following items: vendor, time period, agency, or organizations within the agency."
+705316,Medium,AP,"Provide a report of all issuances in a ""cancel pending"" status for more than a user-defined parameter number of days (e.g., ten  days)."
+705317,Medium,AP,Produce an activity report showing all the daily online update activity in the system.
+705318,Medium,AP,Produce an error report/listing that includes the error code and description.
+705319,Medium,AP,Generate performance/operational reports on operations including the following: Number of transactions corrected.
+705320,Medium,AP,Generate performance/operational reports on operations including the following: Number of garnishments processed.
+705321,Medium,AP,Generate performance/operational reports on operations including the following: Number of liens processed.
+705322,Medium,AP,Generate performance/operational reports on operations including the following: Number of warrants produced.
+705323,Medium,AP,Generate performance/operational reports on operations including the following: Number of credit ach payments.
+705324,High,AP,Vendor invoice entry/maintenance should be provided via an invoice entry screen. Invoice entry screen will utilize Web  technology to minimize the need for desktop hardware upgrades.
+705325,High,AP,Provide for electronic invoice acceptance via XML or EDI.
+705326,Medium,AP,Generate detailed exception reports for invoice rejections.
+705327,High,AP,"Allow the entry of hard-copy invoices and track the agency for compliance with the prompt payment (payment w/in 45 days of  invoice or service performed, whichever is later)."
+705328,Medium,AP,Carry forward pertinent purchase order receipt data to the invoice entry screen to reduce data entry and allow for entry of invoice  data required for matching/payment processing.
+705329,Medium,AP,Capture the following invoice information: Invoice number.
+705330,Medium,AP,Capture the following invoice information: Invoice date.
+705331,Medium,AP,Capture the following invoice information: Invoice received date.
+705332,Medium,AP,Capture the following invoice information: Invoice due date.
+705333,Medium,AP,Capture the following invoice information: Purchase order number.
+705334,Medium,AP,Capture the following invoice information: PO Date.
+705335,Medium,AP,Capture the following invoice information: PO line number.
+705336,Medium,AP,Capture the following invoice information: Vendor name.
+705337,Medium,AP,Capture the following invoice information: Vendor number/mail code (updateable based on remit-to address).
+705338,Medium,AP,Capture the following invoice information: Invoice line item number.
+705339,Medium,AP,Capture the following invoice information: Quantity invoiced.
+705340,Medium,AP,Capture the following invoice information: Quantity received.
+705341,Medium,AP,Capture the following invoice information: Quantity ordered.
+705342,Medium,AP,Capture the following invoice information: Quantity returned.
+705343,Medium,AP,Capture the following invoice information: Received/Service Date.
+705344,Medium,AP,Capture the following invoice information: Previous quantity invoiced.
+705345,Medium,AP,Capture the following invoice information: Unit of measure.
+705346,Medium,AP,Capture the following invoice information: Line Item description.
+705347,Medium,AP,Capture the following invoice information: Unit cost.
+705348,Medium,AP,Capture the following invoice information: Line item total cost.
+705349,Medium,AP,Capture the following invoice information: Invoice total cost.
+705350,Medium,AP,Capture the following invoice information: Payment terms.
+705351,Medium,AP,Capture the following invoice information: Discount date.
+705352,Medium,AP,Capture the following invoice information: Freight.
+705353,Medium,AP,Capture the following invoice information: Freight terms.
+705354,Medium,AP,Capture the following invoice information: Account distributions.
+705355,Medium,AP,Capture the following invoice information: Warrant number (able to drill-down to see all invoices paid by the warrant).
+705356,Medium,AP,Capture the following invoice information: Warrant amount.
+705357,Medium,AP,Capture the following invoice information: Warrant date.
+705358,Medium,AP,Capture the following invoice information: ACH number (able to drill-down to see all invoices paid by the ACH transaction).
+705359,Medium,AP,Capture the following invoice information: ACH amount.
+705360,Medium,AP,Capture the following invoice information: ACH date.
+705361,Medium,AP,Capture the following invoice information: Comment/memo field that can be printed on warrant or passed to ACH transaction.
+705362,High,AP,Agency ability for Individual comment.
+705363,Medium,AP,Comment/memo field for internal purposes only.
+705364,Medium,AP,Provide ability to process multiple journal vouchers for corrections or adjustments against a single invoice/voucher.
+705365,Medium,AP,Provide ability to track disputed invoices electronically.
+705366,Medium,AP,Provide ability to document comments and resolution to disputes.
+705367,Medium,AP,Provide ability to process multiple invoices against a single PO.
+705368,Medium,AP,"Provide ability for users to flag and date disputed invoices, as well as add comments."
+705369,Medium,AP,Provide ability to capture and process credit memos.
+705370,Medium,AP,Allow for distribution of one or more invoice lines to multiple account distributions including ability to auto-distribute account  distributions.
+705371,Medium,AP,"Provide an option automated matching process and flexibility to determine whether a two-way, three-way match, or four-way is  required and the documents required to be processed: Purchase order, contract, invoice and receiving report."
+705372,Medium,AP,"Provide an option automated matching process and flexibility to determine whether a two-way, three-way match, or four-way is  required and the documents required to be processed: Purchase order, invoice and receiving report."
+705373,Medium,AP,"Provide an option automated matching process and flexibility to determine whether a two-way, three-way match, or four-way is  required and the documents required to be processed: Purchase order and receiving information."
+705374,Medium,AP,"Provide a successful match if all match criteria are met, and generate a transaction to the Accounting module to liquidate the  encumbrance and establish a voucher payable."
+705375,High,AP,"Provide for establishing optional user-defined tolerances (percent and dollar), controlled by commodity, whereby an invoice  amount may differ from the purchase order and still be processed provided sufficient budget availability and approval authority  exists; the tolerance functionality should be optional."
+705376,Medium,AP,Allow for the release of payment request information to Cash Management module.
+705377,Medium,AP,Provide ability to automatically calculate payment discounts based on vendor invoice terms and pay date.
+705378,Medium,AP,Provide the ability to capture due date and discount date.
+705379,Medium,AP,Provide ability to enter and process net and discount payment terms (user defined).
+705380,Medium,AP,"Provide edits to ensure duplicate invoices are not processed from the same vendor (i.e., unique vendor ID, invoice number, Tax  Id, invoice date, invoice line number, invoice date combination)."
+705381,High,AP,Allow agencies to enter the invoice to one vendor and make the payment to another vendor with central oversight approval.
+705382,Medium,AP,Allow payment to be charged to an accounting area other than that of the associated PO with proper authority. PO liquidations  should be based on the original encumbrance.
+705383,Medium,AP,Allow standard comments to be entered into payment requests from list box with ability to add/change the comment.
+705384,High,AP,"Support entry of P-card as a form of payment for items ordered via the eProcurement system (e.g., catalogs, spot purchases,  etc.) and be able to control amounts and usage by agency, commodity, and individual."
+705385,High,AP,Provide the ability to capture key accounting classification data at time of order for subsequent matching to file received from  bank.
+705386,High,AP,Provide method for tracking the P-card procurement vendor ID and small business/minority-owned business status and  disadvantage business enterprise (DBE).
+705387,High,AP,Provide ability to track disputed invoices electronically.
+705388,High,AP,Provide ability to document comments and resolution to disputes.
+705389,High,AP,Provide ability to process multiple invoices against a single PO.
+705390,High,AP,"Provide ability for users to flag and date disputed invoices, as well as add comments."
+705391,High,AP,Provide ability to capture and process credit memos.
+705392,Medium,AP,Provide the ability to make a partial payment against a purchase order or contract using a P-Card.
+705393,High,AP,Provide the ability to uniquely identify and relate a purchase card vendor to an entry in the vendor file.
+705394,High,AP,Provide the ability to produce and invoice to pay the bank for reconciled transaction.
+705395,High,AP,Provide the ability to store the following details for transactions paid by P(payment)card: Vendor.
+705396,High,AP,Provide the ability to store the following details for transactions paid by P(payment)card: Amount.
+705397,High,AP,Provide the ability to store the following details for transactions paid by P(payment)card: Accounting distribution.
+705398,Medium,AP,Provide the ability to store the following details for transactions paid by P(payment)card: P (payment) card holder.
+705399,High,AP,Supports liquidating a PO using pcard as payment method.
+705400,High,AP,Supports updating contract information when pcard is used as a payment method.
+705401,High,AP,Ability to query and report P Card transaction detail.
+705402,High,AP,Ability to identify vendor paid with P Card.

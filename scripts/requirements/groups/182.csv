@@ -1,0 +1,174 @@
+"Section:HRP-Time and Labor, Time Capture / Entry (173 Reqs)"
+711846,Medium,,"Track history of time and who entered time by calendar year, fiscal year, month, week, day and pay period."
+711847,Medium,,"Check employee status prior to allowing time entry (check for suspension, terminated, etc.)."
+711848,Medium,,Accommodate time entry for pay schedules based on: weekly.
+711849,Medium,,Accommodate time entry for pay schedules based on: biweekly.
+711850,Medium,,Accommodate time entry for pay schedules based on: semi-monthly.
+711851,Medium,,Accommodate time entry for pay schedules based on: monthly.
+711852,Medium,,"Generate default hours for exception based employees based on user defined profiles (e.g., work schedules, employment status,  etc.)."
+711853,Medium,,Adjust profile for individual employees.
+711854,Medium,,Allow for time entry through: online by the employee (web enabled).
+711855,Medium,,Allow for time entry through: entry by data entry personnel or timekeepers.
+711856,Medium,,Allow for time entry through: third party time entry / time capture systems.
+711857,Medium,,Allow for time entry through: IVR.
+711858,Medium,,Interface with automated time collection (e.g. - magnetic card readers) for time and all timesheet information.
+711859,Medium,,Allow employees to submit more than one timesheet per pay period (multiple per Agency).
+711860,Medium,,Define timesheet fields and edits by: home agency.
+711861,Medium,,Define timesheet fields and edits by: home division.
+711862,Medium,,Define timesheet fields and edits by: job classification.
+711863,Medium,,Define timesheet fields and edits by: hour type.
+711864,Medium,,Define timesheet fields and edits by: project authorization levels.
+711865,Medium,,Define timesheet fields and edits by: activity.
+711866,Medium,,Define timesheet fields and edits by: location code.
+711867,Medium,,Define timesheet fields and edits by: billed customer.
+711868,Medium,,Define timesheet fields and edits by: hourly billing rate.
+711869,Medium,,Define timesheet fields and edits by: grant.
+711870,Medium,,Define timesheet fields and edits by: cost center (funding source).
+711871,Medium,,Define timesheet fields and edits by: other user defined fields.
+711872,Medium,,Capture time for employees that will be billed to 3rd party at a different labor rate.
+711873,Medium,,Generate online or printed pro-forma timesheets for each employee including anticipated distribution of hours based on a static  model associated with position assignment.
+711874,Medium,,Default as much information as possible during the timekeeping function to include: agency.
+711875,Medium,,Default as much information as possible during the timekeeping function to include: department.
+711876,Medium,,Default as much information as possible during the timekeeping function to include: division.
+711877,Medium,,Default as much information as possible during the timekeeping function to include: branch / office.
+711878,Medium,,Default as much information as possible during the timekeeping function to include: section / unit.
+711879,Medium,,Default as much information as possible during the timekeeping function to include: name.
+711880,Medium,,Default as much information as possible during the timekeeping function to include: employee number.
+711881,Medium,,Default as much information as possible during the timekeeping function to include: pay period and dates.
+711882,Medium,,Default as much information as possible during the timekeeping function to include: FLSA.
+711883,Medium,,Default as much information as possible during the timekeeping function to include: employment type.
+711884,Medium,,Default as much information as possible during the timekeeping function to include: FTE.
+711885,Medium,,Default as much information as possible during the timekeeping function to include: position number.
+711886,Medium,,Default as much information as possible during the timekeeping function to include: job class code and title.
+711887,Medium,,Default as much information as possible during the timekeeping function to include: last/most recent personnel action date.
+711888,Medium,,"Default as much information as possible during the timekeeping function to include: daily schedule information for hours worked,  leave, etc."
+711889,Medium,,Default as much information as possible during the timekeeping function to include: holiday status.
+711890,Medium,,Default as much information as possible during the timekeeping function to include: leave accrual basis.
+711891,Medium,,"Default as much information as possible during the timekeeping function to include: leave balances (by type, e.g. annual, sick,  holiday, etc.)."
+711892,Medium,,Default as much information as possible during the timekeeping function to include: probation status.
+711893,Medium,,Default as much information as possible during the timekeeping function to include: probation end date.
+711894,Medium,,Default as much information as possible during the timekeeping function to include: last or most recent personnel action (type of  action).
+711895,Medium,,Default as much information as possible during the timekeeping function to include: accounting distribution.
+711896,Medium,,Default as much information as possible during the timekeeping function to include: project.
+711897,Medium,,Default as much information as possible during the timekeeping function to include: shift.
+711898,Medium,,Default as much information as possible during the timekeeping function to include: location.
+711899,Medium,,Default as much information as possible during the timekeeping function to include: other user defined fields.
+711900,High,,Allow multiple pay codes for an employee.
+711901,High,,"Restrict pay codes by Agency, job classification, workgroup, etc."
+711902,Medium,,Allow an unlimited number of hour types in a pay period for an employee.
+711903,Medium,,Allow an unlimited number of hour types in a day for an employee.
+711904,Medium,,Generate the ability to restrict hour types by: agency.
+711905,Medium,,Generate the ability to restrict hour types by: division.
+711906,Medium,,Generate the ability to restrict hour types by: job classification.
+711907,Medium,,Generate the ability to restrict hour types by: status.
+711908,Medium,,Generate the ability to restrict hour types by: workgroup.
+711909,Medium,,Generate the ability to restrict hour types by: on certain days (e.g. - holidays).
+711910,Medium,,Generate the ability to restrict hour types by: other user defined criteria.
+711911,Medium,,Associate a shift with the hours worked.
+711912,Medium,,Generate a shift differential pay amount based on hours worked during certain shifts based on user-defined parameters.
+711913,Medium,,"Define maximum number of hours by pay code by agency, job classification, employment status (full time, part time), workgroup,  etc."
+711914,Medium,,Generate additional rows for pay codes not defaulted such as specialty pay.
+711915,Medium,,"Verify actual hours worked based on work schedule, hour type and pay codes."
+711916,Medium,,"Allow employees to charge time to a specific program or project and specify the type of work performed (e.g., activity)."
+711917,Medium,,Default projects and activities available for a particular employee.
+711918,Medium,,"Designate default (""home"") accounting information to be used on time entries where no additional information is specified on the  timesheet, including positions which are spread across multiple account distributions."
+711919,Medium,,"Allow employees to charge time to a Cost Center other than their home Agency or Cost Center (with interactive edit) based on  user defined options by agency, department, account distributions etc."
+711920,Medium,,Create the ability to allow for daily time entry.
+711921,Medium,,Allow entry of total hours per pay period by pay type.
+711922,Medium,,Allow entry of units as well as hours.
+711923,Medium,,Calculate/verify overtime hour eligibility based on user defined rules to include: FLSA.
+711924,Medium,,"Calculate/verify overtime hour eligibility based on user defined rules to include: overtime for all types of schedules such as 37.5  hour, 40 hour, 28 day, etc."
+711925,Medium,,Calculate/verify overtime hour eligibility based on user defined rules to include: overtime for split work weeks (portions of work  week are a part of two pay periods).
+711926,Medium,,Calculate/verify overtime hour eligibility based on user defined rules to include: combined rates of overtime for employees who  have time tied to more than one appointment which may be in more than one Agency.
+711927,Medium,,Calculate/verify overtime hour eligibility based on user defined rules to include: overtime spread among account distributions  worked.
+711928,Medium,,Calculate/verify overtime hour eligibility based on user defined rules to include: distinction between regular and premium  overtime.
+711929,Medium,,Calculate/verify overtime hour eligibility based on user defined rules to include: work weeks that include paid time off.
+711930,Medium,,Calculate/verify overtime hour eligibility based on user defined rules to include: other State pay policies.
+711931,Medium,,"Automatically determine holiday eligibility based on: employee status (regular, emergency, interim, temporary, etc.)."
+711932,Medium,,"Automatically determine holiday eligibility based on: unpaid leave type (maternity leave, worker's comp, educational leave, etc.)."
+711933,Medium,,"Automatically determine holiday eligibility based on: pay status (ex - positive pay status for the major portion of prior day, on  qualified leave type, etc.)."
+711934,Medium,,Automatically determine holiday eligibility based on: hour type after holiday for separating employees.
+711935,Medium,,Automatically determine holiday eligibility based on: other user defined criteria.
+711936,Medium,,Automatically calculate holiday hours for eligible employees to include: defaults hours based on work schedule / state holiday  calendar.
+711937,Medium,,"Automatically calculate holiday hours for eligible employees to include: payment for holiday hours worked based on agency,  division, and job class."
+711938,Medium,,"Automatically calculate holiday hours for eligible employees to include: varying methods of calculating payment for holiday hours  worked based on agency, division, and job class."
+711939,Low,,Employee receives a alternate day off if employee works a scheduled paid holiday or scheduled off on a scheduled paid holiday.
+711940,Medium,,Allow various supplemental pay to be tied to: job classification.
+711941,Medium,,Allow various supplemental pay to be tied to: employee.
+711942,Medium,,Allow various supplemental pay to be tied to: type of work.
+711943,Medium,,Allow various supplemental pay to be tied to: shift.
+711944,Medium,,Allow various supplemental pay to be tied to: other user defined fields.
+711945,Medium,,"Allow employees to enter multiple time records for a 24 hour period including varying periods of time worked, projects and  account distributions worked within a given shift."
+711946,Medium,,Make online correction of work distribution.
+711947,Medium,,"Track time for non-employees including vendors, contractors and other third parties."
+711948,Medium,,"Track time in hours (with four decimal places), days and weeks."
+711949,Medium,,Track comp time and overtime earned per resource (employee and contractor).
+711950,Medium,,Track billable and non-billable hours on a project or program basis.
+711951,Medium,,Automatically compensate for seasonal time changes.
+711952,Medium,,"Prevent work time to be entered in advance of actually working (by day), on an agency by agency basis, with the ability to  override."
+711953,Medium,,"Capture usage of equipment (hours or miles) at time entry, and interface this information with Project/Program billing systems or  Asset/Inventory systems."
+711954,Medium,,Produce online or printed pro-forma timesheet for each employee including anticipated distribution of hours based on historical  time entry session(s).
+711955,Medium,,Record comments regarding a specific work activity.
+711956,Medium,,"Enter statistical information when required (e.g. equipment usage, units of work accomplished, types of state patrol contacts  made, etc.)."
+711957,Medium,,Allow for a comment area on the time sheet that includes date and time of entry.
+711958,Medium,,"Support ""matrix"" style time entry for multiple employees when all employees have the same pay type and accounting distribution  (for example, unit time sheets for the Safety personnel)."
+711959,Medium,,"Enter time by resources (equipment, maintainable asset, etc) assigned to specific tasks."
+711960,Medium,,Capture hours or miles against assets and state equipment during time entry.
+711961,Medium,,"Support the ability to include authorized user defined interactive forms for time capture templates, including system based edits  and other business rules that rely on the retrieval of information from agency labor source, modules of ERP, and other labor  integrated system records."
+711962,Medium,,Support ability to establish and maintain rules related to minimum time paid and minimum release time.
+711963,Medium,,"Automatically determine pay type (overtime, assignment pay, etc.) based on job worked, time spent, and other user defined  business rules."
+711964,Medium,,"Provide the ability for authorized users to assign hours by pay type (overtime, assignment pay, etc) to particular cost activities  based on user defined business rules that may vary by agency or organization code."
+711965,Medium,,"Automatically determine holiday hours for hourly employees based on hours worked in calendar month, master calendar, and  hours available for work based on user defined business rules (pro-rate holiday hours based on hours worked)."
+711966,Medium,,"Support automatic categorization of time worked based on job class, schedule, and other business rules such as shift premium,  duty performed, overtime, call back, and other user defined criteria."
+711967,Medium,,Support the use of assignment based pay type information with effective start and end date in editing employee schedules and  time capture based on user defined business rules that may vary by agency or organization unit.
+711968,Medium,,Provide for access and use of any travel time and mileage rule information for editing time worked (not travel voucher  processing).
+711969,Medium,,Support online and batch editing of required equipment usage and performance and other reporting data within time capture  templates and devices.
+711970,Medium,,"Provide the ability to require actual start and end times and calculate hours worked based on user defined attributes that may  vary by agency, organization unit, or job class."
+711971,Medium,,"Provide the ability to designate increments of time tracked (1 minute, 10 minute, hour) grace periods, and rounding for clock  times by agency, organization, program, project based on user defined business rules that may vary by agency, organization  unit, or job class."
+711972,Medium,,Track and edit against effective and actual beginning and end dates for time templates created.
+711973,High,,Support time capture interface using a variety of input devices/hardware.
+711974,High,,Support web based time capture.
+711975,Medium,,"Provide capability to allow employee to access/use particular time capture templates and input devices based on user business  rules by agency, organization unit, program, project, position type, and employee."
+711976,Medium,,"Support the use of time capture devices and templates by non-employees for both time and equipment use reporting based on  user defined business rules by agency, organization unit, program, and project."
+711977,Medium,,Track and retain time information on input device used to capture employee time by transaction.
+711978,Medium,,"Provide the capability to schedule retrieval of time capture information from various input devices, provide for immediate  transmission of time capture information, and provide for ad hoc transmission of time capture information by agency,  organization unit, program, project, device type, and date based on user defined business rules."
+711979,Medium,,Ensure retrieval of time capture information does not interrupt utility of time capture devices.
+711980,Medium,,"Support the ability to create time capture templates using various tools such as Adobe forms, Word templates, and so forth."
+711981,Medium,,"Support supplemental, retroactive, or corrected time reporting for individuals, employee groups, organizations, and other  categories through established templates based on user defined business rules that may vary by agency, organization unit, or  job class."
+711982,Medium,,"Provide the ability to assign time templates to job classes, organization units, and individual employees based on user defined  business rules."
+711983,Medium,,"Provide multiple time capture template formats to support individual, organization unit, and other groups for time entry (e.g. data  entry, PDA, badge, card scan)."
+711984,Medium,,Support the ability for authorized users to create and maintain default value logic for time capture template fields.
+711985,Medium,,"Provide for multiple shifts, split shifts in a given day within time capture templates for various device/hardware types based on  user defined business rules."
+711986,Medium,,Provide for authorized user defined time capture template business rules for multiple resource types that may vary by agency.
+711987,Medium,,"Support the user defined inclusion of time scheduled (planned/authorized), time worked (actual), travel time, job scheduled, job  worked, job paid as available fields in time capture template formats, supporting different business rules for different types of  fields."
+711988,Medium,,"Provide for time capture using positive (overtime eligible) or exception only reporting by individual, crew, organization unit or  other group based on user defined business rules that may vary by agency."
+711989,Medium,,"Support user defined pay types for hours worked and leave taken that may vary by agency, organization unit or job class."
+711990,Medium,,"Support processing of partial period time capture (for new and exiting employees, for example)."
+711991,Medium,,"Support both online and batch editing of time capture template data based on user defined business rules that may vary by  agency, organization or job class."
+711992,Medium,,"Support optional equipment usage reporting within time capture templates by organization, job class, work order, project, route  and other criteria."
+711993,Low,,"Provide the ability to report, edit, and calculate travel time and mileage based on home base, base worked, and official  residence, and other user defined business rules, by day, organization unit or agency."
+711994,Medium,,"Provide ability to designate the level of prepopulation (positive entry requirement) by employee, project and other user defined  business rules."
+711995,Medium,,Support input of separate equipment usage start and end times or number of hours used.
+711996,Medium,,"Automatically notify supervisors, dispatchers and other designated staff via email or other type of alert of required release time  for staff based on time worked to date and current work schedules."
+711997,Medium,,"Automatically base time capture data requirements and business rules on those established for the relevant template, service  request type, schedule, or hours type."
+711998,Medium,,Provide the ability for authorized users to identify an authorized designee(s) to create a timesheet or complete a timesheet on an  employee's behalf based on user defined business rules.
+711999,Medium,,Provide ability for authorized users to create a timesheet or complete a timesheet for missing input based on user defined criteria.
+712000,Medium,,"Provide ability for system to automatically create ""pseudo"" timesheets for employees with missing timesheets based on an user  defined schedule and business rules based on agency, organization units or job classes."
+712001,Medium,,"Automatically require employee or authorized users to complete actual timesheet for any period for which system automatically  created a ""pseudo"" timesheet and manage time capture for ""replacement"" timesheet according to user defined business rules."
+712002,Medium,,"Automatically total hours worked to be paid (or unpaid) by job class, hour type (pay type) at time capture and make available in  real-time to employee, reviewer and other authorized staff."
+712003,Medium,,"Support time capture for multiple purposes, including prior period time capture, adjustment, as well as pay and project costing.  This applies to all employee types, including salaried, exempt."
+712004,Medium,,"Support designation of time limits on changes to prior period time capture based on user defined business rules by agency,  organization unit, or job class."
+712005,Medium,,"Automatically create adjustments to prior period time captured and paid in a previous payroll cycle based on corrected  timesheets and route for approval based on user defined business rules by agency, organization units, or job classes."
+712006,Medium,,Support ad hoc time capture template creation and input for new employees by authorized users.
+712007,Medium,,"Support time capture for permanent, temporary, part time, full time, seasonal, job share, employees in multiple positions, many  employees in a single position, and other types of employees and others (volunteers, contractors, for example)."
+712008,Medium,,Support manual categorization of time worked by authorized users (for example to support administrative assignment pay).
+712009,Medium,,Automatically calculate equipment usage hours when hours and days worked are provided based on user defined business rules.
+712010,Medium,,Include the capability to collect statistical data from employees as part of the time capture process (to support performance  measurement).
+712011,Medium,,"Provide for capture, review, approval, retention, archive, and purge of time capture information by employee and day over time  as established by business rules."
+712012,Medium,,"Require justification (comments, attachments, pre-approval) for certain types of time worked based on user defined business  rules that may vary by agency or organization unit."
+712013,Medium,,"Support ability to provide notification to designated reviewer for schedule deviations by agency, program, project, positions type,  and reviewer based on user defined business rules."
+712014,Medium,,"Automatically identify employees who worked in job classes different than their assigned position, on call employees who were  not fully scheduled, but paid guaranteed time based on user defined business rules that may vary by agency."
+712015,Medium,,"Automatically exclude hours and other time capture information for non-employees and contractors based on user defined  business rules by agency, organization, or job class."
+712016,Medium,,Automatically reverse the original entry and reprocess the updated entry for user input changes and corrections to time and  hours types and other time capture information (this also impacts cost accounting/allocations).
+712017,Medium,,Support authorized user input of changes and corrections to time and hours types and other time capture information both during  and after payroll reporting periods (retroactive corrections) based on user defined time based business rules and editing.
+712018,Medium,,Automatically identify changes after scheduled and ad hoc payroll processing submission as retroactive and include changes in  next payroll submission based on user defined business rules that may vary by agency or organization unit.

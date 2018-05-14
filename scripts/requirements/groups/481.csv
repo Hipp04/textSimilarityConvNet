@@ -1,0 +1,11 @@
+"Section:SW-Reporting and Business Intelligence, Report Administration (10 Reqs)"
+718428,High,,Provide a centrally managed reporting tool set to ensure that any updates are distributed to users and that all users are  accessing the same version of the reporting software.
+718429,High,,Ensure performance is not impacted when a large report or inquiry is being run.
+718430,Medium,,"Provide the ability to schedule, view and modify the start time for batch printing including any dependencies on certain business  conditions or events."
+718431,High,,"Allow the system administrator or other authorized user to define limits on the execution time for a report or query and/or the  number of records to be retrieved with user options available to continue, cancel, or send to batch."
+718432,High,,"Cancel automatically a query or report job if it fails to meet system administrator defined criteria (e.g., time limits, infinite loops,  etc.)."
+718433,High,,Provide the ability for authorized users or system administrator to terminate any query or report that significantly reduces system  performance.
+718434,High,,Allow system administrator or other authorized user to override parameters for an individual query or report.
+718435,High,,Provide functionality to audit exports of report data and modifications to report definitions.
+718436,High,,Provide the ability to configure reports such that information can be suppressed based on a user's role.
+718437,High,,"Provide reports on user production statistics by user ID, time of day, length of job, etc. to determine who is viewing a report, what  reports are being used and resources consumed by agency/user suitable for billing purposes."

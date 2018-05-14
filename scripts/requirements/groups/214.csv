@@ -1,0 +1,4 @@
+"Section:PL-Facilities Management, Incidents (3 Reqs)"
+713436,Medium,,"Maintain a history of any other incidents (flooding, temporary closure, etc.) associated with a facility, sub-facility, system or  component."
+713437,Medium,,Allow an authorized user to define an incident type and the specific attributes to be captured for the incident type. Attributes could  either be defined as mandatory or required.
+713438,Medium,,Allow an authorized user to create templates by incident type to facilitate entry of incident information.

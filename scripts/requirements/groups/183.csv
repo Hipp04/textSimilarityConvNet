@@ -1,0 +1,35 @@
+"Section:HRP-Time and Labor, Time Approval (34 Reqs)"
+712019,Medium,,"Generate electronic approval of time entered by employee, timekeeper and supervisor."
+712020,High,,Require supervisor's approval on all timesheets before sending information to payroll.
+712021,Medium,,Generate flexible workflow for review and approval of timesheets to include: routing of individual timesheets to timekeepers  and/or supervisors for employees performing direct entry.
+712022,Medium,,Generate flexible workflow for review and approval of timesheets to include: routing of batches of timesheets to appropriate  management personnel.
+712023,Medium,,Generate flexible workflow for review and approval of timesheets to include: assign employees to workgroups that are routed  through workflows.
+712024,Medium,,"Generate flexible workflow for review and approval of timesheets to include: various routing flows based on exceptions to time  reported (leave taken, overtime, etc.)."
+712025,Medium,,Allow for supervisory delegates to be assigned for approval of time sheets.
+712026,Medium,,Generate online notification of scheduled hours exceeded.
+712027,Medium,,Generate online notification of surpassed workload thresholds.
+712028,Medium,,"Automatically re-route timesheet to employee or other designated staff for review and ""signature"" immediately when pay types or  other timesheet information changes."
+712029,Medium,,"Provide for multiple user configurable review, update, and approval steps by agency, organization unit, program, project,  position, and employee."
+712030,Medium,,"Provide capability to assign review and approval rules by individual, schedule, organization, and other categories based on user  defined business rules."
+712031,Medium,,"Provide capability for either automated or manual routing of time entered for review and approval at each step based on user  defined business rules by agency, organization unit, program, project, position type, and employee."
+712032,Medium,,"Provide for multiple time review and approval paths for a single employee for a single day based on established categories, such  as job worked, pay type or leave type."
+712033,Medium,,Support designation of time limited proxy or delegated approval for certain employee groups and permanently designated  reviewers without removal of primary approval authority based on user defined business rules.
+712034,Medium,,Support designation of review and time approval paths that allow for either/or type approvers based on user defined business  rules that may vary by agency or organization unit.
+712035,Medium,,Support designation of different review and time approval paths based on leave request and/or work dates.
+712036,Medium,,Provide automated support (mass update) for implementation of changes to time approver staff or organizational layers.
+712037,Medium,,Flag timesheets with comments for subsequent routing and review based on user defined business rules.
+712038,High,,Provide for electronic time approvals.
+712039,Medium,,Support automated rerouting and notifications of rejected timesheets based on user defined rules.
+712040,Medium,,"Provide for exception time reporting and (email) alerts by individual, time period or, organization unit based on user defined  business rules."
+712041,Medium,,"Automatically notify employees and designated supervisors of ""pseudo"" timesheets created and manage completion cycle for  actual timesheets based on authorized user configurable schedules and business rules."
+712042,Medium,,"Support (email) notifications to employees, time reviewers, and other designated parties (regarding due dates, issues, and so  forth) by agency, organization unit, program, or project based on user defined business rules."
+712043,Medium,,Support varying user defined business rules and time review and approval routing for non-employee and contractor time sheets.
+712044,Medium,,Allow update to time and other data reported by authorized time reviewers with automatic notification provided to employee  based on user defined business rules.
+712045,Medium,,Require employee or other designated party for review and acceptance of updates to time and other data reported by authorized  reviewers based on user defined business rules that may vary by agency.
+712046,Medium,,"Provide the ability for authorized users to ""lock"" input, update, and approval of time and leave for scheduled or ad hoc periods of  time by agency, organization unit, program, or project."
+712047,Medium,,"Allow agencies, organizations, units, programs, projects and supervisors to ""lock"" timesheets submitted for review and approval  to prevent further update by employees; conversely, continue to allow updates and require re-approval, based on user defined  business rules."
+712048,Medium,,Provide for user defined notification generation based upon accrual balances or activity or particular attendance patterns by  agency.
+712049,Medium,,Allow and or require time reporter and reviewers to enter comments and flag timesheets with comments for subsequent review  based on user defined business rules.
+712050,Medium,,"Support tracking and supervisor notification and reporting of employees who are in early/late, out early/late based on user  defined thresholds by agency, organization unit, program, or project."
+712051,High,,Provide the ability to retrieve timesheet history.
+712052,Medium,,"Automatically generate and route exception reports from payroll reconciliation to designated staff for review and action, providing  email and other alerts based on user defined business rules."

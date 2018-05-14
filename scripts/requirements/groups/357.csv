@@ -1,0 +1,22 @@
+"Section:PL-Safety Management, Crash Location (21 Reqs)"
+716633,High,,Integrate with the WVDOT GIS and the route network functionality within the transportation asset inventory function to capture  the location of each crash on the highway network.
+716634,High,,"Store the location by multiple location referencing methods including county, route, milepost and geospatial reference."
+716635,High,,Allow an authorized user to edit or modify the crash location online through the safety management function.
+716636,High,,Allow an authorized user to edit or modify the crash location by locating the crash within the WVDOT GIS and then carrying this  location back to and storing it within the safety management function.
+716637,High,,"Store, display and utilize in analysis for each crash a range of location information."
+716638,High,,"Store, display and utilize county."
+716639,High,,"Store, display and utilize latitude."
+716640,High,,"Store, display and utilize longitude."
+716641,High,,"Store, display and utilize highway class."
+716642,High,,"Store, display and utilize route."
+716643,High,,"Store, display and utilize sub route."
+716644,High,,"Store, display and utilize supplemental designation."
+716645,High,,"Store, display and utilize milepost."
+716646,High,,"Store, display and utilize ramp."
+716647,High,,"Store, display and utilize street/road name."
+716648,High,,"Store, display and utilize intersecting street."
+716649,High,,"Store, display and utilize other description of location."
+716650,High,,"Store, display and utilize relation to junction."
+716651,High,,"Store, display and utilize non-Interchange junction type."
+716652,High,,"Store, display and utilize interchange junction type."
+716653,High,,"Store, display and utilize intersection type."

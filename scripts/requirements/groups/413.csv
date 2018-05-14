@@ -1,0 +1,27 @@
+"Section:PL-Transportation Asset Inventory, Airports (26 Reqs)"
+717347,Medium,,Maintain an inventory of West Virginia commercial and general aviation airports.
+717348,Medium,,Store airport name.
+717349,Medium,,Store airport code.
+717350,Medium,,Store description of location.
+717351,Medium,,"Store navigation information including latitude, longitude, elevation, VORTAC, NDB, VOR, VOR/DME and instrument approach  instructions."
+717352,Medium,,"Store runway information for each runway including designation, length/width, surface and lights."
+717353,Medium,,Store communication information including Common Traffic Advisory Frequency (CTAF); UNICOM frequency; Aviation Weather  System (AWOS); Automated Surface Observing Systems (ASOS); Automatic Terminal Information Service (ATIS); approach  control; tower frequency; ground frequency; clearance delivery and flight service station (FSS) location and contact information.
+717354,Medium,,Store airport phone number.
+717355,Medium,,Store airport manager name and contact information.
+717356,Medium,,Store airport address.
+717357,Medium,,Store fixed Base Operator (FBO) address and contact information.
+717358,Medium,,Store days/hours airport is attended.
+717359,Medium,,Store whether a public use phone is available.
+717360,Medium,,Store whether restroom facilities are available.
+717361,Medium,,"Store types of mechanical services available including engine, airframe, fuel, hangar storage, tiedowns, etc."
+717362,Medium,,Store whether there is a landing fee and amount.
+717363,Medium,,Store ground transportation available and contact information.
+717364,Medium,,"Store a listing of local dining, lodging and attractions with distance from airport, hours and contact information."
+717365,Medium,,Store a listing of significant local events and timing of these events.
+717366,Medium,,Document whether there is regular snow removal.
+717367,Medium,,Document whether there is commercial air service.
+717368,Medium,,Store locations served by commercial air service and the carrier providing the service.
+717369,Medium,,Document other notes and comments about the airport.
+717370,Medium,,"Integrate with EMC Application Xtender to link to, store and display pictures of the airport facility."
+717371,Medium,,Integrate with ERP grants management function to provide a list of State grants provided to the airport and allow drill down to  obtain more detailed information about a specific grant.
+717372,Medium,,Publish from airport inventory the content required for West Virginia Airport Directory.

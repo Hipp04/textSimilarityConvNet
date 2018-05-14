@@ -1,0 +1,57 @@
+"Section:HRP-Classification and Compensation, Classification / Reviews / Audits (56 Reqs)"
+710011,Medium,,Track classification specifications both current and historically.
+710012,Medium,,"Track personnel action (e.g., reclass, reallocation) by: position number."
+710013,Medium,,"Track personnel action (e.g., reclass, reallocation) by: position description."
+710014,Medium,,"Track personnel action (e.g., reclass, reallocation) by: current incumbent."
+710015,Medium,,"Track personnel action (e.g., reclass, reallocation) by: current class."
+710016,Medium,,"Track personnel action (e.g., reclass, reallocation) by: grade and step."
+710017,Medium,,"Track personnel action (e.g., reclass, reallocation) by: funding source."
+710018,Medium,,"Track personnel action (e.g., reclass, reallocation) by: grants."
+710019,Medium,,"Track personnel action (e.g., reclass, reallocation) by: statutory changes."
+710020,Medium,,"Track personnel action (e.g., reclass, reallocation) by: proposed class."
+710021,Medium,,"Track personnel action (e.g., reclass, reallocation) by: current pay."
+710022,Medium,,"Track personnel action (e.g., reclass, reallocation) by: proposed pay."
+710023,Medium,,"Track personnel action (e.g., reclass, reallocation) by: organization unit."
+710024,Medium,,"Track personnel action (e.g., reclass, reallocation) by: cost center."
+710025,Medium,,"Track personnel action (e.g., reclass, reallocation) by: supervisor."
+710026,Medium,,"Track personnel action (e.g., reclass, reallocation) by: position description changes (e.g. deleted duties, new duties, reduced  duties, expanded duties)."
+710027,Medium,,"Track personnel action (e.g., reclass, reallocation) by: exclusion analysis (e.g., confidential, management, supervisory)."
+710028,Medium,,"Track personnel action (e.g., reclass, reallocation) by: effective date."
+710029,Medium,,"Track personnel action request events, dates, and parties involved."
+710030,Medium,,"Record when classification is under review (e.g., vacancy, review request)."
+710031,Medium,,"Track results of classification action reviews including approved as submitted, pending or denied by reclassification or  reallocation."
+710032,Medium,,Support analysis of classification for both filled and vacant positions.
+710033,Medium,,Track job classification audits and notify agency HR representatives and position incumbents (optional) potentially impacted by  changes: to job descriptions or job classifications under revision.
+710034,Medium,,Track job classification audits and notify agency HR representatives and position incumbents (optional) potentially impacted by  changes: to job descriptions associated with a specific job class.
+710035,Medium,,Track job classification audits and notify agency HR representatives and position incumbents (optional) potentially impacted by  changes: requested by department to properly classify a position management believed to be misclassified.
+710036,Medium,,"Track job classification audits and notify agency HR representatives and position incumbents (optional) potentially impacted by  changes: in position classification, new classes and new positions."
+710037,Medium,,Track job classification audits and notify agency HR representatives and position incumbents (optional) potentially impacted by  changes: at user defined interval since last classification decision.
+710038,Medium,,Track job classification audits and notify agency HR representatives and position incumbents (optional) potentially impacted by  changes: to a random search of all existing job descriptions.
+710039,Medium,,Facilitate audit of position descriptions based on: classification.
+710040,Medium,,Facilitate audit of position descriptions based on: employee time in class.
+710041,Medium,,Facilitate audit of position descriptions based on: FLSA status.
+710042,Medium,,Facilitate audit of position descriptions based on: pay schedule.
+710043,Medium,,Facilitate audit of position descriptions based on: Bargaining unit / Employee Association.
+710044,Medium,,Facilitate audit of position descriptions based on: job location.
+710045,Medium,,Facilitate audit of position descriptions based on: EEO Status.
+710046,Medium,,Facilitate audit of position descriptions based on: education required.
+710047,Medium,,Facilitate audit of position descriptions based on: position number.
+710048,Medium,,Facilitate audit of position descriptions based on: minimum job requirements.
+710049,Medium,,Facilitate audit of position descriptions based on: essential functions.
+710050,Medium,,Facilitate audit of position descriptions based on: licenses and certificates required.
+710051,Medium,,Facilitate audit of position descriptions based on: hazardous occupation status.
+710052,Medium,,Facilitate audit of position descriptions based on: any other user defined fields associated with the job.
+710053,Medium,,Track information associated with a classification audit based on: type of audit.
+710054,Medium,,Track information associated with a classification audit based on: organizational information (cost center).
+710055,Medium,,Track information associated with a classification audit based on: source of classification audit request.
+710056,Medium,,Track information associated with a classification audit based on: person or group conducting the audit.
+710057,Medium,,"Track information associated with a classification audit based on: who was audited (employee, supervisor, administrator,  comparable, other)."
+710058,Medium,,Track information associated with a classification audit based on: start and end dates for the audit.
+710059,Medium,,Track information associated with a classification audit based on: results or outcomes of the audit.
+710060,Medium,,Retrieve information associated with classification audits of similar positions.
+710061,Medium,,"Track working/job titles, classification titles, and classification sub titles."
+710062,High,,"Search on classification at the Department, Agency, Division level, etc."
+710063,Medium,,Generate classification disposition letters for approvals and denials to requestor and optionally those directly impacted by the  classification review.
+710064,Medium,,"Track the employee appeals process, events and outcomes of classification changes for agencies."
+710065,Medium,,Generate notification to agency HR representatives and position incumbents upon receipt of reclass or reallocation request.
+710066,High,,Maintain a complete history associated with all review/audit activity.

@@ -1,0 +1,19 @@
+"Section:PL-Fleet Management, Cost and Billing (18 Reqs)"
+714304,Medium,,"Create various cost pools at the enterprise, group of agency, agency and agency unit levels."
+714305,Medium,,Assign fleet/equipment units to various cost allocation pools.
+714306,Medium,,Integrate with ERP cost allocation function to allocate indirect costs associated with fleet management to fleet/equipment units  based on various parameters.
+714307,Medium,,Allocate indirect costs associated with fleet management to fleet/equipment units based on number of fleet/equipment units in  allocation pool.
+714308,Medium,,Allocate indirect costs associated with fleet management to fleet/equipment units based on total hours fleet/equipment unit is  utilized.
+714309,Medium,,Allocate indirect costs associated with fleet management to fleet/equipment units based on total mileage fleet/equipment units is  driven.
+714310,Medium,,Allocate indirect costs associated with fleet management to fleet/equipment units based on other user defined variables.
+714311,Medium,,"Support allocation of vehicle operating cost to projects, grants and agency or agency unit overhead accounts."
+714312,Medium,,Provide for the billing period to be user definable at the individual fleet/equipment unit level.
+714313,Medium,,Allow the method of billing to be defined at the individual fleet/equipment unit level.
+714314,Medium,,"Support billing based on a number of parameters including flat rate; usage rate; actual cost of labor, parts, fuel and/or insurance;  and any variance of fixed and actual cost."
+714315,Medium,,Support billing for a fixed monthly cost such as equipment replacement cost.
+714316,Medium,,Allow parts be billed at cost or at an agency specific mark-up percent.
+714317,Medium,,Allow the method of parts billing to be defined at the individual fleet/equipment unit level.
+714318,Medium,,"Provide ability to generate a detailed statement for each billing period showing the agency or agency unit cost by fleet/equipment  unit; report must be able to be requested by various user defined criteria such as agency unit, fleet type, maintenance shop,  fleet/equipment unit owner, etc."
+714319,Medium,,"Track and report revenue by agency, agency unit and maintenance shop."
+714320,Medium,,Provide a separate statement billing for accident and driver abuse repairs.
+714321,Medium,,Integrate with ERP accounts receivable function to support billing for accident/driver abuse repairs.

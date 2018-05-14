@@ -1,0 +1,33 @@
+"Section:HRP-Position Control, Costing and Budget Projections (32 Reqs)"
+711714,High,,Provide ability to spread position allocations across multiple funding sources.
+711715,High,,Allocate each position to up to 100 different program budgets.
+711716,High,,"Calculate salary requirements for positions by Chart of Accounts (e.g., Appropriation, Fund, Agency, Project, Grant, etc.) for  budgeted positions."
+711717,High,,"Calculate salary requirements for positions by each Chart of Accounts (e.g., Appropriation, Fund, Agency, Project, Grant, etc.)  for filled positions."
+711718,High,,"Calculate salary requirements for positions by each Chart of Accounts (e.g., Appropriation, Fund, Agency, Project, Grant, etc.)  for vacant positions."
+711719,High,,"Calculate salary requirements for positions by each Chart of Accounts (e.g., Appropriation, Fund, Agency, Project, Grant, etc.)  for new positions budgeted."
+711720,High,,"Calculate salary requirements for position by each Chart of Accounts (e.g., Appropriation, Fund, Agency, Project, Grant, etc.) for  positions to be abolished."
+711721,High,,Provide ability to change Chart of Accounts distributions (funding sources) associated with positions and the individuals within  those positions.
+711722,High,,Track fringe benefits associated with a new position.
+711723,High,,Provide cost of current and proposed positions including vacancies.
+711724,High,,Calculate projected cost for remaining fiscal year by user-defined fields.
+711725,High,,Provide ability to model reorganizations at various levels of the organization hierarchy including moving agencies.
+711726,High,,Provide ability to model reorganizations at various levels of the organization hierarchy including combining agencies.
+711727,High,,"Provide ability to model reorganizations at various levels of the organization hierarchy including creating, modifying, and  abolishing agencies."
+711728,High,,"Provide ability to perform ""what-if"" cost analysis for all budgeting and staffing control functions (e.g., proposed salary increases,  reclassifications, salary adjustments)."
+711729,High,,"Provide ability to perform ""what-if"" incremental costs by agency and Chart of Accounts."
+711730,High,,"Provide a salary projection tool to facilitate building the labor budget from the ground up, based on user-defined start and end  dates that distinguishes current year projection from budget year projection, and shows actual cost, projected cost and salary  savings."
+711731,High,,Calculate salary requirements on budget and actual payroll for each position's category including position type.
+711732,High,,Calculate salary requirements on budget and actual payroll for each position's category including agency.
+711733,High,,Calculate salary requirements on budget and actual payroll for each position's category including class.
+711734,Medium,,Allow for the creation of new (to be requested) positions in the budget system.
+711735,Medium,,Control minimum and maximum salary levels for selected positions and/or agencies.
+711736,Medium,,"Use user-defined date range information by employee or position for use in projection of remaining fiscal year (including state,  budget, federal, program) costs."
+711737,High,,Produce system edits or warnings for position budgeting.
+711738,Medium,,Store FTE count to 3 decimal positions.
+711739,High,,Project payroll costs based on pay range adjustments including annualization of costs.
+711740,High,,Restrict control of fringe benefit tables and rates to appropriate controlling agency only.
+711741,Medium,,Maintain budgeted salary information by payroll type and retirement type.
+711742,High,,Limit positions to a maximum of one FTE.
+711743,Medium,,Allow agencies to establish limits on positions and/or FTEs at the lower levels of the organization structure.
+711744,High,,"Access multiple insurance premium rates and match the appropriate premium rate to an employee position number for  calculating wage, salary and fringe benefits."
+711745,High,,"Track employee additional employee payments e.g. annual increment, auto usage, etc."

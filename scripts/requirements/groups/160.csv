@@ -1,0 +1,65 @@
+"Section:HRP-Payroll, Payroll Processing (64 Reqs)"
+710986,Medium,,Perform calculations and processing required for employee terminations to include: salary and additional pay.
+710987,Medium,,Perform calculations and processing required for employee terminations to include: payoff of applicable leave time.
+710988,Medium,,Perform calculations and processing required for employee terminations to include: longevity / severance.
+710989,Medium,,Perform calculations and processing required for employee terminations to include: a change to payee name when employee is  deceased.
+710990,Medium,,Perform calculations and processing required for employee terminations to include: the ability to defer payoff of benefits at the  time of termination (pay later and in installments).
+710991,Medium,,Perform calculations and processing required for employee terminations to include: the ability to produce a separate check for  termination pay at employee option.
+710992,Medium,,Perform calculations and processing required for employee terminations to include: the ability to check if state issued property  has been returned.
+710993,Medium,,Perform calculations and processing required for employee terminations to include: the ability to check for travel advancements.
+710994,Medium,,Perform calculations and processing required for employee terminations to include: the ability to check for educational  reimbursements.
+710995,Medium,,Perform calculations and processing required for employee terminations to include: the ability to check for sick leave buyout.
+710996,Medium,,Perform calculations and processing required for employee terminations to include: the ability to check for garnishments and  child support.
+710997,Medium,,Perform calculations and processing required for employee terminations to include: the ability to check for arrears pay  conversions from current pay.
+710998,Medium,,Perform calculations and processing required for employee terminations to include: the ability to check for other outstanding  liabilities to the agency.
+710999,Medium,,Perform calculations and processing required for employee terminations to include: the ability to combine last regular check and  payoff check.
+711000,Medium,,Support retroactive processing: for hours adjustments.
+711001,Medium,,Support retroactive processing: for additional pay adjustments.
+711002,Medium,,Support retroactive processing: for rate adjustments for an individual.
+711003,Medium,,Support retroactive processing: for rate adjustment to a group of individuals due to compensation plan changes.
+711004,Medium,,Support retroactive processing: for deduction adjustments to individuals.
+711005,Medium,,"Support retroactive processing: for deduction adjustments to groups of employees due to changes to benefit rates, etc."
+711006,Medium,,Support retroactive processing: for leave not submitted.
+711007,Medium,,"Support retroactive processing: for contributions (retirement plans, section 125 plans, etc.), including both employee and State  contributions."
+711008,Medium,,"Support retroactive processing: for personnel transactions (re-class, re-allocation, etc.)."
+711009,Medium,,Support retroactive processing: for terminations.
+711010,Medium,,Support retroactive processing: for multiple start dates.
+711011,Medium,,Support retroactive processing: for multiple end dates.
+711012,Medium,,Allow the ability to override salary table amounts for individual employees.
+711013,High,,Allow for various pay cycle frequencies to include: bi-weekly.
+711014,High,,Allow for various pay cycle frequencies to include: semi-monthly.
+711015,High,,Allow for various pay cycle frequencies to include: supplemental (on demand).
+711016,High,,Allow for various pay cycle frequencies to include: monthly.
+711017,High,,"Allow the ability to select a group of employees for any payroll (or payees) processing event (State, Higher Education, Retirees)."
+711018,Medium,,"Allow the ability to process dual status employees, which implies multiple classes, positions, funding sources and pay rates in the  same pay cycle."
+711019,High,,Track taxable wages and taxes withheld YTD for dual status employees.
+711020,Medium,,Process multiple rates of pay for the same job during the same pay period.
+711021,Medium,,Process arrearages for deductions and taxes withheld.
+711022,High,,"Run pay calculations as a ""proof"" run for review prior to the final pay run and: to flag exception conditions (zero hours, over X  hours, incomplete benefit data, check exceeding threshold, negative check, etc.)."
+711023,High,,"Run pay calculations as a ""proof"" run for review prior to the final pay run and: to allow adjustments to data prior to the final run."
+711024,High,,"Run pay calculations as a ""proof"" run for review prior to the final pay run and: to recalculate only what is required based on  changes."
+711025,Medium,,Allow for direct deposit of employee pay to five or more bank accounts based on employee and user selectable options.
+711026,Medium,,Optionally provide output file of direct deposit and pay stub information for secured access by the employer.
+711027,Medium,,"Calculate off-cycle or supplemental pay online and produce one or more checks, including deductions and taxes. online check  processing functions include: validation against employee's master file for deductions, job classification, tax data, etc."
+711028,Medium,,"Calculate off-cycle or supplemental pay online and produce one or more checks, including deductions and taxes. online check  processing functions include: update of all employee and employer accumulators automatically."
+711029,Medium,,"Calculate off-cycle or supplemental pay online and produce one or more checks, including deductions and taxes. online check  processing functions include: in pay event reconciliation."
+711030,Medium,,"Calculate off-cycle or supplemental pay online and produce one or more checks, including deductions and taxes. online check  processing functions include: on demand."
+711031,Medium,,"Calculate off-cycle or supplemental pay online and produce one or more checks, including deductions and taxes. online check  processing functions include: batch manual check / warrants to print together."
+711032,Medium,,"Calculate off-cycle or supplemental pay online and produce one or more checks, including deductions and taxes. online check  processing functions include: ability to produce check or direct deposit, or output file only based on employee designations."
+711033,Medium,,Allow for multiple checks per employee as required.
+711034,High,,Allow the cancellation and reissue of checks and direct deposits and retain all history.
+711035,Medium,,Allow entering comment information regarding any manual checks created.
+711036,Medium,,"Process retroactive pay adjustments (hours adjustments, rate adjustments, deductions, etc.) and to update all payroll history and  labor distribution entries."
+711037,Medium,,"Generate 1099 Miscellaneous processing for wages paid after death, including the ability to combine with other 1099 processing  for end of year 1099 reporting."
+711038,Medium,,Generate various pay stub and check templates (if requested) as well as an ability to design custom formats using blank check  stock.
+711039,Medium,,Generate output file of direct deposit and pay stub information for secured access by employee.
+711040,Medium,,The system should provide the ability to reissue a new check number while maintaining a link to the old check number with the  option to change the check date and payee on the reissued check.
+711041,Medium,,Ability to process a check reversal using the check or advice number to automatically generate the adjustment transactions at  any point in the payroll cycle.
+711042,High,,"Ability to adjust an employee's year to date wages, taxes, and/or specific deductions."
+711043,Medium,,Perform automatic adjustments to pay based on changes to hours worked.
+711044,High,,Ability to process unlimited adjustments per employee pay transaction.
+711045,Medium,,Provide the ability to recover overpayments (for example wage overpayments and travel advance funds not used that need to be  reimbursed back to the agency) within specified period of time and in compliance with any specific agency polices or law.
+711046,Low,,Recover overpayments by installment amounts over specified time period and in compliance with any specific agency polices or  law.
+711047,Medium,,Generate stop payment and reversal requests online.
+711048,Medium,,System must track Employee payments and provide back to the State the amount received while awaiting to be paid temporary  disability benefits.
+711049,Medium,,Allow the ability for benefits to be prorated between an employee's payroll fund sources.

@@ -1,0 +1,7 @@
+"Section:PL-Transportation Asset Inventory, Signs (6 Reqs)"
+717287,High,,Maintain an inventory of signs.
+717288,High,,Store ground mounted signs.
+717289,High,,Store ground mounted overhead signs.
+717290,High,,Store structure mounted overhead signs.
+717291,High,,"Provide ability to create and establish multiple additional fields of user defined information (i.e. MUTCD code, sheeting grade,  sheeting manufacturer, sign substrate, etc...)."
+717292,High,,"Provide ability to associate multiple individual signs assets with a common structure or supports (i.e. ""assembly"")."

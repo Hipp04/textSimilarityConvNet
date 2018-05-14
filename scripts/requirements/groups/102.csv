@@ -1,0 +1,12 @@
+"Section:FIN-Transparency, Redact (11 Reqs)"
+708578,High,,"Scan redacted documents for the presence of a social security number, FEIN, Credit Card, or other recognizable text patterns. If  one of these patterns is detected, the document will not be accepted by the system."
+708579,High,,Documents presented for public inspection must be redacted in accordance with applicable provisions of Federal and State  statutes by the agency submitting the document.
+708580,Medium,,"Access for the public to redacted contracts, redacted contract amendments, redacted Purchase Orders, and redacted invoices  must be made available on the State public website."
+708581,Low,,Provide automated redaction capability.
+708582,Medium,,"If an external user requests access to a document that is not available in a redacted form, the system through automated  workflow will notify the Right to Know Officer, or designated representative, of the pertinent agency directing that a redacted  version of the requested document be submitted."
+708583,Medium,,"If an external user requests access to a document for which no redacted version is available, the system will provide the option  for that external user to provide an e-mail address through which the system will notify that external user that the requested  document is now available in the system."
+708584,Medium,,External user requests access to a document for which no redacted version is available a redacted version must be made  available within 5 business days per FOIA (Freedom of Information Act).
+708585,Medium,,"Do not display confidential information contained in the vendor file (e.g.; bank routing number, bank account number, etc.)."
+708586,Medium,,Do not display confidential service information such as HIPPA related services.
+708587,Medium,,Provide fields for public and private comments on all expenditure transaction. Do not display private comments.
+708588,High,,Do not display employee home address.

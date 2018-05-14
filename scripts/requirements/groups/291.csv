@@ -1,0 +1,49 @@
+"Section:PL-Procurement, Workflow (53 Reqs)"
+715099,High,,Provide the ability to allow for the creation of workflow for all types of purchasing transactions: Invoices.
+715100,High,,Provide the ability to allow for the creation of workflow for all types of purchasing transactions: Prior Authorizations.
+715101,High,,Provide the ability to allow for the creation of workflow for all types of purchasing transactions: Voucher Requests.
+715102,High,,Provide the ability for administrators to create workflow rules based on any combination of the following: Dollar thresholds.
+715103,High,,Provide the ability for administrators to create workflow rules based on any combination of the following: Transaction types.
+715104,High,,Provide the ability for administrators to create workflow rules based on any combination of the following: Commodity code or  commodity code group.
+715105,High,,Provide the ability for administrators to create workflow rules based on any combination of the following: Chart of Accounts (any  component).
+715106,High,,Provide the ability for administrators to create workflow rules based on any combination of the following: Organization structure.
+715107,High,,Provide the ability for administrators to create workflow rules based on any combination of the following: Vendor.
+715108,High,,Provide the ability for administrators to create workflow rules based on any combination of the following: Agency-specific  business rules.
+715109,High,,"Provide the ability for administrators to create workflow rules based on any combination of the following: Combination of dollar,  type, commodity, etc."
+715110,High,,"Provide the ability to specify approval paths for the following special approval types, including but not limited to: Obtain additional  approvals when dollar limitations have been exceeded."
+715111,High,,"Provide the ability to specify approval paths for the following special approval types, including but not limited to: Obtain approval  on Trade-in items from Surplus Property."
+715112,High,,"Provide the ability to specify approval paths for the following special approval types, including but not limited to: High   Tech  purchases."
+715113,High,,"Provide the ability to specify approval paths for the following special approval types, including but not limited to: Sole source  purchases."
+715114,High,,"Provide the ability to specify approval paths for the following special approval types, including but not limited to: Acceptance of  sole bids."
+715115,High,,"Provide the ability to specify approval paths for the following special approval types, including but not limited to: Delegated  Purchasing Authority from bid."
+715116,High,,"Provide the ability to specify approval paths for the following special approval types, including but not limited to: Used equipment."
+715117,High,,"Provide the ability to specify approval paths for the following special approval types, including but not limited to: Price increases."
+715118,High,,"Provide the ability to specify approval paths for the following special approval types, including but not limited to: Amendments."
+715119,High,,"Provide the ability to specify approval paths for the following special approval types, including but not limited to: Communication  equipment purchases."
+715120,High,,"Provide the ability to specify approval paths for the following special approval types, including but not limited to: Multi-step  bidding process (multi-step: RFI to RFO or RFQ)."
+715121,High,,"Provide the ability to specify approval paths for the following special approval types, including but not limited to: Bid errors  (including overages or lack of funds)."
+715122,High,,"Provide the ability to specify approval paths for the following special approval types, including but not limited to: Exceptions to  standard terms and conditions."
+715123,High,,"Provide the ability to specify approval paths for the following special approval types, including but not limited to: Advertising  Requirement Waiver."
+715124,High,,"Provide the ability to specify approval paths for the following special approval types, including but not limited to: Professional  Service Agreements."
+715125,High,,"Provide the ability to specify approval paths for the following special approval types, including but not limited to: Sunshine Act  Agreements."
+715126,High,,"Provide the ability to specify approval paths for the following special approval types, including but not limited to: Print and Print  Related Materials."
+715127,High,,"Provide the ability to specify approval paths for the following special approval types, including but not limited to: Vehicle  purchases."
+715128,High,,"Provide the ability to specify approval paths for the following special approval types, including but not limited to: Insurance  Statutory Authority."
+715129,High,,"Provide the ability to specify approval paths for the following special approval types, including but not limited to: Land purchase  statutory."
+715130,Medium,,"Provide the ability to have user-defined events trigger notifications to the purchasing agent, the routing of forms to be completed,  and/or the sending of electronic internal notices. Examples include: Notification to the purchasing agent when the status of a  contract changes with the ability to define individuals to receive notices."
+715131,Medium,,"Provide the ability to have user-defined events trigger notifications to the purchasing agent, the routing of forms to be completed,  and/or the sending of electronic internal notices. Examples include: Letters to notify vendors that their registration attempts were  successful or unsuccessful."
+715132,Medium,,"Provide the ability to have user-defined events trigger notifications to the purchasing agent, the routing of forms to be completed,  and/or the sending of electronic internal notices. Examples include: A letter to a vendor is generated and an internal notice is  sent when an invalid email address is detected when correspondence is sent to a vendor via email."
+715133,Medium,,"Provide the ability to make changes to certain types of purchasing documents that result in new approval paths (e.g., changing  the type of procurement) without losing the relevant approvals that have already been granted. Transaction must still conform to  purchasing policies."
+715134,High,,"Provide the ability via workflow to reject documents in full or in part, and return the rejected items to the originator for resubmittal."
+715135,Medium,,Provide the ability for an email notification to be generated to the individual receiving the goods when an invoice is entered and a  receipt has not been entered.
+715136,High,,Provide the ability for purchasing agents or end users to add ad hoc approvals.
+715137,High,,"Provide the ability to log date, time and approver for each level of approval as it occurs."
+715138,High,,Provide the ability to notify approvers when a transaction is waiting for approval.
+715139,Medium,,Provide the ability to receive notification of approval task by email with a courtesy hyperlink to ERP system access. .
+715140,Medium,,Provide the ability for the end user to turn off the email approval functionality and work only within the ERP.
+715141,High,,Provide the ability for approval notification to the creator as approvals are applied.
+715142,High,,Provide the ability for the creator to reroute the approval notification to an administrator.
+715143,High,,Provide the ability for approval notification to the creator when final approval is received.
+715144,High,,"Provide the ability to limit the amount of time approvals can remain in pending status, before automatic notification is sent to the  approver's alternates and the purchasing agent."
+715145,High,,Supports the ability to set up alternate approvers when needed.
+715146,High,,Provide the ability for sequential and/or parallel approvals.

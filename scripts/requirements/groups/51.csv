@@ -1,0 +1,139 @@
+"Section:FIN-Cost Accounting, Cost Accounting Design (138 Reqs)"
+706958,Medium,,Maintains the following cost assignment rules: Direct tracking of costs.
+706959,Medium,,Maintains the following cost assignment rules: Cost Allocation.
+706960,Medium,,Maintains the following cost assignment rules: Assigns both productive and non-productive costs.
+706961,Medium,,Maintains the following cost assignment rules: Accommodates both fixed and variable costs.
+706962,Medium,,Supports the following costing methodologies: Actual Fixed Percentage.
+706963,Medium,,Supports the following costing methodologies: Actual Calculated Percentage.
+706964,Medium,,Supports the following costing methodologies: Standard Rate.
+706965,Medium,,Supports the following costing methodologies: Standard Cost per Unit.
+706966,Medium,,Supports the following costing methodologies: Standard Amount.
+706967,Medium,,Supports the following costing methodologies: Activity-Based.
+706968,Medium,,Supports the following costing methodologies: Process.
+706969,Medium,,Supports the following costing methodologies: Job Order.
+706970,Medium,,Supports the following costing methodologies: User-defined methodologies (Vendor should specify in the comments column  which other methods have been used with their system).
+706971,Medium,,Accumulates the following resource costs: Rent.
+706972,Medium,,Accumulates the following resource costs: Shipping.
+706973,Medium,,Accumulates the following resource costs: Labor (Salary and Wage).
+706974,Medium,,Accumulates the following resource costs: Labor (Employee Benefits).
+706975,Medium,,Accumulates the following resource costs: Labor (Overtime - various types).
+706976,Medium,,Accumulates the following resource costs: Additional Labor Costs.
+706977,Medium,,Accumulates the following resource costs: Classification of Labor.
+706978,Medium,,Accumulates the following resource costs: Overhead.
+706979,Medium,,Accumulates the following resource costs: Mileage.
+706980,Medium,,Accumulates the following resource costs: Insurance Expense.
+706981,Medium,,Accumulates the following resource costs: Supplies.
+706982,Medium,,Accumulates the following resource costs: Materials.
+706983,Medium,,Accumulates the following resource costs: Equipment.
+706984,Medium,,Accumulates the following resource costs: Inventory.
+706985,Medium,,Accumulates the following resource costs: Contractual Services (multiple items and rates).
+706986,Medium,,"Accumulates the following resource costs: Facilities (Rental, Leases, etc.)."
+706987,Medium,,Accumulates the following resource costs: Utilities.
+706988,Medium,,Accumulates the following resource costs: Furniture and Fixtures.
+706989,Medium,,Accumulates the following resource costs: Information Technology.
+706990,Medium,,Accumulates the following resource costs: Indirect Costs.
+706991,Medium,,"Accumulates the following resource costs: Other Expenditures (Cost Payment Vouchers, journal entries) done separately."
+706992,Medium,,Assigns resource costs to any element of the Chart of Accounts structure.
+706993,Medium,,Provides the following job definition capabilities: Description.
+706994,Medium,,Provides the following job definition capabilities: Location.
+706995,Medium,,Provides the following job definition capabilities: Geographical Information System coordinates.
+706996,Medium,,Provides the following job definition capabilities: Begin Date.
+706997,Medium,,Provides the following job definition capabilities: End Date.
+706998,Medium,,Provides the following job definition capabilities: Elements of the Chart of Accounts Structure.
+706999,Medium,,Provides the following job definition capabilities: Multiple State Reporting Code Fields.
+707000,Medium,,Provides the following job definition capabilities: Billing Information.
+707001,Medium,,Provides the following job definition capabilities: Department Service Order.
+707002,Medium,,Provides the following job definition capabilities: Pre-encumbrance.
+707003,Medium,,Provides the following job definition capabilities: Purchase Order.
+707004,Medium,,Provides the following job definition capabilities: Job or Project Code.
+707005,Medium,,Provides the following job definition capabilities: Maximum $ amount for job.
+707006,Medium,,Provides the following job definition capabilities: Revenue Source.
+707007,Medium,,Provides the following job definition capabilities: Audit Start Date.
+707008,Medium,,Provides the following job definition capabilities: Actual Field Work Date.
+707009,Medium,,Provides the following job definition capabilities: Actual Field Work Completed Date.
+707010,Medium,,Provides the following job definition capabilities: Draft Report Date.
+707011,Medium,,Provides the following job definition capabilities: Report Issued Date.
+707012,Medium,,Provides the following job definition capabilities: Multiple (6 minimum) user-defined fields.
+707013,Medium,,Provides for rollup of several jobs to a project.
+707014,Medium,,Provides the ability to associate a fixed asset with a job.
+707015,Medium,,Record all revenue at the job series level.
+707016,Medium,,"Capture costs as direct, intra-entity or inter-entity."
+707017,Medium,,Allows for the creation of multiple user-defined work input categories.
+707018,Medium,,Provides statistical tracking capabilities for the purpose of distributing costs to outputs.
+707019,Medium,,"Allows for the distribution of non-labor costs (i.e., vehicle mileage) based upon employee time data."
+707020,Medium,,Classify work activities as value-added or non value-added.
+707021,Medium,,Classify costs as direct expense or asset related.
+707022,Medium,,Classify costs as indirect expense.
+707023,Medium,,Classify costs as reimbursable or non-reimbursable.
+707024,Medium,,Transfer cost information to accounts receivable for billing by job series.
+707025,Medium,,Group job series for billing purposes.
+707026,Medium,,Setup terms for lease or monthly rental costs and automatically generate billing.
+707027,Medium,,"Allow for calculation of various user-defined rates, including the ability to calculate different internal and external rates for the  same task, job, etc."
+707028,Medium,,Allow overhead rates to be redistributed and amended at user-defined periods.
+707029,Medium,,Maintains identity of source of costs.
+707030,Medium,,Provides ability to drilldown to source of costs.
+707031,Medium,,Provide for jobs that collect costs (pools) and jobs where costs are distributed (bases).
+707032,Medium,,Allows entry of negative overhead rates.
+707033,Medium,,"Accommodates the systematic distribution of payroll expense to the job and task level, based on information reported on the  timesheet."
+707034,Medium,,Accommodate offsetting entries for the redistribution of salary expenses recorded to clearing account jobs.
+707035,Medium,,"Distribute payroll expenses from and within the Internal Service Fund by application of rates to hours worked (straight time hourly  rate, paid and unpaid employee benefit rates, and overhead rates)."
+707036,Medium,,Allows the costing of usage to a job and the recording of an offsetting entry to a clearing account for the corresponding cost pool.
+707037,Medium,,Distribute indirect costs to multiple indirect cost centers or split funded costs to multiple split funded direct jobs (cost allocation).
+707038,Medium,,Provide an automated mechanism for extracting and costing the following types of resources: Labor.
+707039,Medium,,Provide an automated mechanism for extracting and costing the following types of resources: Equipment.
+707040,Medium,,Provide an automated mechanism for extracting and costing the following types of resources: Material Usage.
+707041,Medium,,Provide an automated mechanism for extracting and costing the following types of resources: Chargeback.
+707042,Medium,,System should provide Labor Costing of time sheet data based on the following factors: Type of job.
+707043,Medium,,System should provide Labor Costing of time sheet data based on the following factors: Type or classification of employee.
+707044,Medium,,System should provide Labor Costing of time sheet data based on the following factors: Contractual Services (multiple items and  rates).
+707045,Medium,,System should provide Labor Costing of time sheet data based on the following factors: Other Services.
+707046,Medium,,System should provide Labor Costing of time sheet data based on the following factors: Organization to which employee reports.
+707047,Medium,,System should provide Labor Costing of time sheet data based on the following factors: Rates applied for employee benefits.
+707048,Medium,,"System should provide Labor Costing of time sheet data based on the following factors: Rates applied for department, division  and section overhead."
+707049,Medium,,"System should provide Labor Costing of time sheet data based on the following factors: Type of work such as regular time,  overtime, bonus time, time off."
+707050,Medium,,System should provide Labor Costing of time sheet data based on the following factors: Time period worked.
+707051,Medium,,Allow costing of equipment usage based on equipment number and units e.g. hours and miles.
+707052,Medium,,Allow manual entry of equipment usage.
+707053,Medium,,"Group equipment into classes, and associate rates with each class in order to perform costing."
+707054,Medium,,"Allow the flexibility to apply equipment usage rates by class, equipment, or groups of classes."
+707055,Medium,,Allow for manual entry of materials issued.
+707056,Medium,,"Import/export costed or un-costed records for labor, equipment, materials, mileage, reproduction, materials laboratory, or any  other State-defined usage defined as requiring the information."
+707057,Medium,,Prevents changes to supporting allocation records once the allocation process starts.
+707058,Medium,,Track production and performance units to the individual and system reporting the units.
+707059,Medium,,Reports exception records that fail edits.
+707060,Medium,,"Summarize costed transactions at various user-defined levels; i.e. by levels in the GL Chart of Accounts/reporting hierarchy,  such as, but not limited to, organization, program, task, project, general reporting category, etc."
+707061,Medium,,Report cost information through a set of predefined parameters (no programming necessary on part of user) and report formats.
+707062,Medium,,"Extract statistical data captured as data elements in the system, such as, but not limited to the following: Vehicle hours."
+707063,Medium,,"Extract statistical data captured as data elements in the system, such as, but not limited to the following: Kilowatt hours."
+707064,Medium,,"Extract statistical data captured as data elements in the system, such as, but not limited to the following: Number of employees  who worked on a job."
+707065,Medium,,"Extract statistical data captured as data elements in the system, such as, but not limited to the following: Number of Visits."
+707066,Medium,,"Extract statistical data captured as data elements in the system, such as, but not limited to the following: Number of tasks used  on a project."
+707067,Medium,,"Extract statistical data captured as data elements in the system, such as, but not limited to the following: Fixed percentage  number of documents processed."
+707068,Medium,,Generates journal entries of summarized cost data for updating of the general ledger.
+707069,Medium,,Support the following for user-specified categories and criteria: Compute rates.
+707070,Medium,,Support the following for user-specified categories and criteria: Provide ability to compare and report past actual to standard  allocations.
+707071,Medium,,Support the following for user-specified categories and criteria: Compute Variance.
+707072,Medium,,Support the following for user-specified categories and criteria: Calculate new allocation rates.
+707073,Medium,,Apply usage rates to various types of activities so that costed data are available for on-line inquiry and reporting. Examples of  rate calculations and applications are: Labor.
+707074,Medium,,Apply usage rates to various types of activities so that costed data are available for on-line inquiry and reporting. Examples of  rate calculations and applications are: Each individual's actual rate per hour.
+707075,Medium,,"Apply usage rates to various types of activities so that costed data are available for on-line inquiry and reporting. Examples of  rate calculations and applications are: Average rate for a class of personnel or personnel in a user-defined category (e.g. cost  center, grant, project, etc.) based on (a) an average calculated from actual cost for a user-defined period, or (b) a predetermined  average rate adjusted periodically."
+707076,Medium,,Apply usage rates to various types of activities so that costed data are available for on-line inquiry and reporting. Examples of  rate calculations and applications are: Fixed percentage.
+707077,Medium,,Apply usage rates to various types of activities so that costed data are available for on-line inquiry and reporting. Examples of  rate calculations and applications are: Non-labor.
+707078,Medium,,Apply usage rates to various types of activities so that costed data are available for on-line inquiry and reporting. Examples of  rate calculations and applications are: Actual cost.
+707079,Medium,,Apply usage rates to various types of activities so that costed data are available for on-line inquiry and reporting. Examples of  rate calculations and applications are: Moving average actual cost.
+707080,Medium,,Apply usage rates to various types of activities so that costed data are available for on-line inquiry and reporting. Examples of  rate calculations and applications are: Average cost over a user-defined time period.
+707081,Medium,,Apply usage rates to various types of activities so that costed data are available for on-line inquiry and reporting. Examples of  rate calculations and applications are: Actual cost for user-defined quantity.
+707082,Medium,,Apply usage rates to various types of activities so that costed data are available for on-line inquiry and reporting. Examples of  rate calculations and applications are: User specified cost.
+707083,Medium,,Cost contract payments and other direct charges based on actual costs posted to and received from GL.
+707084,Medium,,"Cost labor, equipment, mileage, reproduction, or any other user defined usage at predefined fixed or variable rates."
+707085,Medium,,"Maintain standard rate tables describing effective dates for rate per unit value, value per unit of each resource (labor hour, mile,  etc.), and how the rate is to be applied (hour, unit, etc.)."
+707086,Medium,,Allow user to define chargeback/equipment rates to bill by chargeback item/equipment classes.
+707087,Medium,,Track historical fixed and variable costing rates for reporting and for the purpose of reversing and reapplying costs to new  accounting distributions.
+707088,Medium,,"Adjust the booked cost in a prior period to the actual cost, based on the following: calculated actual rates."
+707089,Medium,,"Adjust the booked cost in a prior period to the actual cost, based on the following: preset parameters."
+707090,Medium,,"Adjust the booked cost in a prior period to the actual cost, based on the following: user command."
+707091,Medium,,"Adjust the booked cost in a prior period to the actual cost, based on the following: selected criteria."
+707092,Medium,,Accept a user-entered adjusted rate to recalculate costs.
+707093,Medium,,Allow estimated actual costs to be used for costing when actual costs are unknown but resource has been utilized.
+707094,Medium,,Calculate and post memo costing entries to jobs.
+707095,Medium,,Account for and monitor performance measure budgets in order to track dollars spent versus service delivered.

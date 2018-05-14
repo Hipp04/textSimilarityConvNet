@@ -1,0 +1,58 @@
+"Section:HRP-Position Control, General Requirements (57 Reqs)"
+711625,High,,Position Control should be integral component of the integrated ERP system sharing data with the other HR and Finance system  functions.
+711626,High,,Provide ability to generate unique position numbers enterprise wide.
+711627,Medium,,Provide ability to generate unique position numbers within a given agency.
+711628,Medium,,Allow the manual entry of a unique position number.
+711629,Medium,,Associate an employee ID number (PID) and SSN to a position identification number.
+711630,Low,,Track and manage attributes for a worker identification number (contract worker).
+711631,Medium,,Capture and manage positions including position number.
+711632,High,,"Capture and manage positions including position status (e.g., active, pending)."
+711633,Medium,,"Capture and manage positions including position type (authorization type) e.g. Temp, per diem, etc."
+711634,Medium,,Capture and manage positions including service type.
+711635,Medium,,Capture and manage positions including SPB Exempt Indicator.
+711636,Medium,,Capture and manage positions including authorization date.
+711637,Medium,,Capture and manage positions including agency.
+711638,Medium,,Capture and manage positions including occupation code (Job Class).
+711639,Medium,,Capture and manage positions including occupation title.
+711640,Medium,,Capture and manage positions including salary ranges.
+711641,Medium,,Capture and manage positions including additional/special compensation.
+711642,Medium,,Capture and manage positions including the not to exceed statutory salary amount.
+711643,Medium,,Capture and manage positions including the FLSA status.
+711644,High,,Capture and manage positions including the FTE equivalent.
+711645,Medium,,Capture and manage positions including work schedule.
+711646,Medium,,Capture and manage positions including county code.
+711647,Medium,,Capture and manage positions including geographic location.
+711648,High,,Capture and manage positions including funding source.
+711649,Medium,,Capture and manage positions including program.
+711650,High,,Capture and manage positions including the Chart of Accounts.
+711651,Medium,,Capture and manage positions including the budget appropriation in which the position in authorized.
+711652,Medium,,Capture and manage positions including position end date.
+711653,High,,Capture and manage positions including all state sponsored retirement systems.
+711654,High,,Capture and manage positions including EEO-4 indicator.
+711655,Medium,,Capture and manage positions including RIF reason.
+711656,Medium,,Capture and manage positions including the Performance Appraisal Required indicator.
+711657,Medium,,Capture and manage positions including the Performance Appraisal Required sort code.
+711658,Medium,,"Capture and manage positions including paid months (e.g., 9 or 12 for teachers)."
+711659,Medium,,Capture and manage positions including legislative mileage.
+711660,High,,"Capture and manage positions including pay method (e.g., hourly, salary)."
+711661,Low,,Capture and manage positions including pay frequency.
+711662,High,,Capture and manage positions including warrant sort code.
+711663,Low,,Capture and manage positions including contract worker indicator.
+711664,Medium,,Capture and manage positions including position fill date.
+711665,Medium,,Capture and manage positions including position vacancy date.
+711666,High,,Capture and manage positions including multiple user-defined fields.
+711667,Medium,,Designate fields that control statewide access and update capabilities based on data element values such as agency.
+711668,Medium,,Designate fields that control statewide access and update capabilities based on data element values such as position number.
+711669,High,,Link one position to another for the purpose of identifying superior/subordinate relationships.
+711670,Medium,,Capture only one supervisor for a position.
+711671,High,,"Provide ability to assign multiple employees to a single position based on user-defined parameters (i.e., overlap)."
+711672,High,,"Maintain all proposed, authorized, budgeted, filled, vacant, escalated and abolished positions."
+711673,Medium,,Track a position based on authorization for creating the position.
+711674,Medium,,Provide ability to create user-defined position groups.
+711675,Medium,,Provide for hour-limited and/or month-limited positions to be established for deriving FTE-equivalent.
+711676,Medium,,Maintain multiple user-defined position types.
+711677,High,,"Assign and track multiple requirements for positions (e.g., physical requirements/restrictions, licenses, fingerprinting, drug  program, criminal history, certifications, language requirements, etc.)."
+711678,Medium,,"Flag a position that is under a ""recruitment"" status."
+711679,High,,Track skill requirements and qualifications for a position.
+711680,Medium,,Provide ability to assign employees to multiple positions across agency boundaries.
+711681,Medium,,Designate a primary position when an employee occupies more than one position.

@@ -1,0 +1,5 @@
+"Section:SW-Reporting and Business Intelligence, Fleet Management Analytics (4 Reqs)"
+718505,Medium,,"Provide a range of analytical functions, capabilities, reports and queries for fleet management information."
+718506,Medium,,Display/report the inventory of fleet/equipment by fleet/equipment type and agency.
+718507,Medium,,"Prepare a summary of fleet/equipment costs (current, year-to-date, life-to-date, year-over year) by fleet/equipment type and/or  agency including equipment, direct labor, indirect labor, parts, etc."
+718508,Medium,,"Display/report life-to-date operational cost for any fleet/equipment unit by fleet/equipment type and/or agency including repair  cost, operational cost, fuel cost, maintenance cost (labor and parts) and administrative cost."

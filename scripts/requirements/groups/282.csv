@@ -1,0 +1,4 @@
+"Section:PL-Pavement Management, Document and Data Management (3 Reqs)"
+714844,Medium,,"Integrate with EMC Application Xtender to support linking to, associating and retrieving documents associated with a pavement  asset including: boring log and other information about test cores; geo-technical test results; and design plans and specifications."
+714845,Low,,"Integrate with the WVDOT CAD environment to support linking to, associating and retrieving design files."
+714846,Low,,Provide the capability to import and store test and research pavement sections from Federal Highway Administration (Long Term  Pavement Performance) research databases.

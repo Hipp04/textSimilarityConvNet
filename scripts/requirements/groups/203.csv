@@ -1,0 +1,3 @@
+"Section:PL-Bridge Management, GIS Integration (9 Reqs)  StmtID"
+713315,Rating,,High    Requirement  Provide a full featured GIS viewer within the bridge management function which integrates with WVDOT's existing ESRI ArcGIS  environment.  Support Source
+713316,High,,Provide capability to print as a map any results which are spatially displayed by the GIS viewer from within the bridge  management function.

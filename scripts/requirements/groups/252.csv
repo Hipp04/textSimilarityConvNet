@@ -1,0 +1,30 @@
+"Section:PL-Fleet Management, Fuel (29 Reqs)"
+714191,High,,"Provide for individual agencies to manage fuel inventory, sale and distribution."
+714192,Medium,,"Integrate with ERP accounts payable, purchasing and inventory functions to manage internal fuel distribution function."
+714193,Medium,,Track fueling stations.
+714194,Medium,,Track tank inventory.
+714195,Medium,,Track pump inventory.
+714196,Medium,,Track fuel delivered to or used from a tank.
+714197,Medium,,Track fuel delivered to or used from individual pumps.
+714198,High,,Track fuel used from external purchases.
+714199,Medium,,"Track in-house, agency and vendor fuel purchases."
+714200,Medium,,"Track location (i.e. vendor, city, address, etc.) where fuel was purchased."
+714201,Medium,,Calculate required state fuel taxes.
+714202,Medium,,Calculate federal fuel taxes.
+714203,Medium,,Track fuel usage by vehicle.
+714204,Medium,,Update the odometer reading and date fuel purchased on fleet/equipment master record.
+714205,Medium,,"Maintain fueling history for each fleet/equipment unit with date, fuel tank and pump (if internal) or external provider and location  and fuel usage."
+714206,Medium,,Provide capability to integrate with a third party automated fueling system to obtain fuel usage.
+714207,Medium,,Capture fuel ticket transactions for State-owned gas pumps not part of an automated fuel management system (for example a  number of WVDOT maintenance shops where a fuel management system may not be implemented).
+714208,Medium,,Integrate with and upload transactions from a fleet card system.
+714209,High,,Integrate with ERP inventory function and/or third party fuel management system or the Oil Price Information Service (OPIS) to  obtain fuel costs.
+714210,Medium,,"Provide for multiple agency specific mark-ups on fuel costs by agency subunit, fleet/equipment type, internal or external  customer and other parameters."
+714211,Medium,,Integrate with ERP accounts receivable and general ledger functions to generate intergovernmental billings for fuel purchases by  one state agency from another state agency.
+714212,Medium,,"Integrate with ERP accounts receivable and billing functions to bill external customers for fuel purchases. External customers  include local political subdivisions such as county sheriffs, etc."
+714213,Low,,"Alert the fleet/equipment unit operator and fleet class/fleet type owner by email of various transactions outside user-defined  ranges (fuel type, fuel mileage, etc.)."
+714214,Medium,,Provide report of fuel usage outside established business rules by fleet/equipment type.
+714215,Medium,,"Calculate fuel economy (e.g. MPG) for current month, year-to-date, life-to-date and last year by agency, agency unit,  maintenance shop, fleet class, fleet type, manufacturer, model and individual fleet/equipment unit."
+714216,Medium,,"Calculate cost of fuel usage for current month, year-to-date, life-to-date and last year for agency, agency unit, maintenance shop,  fleet class, fleet type, manufacturer, model, fleet/equipment unit."
+714217,Medium,,Calculate updates to vehicle cost per mile based on fueling entries.
+714218,Medium,,"Provide ability for an authorized user with proper documentation and approvals based on business rules to adjust fuel purchases  charged to one fleet unit which was really for other equipment (fuel for a chain saw bought with the fleet card assigned to the  employees vehicle, etc.); provide exception report for all adjustments made."
+714219,Medium,,Establish and maintain an audit trail for all fuel disbursements and adjustments.

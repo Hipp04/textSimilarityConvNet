@@ -1,0 +1,6 @@
+"Section:FIN-Cash Management, Monitor Cash Position (5 Reqs)"
+706803,High,,Provide ability to calculate daily cash position.
+706804,Medium,,Provide ability to adjust daily cash balances and create associated accounting entries.
+706805,Medium,,Provide ability to adjust internal accounts and associated accounting entries.
+706806,Medium,,Provide ability to automatically recognize cash that is available in an account outside the system.
+706807,Medium,,Provide ability to provide real-time processing/avail Provide ability of receivables.

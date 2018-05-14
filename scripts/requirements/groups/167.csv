@@ -1,0 +1,22 @@
+"Section:HRP-Personnel Administration, Affirmative Action (21 Reqs)"
+711222,Medium,,"Create formulas to conduct underutilization analysis of job groups by organization unit and State wide. This analysis would  compute the ratio of protected group new hires and promotions into job groups using applicant data, State workforce data,  regional, State and national census data, college and technical school graduation data, external requisite skills data and feeder  group data (movement in and out of job groups)."
+711223,Medium,,Support area of competition (AOC) analysis to view how feeder groups are used to fill underutilized positions.
+711224,High,,"Support Federal government reporting requirements (e.g., EEO-4)."
+711225,Medium,,"Perform workforce analysis based on a user-defined formula by organization unit and State wide for each AA group for HR  events for: hiring (original appointment, promotions)."
+711226,Medium,,"Perform workforce analysis based on a user-defined formula by organization unit and State wide for each AA group for HR  events for: classification (reclass, reallocation)."
+711227,Medium,,Perform workforce analysis based on a user-defined formula by organization unit and State wide for each AA group for HR  events for: terminations.
+711228,Medium,,Perform workforce analysis based on a user-defined formula by organization unit and State wide for each AA group for HR  events for: layoffs (planned and actual).
+711229,Medium,,Perform workforce analysis based on a user-defined formula by organization unit and State wide for each AA group for HR  events for: training.
+711230,Medium,,"Perform workforce analysis based on a user-defined formula by organization unit and State wide for each AA group for HR  events for: compensation (salary, discretionary pay)."
+711231,Medium,,Perform workforce analysis based on a user-defined formula by organization unit and State wide for each AA group for HR  events for: disciplinary actions.
+711232,Medium,,Perform workforce analysis based on a user-defined formula by organization unit and State wide for each AA group for HR  events for: performance evaluations.
+711233,Medium,,Track a census identifier code (CIC - geographic identifier) for each job class.
+711234,Medium,,Track and monitor reports of personnel actions for affirmative action statistical analyses.
+711235,Medium,,"Analyze employment event history and trends for AA groups including hiring, retention, and upward mobility."
+711236,Low,,"Notify Agency when a State job classification changes occur for validation of CIC, and EEO category."
+711237,Medium,,Track AA impact during layoff planning.
+711238,Low,,"Track alternative work patterns (compressed schedule, deviated schedule) programs used by AA groups."
+711239,Low,,"Track affirmative action analysis, employee movements and other employee events precipitated by employee performance."
+711240,Medium,,Route requests for terminating employees during probation for targeted groups to affirmative action for review.
+711241,Medium,,"Flag targeted groups for affirmative action to review disciplinary, discharge, and layoff actions."
+711242,Medium,,Notify affirmative action triggered by disciplinary actions on targeted employee groups.

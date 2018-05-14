@@ -1,0 +1,24 @@
+"Section:PL-Safety Management, Transportation Asset Inventory (23 Reqs)"
+716842,Medium,,Integrate with the transportation asset inventory function to obtain information about and support analysis related to roadway and  other transportation inventory features at or adjacent to a crash site.
+716843,Medium,,Provide information about and support analysis using a range of transportation asset inventory information.
+716844,Medium,,Display and utilize in analysis roadway classification information.
+716845,Medium,,Display and utilize in analysis paved surface characteristics.
+716846,Medium,,Display and utilize in analysis the number and type of travel lanes.
+716847,Medium,,Display and utilize in analysis characteristics of the shoulders and medians.
+716848,Medium,,Display and utilize in analysis access control information.
+716849,Medium,,Display and utilize in analysis bike lane information.
+716850,Medium,,Display and utilize in analysis bike/pedestrian path characteristics.
+716851,Medium,,Display and utilize in analysis runaway truck ramp characteristics.
+716852,Medium,,Display and utilize in analysis truck pull-off area information.
+716853,Medium,,"Display and utilize in analysis other roadside features such as landscaping/plantings, mowable areas, non-mowable areas, right- of-way fencing and stabilized slopes."
+716854,Medium,,Display and utilize in analysis curve and grade information.
+716855,Medium,,Display and utilize in analysis traffic control devices.
+716856,Medium,,Display and utilize in analysis any posted advisory speeds.
+716857,Medium,,Display and utilize in analysis intersection features.
+716858,Medium,,Display and utilize in analysis interchanges and ramps.
+716859,Medium,,Display and utilize in analysis bridge and other structures information.
+716860,Medium,,Display and utilize in analysis tunnel information.
+716861,Medium,,Display and utilize in analysis rail grade crossing information.
+716862,Medium,,Display and utilize in analysis traffic volumes.
+716863,Medium,,Provide ability to link to Application Xtender or WVDOT CAD environment to view as-built plans.
+716864,Medium,,Provide ability to link to and view aerial photography from within the safety management function.

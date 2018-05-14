@@ -1,0 +1,11 @@
+"Section:SW-General and Technical, Database (10 Reqs)"
+718182,High,,"Support implementation on either Oracle 10g, Oracle 11g or SQL Server 2008 with specific environment to be recommended by  proposer."
+718183,Medium,,Support data replication and synchronization across multiple physical servers.
+718184,Medium,,"Provide database monitoring tools and capabilities for the recommended database platform to enable administration and  performance tuning of all ERP database environments including at a minimum production, patch, user acceptance test, system  test, user training, development and sand box."
+718185,Medium,,Support execution of procedures stored in the database based on event triggers.
+718186,Medium,,Provide automatic replication of table updates to multiple databases.
+718187,Medium,,Support record locking at the data item level.
+718188,Medium,,Support configuration of data attributes by the system administrator.
+718189,Medium,,Provide standard query language (SQL) capabilities for database queries.
+718190,Medium,,Allow system administrator or other authorized users to create new data items on-line and automatically update a global data  dictionary with these new elements.
+718191,Medium,,Include new data items automatically in migration paths during software upgrades.

@@ -1,0 +1,28 @@
+"Section:PL-Right-of-Way and Utilities, Parcel Information (27 Reqs)"
+716413,High,,"Define, store and display multiple potential parcels for acquisition on each project."
+716414,High,,Store/display legal description of the parcel and other supplemental description information.
+716415,High,,Store/display parcel location information.
+716416,High,,"Provide ability to locate parcel using multiple coordinate systems (address, geospatial coordinates, etc.)."
+716417,High,,"Store/display parcel ownership information including owner names, spouses of owners, address, daytime and evening phone  numbers, email and name in which taxes are assessed."
+716418,High,,"Allow for the identification of multiple ownership interests in a parcel (for example mineral rights, etc.)."
+716419,High,,"Store/display liens including deeds of trust, vendor liens, judgment liens, etc."
+716420,High,,Enter and store title research reports in the system.
+716421,Medium,,"Integrate with EMC Application Xtender to link to, store and display title research reports."
+716422,High,,"Store and display other parcel information including type of property (residential/commercial); types of utilities; and whether there  are cemetery burial sites, underground storage or septic systems on the property and a description of these if they are on the  property."
+716423,High,,"Store and display information about oil, gas or coal leases including contact information for the lessee and the date of the  expiration of the lease."
+716424,High,,"Store/display parcel tenant information including name and contact information, whether there is a lease, the beginning and  ending dates of the lease, whether there is an option to renew, whether there are any tenant owned improvements and a  description of these improvements."
+716425,High,,Store the method by which ownership of the property was obtained by the current owner.
+716426,High,,Capture the grantor; grantee; date of deed; deed book and page; declaration of value; magisterial district; tax map and parcel if  the property was obtained by the current owner by deed.
+716427,High,,Capture from whom the property was inherited; the will book and page; the executor of the estate; the executor's contact  information; the previous deed including deed book and page and date the deed was transferred for property which was inherited  and for which there was a valid will.
+716428,High,,Document decedent's date and place of death and a list of heirs and contact information in cases where the property was  inherited and there is no valid will.
+716429,High,,Store/display potential parcel displacee (relocation) information.
+716430,Medium,,Store display other free-form descriptive information about the parcel.
+716431,Medium,,"Integrate with the WVDOT CAD environment when a parcel is initially set-up to import the ownership index, right-of-way plan  sheets, right-of-way map data and construction plan sheets and store and link this data to the appropriate parcel."
+716432,Medium,,"Integrate with the WVDOT CAD environment to support automatic update of parcel data based on any changes to the right-of way map, right-of-way map data and construction plans after the parcel has been defined in the ERP right-of-way and utilities  function."
+716433,Low,,Integrate with the WVDOT CAD environment to allow linking to and displaying source data files associated with a parcel within  the WVDOT CAD environment.
+716434,High,,"Provide the capability to search for any parcel based on various user defined criteria such as project, parcel location, owner,  displacees, assigned WVDOT staff, etc."
+716435,Medium,,"Allow for splitting a parcel into multiple sub-parcels to define the property interests being acquired and record tenant owned  interests to the parcel. For example, a parcel may have a restaurant, a mall, and an office building on it, requiring relocation  payments to various tenants."
+716436,High,,"Identify sub-parcel information for each project along with the type of interest being acquired (e.g. full ownership, temporary  construction servitude, permanent drainage servitude, permanent ROW servitude, etc.). This should also identify and link to  parcel tenants interest (e.g. lease hold interest)."
+716437,High,,Assign responsibility for each parcel or various functions for each parcel (for example appraisal and negotiation) to specific team  members from the list of team members working on a particular project.
+716438,High,,"Enter and track cost estimates for the acquisition of a parcel including all types of costs (acquisition, relocation, etc.). This  includes the ability to modify an existing cost estimate and save the original version. All changes should be displayed below the  current cost estimate, such that details can be viewed by clicking on/selecting the old estimates. Restrict access to this  information based on project and user role and responsibility."
+716439,High,,"Specify a parcel valuation (just compensation) as a compensation estimate (waiver valuation) if required (e.g. for parcels less  than $10,000 in value)."

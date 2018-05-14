@@ -1,0 +1,11 @@
+"Section:PL-Facilities Management, Costing and Billing (10 Reqs)"
+713820,Medium,,"Provide the ability to cost all resources reported on a work order using actual rates for the specific resources (labor, equipment,  materials, and contract) at the time the resource usage is entered."
+713821,Medium,,"Integrate with ERP cost accounting and allocation, fleet management, inventory, personnel administration and time and labor to  obtain the required actual cost data."
+713822,Medium,,"Provide the capability to maintain multiple indirect cost rates (fringe benefits, overhead, training, etc.) per direct cost."
+713823,Medium,,Provide the capability to apply multiple agency specific indirect cost rates. Different indirect rates must be applicable to different  resource types within an agency and may also vary by organizational unit within an agency.
+713824,Medium,,"Integrate with the ERP cost allocation function to allocate indirect costs associated with facilities management to facilities,  systems and components based on various agency specific user defined parameters."
+713825,Medium,,Integrate with ERP accounts receivable and general ledger functions to support intergovernmental billing to other state agencies  for facilities maintenance work performed on behalf of another agency.
+713826,Medium,,Integrate with ERP accounts receivable function to support billing for maintenance work resulting from an accident or vandalism.
+713827,Medium,,Integrate with ERP accounts receivable and billing functions to support billing for maintenance work related to a FEMA event.
+713828,Medium,,Integrate with ERP general ledger to support allocation/charging to work orders of intergovernmental billings received from other  agencies for facilities maintenance support work.
+713829,Medium,,"Integrate with ERP accounts payable to support charging to work orders of accounts payable related to maintenance work  (contracted maintenance work, inventory purchase or equipment leasing specific to a work order, etc.)."

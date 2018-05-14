@@ -1,0 +1,15 @@
+"Section:PL-Transportation Asset Inventory, Transit (14 Reqs)"
+717373,Medium,,Capture and track a range of public and private transit assets within West Virginia.
+717374,Medium,,Store intercity bus stations.
+717375,Medium,,Store intercity bus routes including ridership data.
+717376,Medium,,Store transit hubs and transit malls for local transit agencies.
+717377,Medium,,Store other major transfer points for local transit agencies.
+717378,Medium,,Store customer service centers for local transit agencies.
+717379,Medium,,Store local transit agency bus stops and bus shelters.
+717380,Medium,,Store local transit agency bus maintenance facilities.
+717381,Medium,,Store local transit agency fixed bus routes including ridership data.
+717382,Medium,,Store local transit agency temporary or emergency bus routes.
+717383,Medium,,Store paratransit coverage areas.
+717384,Medium,,Store dial-a-ride service areas.
+717385,Medium,,Maintain a directory of transportation providers including coverage areas and services provided.
+717386,Medium,,Integrate with the ERP grants management function to link to a list of State grants to an agency and/or to any grants associated  with a specific asset or facility and allow drill down to obtain more detailed information about a specific grant.

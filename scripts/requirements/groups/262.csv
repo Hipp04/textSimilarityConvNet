@@ -1,0 +1,14 @@
+"Section:PL-Inventory Management, Goods Receipt (13 Reqs)"
+714533,High,,Provide the ability to have multiple receipts against each line item.
+714534,High,,"Provide the ability to close out an item not completely received, with appropriate authority."
+714535,High,,"Supports receiving over-shipments with the over-shipment amount subject to a user-defined tolerance setting (e.g., a percentage  or/and or dollar amount) and subject to user-defined approvals."
+714536,High,,Provide the ability for returns to vendor can be automatically generated for items that do not pass inspection.
+714537,Medium,,Provide the ability to record Return Merchandize Authorization (RMA) number and instructions.
+714538,Medium,,Provide the ability to associate RMA # to credit in Accounts Payable module.
+714539,High,,Provide the ability to reverse a receipt entry with appropriate authority.
+714540,Medium,,Provide the ability to populate the receiving information with appropriate data ( to reduce data entry) after the receiver references  the purchase order.
+714541,High,,Update open purchase order status and balances at time of receipt into inventory.
+714542,High,,Update inventory on-hand quantities and on-order quantities when items are received for inventory items.
+714543,Medium,,Provide the ability to capture the manufacturer's stock item description or distributor's number for each detail line on the receiver  documents with the ability to edit.
+714544,High,,"Provide the ability to perform an edit check for receipt transactions against purchase order, location and unit of measure."
+714545,High,,Provide the ability for approval in receipting process.

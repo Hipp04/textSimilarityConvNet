@@ -1,0 +1,10 @@
+"Section:SW-Reporting and Business Intelligence, Data Warehouse Analytical Capabilities (9 Reqs)"
+718455,Medium,,Provide lineage and impact analysis reporting.
+718456,Medium,,Support drill down from summary data to detail transaction data.
+718457,High,,Present data in both tabular and graphical formats.
+718458,Medium,,Provide analytical capabilities with a similar look and feel to other ERP functions.
+718459,Medium,,Provide multi-dimensional analysis.
+718460,High,,Provide pre-built data cubes for ERP functions.
+718461,High,,Support trend analysis.
+718462,Medium,,Support Monte Carlo analysis.
+718463,High,,Support cause and effect analysis.

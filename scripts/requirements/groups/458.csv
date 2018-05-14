@@ -1,0 +1,9 @@
+"Section:SW-General and Technical, Document Management (8 Reqs)"
+718140,High,,Link imaged documents with master records and/or specific transactions.
+718141,Medium,,Integrate with multiple agency specific document management systems to allow for storing and viewing of documents associated  with information captured in the ERP application.
+718142,Medium,,Integrate with EMC Documentum.
+718143,Medium,,Integrate with EMC Application Xtender.
+718144,Medium,,Integrate with FileNet.
+718145,Medium,,Integrate with Kofax including Global Science and Technology's (GST) Audit Detail Imaging System (ADIS).
+718146,Medium,,Integrate with Unisys InfoImage.
+718147,Medium,,Integrate with Onbase.

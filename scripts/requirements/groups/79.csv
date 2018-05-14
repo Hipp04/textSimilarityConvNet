@@ -1,0 +1,39 @@
+"Section:FIN-Grants Management, Grant Budget (38 Reqs)"
+707776,High,,Provide the ability to establish grant budgets.
+707777,High,,Track multiple funding sources and expenditures against the budget.
+707778,High,,Provide the ability to establish grant budgets and track/multiple funding sources and expenditures against the budget.
+707779,High,,Allow for multiple funds to be budgeted for a single grant.
+707780,High,,Allow for multiple funding sources for a single grant.
+707781,High,,"Allow for multiple activities (appropriations) for a single grant, and report at a detailed level."
+707782,High,,"Allow for multiple activities (appropriations) for a single grant, and report at a summary level."
+707783,High,,Provide the ability to identify revenue to a funding source.
+707784,High,,Support budgeting grants at varying user-defined levels and combinations of classification structure elements such as the  following: Grant.
+707785,High,,Support budgeting grants at varying user-defined levels and combinations of classification structure elements such as the  following: Agency/Department.
+707786,High,,Support budgeting grants at varying user-defined levels and combinations of classification structure elements such as the  following: Program.
+707787,High,,Support budgeting grants at varying user-defined levels and combinations of classification structure elements such as the  following: Appropriation.
+707788,High,,Support budgeting grants at varying user-defined levels and combinations of classification structure elements such as the  following: Function.
+707789,High,,Support budgeting grants at varying user-defined levels and combinations of classification structure elements such as the  following: Fund.
+707790,High,,Support budgeting grants at varying user-defined levels and combinations of classification structure elements such as the  following: Object.
+707791,High,,Support budgeting grants at varying user-defined levels and combinations of classification structure elements such as the  following: Cost Category.
+707792,High,,Support budgeting grants at varying user-defined levels and combinations of classification structure elements such as the  following: Organization number.
+707793,High,,Support budgeting grants at varying user-defined levels and combinations of classification structure elements such as the  following: Project.
+707794,High,,Support budgeting grants at varying user-defined levels and combinations of classification structure elements such as the  following: Job Order (Notice to Proceed).
+707795,High,,"Establish expendable budgets for grants at the grant, grant phase or function, and object level at the user's discretion.  Expendable budgets control total expenditures and encumbrances charged to the grant."
+707796,High,,"Provide a grant budget that is separate and independent of all other budgets (i.e., appropriation, department, project, and  contract)."
+707797,High,,Provide grant budgetary control options as follows: Absolute control -- prevents transaction from processing without override  approval.
+707798,High,,Provide grant budgetary control options as follows: Warning - provides warning message but allows transaction to process.
+707799,High,,Provide grant budgetary control options as follows: No control - allows transaction to process without warning.
+707800,High,,"Allow for establishing reimbursable budgets for grants at the grant, grant phase or function, and object level at the user's  discretion. Reimbursable budgets control expenditures available for grant billing."
+707801,High,,"Support editing pre-encumbrances, encumbrances, and expenditures against the agency grant budget."
+707802,High,,Provide the ability to distribute and control the grant budget by the following periods: State fiscal year.
+707803,High,,Provide the ability to distribute and control the grant budget by the following periods: Federal fiscal year.
+707804,High,,Provide the ability to distribute and control the grant budget by the following periods: Calendar year.
+707805,High,,Provide the ability to distribute and control the grant budget by the following periods: Semi-annual.
+707806,High,,Provide the ability to distribute and control the grant budget by the following periods: Quarter.
+707807,High,,Provide the ability to distribute and control the grant budget by the following periods: Month.
+707808,High,,Provide the ability to distribute and control the grant budget by the following periods: Allocation based upon seasonal trend.
+707809,High,,Provide the ability to distribute and control the grant budget by the following periods: User defined period (manually input budget  for each month).
+707810,High,,"Provide multiple levels of grant budget control (none, absolute, warning) within one agency."
+707811,High,,"Provide a flag that sets the default budget control option (none, absolute, warning)."
+707812,High,,Provide the ability to drill down from a grant budget error message to the budget inquiry screen to automatically retrieve budget  data.
+707813,High,,"Provide access to grant budget, adjustments, pre-encumbrance, encumbrance, expenditures, transfers out and in, revenue and  available budget. The numbers displayed should be the same numbers used by the budget edit program."

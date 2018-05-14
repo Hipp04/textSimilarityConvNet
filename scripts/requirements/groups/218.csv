@@ -1,0 +1,5 @@
+"Section:PL-Facilities Management, Maintenance Activities (4 Reqs)"
+713452,Medium,,Allow authorized user to define agency specific maintenance activity codes.
+713453,Medium,,Store unique maintenance activity code.
+713454,Medium,,Store activity code description.
+713455,Medium,,Link maintenance activity codes to one or more system or component types or one or more maintenance features.

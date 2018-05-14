@@ -1,0 +1,22 @@
+"Section:PL-Transportation Operations Management, Work Order (38 Reqs)"
+717667,High,,Support creation of standing work orders to track routine activities (for example pothole patching or litter pick-up in a given  county).
+717668,High,,"Support creation of work orders for specific maintenance work in response to a work request, problem report or other situation."
+717669,Medium,,Link work requests or problem reports to a work order and pre-populate information in the work order from the work requests  and/or problem reports to the extent possible.
+717670,High,,Capture date and time the work order is created.
+717671,High,,Capture user requesting/creating.
+717672,High,,Store description of work to be performed.
+717673,High,,Store maintenance activities (multiple allowed) to be performed.
+717674,High,,Define assets (multiple allowed) on which maintenance is to be performed (for individual work orders).
+717675,High,,"Capture cost center which can be any active chart of account codes, project or grant."
+717676,High,,Define individual or crew that work order is assigned to.
+717677,Medium,,Store purchase order (if work is performed by an external provider).
+717678,Medium,,Store agency manager/approver (for any external work).
+717679,High,,Store target completion date and time.
+717680,High,,Provide the capability to define a work order as relating to a FEMA event or an FHWA emergency relief (ER) event.
+717681,High,,Provide the capability to indicate that a work order is for off system work. The third party must be able to then be billed for the  work.
+717682,High,,"Provide a mechanism to red flag repairs caused by the negligence of others (i.e. traffic accidents, vandalism, etc.) The party  determined at fault must be able to then be billed for these repairs."
+717683,Medium,,Provide the ability to attach various file types to the work order.
+717684,Medium,,Generate a list of equipment and materials needed based on maintenance activities to be performed and associated  performance standards.
+717685,Medium,,Auto create the materials requisition with the work order based on the maintenance activities to be performed and the associated  performance standards.
+717686,Medium,,"Provide ability to electronically notify and transmit work requests to the individual or crew assigned, as well as the Maintenance  Supervisor (or other designated staff member)."
+717687,Medium,,Route work order electronically through work flow to crew leader or individual to whom work order is assigned.

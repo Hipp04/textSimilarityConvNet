@@ -1,0 +1,7 @@
+ID,Similarity,Requirement
+705020,3.8477382639,Provide the ability to flag an appropriation account so that no payments can be disbursed.
+705017,3.9047205266,Provide the ability to enter an invoice number with a minimum of 60 alphanumeric characters available.
+705024,3.8679100981,Provide the ability to override edits errors on duplicate payments based upon invoice or amounts to allow payments by  individuals with the appropriate security.
+705083,3.764085774,"Provide the ability to void or correct payments on-line, with appropriate corrections made to all financial balances."
+705040,3.9521923223,Provide the ability to put an invoice on hold so that it is not paid.
+705039,3.8180679632,Provide the ability to change the due date so that invoices are paid with proper authority.

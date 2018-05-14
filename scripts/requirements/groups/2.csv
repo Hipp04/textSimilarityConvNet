@@ -1,0 +1,25 @@
+"Section:FIN-Accounts Receivable, General (24 Reqs)"
+705403,High,,"Provide ability to integrate billing, accounts receivable, and cash receipting functions with other relevant modules, including but  not limited to: asset management, accounts payable, general ledger, project accounting, and grant modules."
+705404,High,,Provide ability to enter all Chart of Account elements on any type of transaction within the revenue/receivables module and apply  all edits and validations against those elements or combinations thereof.
+705405,Medium,,"Calculate and include sales tax on all relevant revenue transactions based on an external file of applicable regional (state, city, or  county) taxes provided by the Department of Revenue, as well as accommodating additional tax types (e.g., stadium, tourist,  premium resort, exposition, hotel/motel)."
+705406,Medium,,Monitor collection dates and generate workflow transactions or notifications based on user-defined criteria.
+705407,Medium,,"Maintain an audit trail of all billing, accounts receivable, and cash receipting activity."
+705408,Medium,,"Record billings, accounts receivables, and cash receipts."
+705409,Medium,,"Provide ability to simultaneously work in multiple fiscal years (i.e., have periods open in two or more fiscal years at one time)."
+705410,Medium,,"Provide an audit trail on all transactions, including user ID, date, and time."
+705411,Medium,,Establish default account distributions for each receivable.
+705412,Medium,,Capture expenditure data for billing purposes. (Integrate with project/accounting job costing system.).
+705413,Medium,,Accommodate Electronic Fund Transfers (EFT).
+705414,Medium,,Accommodate workflow for approvals.
+705415,Medium,,"Provide ability to maintain tables of overheads and allowable charges for Federal, and local governmental agency requirements."
+705416,Medium,,Provide ability to post revenue transaction to a Revenue Ledger and account for estimated revenue in the Revenue Ledger.
+705417,Medium,,Provide ability to maintain detailed transaction activity for each account.
+705418,Medium,,Provide ability to charge refunds against revenue accounts.
+705419,Medium,,Provide ability to track and place on hold services for past due receivables from debtors.
+705420,Medium,,Provide ability to offset receivables against outstanding payables based on revenue codes.
+705421,Medium,,Provide ability to calculate interest and fees.
+705422,Medium,,Provide ability to maintain a master customer file.
+705423,Medium,,Provide ability to support Agency/Department Collections Interfaces (inbound).
+705424,Medium,,Provide ability to accommodate Check 21 criteria.
+705425,Medium,,Ability to relate customer file to vendor file.
+705426,Medium,,Ability to review AR by customer across all AR sources.

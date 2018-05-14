@@ -1,0 +1,8 @@
+"Section:PL-Transportation Asset Inventory, Asset Types (7 Reqs)"
+717049,High,,Provide capability for the system administrator or other authorized user to define different asset types.
+717050,High,,Store full name of asset type (for example Rigid Pavement).
+717051,High,,Store an asset type code that users can utilize in selecting asset types for reports and other system functions.
+717052,High,,Allow system administrator or other authorized user to assign an asset type to a valid asset class.
+717053,High,,"Allow the system administrator or other authorized user to define the types of information to be stored in the system for each  asset type, the size of the data field, the characteristics of this information (alphanumeric or numeric), and the valid values or  range of valid values for each data field."
+717054,Medium,,Provide the ability for an authorized user to create templates for each asset type to facilitate entry and maintenance of individual  assets into the system.
+717055,Low,,Provide ability to create fields with target dates established using user defined formulas.

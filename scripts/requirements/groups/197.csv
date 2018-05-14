@@ -1,0 +1,14 @@
+"Section:PL-Bridge Management, User Cost Estimation (13 Reqs)"
+713251,Medium,,"Support calculation of user cost including consideration of incremental cost of crashes which may occur, excess travel time, and  motor vehicle operating costs."
+713252,Medium,,"Calculate user costs associated with varying levels of load capacity, clear deck width, and vertical clearances."
+713253,Medium,,"Allow an authorized user to customize the user cost parameters for a highway system, district or one or more structure types  within a district or on a highway system."
+713254,Medium,,Incorporate the impact of changes in average daily traffic rates for bridges on various roadway functional classifications in the  calculation of user cost.
+713255,Medium,,Incorporate vehicle classification distribution for bridges on various roadway functional classifications in the calculation of user  cost.
+713256,Medium,,Calculate cost of vehicles detoured as a result of bridge load capacity posting.
+713257,Medium,,Incorporate in the calculation of user cost the cost of crashes involving bridges.
+713258,Medium,,Calculate truck operating costs for various truck weight ranges.
+713259,Medium,,Calculate bridge load capacity deterioration rate.
+713260,Medium,,Calculate accident rates for various bridge deck widths and alignment conditions.
+713261,Medium,,Calculate cost of vehicles detoured at various bridge vertical clearance.
+713262,Medium,,Calculate change in accident rate and associated cost at various bridge vertical clearance.
+713263,Medium,,Calculate current performance in terms of load carrying capacities (from structural assessments) and clearances.

@@ -1,0 +1,3 @@
+"Section:PL-Fleet Management, Time and Labor Integration (2 Reqs)"
+714144,Medium,,Integrate with the ERP time and labor function to update employee time information in the ERP time and labor function based on  the actual time reported by the employee on the work order. Total time for an employee for each day will be pre-populated on the  time sheet based on the total time charged to work orders that day.
+714145,Medium,,Integrate with the ERP time and labor function to capture vehicle usage reported by an employee on their time sheet and update  the fleet inventory information with mileage to date as appropriate.

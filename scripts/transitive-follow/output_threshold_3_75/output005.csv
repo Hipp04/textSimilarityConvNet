@@ -1,0 +1,6 @@
+ID,Similarity,Requirement
+705003,4.6182128132,Produce an accounts payable aging report or inquiry according to user defined aging fields: One or more receiver documents.
+705004,4.3535033525,Produce an accounts payable aging report or inquiry according to user defined aging fields: Purchase order (Encumbering  Document).
+705005,4.3913528441,Produce an accounts payable aging report or inquiry according to user defined aging fields: Contract or other encumbering  documents.
+705006,4.3750272782,"Produce an accounts payable aging report or inquiry according to user defined aging fields: Account number (credit card  account, electric bill account)."
+705007,4.3141148682,Produce an accounts payable aging report or inquiry according to user defined aging fields: Invoice.

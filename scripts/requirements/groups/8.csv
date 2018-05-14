@@ -1,0 +1,57 @@
+"Section:FIN-Accounts Receivable, Point of Sale (56 Reqs)"
+705628,High,,Provide ability to create user-defined screens for cashiers.
+705629,High,,Provide ability to require a valid operator code in order to process a receipt.
+705630,High,,"Provide ability to define system security by register at various levels (e.g., clerk, manager, etc.) depending on the function being  performed."
+705631,High,,Provide ability to generate a customer receipt as well as an internal transaction tape for each transaction processed. The internal  transaction tape will be used to balance the drawer at the end of the day.
+705632,High,,Provide ability to capture the following on each customer receipt: Transaction Time.
+705633,High,,Provide ability to capture the following on each customer receipt: Transaction Date.
+705634,High,,Provide ability to capture the following on each customer receipt: Cashier.
+705635,High,,Provide ability to capture the following on each customer receipt: Location.
+705636,High,,Provide ability to capture the following on each customer receipt: Register Number.
+705637,High,,Provide ability to capture the following on each customer receipt: Payment Type/Method (multiple lines).
+705638,High,,Provide ability to capture the following on each customer receipt: Payment Amount for each Payment Type/Method.
+705639,High,,Provide ability to capture the following on each customer receipt: Purpose/Description (multiple lines for purpose/description).
+705640,High,,Provide ability to capture the following on each customer receipt: Total Payment Amount.
+705641,High,,"Provide ability to enter, track separately, and process simultaneously the following tendering situations (but not limited to): Cash."
+705642,High,,"Provide ability to enter, track separately, and process simultaneously the following tendering situations (but not limited to): Check."
+705643,High,,"Provide ability to enter, track separately, and process simultaneously the following tendering situations (but not limited to): by  Credit Card type (MC, VISA, AMEX, Discover)."
+705644,High,,"Provide ability to enter, track separately, and process simultaneously the following tendering situations (but not limited to): Money  Orders."
+705645,High,,"Provide ability to enter, track separately, and process simultaneously the following tendering situations (but not limited to):  EFT/ACH."
+705646,High,,"Provide ability to enter, track separately, and process simultaneously the following tendering situations (but not limited to): Debit  Cards."
+705647,High,,Provide ability to process split or mixed tendering situations for point of sale transactions.
+705648,Medium,,Provide ability to inquire into all of a customer's outstanding invoices/fees when receiving payments for any type of invoice/fee.
+705649,Medium,,Provide ability to supports multiple cash drawers.
+705650,High,,Provide ability to maintain default Chart of Account distributions for specific types of payments or receipts.
+705651,Medium,,"Provide ability to maintain default service codes (i.e., items) for specific types of payments or receipts."
+705652,Medium,,"Provide ability for a user override of the default Chart of Accounts, with appropriate security."
+705653,Medium,,"Provide ability to accept any type of receipt, including accounts receivable, miscellaneous permits, licenses, fees, taxes, etc."
+705654,Medium,,"Provide ability to have more than one operator working at a cash register, with appropriate security."
+705655,Medium,,"Provide ability for on-line validation of accounts receivable payments, based upon the following (but not limited to): Invoice  Number."
+705656,Medium,,"Provide ability for on-line validation of accounts receivable payments, based upon the following (but not limited to): Chart of  Account Code."
+705657,Medium,,"Provide ability for on-line validation of accounts receivable payments, based upon the following (but not limited to): Customer."
+705658,Medium,,"Provide ability for cashier to collect payments for items that are not pre-billed in any system (e.g., licenses, permits, etc.)."
+705659,High,,"Provide ability for daily cash drawer close out, including (but not limited to) the following functionality: Produce a close-out report  to be balanced with the cash, checks, money orders, by credit card type, etc. in the operator's drawer at the end of a cashier's  scheduled work day."
+705660,High,,"Provide ability for daily cash drawer close out, including (but not limited to) the following functionality: Allow users to enter  counted monies by tender and the system automatically calculates any overage or shortage amount by tender. The calculation  includes any cash drawer bank amount."
+705661,High,,"Provide ability for daily cash drawer close out, including (but not limited to) the following functionality: Create a receipt within the  system, crediting the appropriate accounting codes for the revenue or expense abatement. The receipt reflects any overage or  shortage calculated."
+705662,High,,"Provide ability for daily cash drawer close out, including (but not limited to) the following functionality: Print a deposit ticket for  each day's sales, which include total receipts for all cash drawers grouped by location."
+705663,High,,"Provide ability for daily cash drawer close out, including (but not limited to) the following functionality: Generate reports by service  code (i.e., item) or revenue code."
+705664,High,,"Provide ability for daily cash drawer close out, including (but not limited to) the following functionality: Support batch close for  credit cards and cash drawer reconciliation."
+705665,Medium,,"Provide ability to void a receipt, with proper security."
+705666,Medium,,Provide ability for multi-line descriptions to be entered on each receipt.
+705667,Medium,,Provide ability for scanned barcode sales at the cash register and have the sales price of the good added to the sales total.
+705668,Medium,,Provide ability for the sales person to optionally enter the barcode number and have the sales price of the good added to the  sales total.
+705669,Medium,,Provide ability to automatically adjust inventory based upon completion of the sales or return event.
+705670,Medium,,"Provide ability to process return of goods transactions, with proper security."
+705671,Medium,,Provide ability to increase or decrease the sales price across all items or within a category of items.
+705672,Medium,,Provide ability to calculate the markup amount per item.
+705673,Medium,,Provide ability for users to build multiple composite sales tax rates.
+705674,Medium,,Provide ability to maintain a customer check clearing history for the most recent 15 checks received from each customer or  provide the Provide ability to link to a check verification system.
+705675,Medium,,"Provide ability to reject (with approved manual overrides) a customer check for payment, if that customer history has a user- defined number of checks that did not clear when deposited."
+705676,Medium,,"Provide ability to store information for each item, including (but not limited to) item number, description, cost, and sales price."
+705677,Medium,,Provide ability for an automated interface to the general ledger to record the sales and cost of goods sold.
+705678,Medium,,"Provide ability to track the cost of goods sold for each item, class of goods, location, and region."
+705679,Medium,,Provide ability to automatically initiate requisitions for items designated for retail sale for the location whose inventory has hit the  reorder point with proper review and approval.
+705680,Medium,,Provide ability for users to record customer information at the time of the sale within proper security rules.
+705681,Medium,,"Provide ability to automatically print a receipt and allow for cashier to reprint the receipt manually, if necessary. Note, this receipt  must be in a form that is not easily duplicated."
+705682,Medium,,Provide ability to print the appropriate credit card receipt to secure the cardholder's signature.
+705683,Medium,,Provide ability for a standard interface for processing transactions from other point-of-sale and cash receipting systems.

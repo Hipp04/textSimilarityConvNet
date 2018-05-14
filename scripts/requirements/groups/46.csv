@@ -1,0 +1,24 @@
+"Section:FIN-Cash Management, Warrant / Check Reconciliation (23 Reqs)"
+706858,High,,"Provide ability to reconcile by warrant number, issue date, issuance number, payee name and dollar amount."
+706859,Medium,,"Retain cleared warrants in a warrant reconciliation table for inquiry and/or reporting purposes, including the ability to view the  remittance advice."
+706860,Medium,,Provide ability to display cleared warrant/check images through integration with Document Management System.
+706861,High,,Provide for an automated reconciliation of all bank activity (including detailed reconciling items) per the Financial Management  module to bank transactions received from the State's bank accounts through automated means.
+706862,Medium,,Provide for reconciliation of treasury cash balances with fund cash balances.
+706863,High,,Automated bank reconciliation processes must accommodate multiple bank accounts with multiple banks.
+706864,High,,Provide ability to make corrections or changes during the reconciliation process with appropriate user authorization.
+706865,High,,Provide for reconciliation of cash in bank with treasury cash balances.
+706866,High,,"Provide user-defined status codes that can be applied to warrants to track the claims for warrant restoration and the stages of the  research (i.e., requested, assigned, researched, restored) for lost warrant/check, stop pay request, staledate warrant/check  research."
+706867,Medium,,Provide automated interface to Wagers (unclaimed property system) to transfer stale dated warrants/checks.
+706868,Medium,,"Provide ability to capture staled dated unclaimed property claims (e.g. warrant/check, stocks, bonds, etc.) data from the Wagers  system through an automated interface."
+706869,Medium,,Produce a monthly detail stale dated Warrants Listing by Chart of Account fields and by warrant type.
+706870,Medium,,"Produce warrant reconciliation reports of manual transactions by Chart of Account fields and warrant type on a daily, monthly, or  annual basis or by a specified date range."
+706871,Medium,,"Allow for printing of a daily, monthly, annual, or specified date range report of all cleared warrants by warrant type and by Chart  of Account fields."
+706872,Medium,,"Allow for printing of a daily, monthly, annual, or specified date range report of all cleared warrants by bank account number and  by Chart of Account fields."
+706873,Medium,,Produce a daily general ledger accounting report of the warrant clearing transactions.
+706874,Medium,,"Produces a daily, monthly, annual or specified date range report that shows the total amount and number of outstanding  warrants for the Chart of Account fields."
+706875,Medium,,Compute the number and dollar amount of warrants written per warrant run by day and per month.
+706876,Medium,,Produce a report of warrants paid and cancelled for a month by bank account number or Chart of Account fields.
+706877,Medium,,Provide a file of warrants issued by user-defined criteria to be extracted to subsystems.
+706878,Medium,,"Allow for the ""pulling"" of payments from both paper check and ACH files."
+706879,Medium,,Provide for Agency contact information on issued warrants.
+706880,Medium,,Provide for at least two agency contacts on issued warrants.

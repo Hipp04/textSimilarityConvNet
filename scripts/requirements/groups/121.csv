@@ -1,0 +1,20 @@
+"Section:HRP-Benefits Administration, Vendor / Contract Administration (19 Reqs)"
+709659,Medium,,Interfaces to and from vendor for: plan costs.
+709660,Medium,,Interfaces to and from vendor for: deduction amount.
+709661,Medium,,Interfaces to and from vendor for: enrollment and/or eligibility.
+709662,Medium,,Interfaces to and from vendor for: utilization.
+709663,Medium,,Interfaces to and from vendor for: other user defined parameters.
+709664,Medium,,Support payments (through financial system) to vendors for administrative fees.
+709665,Medium,,Support payments (through financial system) to vendors for premiums (employee and employer).
+709666,Medium,,Track vendors compliance with contract performance guarantees.
+709667,Medium,,Provide the ability to terminate coverage for all employees/participants of an agency when the agency terminates coverage.
+709668,Medium,,Retain program information when vendors are replaced.
+709669,High,,"Integrate with Benefits Administration and Payroll for plan participants, premium calculations, and employee deductions."
+709670,High,,"Integrate with Pension Administration System for retiree plan participants, premium calculations, and retiree deductions."
+709671,Medium,,Provide the ability to terminate all coverage associated with a vendor that is being replaced.
+709672,Medium,,"Allow for daily vendor notification when coverage is certified, when a past due premium is received."
+709673,Medium,,"Allow for daily vendor notification of un-certified coverage, if a payment is marked insufficient or coverage is cancelled for nonpayment  of premium."
+709674,Medium,,Provide interfaces with terminated vendors for a specified period of time after termination.
+709675,Medium,,Ability to transfer whole groups to new vendor coverage.
+709676,Medium,,Provide 3rd party vendor links to employee data and related benefit information.
+709677,Medium,,Provide analysis and what if capabilities for contract analysis purposes.

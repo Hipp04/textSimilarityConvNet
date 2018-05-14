@@ -1,0 +1,33 @@
+"Section:FIN-Debt Management, Bond Accounting (32 Reqs)"
+707180,Medium,,Track Bonds by bond type and bond issue.
+707181,Medium,,Record each bond by issue date and original amount.
+707182,Medium,,Track Bond activity including: Proceeds invested.
+707183,Medium,,Track Bond activity including: Expenditures.
+707184,Medium,,Track Bond activity including: Repayments.
+707185,Medium,,Track Bonds by issuing authority.
+707186,High,,Track individual bond maturities within each bond issue using the 9 character CUSIP number.
+707187,Medium,,Allocate interest income to participating funds.
+707188,Medium,,Allocate unrealized gain to participating funds based on average daily cash balance.
+707189,Medium,,Split investments into short and long term -- this will more appropriately distribute investment income.
+707190,Medium,,"Apply expenditures and proceeds on the same basis that the rebate calculation rules are applied 6 months, 12 months, and 18  months would be more beneficial to the State."
+707191,Medium,,Establish bond spending business rules (e.g. 75% of bond proceeds must be spent on construction projects).
+707192,Medium,,Provide ability to record bond fund purpose and description.
+707193,Medium,,Provide ability to record Arbitrage Investment Account for each bond fund.
+707194,High,,Provide ability to make retro-active adjustments to distributions for up to 18 months.
+707195,Medium,,Sale of Fixed Assets proceeds need to be tracked to the original bond issue.
+707196,Medium,,Track accreted interest on Capital Appreciation Bonds and post to bond interest expense.
+707197,Medium,,Track Bond issuance costs.
+707198,Medium,,Capture and record trustee fees by bond issue.
+707199,Medium,,Amortize discounts and premiums over the life of the bond.
+707200,Medium,,Record bond premiums as an offset to interest expense.
+707201,Medium,,Identify projects funded by bonds.
+707202,High,,Provide an audit trail tying newly issued Refund Bonds to the original bonds being refunded.
+707203,Medium,,For each bond issue track Continuing Disclosure Agreements to include: Responsible Party.
+707204,Medium,,For each bond issue track Continuing Disclosure Agreements to include: Continuing Disclosure Agreement completed (yes or  no).
+707205,Medium,,For each bond issue track Continuing Disclosure Agreement to include: Material Event Notice.
+707206,Medium,,Identify bonds that have been defeased along with the Trustee's: Name.
+707207,Medium,,Identify bonds that have been defeased along with the Trustee's: Address.
+707208,Medium,,Identify bonds that have been defeased along with the Trustee's: Contact Name.
+707209,Medium,,Identify bonds that have been defeased along with the Trustee's: Contact Phone Number.
+707210,Medium,,Identify bonds that have been defeased along with the Trustee's: Contact email address.
+707211,Medium,,Identify bonds that have been defeased along with the Trustee's: Date Defeased.

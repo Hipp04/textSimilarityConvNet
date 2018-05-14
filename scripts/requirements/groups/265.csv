@@ -1,0 +1,45 @@
+"Section:PL-Inventory Management, Transaction Processing (44 Reqs)"
+714592,Medium,,Support the processing of the following inventory transactions: Stock purchases.
+714593,Medium,,Support the processing of the following inventory transactions: Stock receipts.
+714594,Medium,,Support the processing of the following inventory transactions: Inventory issues.
+714595,Medium,,Support the processing of the following inventory transactions: Inventory returns to stock.
+714596,Medium,,Support the processing of the following inventory transactions: Inventory returns to supplier (including recalls).
+714597,Medium,,Support the processing of the following inventory transactions: Inventory transfers (no cost transferred).
+714598,Medium,,Support the processing of the following inventory transactions: Redirect orders to other warehouses.
+714599,Medium,,Support the processing of the following inventory transactions: Material reservations.
+714600,Medium,,Support the processing of the following inventory transactions: Inventory adjustments.
+714601,Medium,,"Support the processing of the following inventory transactions: Inventory disposals (bid, sales, surplus, scrap)."
+714602,Medium,,Support the processing of the following inventory transactions: Inventory donations (to/from).
+714603,Medium,,Support the processing of the following inventory transactions: Refurbish.
+714604,Medium,,"Provide the ability to reverse, cancel, or reject any stock requisition."
+714605,High,,Provide the ability to enter transactions on-line at multiple sites.
+714606,Medium,,Provide on-line inventory adjustment capabilities with proper approval levels.
+714607,Medium,,Supports automatic updates to inventory balances and order status at the time of transaction entry.
+714608,Medium,,Utilize inventory information to: Compare materials needed for scheduling materials on-hand.
+714609,Medium,,Utilize inventory information to: Cost work orders and daily work accomplishments.
+714610,Medium,,Utilize inventory information to: Reorder materials when stock levels reach reorder points.
+714611,High,,Track the issuance of all stocked and non-stocked inventory items to a specific asset or set of assets.
+714612,Medium,,"Provide the ability to adjust the following balances online for all types of inventory transactions, with proper approvals: Number of  units."
+714613,Medium,,"Provide the ability to adjust the following balances online for all types of inventory transactions, with proper approvals: Unit cost."
+714614,Medium,,"Provide the ability to adjust the following balances online for all types of inventory transactions, with proper approvals: Inventory  dollar balance."
+714615,High,,Maintain an audit trail for inventory transactions including: User ID.
+714616,High,,Maintain an audit trail for inventory transactions including: Facility.
+714617,High,,Maintain an audit trail for inventory transactions including: Item number.
+714618,High,,Maintain an audit trail for inventory transactions including: Quantity.
+714619,High,,Maintain an audit trail for inventory transactions including: Unit of Measure.
+714620,Medium,,Maintain an audit trail for inventory transactions including: Name item was issued to.
+714621,High,,Maintain an audit trail for inventory transactions including: Location.
+714622,High,,Maintain an audit trail for inventory transactions including: Transaction type.
+714623,High,,Maintain an audit trail for inventory transactions including: Date.
+714624,High,,Maintain an audit trail for inventory transactions including: Time.
+714625,High,,Maintain an audit trail for inventory transactions including: Document number.
+714626,Medium,,Maintain an audit trail for inventory transactions including: Other fields as defined by users.
+714627,High,,Maintain an audit trail for inventory transactions including: Chart of accounts.
+714628,High,,Maintain an audit trail for inventory transactions including: Unit Cost.
+714629,Medium,,Provide the ability to automatically update inventory on-order information at the time a purchase order is released.
+714630,Medium,,Provide the ability to automatically update allocated inventory when stock request is received.
+714631,Medium,,"Provide the ability to issue an item and identify it to a specific grant, program, project, contract, fund, etc."
+714632,Low,,Provide the ability to charge restocking fee to the requesting agency for all items returned to inventory.
+714633,Medium,,Accommodate Work in Process inventory cost. (Inventory is issued to a job and labor is applied to the job. The finished job is  transferred back into inventory as a stock item).
+714634,Medium,,Provide the ability to generate an online notification any time a transaction reduces inventory on hand to a point at or below the  minimum reorder point and/or safety stock level or would create a backorder situation.
+714635,Medium,,Provide the ability to generate an e-mail notification any time a transaction reduces inventory on hand to a point at or below the  minimum reorder point and/or safety stock level or would create a backorder situation.

@@ -1,0 +1,35 @@
+"Section:FIN-Cost Accounting, Cost Recovery (34 Reqs)"
+707145,Medium,,Tracks the total number of transaction processed by: System.
+707146,Medium,,Tracks the total number of transaction processed by: Module.
+707147,Medium,,Tracks the total number of transaction processed by: Organizational unit.
+707148,Medium,,"Allow the end user to input a per transaction cost (e.g., $1.50 per paycheck, .50 per purchase order) for the following events:  Paycheck (persons receiving paychecks)."
+707149,Medium,,"Allow the end user to input a per transaction cost (e.g., $1.50 per paycheck, .50 per purchase order) for the following events: W-2  generation (persons receiving w-2s)."
+707150,Medium,,"Allow the end user to input a per transaction cost (e.g., $1.50 per paycheck, .50 per purchase order) for the following events:  Purchase orders."
+707151,Medium,,"Allow the end user to input a per transaction cost (e.g., $1.50 per paycheck, .50 per purchase order) for the following events:  Procurement documents (e.g., rfp, rfq)."
+707152,Medium,,"Allow the end user to input a per transaction cost (e.g., $1.50 per paycheck, .50 per purchase order) for the following events:  Asset record."
+707153,Medium,,"Allow the end user to input a per transaction cost (e.g., $1.50 per paycheck, .50 per purchase order) for the following events: Full  time equivalent."
+707154,Medium,,"Allow the end user to input a per transaction cost (e.g., $1.50 per paycheck, .50 per purchase order) for the following events:  Invoice."
+707155,Medium,,"Allow the end user to input a per transaction cost (e.g., $1.50 per paycheck, .50 per purchase order) for the following events:  Deposit."
+707156,Medium,,"Allow the end user to input a per transaction cost (e.g., $1.50 per paycheck, .50 per purchase order) for the following events:  Journal voucher."
+707157,Medium,,"Allow the end user to input a per transaction cost (e.g., $1.50 per paycheck, .50 per purchase order) for the following events:  Payment."
+707158,Medium,,Calculate the dollar amount to allocate from the source organization unit to the target organization unit for the following items:  Paycheck * charge per paycheck.
+707159,Medium,,Calculate the dollar amount to allocate from the source organization unit to the target organization unit for the following items: W2  generation * charge per W-2.
+707160,Medium,,Calculate the dollar amount to allocate from the source organization unit to the target organization unit for the following items:  Purchase orders * charge per purchase order.
+707161,Medium,,"Calculate the dollar amount to allocate from the source organization unit to the target organization unit for the following items:  Procurement documents (e.g., rfp, rfq) * charge per procurement document."
+707162,Medium,,Calculate the dollar amount to allocate from the source organization unit to the target organization unit for the following items:  Asset record * charge per asset record.
+707163,Medium,,Calculate the dollar amount to allocate from the source organization unit to the target organization unit for the following items:  Full time equivalent * charge per FTE.
+707164,Medium,,Calculate the dollar amount to allocate from the source organization unit to the target organization unit for the following items:  Invoice * charge per invoice.
+707165,Medium,,Calculate the dollar amount to allocate from the source organization unit to the target organization unit for the following items:  Deposit * charge per deposit.
+707166,Medium,,Calculate the dollar amount to allocate from the source organization unit to the target organization unit for the following items:  Journal voucher * charge per journal voucher.
+707167,Medium,,Calculate the dollar amount to allocate from the source organization unit to the target organization unit for the following items:  Payment * charge per payment.
+707168,Medium,,The cost allocation system allocates dollars based on the number of transactions processed.
+707169,Medium,,The cost allocation system tracks the following operational statistics by month by organizational unit: Paycheck (persons  receiving paychecks).
+707170,Medium,,The cost allocation system tracks the following operational statistics by month by organizational unit: W-2 generation (persons  receiving W-2s).
+707171,Medium,,The cost allocation system tracks the following operational statistics by month by organizational unit: Purchase orders.
+707172,Medium,,"The cost allocation system tracks the following operational statistics by month by organizational unit: Procurement documents  (e.g., rfp, rfq)."
+707173,Medium,,The cost allocation system tracks the following operational statistics by month by organizational unit: Asset record.
+707174,Medium,,The cost allocation system tracks the following operational statistics by month by organizational unit: Full time equivalent.
+707175,Medium,,The cost allocation system tracks the following operational statistics by month by organizational unit: Invoice.
+707176,Medium,,The cost allocation system tracks the following operational statistics by month by organizational unit: Deposit.
+707177,Medium,,The cost allocation system tracks the following operational statistics by month by organizational unit: Journal voucher.
+707178,Medium,,The cost allocation system tracks the following operational statistics by month by organizational unit: Payment.

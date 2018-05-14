@@ -1,0 +1,55 @@
+"Section:HRP-Payroll, Deductions and Withholdings (54 Reqs)"
+710932,High,,Calculate employee deductions and State contributions based on rules specified in Benefit Administration: using the fixed  amount.
+710933,High,,"Calculate employee deductions and State contributions based on rules specified in Benefit Administration: using % amount of  pay (base pay, all pay, departmental pay, net pay, etc.)."
+710934,High,,Calculate employee deductions and State contributions based on rules specified in Benefit Administration: using limit amounts  (State defined and employee defined).
+710935,High,,Calculate employee deductions and State contributions based on rules specified in Benefit Administration: using start date.
+710936,High,,Calculate employee deductions and State contributions based on rules specified in Benefit Administration: using stop date.
+710937,High,,Calculate employee deductions and State contributions based on rules specified in Benefit Administration: based upon employee  retirement plan and Medicare coverage.
+710938,High,,Calculate employee deductions and State contributions based on rules specified in Benefit Administration: using one time  overrides to amounts.
+710939,High,,Calculate employee deductions and State contributions based on rules specified in Benefit Administration: within one pay cycle.
+710940,High,,Calculate employee deductions and State contributions based on rules specified in Benefit Administration: across multiple pay  cycles (user-defined).
+710941,High,,Calculate employee deductions and State contributions based on rules specified in Benefit Administration: using age (term  optional life).
+710942,High,,Calculate employee deductions and State contributions based on rules specified in Benefit Administration: using user and  employee defined distribution of section 125 benefits.
+710943,High,,Process garnishments / wage assignments: based on fixed amount.
+710944,High,,Process garnishments / wage assignments: based on fixed amount up to a % of pay.
+710945,High,,Process garnishments / wage assignments: based on fixed amount plus % up to a maximum.
+710946,High,,Process garnishments / wage assignments: based on % of disposable income less other defined wage actions.
+710947,High,,Process garnishments / wage assignments: based on % of disposable income to a maximum % of gross.
+710948,High,,Process garnishments / wage assignments: based on multiple payees.
+710949,High,,Process garnishments / wage assignments: to optionally show on paycheck stub.
+710950,High,,Process garnishments / wage assignments: based on processing fee (semi-monthly or user-defined schedule).
+710951,High,,Process garnishments / wage assignments: based on greater of a flat dollar amount or % of gross.
+710952,High,,Process garnishments / wage assignments: based on lesser of a flat dollar amount or % of gross.
+710953,High,,Process garnishments / wage assignments: based on total amount limits and/or declining balances.
+710954,High,,Process garnishments / wage assignments: based on types of earnings.
+710955,High,,Process garnishments / wage assignments: based on starting amounts.
+710956,High,,Process garnishments / wage assignments: based on ending amounts.
+710957,High,,Process garnishments / wage assignments: to allow flexibility to process multiple garnishments per employee and assign user- defined priorities.
+710958,Medium,,Create checks for wage action payees (one check per payee).
+710959,Medium,,Establish garnishments that continue (carry forward) over multiple calendar years.
+710960,Medium,,Establish health insurance premium employee deductions and employer contributions based on annual salary at the beginning of  the plan year (July 1). Employee / employer premiums would change based on coverage changes and user specified salary  changes within the current plan year.
+710961,High,,"Calculate tax amounts in accordance with: legal requirements (federal, state and local tax schedules, wages paid after death,  etc.)."
+710962,High,,Calculate tax amounts in accordance with: employee elections / exemptions.
+710963,High,,Calculate tax amounts in accordance with: withholding of additional amounts as specified by employee.
+710964,High,,"Calculate tax amounts in accordance with: pre-tax salary reductions for certain deferred comp plans (457, etc.)."
+710965,High,,Calculate tax amounts in accordance with: non-resident alien status.
+710966,High,,Calculate tax amounts in accordance with: student work studies.
+710967,High,,Calculate tax amounts in accordance with: retirement buy-back to purchase years/months of services on pre-tax basis.
+710968,High,,Calculate tax amounts in accordance with: effective date of tax.
+710969,High,,"Calculate tax amounts in accordance with: retain Social Security earnings across multiple agencies (combined SS earnings for  calculation and limits), while still retaining SS earnings by agency."
+710970,High,,Calculate tax amounts in accordance with: user defined taxes.
+710971,High,,Calculate tax amounts in accordance with: COBRA.
+710972,High,,"Support the deduction, processing, and tracking of 457 contributions (including monitoring limits and providing information and  payments to plan administrators): to include deductions from employee payroll."
+710973,High,,"Support the deduction, processing, and tracking of 457 contributions (including monitoring limits and providing information and  payments to plan administrators): to calculate appropriate tax whether pre-tax or post-tax contribution."
+710974,High,,"Support the deduction, processing, and tracking of 457 contributions (including monitoring limits and providing information and  payments to plan administrators): to provide investment election information, designated beneficiaries and payments to plan  administrators."
+710975,High,,"Support the deduction, processing, and tracking of 457 contributions (including monitoring limits and providing information and  payments to plan administrators): to address taxable and non-taxable 403b."
+710976,High,,"Support the deduction, processing, and tracking of 457 contributions (including monitoring limits and providing information and  payments to plan administrators): to include loan repayment deduction (after tax)."
+710977,Medium,,Provide deduction of user-specified amounts (miscellaneous deductions).
+710978,Medium,,Allow for user-specified deduction priorities (consistent with legal requirements).
+710979,Low,,"Establish catch-up period for deferred compensation contributions, based on employee age and years from retirement eligibility  based on plan regulations."
+710980,Low,,Convert leave balances into deferred compensation contributions (with annual maximums applied) upon retirement to include:  sick hours converted to 457 contributions.
+710981,Low,,Convert leave balances into deferred compensation contributions (with annual maximums applied) upon retirement to include:  annual leave and compensatory leave converted to 457 contributions.
+710982,Medium,,Provide the ability to process pre-tax deductions for FSA / HRA /HSA for both medical and family care contributions.
+710983,Medium,,Provide the ability to establish plan year contributions for pre-tax deductions for FSA / HRA /HSA for both medical and family  care contributions; and recalculate remaining annual deductions based on contributions to date and the remaining scheduled pay  periods in the plan year.
+710984,Low,,Notify State Treasurer of returned / refunded payroll checks with state administered deferred compensation plan.
+710985,Medium,,Provide the ability to apply insurance deductions to retiree annuitant payroll processing.

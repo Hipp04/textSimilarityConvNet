@@ -1,0 +1,4 @@
+"Section:PL-Facilities Management, Events (3 Reqs)"
+713418,Medium,,"Capture and track user defined event types (scheduled special events or activities, etc.) and allow these events to be related to  one or more facilities, sub-facilities, systems and components."
+713419,Medium,,Allow an authorized user to define an event type and the specific attributes to be captured for the event type. Attributes could  either be defined as mandatory or required.
+713420,Medium,,Allow an authorized user to create templates by event type to facilitate entry of event information.

@@ -1,0 +1,22 @@
+"Section:PL-Real Estate Management, Identification of Facility Requirements (21 Reqs)"
+716081,High,,Provide ability for agency to define facility and other space requirements.
+716082,High,,Store/track requesting agency.
+716083,High,,Store/track requesting agency unit or program area.
+716084,High,,"Store/track target location (city/town, area of city/town, etc.) for facility."
+716085,High,,Store/track date space/facility is required.
+716086,High,,Store/track requestor.
+716087,High,,Store/track requestor contact information.
+716088,High,,Store/track authorized agency approver.
+716089,High,,Store/track facility type.
+716090,High,,Store/track number of staff to be accommodated.
+716091,High,,Store/track estimated square footage required.
+716092,High,,Store/track period of time space is required for.
+716093,High,,Store/track anticipated available budget.
+716094,Medium,,"Store/track potential budget sources; system must provide for documenting a number of possible sources which can either be  active chart of account codes, grants or projects or proposed funding sources which are being sought."
+716095,High,,Store/track primary intended uses of space.
+716096,Medium,,Store/track anticipated degree of citizen/public access (free form text).
+716097,Medium,,Store/track special considerations (free form text).
+716098,High,,Allow for work flow driven approval process of facility/space request within an agency based on agency defined business rules.
+716099,High,,Transmit space request to Real Estate Division for review and analysis based on facility type and user defined business rules.
+716100,High,,Transmit space request to designated agency staff for review and analysis based on facility type and user defined business rules  (for facility acquisitions for which an agency has lead responsibility).
+716101,High,,Allow for tracking of status of facility/space needs request throughout the process.

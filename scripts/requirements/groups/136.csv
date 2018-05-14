@@ -1,0 +1,11 @@
+"Section:HRP-Employee Relations, General (10 Reqs)"
+710154,High,,"Provide configurable workflow for the routing of employee grievances, disciplinary actions, and dispute / appeal processes."
+710155,High,,Establish business rules for automated routing and tracking of discipline and grievance information as specified.
+710156,High,,"Ability to integrate with Human Resources, Payroll, Employee Performance, and Training modules."
+710157,High,,"Ability to add or link attachments (scan, file, etc) to a grievance, complaint or disciplinary record per employee (e.g. letter,  affidavit)."
+710158,Medium,,"Enable multiple dates for responses and deadlines by employer / employee or other party, and send notifications."
+710159,Medium,,Extend due dates for responses (e.g. Employer or employee requests and agrees upon an extension).
+710160,Medium,,Enable workflow to update employee file based upon settlement types.
+710161,Medium,,Route workflow information to appropriate departments based upon settlement type (e.g. payroll needs the information related to  a status of back pay or retroactive pay).
+710162,Medium,,Enable workflow and update employee file when settlement types relate to total compensation (e.g. need to update accruals by  employee).
+710163,High,,Enable workflow and update employee file when action relates to prohibition of future employment with the Agency or State.

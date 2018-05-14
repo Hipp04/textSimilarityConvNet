@@ -1,0 +1,9 @@
+"Section:PL-Safety Management, Asset Conditions (8 Reqs)"
+716865,High,,Provide information about and support analysis using condition information for various elements on the transportation network at  or adjacent to the crash site.
+716866,High,,Integrate with the ERP transportation asset inventory function and the ERP pavement management function to obtain pavement  condition data at the crash site at time of a crash.
+716867,High,,Integrate with the ERP transportation asset inventory function and the ERP pavement management function to obtain the  available history of pavement conditions at the crash site.
+716868,Medium,,Integrate with the ERP transportation asset inventory function to obtain available condition assessment data at the time of the  crash for other roadway inventory features at the crash site.
+716869,Medium,,Integrate with the ERP transportation asset inventory function to obtain a history of condition assessment data for other roadway  inventory features at the crash site.
+716870,Medium,,Integrate with the ERP transportation asset inventory function to obtain available condition assessment data at the time of the  crash for roadside features at or in the proximity of the crash site.
+716871,Medium,,Integrate with the ERP transportation asset inventory function to obtain a history of condition assessment data for other roadside  features at or in the proximity of the crash site.
+716872,Medium,,Integrate with the RoadWare application to allow a user to view available video and associated data of crash site from within the  safety management function.

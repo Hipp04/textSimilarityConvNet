@@ -1,0 +1,6 @@
+"Section:PL-Transportation Asset Inventory, Maintenance Feature Inventory (5 Reqs)"
+717452,High,,"Allow system to store an inventory of different maintenance feature types (cracking, rutting)."
+717453,High,,Capture and store the following information for each feature type: feature type code and feature description.
+717454,High,,"Allow authorized user to add, update or inactivate a maintenance feature."
+717455,High,,"Associate one or more maintenance features to each asset type. For example, if the asset inventory is asphalt pavement, then  there would be one or more associated maintenance features, such as potholes and cracking."
+717456,Medium,,Allow system administrator to delete a maintenance feature if it is not associated with any asset type.

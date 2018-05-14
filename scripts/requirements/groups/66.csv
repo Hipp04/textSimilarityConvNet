@@ -1,0 +1,16 @@
+"Section:FIN-FHWA Billing, Accumulate Billable Costs (15 Reqs)"
+707348,High,,The system must provide a computerized process that calculates the eligible amounts to bill FHWA electronically. Note:  Frequent periodic billings to FHWA for eligible project cost pursuant to approved agreements are made to reimburse the WVDOT  based on the expenditures updated to the financial system. The information established about a project based on the agreement  is used to validate the cost to determine its eligibility. Daily financial transactions must be recorded against federal  projects/phases/stages to accomplish this task as summarized in this section.
+707349,High,,Identify and use agreement and internal policy criteria to accumulate costs for billing such as the following (these may be  established in the agreement or by internal policy): Matching amounts.
+707350,High,,Identify and use agreement and internal policy criteria to accumulate costs for billing such as the following (these may be  established in the agreement or by internal policy): Matching percentages.
+707351,High,,Identify and use agreement and internal policy criteria to accumulate costs for billing such as the following (these may be  established in the agreement or by internal policy): Special Matching requirements.
+707352,High,,Identify and use agreement and internal policy criteria to accumulate costs for billing such as the following (these may be  established in the agreement or by internal policy): Matching threshold.
+707353,High,,Identify and use agreement and internal policy criteria to accumulate costs for billing such as the following (these may be  established in the agreement or by internal policy): Non-participating costs.
+707354,High,,Identify non-participating costs based upon a defined criteria.
+707355,High,,Identify non-participating costs based upon a specific identifier added at transaction input.
+707356,High,,Provide the ability to suspend the billing for some costs identified by user defined criteria.
+707357,High,,Provide the ability to release suspended costs from suspension based upon user actions with user defined criteria and workflow  for approval of release.
+707358,High,,Provide the ability to track status by project or phase for multiple levels of milestones and actions .
+707359,High,,"Allow user to change priorities of billing for multiple federal projects, phases, stages and program categories."
+707360,High,,Support the ability to store a snap shot taken at the time of billing that supports program balances were sufficient.
+707361,High,,"Allow user to change the percentages previously assigned to multiple federal projects, phases, stages and program categories  without realigning any cost previously billed to the project/phase/stage."
+707362,Medium,,"Allow user to automatically recompute prior costs eligible for billing based on the new billing percentage/ratio defined to the  project, phase, stage, and program category and generate correcting entries."
