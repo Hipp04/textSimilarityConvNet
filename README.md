@@ -3,7 +3,7 @@
 !!! Prior to usage, download glove embeddings by running fetch_and preprocess.sh (takes a while)
 
 To prepare and run a new dataset:
-1. `python scripts/requirements/process_requirements.py` (or other script)
+1. Generate a.toks, b.toks, and id.txt `python scripts/requirements/process_requirements.py` (or other script)
 2. Build the vocabulary `python scripts/build_vocab.py user` (outputs to data/user/vocab-cased.txt)
 3. `th runModel.lua` (reads from user/test directory)
 
